@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"a43139ef49815c01","type":"text","text":"**Main point:** \nKonsistensi tidak melulu berarti selalu hadir; tapi juga mengartikan bahwa tidak pernah berhenti\n\n*e.g*\n- Aku tidak berlari setiap hari, tapi aku selalu berlari kapanpun ada waktu luang/kosong\n\t- Berlari setiap hari -> Berlari setiap ada waktu luang","x":120,"y":-380,"width":480,"height":280,"color":"#c6bce1"},
+		{"id":"65d9bb4861980c43","type":"file","file":"1. projects/Konsistensi.md","x":-320,"y":-380,"width":400,"height":314,"color":"6"}
+	],
+	"edges":[]
+}

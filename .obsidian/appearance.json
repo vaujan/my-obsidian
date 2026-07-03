@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Atom",
+  "accentColor": "#751490",
+  "showRibbon": false,
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Cascadia Mono",
+  "baseFontSize": 17,
+  "theme": "system",
+  "baseFontSizeAction": true
+}

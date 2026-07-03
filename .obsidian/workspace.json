@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 263.5
   },
   "right": {
     "id": "3da6fab6773ac8c5",
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2026-06-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2026-06-30"
             }
           },
           {
@@ -174,12 +175,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +197,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8f769b502848860e",
+  "active": "3af1cc46dda5a2bb",
   "lastOpenFiles": [
     "2026-06-29.md",
     "Untitled.md",

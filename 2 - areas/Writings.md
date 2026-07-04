@@ -1,5 +1,0 @@
-- Title: What i talk about when i talked about gooning
-- **Silentmaxxing**
-	- Menanamkan kemampuan berhenti di dunia yang terus berlari
-	- Menanamkan kemampuan menahan sunyi di tengah kebisingan
-- Freestyle writing: Menulis tanpa format

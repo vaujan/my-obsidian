@@ -489,7 +489,7 @@
     "borderColor": "#fff",
     "borderOpacity": 0,
     "filenameVisible": false,
-    "lockedReadingMode": false
+    "lockedReadingMode": true
   },
   "markdownNodeOneClickEditing": false,
   "canvasImmersiveEmbed": true,
@@ -1007,7 +1007,7 @@
         "rules": [
           {
             "shift": false,
-            "ctrl_cmd": false,
+            "ctrl_cmd": true,
             "alt_opt": false,
             "meta_ctrl": false,
             "result": "active-pane"

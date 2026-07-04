@@ -1,7 +1,9 @@
 {
   "promptDelete": false,
-  "vimMode": true,
+  "vimMode": false,
   "showInlineTitle": true,
   "readableLineLength": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "tabSize": 4
 }

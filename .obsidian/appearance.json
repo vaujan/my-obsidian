@@ -1,11 +1,11 @@
 {
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "",
   "accentColor": "",
-  "showRibbon": false,
-  "interfaceFontFamily": "Cascadia Mono,Inter",
-  "textFontFamily": "Cascadia Code,Inter",
+  "showRibbon": true,
+  "interfaceFontFamily": "Inter,Cascadia Mono",
+  "textFontFamily": "Inter,Cascadia Code",
   "monospaceFontFamily": "Cascadia Mono",
-  "baseFontSize": 18,
+  "baseFontSize": 19,
   "theme": "system",
   "baseFontSizeAction": true
 }

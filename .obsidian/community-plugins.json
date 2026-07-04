@@ -2,6 +2,7 @@
   "obsidian-git",
   "obsidian-minimal-settings",
   "obsidian-icon-folder",
-  "obsidian-excalidraw-plugin",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-reading-time",
+  "vim-motions"
 ]

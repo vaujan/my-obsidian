@@ -1,2 +1,3 @@
 - Man chases the thing they want, until the thing they need pull them back.
 	- Manusia mengejar apa yang mereka inginkan, sampai apa yang mereka butuhkan menarik mereka kembali.
+- It's okay if you like AI music, just dont put it on speaker

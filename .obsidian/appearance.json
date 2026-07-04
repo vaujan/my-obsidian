@@ -1,7 +1,7 @@
 {
   "cssTheme": "",
   "accentColor": "",
-  "showRibbon": true,
+  "showRibbon": false,
   "interfaceFontFamily": "Inter,Cascadia Mono",
   "textFontFamily": "Inter,Cascadia Code",
   "monospaceFontFamily": "Cascadia Mono",

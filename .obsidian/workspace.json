@@ -4,22 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "344024f01e6ef1e5",
+        "id": "38709e53f373cad6",
         "type": "tabs",
         "children": [
           {
-            "id": "eeddfad1759a8e89",
+            "id": "edbfb703c2ab8622",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/Brainrotted gooner mencoba meditasi.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Brainrotted gooner mencoba meditasi"
+            }
+          },
+          {
+            "id": "3e55596d508c481d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/Mengkultivasi Kebosanan.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Mengkultivasi Kebosanan"
+            }
+          },
+          {
+            "id": "a577826418af8803",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Case Product No.2.md",
+                "file": "Norwegian 4x4 - Single Kettlebell v2.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Study Case Product No.2"
+              "title": "Norwegian 4x4 - Single Kettlebell v2"
             }
           }
         ]
@@ -41,7 +75,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -79,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.50418853759766
+    "width": 222.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "3da6fab6773ac8c5",
@@ -95,17 +130,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - areas/Writings.md",
-                "collapseAll": false,
+                "file": "projects/Brainrotted gooner mencoba meditasi.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Writings"
+              "title": "Backlinks for Brainrotted gooner mencoba meditasi"
             }
           },
           {
@@ -114,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/topic.md",
+                "file": "Study Case Product No.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from topic"
+              "title": "Outgoing links from Study Case Product No.2"
             }
           },
           {
@@ -157,12 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Study Case Product No.2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Study Case Product No.2"
             }
           },
           {
@@ -173,6 +209,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "a0be8a9bbf5b48dc",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -192,46 +238,52 @@
       "command-palette:Open command palette": true,
       "bases:Create new base": false,
       "markdown-importer:Open format converter": true,
-      "random-note:Open random note": true,
-      "obsidian-git:Open Git source control": false
+      "random-note:Open random note": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-calibre-plugin:Calibre": false,
+      "zenmode:Toggle zen mode": true
     }
   },
-  "active": "eeddfad1759a8e89",
+  "active": "edbfb703c2ab8622",
   "lastOpenFiles": [
-    "README.md",
-    "projects/Konsistensi.md",
-    "projects/Brainrot gooner mencoba meditasi.md",
-    "areas/Phrases.md",
-    "Study Case Product No.2.md",
-    "journal/2026-07-04.md",
-    "projects/maps/Meditation.canvas",
-    "tags/habit.md",
+    "Norwegian 4x4 - Single Kettlebell v2.md",
+    "projects/Catatan Seorang Penunda.md",
+    "().md",
+    "projects/Brainrotted gooner mencoba meditasi.md",
+    "projects/Mengkultivasi Kebosanan.md",
+    "tags/silentmaxxing.md",
     "tags/meditation.md",
-    "tags/reflections.md",
+    "tags/mental model.md",
     "essays/Manifesto Penulis Amatir.md",
-    "_archive/2026-06-30.md",
-    "areas/Writings.md",
-    "_archive/2026-06-29.md",
-    "_archive",
-    "_public",
+    "projects/Konsistensi.md",
+    "projects/maps/Meditation.canvas",
     "projects/maps/Consistency.canvas",
+    "tags/habit.md",
+    "tags/reflections.md",
+    "journal/2026-06-30.md",
+    "journal/2026-06-29.md",
+    "journal/2026-07-04.md",
+    "areas/Writings.md",
+    "areas/Phrases.md",
+    "resources/ai chats/deep-research-report.md",
+    "resources/ai chats",
+    "Daily/Entries/2026-07-04.md",
+    "Daily/Entries",
+    "Daily",
+    "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/The Body Keeps the Score_ Brain - Bessel van der Kolk MD.epub",
+    "epubs/The Body Keeps the Score_ Brain, Mind, and Body in the -- Bessel van der Kolk MD -- 2014 -- Penguin Group US -- 991bdaf7123a4f2cc6e042150dfd548f -- Anna’s Archive.epub",
+    "The Body Keeps the Score_ Brain, Mind, and Body in the Healing of Trauma.md",
+    "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/cover.jpg",
+    "_calibre/The Body Keeps the Score_ Brain, Mind, and Body in the -- Bessel van der Kolk MD -- 2014 -- Penguin Group US -- 991bdaf7123a4f2cc6e042150dfd548f -- Anna’s Archive.epub",
+    "_calibre/metadata.db-journal",
+    "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/The Body Keeps the Score_ Brain - Bessel van der Kolk MD.original_epub",
+    "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/metadata.opf",
+    "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)",
+    "Study Case Product No.2.md",
+    "The Body Keeps the Score_ Brain, Mind, and Body in the -- Bessel van der Kolk MD -- 2014 -- Penguin Group US -- 991bdaf7123a4f2cc6e042150dfd548f -- Anna’s Archive.md",
+    "README.md",
     "template/{{date tiem}}.md",
-    "template",
     "Uddntitled.md",
-    "journal",
-    "_archive/2026-06-29.md",
-    "2026-07-03.md",
-    "_journal",
-    "_archive",
-    "resources",
-    "Drawing 2026-07-03 14.39.46.excalidraw.md",
-    "tags",
-    "1. projects/maps/habit.md",
-    "2. areas/Untitled",
-    "projects",
-    "maps/Untitled.md",
-    "drafts/Kenapa menulis.md",
-    "Hfdjsalkfjdlks.md",
-    "Welcome.md"
+    "2026-07-03.md"
   ]
 }

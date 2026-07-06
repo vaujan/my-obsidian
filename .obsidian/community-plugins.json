@@ -1,8 +1,13 @@
 [
   "obsidian-git",
   "obsidian-minimal-settings",
-  "obsidian-icon-folder",
   "obsidian-style-settings",
   "obsidian-reading-time",
-  "vim-motions"
+  "vim-motions",
+  "obsidian-annotator",
+  "epub-importer",
+  "obsidian-epub-plugin",
+  "obsidian-calibre-plugin",
+  "zenmode",
+  "quickadd"
 ]

@@ -1,4 +1,4 @@
-**Outline**
+Outline
 1. **Problems**: What problems am I  getting? (Scratching my own itch)
 2. **Validate Problems:** Are these problems occur in other people's lives? (Is there a demand? Is the pain any real and is the product really wanted?)
 3. Is there already a cure? 
@@ -12,4 +12,4 @@
 ---
 
 # Problems
-Ketika aku berselancar di internet dan menemukan suatu UI atau study cases penggunaan fitur yang menarik, aku kebingung dalam menyimpannya. Terkadang, bentuknya berbeda-beda. 
+Ketika aku berselancar di internet dan menemukan suatu UI atau study cases penggunaan fitur yang menarik, aku kebingungan dalam menyimpannya. Terkadang, bentuknya berbeda-beda. 

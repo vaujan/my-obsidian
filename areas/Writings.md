@@ -1,5 +1,7 @@
-- Title: What i talk about when i talked about gooning
+- Title: What I talk about when I talked about gooning
 - **Silentmaxxing**
 	- Menanamkan kemampuan berhenti di dunia yang terus berlari
 	- Menanamkan kemampuan menahan sunyi di tengah kebisingan
 - Freestyle writing: Menulis tanpa format
+- Kenapa pria sering 'meminta lebih banyak waktu' di lagu cinta
+- Instagram is a mark party, some people leave the party faceless

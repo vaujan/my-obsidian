@@ -1,0 +1,8 @@
+diff --git a/.gitignore b/.gitignore
+index 000000..000000 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1,0 +1,2 @@
++
++//workspace.json
+\ No newline at end of file

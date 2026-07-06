@@ -1,11 +1,11 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Flexoki",
   "accentColor": "",
-  "showRibbon": false,
-  "interfaceFontFamily": "Inter,Cascadia Mono",
-  "textFontFamily": "Inter,Cascadia Code",
-  "monospaceFontFamily": "Cascadia Mono",
-  "baseFontSize": 19,
+  "showRibbon": true,
+  "interfaceFontFamily": "IBM Plex Sans,Inter",
+  "textFontFamily": "IBM Plex Serif,IBM Plex Sans,Inter",
+  "monospaceFontFamily": "IBM Plex Mono,Cascadia Mono",
+  "baseFontSize": 20,
   "theme": "system",
   "baseFontSizeAction": true
 }

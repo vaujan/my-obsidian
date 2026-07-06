@@ -1,0 +1,21 @@
+{
+  "tag": "",
+  "libraries": [
+    ""
+  ],
+  "byDrag": true,
+  "savePath": "",
+  "assetsPath": "{{savePath}}/{{bookName}}/images",
+  "backupPath": "",
+  "granularity": 4,
+  "mocName": "{{bookName}}",
+  "noteTemplate": "{{content}}",
+  "mocPropertysTemplate": "title: {{bookName}}\nauthor: {{author}}\npublisher: {{publisher}}\nstatus: false",
+  "imageFormat": "![](imagePath)",
+  "reformatting": false,
+  "autoOpenRightPanel": false,
+  "removeDuplicateFolders": true,
+  "moreLog": false,
+  "leafID": "",
+  "enableReadProgressManager": false
+}

@@ -1,3 +1,4 @@
+links: [[Study Case Product No.2]]
 # Executive Summary
 
 - **Shift in Bottleneck:** Advances in AI (e.g. GPT-style assistants) have made software *production* vastly cheaper, moving the bottleneck from *building* software to *choosing* and *refining* what to build. In other words, code-writing becomes a commodity, while **product judgment and taste** become the scarce, valuable resource. 

@@ -42,21 +42,22 @@
             }
           },
           {
-            "id": "a577826418af8803",
+            "id": "96472037a9ee2062",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Norwegian 4x4 - Single Kettlebell v2.md",
-                "mode": "preview",
+                "file": "Study Case Product No.2.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Norwegian 4x4 - Single Kettlebell v2"
+              "title": "Study Case Product No.2"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.50418853759766,
-    "collapsed": true
+    "width": 343.5
   },
   "right": {
     "id": "3da6fab6773ac8c5",
@@ -130,17 +130,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Brainrotted gooner mencoba meditasi.md",
-                "collapseAll": true,
-                "extraContext": false,
+                "file": "Study Case Product No.2.md",
+                "collapseAll": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Brainrotted gooner mencoba meditasi"
+              "title": "Backlinks for Study Case Product No.2"
             }
           },
           {
@@ -221,12 +221,12 @@
               "title": "History"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,49 +241,49 @@
       "random-note:Open random note": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-calibre-plugin:Calibre": false,
-      "zenmode:Toggle zen mode": true
+      "zenmode:Toggle zen mode": true,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "edbfb703c2ab8622",
+  "active": "96472037a9ee2062",
   "lastOpenFiles": [
-    "Norwegian 4x4 - Single Kettlebell v2.md",
-    "projects/Catatan Seorang Penunda.md",
-    "().md",
-    "projects/Brainrotted gooner mencoba meditasi.md",
+    "Testing.sheet",
+    "Study Case Product No.2.md",
+    "areas/Workout log.xlsx",
     "projects/Mengkultivasi Kebosanan.md",
+    "Workout log.md",
+    "Untitled.yaml.md",
+    "Untitled.yaml.yaml",
+    "areas/Excel 2026-07-06 11.50.42.sheet.md",
+    "journal/2026-07-04.md",
+    "journal/2026-06-29.md",
+    "journal/2026-06-30.md",
+    "areas/Phrases.md",
+    "areas/Writings.md",
+    "projects/Brainrotted gooner mencoba meditasi.md",
+    "projects/Konsistensi.md",
+    "resources/workout/Norwegian 4x4 - Single Kettlebell v2.md",
+    "tags/workout.md",
+    "resources/ai chats/deep-research-report.md",
+    "projects/Catatan Seorang Penunda.md",
+    "projects/maps/Consistency.canvas",
+    "projects/maps/Meditation.canvas",
+    "essays/Manifesto Penulis Amatir.md",
+    "resources/workout",
+    "areas/Workout log.md",
+    "2026-07-08.md",
+    "areas/Untitled.base",
+    "().md",
     "tags/silentmaxxing.md",
     "tags/meditation.md",
     "tags/mental model.md",
-    "essays/Manifesto Penulis Amatir.md",
-    "projects/Konsistensi.md",
-    "projects/maps/Meditation.canvas",
-    "projects/maps/Consistency.canvas",
     "tags/habit.md",
     "tags/reflections.md",
-    "journal/2026-06-30.md",
-    "journal/2026-06-29.md",
-    "journal/2026-07-04.md",
-    "areas/Writings.md",
-    "areas/Phrases.md",
-    "resources/ai chats/deep-research-report.md",
     "resources/ai chats",
-    "Daily/Entries/2026-07-04.md",
     "Daily/Entries",
     "Daily",
     "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/The Body Keeps the Score_ Brain - Bessel van der Kolk MD.epub",
     "epubs/The Body Keeps the Score_ Brain, Mind, and Body in the -- Bessel van der Kolk MD -- 2014 -- Penguin Group US -- 991bdaf7123a4f2cc6e042150dfd548f -- Anna’s Archive.epub",
-    "The Body Keeps the Score_ Brain, Mind, and Body in the Healing of Trauma.md",
-    "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/cover.jpg",
-    "_calibre/The Body Keeps the Score_ Brain, Mind, and Body in the -- Bessel van der Kolk MD -- 2014 -- Penguin Group US -- 991bdaf7123a4f2cc6e042150dfd548f -- Anna’s Archive.epub",
-    "_calibre/metadata.db-journal",
-    "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/The Body Keeps the Score_ Brain - Bessel van der Kolk MD.original_epub",
-    "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/metadata.opf",
-    "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)",
-    "Study Case Product No.2.md",
-    "The Body Keeps the Score_ Brain, Mind, and Body in the -- Bessel van der Kolk MD -- 2014 -- Penguin Group US -- 991bdaf7123a4f2cc6e042150dfd548f -- Anna’s Archive.md",
-    "README.md",
-    "template/{{date tiem}}.md",
-    "Uddntitled.md",
-    "2026-07-03.md"
+    "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/cover.jpg"
   ]
 }

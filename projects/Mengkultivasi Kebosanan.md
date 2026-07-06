@@ -1,5 +1,4 @@
 2026-07-04 19:35
-
 tags: [[meditation]], [[silentmaxxing]]
 
 **Talking points:** 

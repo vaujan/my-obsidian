@@ -6,8 +6,7 @@
   "vim-motions",
   "obsidian-annotator",
   "epub-importer",
-  "obsidian-epub-plugin",
   "obsidian-calibre-plugin",
   "zenmode",
-  "quickadd"
+  "templater-obsidian"
 ]

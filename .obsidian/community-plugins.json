@@ -1,10 +1,8 @@
 [
   "obsidian-git",
   "obsidian-reading-time",
-  "vim-motions",
   "epub-importer",
   "obsidian-calibre-plugin",
   "zenmode",
-  "better-word-count",
-  "scroller"
+  "better-word-count"
 ]

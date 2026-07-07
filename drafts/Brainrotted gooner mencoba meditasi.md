@@ -1,6 +1,5 @@
 2026-07-03 15:05 
-**tags**: [[meditation]]
-
+tags: #meditation #silentmaxxing 
 # Tujuan Sederhana Meditasi: Untuk Berhenti Memisahkan Meditasi dan Kehidupan Sehari-hari
 
 Setahun yang lalu dari tulisan ini diunggah, aku dihadapkan pada peristiwa patah hati terburuk (atau terbaik) sepanjang hidupku: aku ditinggalkan oleh pasangan yang sudah menemaniku selama 6 tahun. Aku tidak hanya kehilangan pasangan, tetapi juga tempat bercerita serta bagian besar dari tujuan hidupku. Seketika dunia tidak lagi sama, aku tidak punya seseorang tempat aku menuangkan keluh kesah dan bercerita, tujuan besar dalam hidupku tidak lagi berarti tanpa adanya dia di masa depanku. *To distract myself from the heartache, I hit the gym way too often and my body payed all the price*. Aku kehilangan arah hidup dan sangat kebingungan harus ku-apakan rasa sakit yang tidak kunjung hilang dari dadaku.  

@@ -11,6 +11,8 @@
 8. Report
 ---
 # Study Case: Multiformat Saver for Archiving the Web
+
+tags: #reflections #building #business
 # Problems
 Menyimpan konten internet sejatinya cukup mudah. Fitur bookmarking konvensional yang berada pada browser menyelesaikan permasalahan ini jauh sebelum aplikasi notetaking seperti Notion, Obsidian, dan Evernote dengan plugin web clipper mereka masing-masing.
 

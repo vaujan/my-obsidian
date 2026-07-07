@@ -1,5 +1,5 @@
 2026-07-03 11:06
-#mental_model
+tags: #mental_model
 # Manifesto Penulis Amatir
 1. Tujuan utamanya adalah untuk menjadi penulis, bukan hanya sekedar menulis
 2. Tulisan bagus lebih baik dari tulisan jelek; Tulisan jelek lebih baik dari lembar kosong

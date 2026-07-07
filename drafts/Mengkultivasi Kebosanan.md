@@ -1,5 +1,6 @@
 2026-07-04 19:35
-tags: [[meditation]], [[silentmaxxing]]
+
+#meditation #silentmaxxing
 
 **Talking points:** 
 1. Otak kita tidak memiliki lagi bisa mentoleransi ruang hening sesingkat apapun

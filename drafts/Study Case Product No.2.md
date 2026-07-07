@@ -39,3 +39,7 @@ Setelah Notion kita coret, Evernote dan Obsidian adalah kandidat yang sangat men
 ![[Pasted image 20260707140429.png]]
 
 URL yang tersimpan ketika menggunakan web clipper, browser extension resmi resmi dari Obsidian, akan berbentuk file markdown. Selain dari ketidaknyamanan *minor* dari sisi UX, Obsidian juga tidak memiliki fitur overview dari semua item yang ada dalam sebuah folder. 
+## ---
+Tujuan utama aku membuat study case ini adalah untuk mempelajari ulang secara mendalam bagaimana proses pembuatan sebuah produk, mulai dari ide hingga deploy. Namun di satu sisi juga untuk mendokumentasikan perjalananku membuat suatu solusi atas masalah aku alami secara pribadi (*scratching my own itch*!).
+
+Vibe coding membuat entry fee dalam membuat produk sangat rendah, sehingga kemampuan untuk membuat produk tidak lagi dianggap spesial atau faktor pembeda seseorang.

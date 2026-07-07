@@ -9,7 +9,7 @@
   "hideInlineTitle": false,
   "topPadding": 33,
   "bottomPadding": 0,
-  "focusedFileMode": false,
+  "focusedFileMode": true,
   "hideStatusBar": false,
   "hideLinkedMentions": false,
   "hideScrollBar": false

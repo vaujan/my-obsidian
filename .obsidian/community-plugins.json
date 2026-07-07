@@ -1,12 +1,10 @@
 [
   "obsidian-git",
-  "obsidian-minimal-settings",
-  "obsidian-style-settings",
   "obsidian-reading-time",
   "vim-motions",
-  "obsidian-annotator",
   "epub-importer",
   "obsidian-calibre-plugin",
   "zenmode",
-  "templater-obsidian"
+  "better-word-count",
+  "scroller"
 ]

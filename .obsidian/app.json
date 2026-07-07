@@ -6,5 +6,6 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "tabSize": 4,
-  "focusNewTab": false
+  "focusNewTab": false,
+  "spellcheck": false
 }

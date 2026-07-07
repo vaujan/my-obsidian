@@ -5,13 +5,31 @@ links: https://www.youtube.com/watch?v=3MAp398Ef6Y
 # Workout Protocol
 > Protocol: 4 Blocks | 4 Mins Work | 3 Mins Rest. Aim for 85–95% HRmax (Zone 4/5).
 
-**Block 1 (4-Min AMRAP):** 5 Single-Arm High Pulls + 5 Clean & Push Presses + 5 Reverse Lunge Pass-Throughs. Complete all reps on one hand, then alternate hands.
+## Block 1 (4-Min AMRAP)
+- 5 Single-Arm High Pulls
+- 5 Clean & Push Presses
+- 5 Reverse Lunge Pass-Throughs
 
-**Block 2 (Ascending Ladder):** Goblet Thrusters + KB Plank Pull-Throughs. Start at 2 reps of each, then 4, 6, 8, 10... adding 2 reps every round.
+Complete all reps on one hand, then alternate hands.
 
-**Block 3 (4-Min AMRAP):** 5 Single-Arm Swings + 5 Cleans to Rack + 5 Single-Arm Ballistic Rows (the hand transition happen on the row). Complete a full round on one side, then switch hands.
+## Block 2 (Ascending Ladder):
+- Goblet Thrusters
+- KB Plank Pull-Throughs.
 
-**Block 4 (Pyramid Style):** Two-Handed KB Swings + Burpees Over Kettlebell. Wave up and down: 1, 2, 3, 4, 5, 6, then back down 5, 4, 3, 2, 1. If you finish, climb back up!
+Start at 2 reps of each, then 4, 6, 8, 10... adding 2 reps every round.
+
+## Block 3 (4-Min AMRAP):
+- 5 Single-Arm Swings
+- 5 Cleans to Rack
+- 5 Single-Arm Ballistic Rows (the hand transition happen on the row). 
+
+Complete a full round on one side, then switch hands.
+
+## Block 4 (Pyramid Style):
+- Two-Handed KB Swings
+- Burpees Over Kettlebell. 
+
+Wave up and down: 1, 2, 3, 4, 5, 6, then back down 5, 4, 3, 2, 1. If you finish, climb back up!
 
 ---
 # Description

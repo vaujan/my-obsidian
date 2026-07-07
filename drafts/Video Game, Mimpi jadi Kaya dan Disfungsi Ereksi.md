@@ -1,0 +1,5 @@
+2026-07-05 09:41
+
+Sebagai seorang penunda, sudah keharusan untuk tidak melakukan sesuatu di saat aku punya waktu.  Folder pekerjaanku di penuhi oleh project-project besar hebat rahasia yang akan merubah nasibku. Tapi herannya, tidak ada satupun dari 'project' tersebut yang bisa setidaknya membuat hidupku lebih sejahtera. Tidak ada satupun buku yang ditulis lebih dari sekedar 'outline' atau *talking points* yang ingin dibahas, tetapi aku sudah bisa membayangkan diriku naik *sports car* dengan pacar cantik bak model Instagram di *passanger seat*. Semua terjadi dalam imajinasiku sembari aku sibuk membunuh para bandit dalam game Skyrim, yang kumaikan di kamarku yang disejukkan AC, yang ditenagai listrik yang dibayar Bapakku (btw, aku suka pakai role Dark Elf mage di Skyrim).
+
+Aku berusia 25 tahun, dan aku sebut diriku seorang penulis. Sebagian besar waktuku tidak terlepas dari pikiran 'Ahh.. harusnya aku sekarang menulis' ketika aku bermain video game. Aku sering menemukan diriku harus melakukan pekerjaan hanya pada waktu dan situasi yang ideal (baca: *mood*). Tidak banyak yang bisa kulakukan untuk meredam ketidaknyamanan selain 

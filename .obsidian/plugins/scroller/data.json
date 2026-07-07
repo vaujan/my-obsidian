@@ -1,0 +1,18 @@
+{
+  "enableAutoScroll": true,
+  "scrollOnModeSwitch": false,
+  "hideScrollbars": false,
+  "enableTypewriterMode": true,
+  "restrictToDailyNotes": false,
+  "typewriterOffset": 0.5,
+  "useLineBoundaries": false,
+  "visibleLineCount": 5,
+  "enableContentDimming": true,
+  "focusMode": "paragraph",
+  "sectionHeaderPattern": "^# ([01]\\d|2[0-3]):[0-5]\\d",
+  "unfocusedOpacity": 0.25,
+  "enableSmoothScrolling": true,
+  "smoothScrollDuration": 250,
+  "enableCursorScrolling": false,
+  "cursorScrollingSensitivity": 20
+}

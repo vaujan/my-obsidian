@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">349744a5-dbca-4de4-82c4-b95924c7d81e</dc:identifier>
+        <dc:title>Pimp: The Story of My Life</dc:title>
+        <dc:creator opf:file-as="Iceberg Slim" opf:role="aut">Iceberg Slim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-12T09:27:36.712081+00:00</dc:date>
+        <dc:description>&lt;p&gt;The ultimate anti-hero, Iceberg Slim, takes you into the secret inner world of the pimp, and the smells, sounds, fears and petty triumphs of his world. A legendary figure of the Chicago underworld, this is his story: from defending his mother against the evil men she brought into their lives to becoming a giant of the streets. A seething tale of brutality, cunning and greed, Pimp is a harrowing portrait of life on the wrong side of the tracks, and a rich warning from a true survivor.&lt;/p&gt;</dc:description>
+        <dc:publisher>Canongate Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781847674753</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">aclG4hHpbRwC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>True Crime</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2026-07-08T09:27:05.155837+00:00"/>
+        <meta name="calibre:title_sort" content="Pimp: The Story of My Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

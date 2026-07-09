@@ -15,7 +15,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1783404919.7196462,
+  "last_expired_trash_at": 1783507903.7146235,
   "field_metadata": {
     "au_map": {
       "column": null,
@@ -622,6 +622,10 @@
     "path_injected": true,
     "sort_history": [
       [
+        "title",
+        true
+      ],
+      [
         "size",
         false
       ],
@@ -674,6 +678,10 @@
     "hidden_columns": []
   },
   "gui_view_history": [
+    [
+      3,
+      "Pimp: The Story of My Life"
+    ],
     [
       2,
       "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma"

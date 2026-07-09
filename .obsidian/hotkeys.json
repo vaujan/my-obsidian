@@ -52,5 +52,14 @@
       ],
       "key": "Z"
     }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
   ]
 }

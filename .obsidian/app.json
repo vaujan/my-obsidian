@@ -1,11 +1,1 @@
-{
-  "promptDelete": false,
-  "vimMode": true,
-  "showInlineTitle": true,
-  "readableLineLength": true,
-  "alwaysUpdateLinks": true,
-  "showLineNumber": false,
-  "tabSize": 4,
-  "focusNewTab": false,
-  "spellcheck": true
-}
+{}

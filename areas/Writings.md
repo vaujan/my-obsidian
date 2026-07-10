@@ -4,4 +4,4 @@
 	- Menanamkan kemampuan menahan sunyi di tengah kebisingan
 - Freestyle writing: Menulis tanpa format
 - Kenapa pria sering 'meminta lebih banyak waktu' di lagu cinta
-- Instagram is a mark party, some people leave the party faceless
+- Instagram is a mask party, some people leave the party faceless

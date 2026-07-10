@@ -3,7 +3,7 @@
   "accentColor": "",
   "showRibbon": true,
   "interfaceFontFamily": "IBM Plex Sans,Inter",
-  "textFontFamily": "IBM Plex Serif,IBM Plex Sans,Inter",
+  "textFontFamily": "IBM Plex Serif,Inter,IBM Plex Sans",
   "monospaceFontFamily": "IBM Plex Mono,Cascadia Mono",
   "baseFontSize": 17,
   "theme": "system",

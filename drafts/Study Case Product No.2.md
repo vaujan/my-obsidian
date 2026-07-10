@@ -1,15 +1,15 @@
-### _Note for writer, ignore this
-1. **Problems**: What problems am I  getting? (Scratching my own itch)
-2. **Validate Problems:** Are these problems occur in other people's lives? (Is there a demand? Is the pain any real and is the product really wanted?)
-3. Is there already a cure? 
-	1. If yes, how and why it works? 
-	2. What can be improved from such products? 
-4. Apa yang bisa kita tawarkan? Apakah mampu bagi kita untuk bersaing? 
-5. Strategi untuk mendapat 'pengguna' pertama -> Open source-ing core features
-6. Strategi untuk monetisasi -> Additional benefits for paid users
-7. How these strategy works? We'll find out after 1 month of launching
-8. Report
----
+> [!NOTE] Note for writer, ignore this
+>  **Problems**: What problems am I  getting? (Scratching my own itch)
+>  **Validate Problems:** Are these problems occur in other people's lives? (Is there a demand? Is the pain any real and is the product really wanted?)
+> Is there already a cure? 
+> 	- If yes, how and why it works? 
+> 	- What can be improved from such products? 
+> Apa yang bisa kita tawarkan? Apakah mampu bagi kita untuk bersaing? 
+> Strategi untuk mendapat 'pengguna' pertama -> Open source-ing core features
+> Strategi untuk monetisasi -> Additional benefits for paid users
+> How these strategy works? We'll find out after 1 month of launching
+> Report
+
 # Study Case: Multiformat Saver for Archiving the Web
 
 tags: #reflections #building #business
@@ -17,7 +17,7 @@ tags: #reflections #building #business
 Menyimpan konten internet sejatinya cukup mudah. Fitur bookmarking konvensional yang berada pada browser menyelesaikan permasalahan ini jauh sebelum aplikasi notetaking seperti Notion, Obsidian, dan Evernote dengan plugin web clipper mereka masing-masing.
 
 Tetapi ada gap yang cukup menyita perhatianku sebagai *[product builder](https://vaujan.github.io/)*. Yaitu tidak adanya sistem penyimpanan yang cukup fleksibel untuk berbagai macam format seperti gambar, teks, dan URL. 
-## Mencari Sistem Penyimpan Multiformat
+# Mencari Sistem Penyimpan Multiformat
 Sebagai contoh, ketika kita menemukan sebagai video di YouTube, mudah untuk menyimpannya: dengan web clipper contohnya. 
 
 ![[Pasted image 20260707114148.png]]
@@ -41,7 +41,9 @@ Setelah Notion kita coret, Evernote dan Obsidian adalah kandidat yang sangat men
 ![[Pasted image 20260707140429.png]]
 
 URL yang tersimpan ketika menggunakan web clipper, browser extension resmi resmi dari Obsidian, akan berbentuk file markdown. Selain dari ketidaknyamanan *minor* dari sisi UX, Obsidian juga tidak memiliki fitur overview dari semua item yang ada dalam sebuah folder. 
-## ---
+# Kenapa study case ini dibuat
 Tujuan utama aku membuat study case ini adalah untuk mempelajari ulang secara mendalam bagaimana proses pembuatan sebuah produk, mulai dari ide hingga deploy. Namun di satu sisi juga untuk mendokumentasikan perjalananku membuat suatu solusi atas masalah aku alami secara pribadi (*scratching my own itch*!).
 
 Vibe coding membuat entry fee dalam membuat produk sangat rendah, sehingga kemampuan untuk membuat produk tidak lagi dianggap spesial atau faktor pembeda seseorang.
+
+It's very easy to start on the action and we can all see the good side of it. But what about the bad side of it?

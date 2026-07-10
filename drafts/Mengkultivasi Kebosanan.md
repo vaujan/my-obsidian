@@ -10,4 +10,4 @@ tags: #meditation #silentmaxxing
 
 
 --- 
-Manusia sejatinya tidak menyukai 'ketiadaan'; kita lebih memilih merasakan sakit tersiksa daripada merasa kosovi
+Manusia rela menyakiti dirinya untuk menghindari keheningan. Banyak dari kita yang sangat dibuat bosan oleh konten yang berada di sosial media. entah real, shorts, atau TikTok

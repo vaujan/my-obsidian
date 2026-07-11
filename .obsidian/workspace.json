@@ -14,14 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/Study Case Product No.2.md",
-                "mode": "preview",
+                "file": "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Study Case Product No.2"
+              "title": "Study Case - looking for multiformat saver with desktop and local storage support"
+            }
+          },
+          {
+            "id": "604640d56144d0d2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "drafts/maps/Build.canvas",
+                "viewState": {
+                  "x": -33.6440394813537,
+                  "y": 103.37490823818945,
+                  "zoom": -0.06970332728439954
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Build"
             }
           }
         ]
@@ -56,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#silentmaxxing",
+                "query": "tag:#business",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,22 +197,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/Study Case Product No.2.md",
+                "file": "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Study Case Product No.2"
+              "title": "Outline of Study Case - looking for multiformat saver with desktop and local storage support"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,31 +231,35 @@
   },
   "active": "9bb57fc8b652bec0",
   "lastOpenFiles": [
-    "Pasted image 20260711174229.png",
-    "drafts/Study Case Product No.2.md",
-    "Pasted image 20260711155720.png",
+    "drafts/maps/Build.canvas",
+    "drafts/maps/Untitled.md",
+    "drafts/maps/Build",
+    "drafts/maps/Meditation.canvas",
+    "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
+    "resources/clippings/How to articulate yourself intelligently.md",
+    "journal/2026-07-04.md",
+    "journal/2026-06-30.md",
+    "public/Pasted image 20260711174229.png",
+    "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
+    "public/Pasted image 20260707114148.png",
+    "public/Pasted image 20260707140429.png",
+    "public/Pasted image 20260707140514.png",
+    "public/quality-over-quantity.png",
     "public/Pasted image 20260711160957.png",
+    "Pasted image 20260711155720.png",
     "resources/ai chats/deep-research-report.md",
     "_archive/Anytype login key.md",
     "drafts/Brainrotted gooner mencoba meditasi.md",
     "drafts/Video Game, Mimpi jadi Kaya dan Disfungsi Ereksi.md",
     "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
     "drafts/maps/Consistency.canvas",
-    "drafts/maps/Meditation.canvas",
     "drafts/Konsistensi.md",
     "drafts/Mengkultivasi Kebosanan.md",
-    "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
-    "public/quality-over-quantity.png",
-    "public/Pasted image 20260707114148.png",
-    "public/Pasted image 20260707140429.png",
-    "public/Pasted image 20260707140514.png",
     "areas/Writings.md",
     "areas/Phrases.md",
     "essays/20 Perintah untuk Penulis Amatir.md",
     "resources/workout/Norwegian 4x4 - Single Kettlebell v2.md",
     "areas/Ideas.md",
-    "journal/2026-07-04.md",
-    "journal/2026-06-30.md",
     "Pasted image 20260709215629.png",
     "journal/2026-06-29.md",
     "journal/2026-07-09.md",
@@ -248,11 +268,8 @@
     "tasks.md",
     "drafts/Meditasi itu artinya.md",
     "resources/clippings/Muscle Hub on X Brutally Effective Beginner KB Complex (Full Body) httpst.coQMJLbv4phX.md",
-    "resources/clippings/How to articulate yourself intelligently.md",
     "resources/clippings/How to fix your entire life in 1 day.md",
     "resources/clippings/Make Your Writing Flow  Sentences Transitions, Subordination, and Modification.md",
-    "resources/clippings/Notion Is Where Productivity Goes to Die  I Like Kill Nerds.md",
-    "public/Pasted image 20260707114330.png",
     "Untitled.canvas",
     "Untitled.base",
     "public",
@@ -262,7 +279,6 @@
     "areas/Workout log.xlsx",
     "Untitled.yaml.yaml",
     "resources/workout",
-    "areas/Untitled.base",
-    "resources/ai chats"
+    "areas/Untitled.base"
   ]
 }

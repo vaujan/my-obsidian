@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3f201ba7112c6769","type":"file","file":"drafts/Study Case - looking for multiformat saver with desktop and local storage support.md","x":-700,"y":-300,"width":800,"height":760},
+		{"id":"877d4f5087f6b614","type":"text","text":"\n# Kenapa study case ini dibuat\n*I am cherrypicking my research? Maybe.*  Namun, tujuan utamaku saat ini tidak sedang berfokus untuk menyelesaikan permasalahan yang ada di market. Tidak. Aku ingin menyelesaikan permasalahan ini untuk diriku sendiri dan acuan dari research ini adalah: permasalahan yang aku alami tidak eksklusif, dan terverfiikasi bahwa dialami juga oleh orang lain. \n\nTujuan utama aku membuat study case ini adalah untuk mempelajari ulang secara mendalam bagaimana proses pembuatan sebuah produk, mulai dari ide hingga deploy. Namun di satu sisi juga untuk mendokumentasikan perjalananku membuat suatu solusi atas masalah aku alami secara pribadi (*scratching my own itch*!).\n\n--- \n\nVibe coding membuat entry fee dalam membuat produk sangat rendah, sehingga kemampuan untuk membuat produk tidak lagi dianggap spesial atau faktor pembeda seseorang.\n\nIt's very easy to start on the action and we can all see the good side of it. But what about the bad side of it?","x":240,"y":-73,"width":460,"height":383},
+		{"id":"0a34209f5e132ed9","type":"text","text":"","x":415,"y":960,"width":250,"height":60},
+		{"id":"7c31b0b0681075f2","type":"text","text":"**UNUSED STUFFS**","x":240,"y":-148,"width":192,"height":50,"color":"4"}
+	],
+	"edges":[]
+}

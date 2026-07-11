@@ -1,9 +1,11 @@
 ---
-title: "How to articulate yourself intelligently"
-source: "https://x.com/thedankoe/status/2011827303962329458"
+title: How to articulate yourself intelligently
+source: https://x.com/thedankoe/status/2011827303962329458
 published: 2026-01-16
 created: 2026-07-09
-description: "When I was young, I was always drawn to people who sounded intelligent.People like Alan Watts, Jordan Peterson, Daniel Schmachtenberger, or ..."
+description: When I was young, I was always drawn to people who sounded intelligent.People like Alan Watts, Jordan Peterson, Daniel Schmachtenberger, or ...
+tags:
+  - read
 ---
 ![Image](https://pbs.twimg.com/media/G-FubAca0AgybVf?format=jpg&name=large)
 

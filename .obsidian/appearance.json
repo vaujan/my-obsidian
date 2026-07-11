@@ -5,7 +5,7 @@
   "interfaceFontFamily": "IBM Plex Sans,Inter",
   "textFontFamily": "IBM Plex Serif,Inter,IBM Plex Sans",
   "monospaceFontFamily": "IBM Plex Mono,Cascadia Mono",
-  "baseFontSize": 15,
+  "baseFontSize": 18,
   "theme": "system",
   "baseFontSizeAction": true
 }

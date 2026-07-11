@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"d831d7464d0c2b0c","type":"group","x":120,"y":-320,"width":472,"height":580,"label":"references"},
+		{"id":"d831d7464d0c2b0c","type":"group","x":120,"y":-320,"width":472,"height":540,"label":"references"},
 		{"id":"dce4068b405860f1","type":"file","file":"drafts/Brainrotted gooner mencoba meditasi.md","x":-580,"y":-320,"width":674,"height":783},
 		{"id":"94e547a40e2a66e5","type":"link","url":"https://www.youtube.com/watch?v=-wIt_WsJGfw&pp=ygUkZHIgc2FtIGhhcnJpcyBhbmQgZHIgYW5kcmV3IGh1YmVybWFu","x":140,"y":-300,"width":432,"height":219},
 		{"id":"0e2f673e7bfe9137","type":"link","url":"https://www.youtube.com/watch?v=-wIt_WsJGfw&pp=ygUkZHIgc2FtIGhhcnJpcyBhbmQgZHIgYW5kcmV3IGh1YmVybWFu","x":140,"y":-40,"width":432,"height":243}

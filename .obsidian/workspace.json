@@ -11,15 +11,17 @@
             "id": "8c85cfa6b80d9229",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "areas/Phrases.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "drafts/maps/Meditation.canvas",
+                "viewState": {
+                  "x": 6,
+                  "y": -160.27223220949185,
+                  "zoom": -0.07794667906948005
+                }
               },
-              "icon": "lucide-file",
-              "title": "Phrases"
+              "icon": "lucide-layout-dashboard",
+              "title": "Meditation"
             }
           }
         ]
@@ -212,14 +214,14 @@
   },
   "active": "8c85cfa6b80d9229",
   "lastOpenFiles": [
+    "drafts/maps/Consistency.canvas",
+    "drafts/maps/Meditation.canvas",
     "areas/Writings.md",
     "areas/Phrases.md",
     "drafts/Study Case Product No.2.md",
     "drafts/Mengkultivasi Kebosanan.md",
     "drafts/Video Game, Mimpi jadi Kaya dan Disfungsi Ereksi.md",
     "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
-    "drafts/maps/Consistency.canvas",
-    "drafts/maps/Meditation.canvas",
     "drafts/Brainrotted gooner mencoba meditasi.md",
     "drafts/Konsistensi.md",
     "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",

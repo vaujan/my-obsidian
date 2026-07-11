@@ -22,4 +22,3 @@ Bermeditasi memiliki tujuan yang jauh lebih sederhana dan lebih membumi: yaitu u
 Ketika kita sedang memperhatikan pikiran yang senantiasa hadir dan melintas, pernahkah terbesit bahwa konsep 'kita' juga bagian dari pikiran?
 
 > Seolah 'kita' secara aktif memperhatikan alur gerak pikiran kita, tetapi justru 'kita' juga secara pasif menerima identitas 'kita'. Ketika bermeditasi, coba lakukan ini: cari letak 'aku' dalam pikiran kita 
-

@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5caefd0f0bde3b4a",
+        "id": "7536e34223678ad6",
         "type": "tabs",
         "children": [
           {
-            "id": "8c85cfa6b80d9229",
+            "id": "9bb57fc8b652bec0",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "drafts/maps/Meditation.canvas",
-                "viewState": {
-                  "x": 6,
-                  "y": -160.27223220949185,
-                  "zoom": -0.07794667906948005
-                }
+                "file": "drafts/Study Case Product No.2.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Meditation"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Study Case Product No.2"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#silentmaxxing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 236.5,
+    "collapsed": true
   },
   "right": {
     "id": "3da6fab6773ac8c5",
@@ -179,21 +180,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/Mengkultivasi Kebosanan.md",
+                "file": "drafts/Study Case Product No.2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mengkultivasi Kebosanan"
+              "title": "Outline of Study Case Product No.2"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
+    "width": 276.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -212,21 +213,29 @@
       "zenmode:Toggle zen mode": true
     }
   },
-  "active": "8c85cfa6b80d9229",
+  "active": "9bb57fc8b652bec0",
   "lastOpenFiles": [
-    "drafts/maps/Consistency.canvas",
-    "drafts/maps/Meditation.canvas",
-    "areas/Writings.md",
-    "areas/Phrases.md",
+    "Pasted image 20260711174229.png",
     "drafts/Study Case Product No.2.md",
-    "drafts/Mengkultivasi Kebosanan.md",
+    "Pasted image 20260711155720.png",
+    "public/Pasted image 20260711160957.png",
+    "resources/ai chats/deep-research-report.md",
+    "_archive/Anytype login key.md",
+    "drafts/Brainrotted gooner mencoba meditasi.md",
     "drafts/Video Game, Mimpi jadi Kaya dan Disfungsi Ereksi.md",
     "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
-    "drafts/Brainrotted gooner mencoba meditasi.md",
+    "drafts/maps/Consistency.canvas",
+    "drafts/maps/Meditation.canvas",
     "drafts/Konsistensi.md",
+    "drafts/Mengkultivasi Kebosanan.md",
     "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
+    "public/quality-over-quantity.png",
+    "public/Pasted image 20260707114148.png",
+    "public/Pasted image 20260707140429.png",
+    "public/Pasted image 20260707140514.png",
+    "areas/Writings.md",
+    "areas/Phrases.md",
     "essays/20 Perintah untuk Penulis Amatir.md",
-    "resources/ai chats/deep-research-report.md",
     "resources/workout/Norwegian 4x4 - Single Kettlebell v2.md",
     "areas/Ideas.md",
     "journal/2026-07-04.md",
@@ -237,20 +246,13 @@
     "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/cover.jpg",
     "_calibre/Iceberg Slim/Pimp_ The Story of My Life (3)/cover.jpg",
     "tasks.md",
-    "public/quality-over-quantity.png",
     "drafts/Meditasi itu artinya.md",
     "resources/clippings/Muscle Hub on X Brutally Effective Beginner KB Complex (Full Body) httpst.coQMJLbv4phX.md",
     "resources/clippings/How to articulate yourself intelligently.md",
     "resources/clippings/How to fix your entire life in 1 day.md",
     "resources/clippings/Make Your Writing Flow  Sentences Transitions, Subordination, and Modification.md",
     "resources/clippings/Notion Is Where Productivity Goes to Die  I Like Kill Nerds.md",
-    "journal/2026-07-07.md",
-    "public/Pasted image 20260707114148.png",
-    "public/Pasted image 20260707140429.png",
-    "public/Pasted image 20260707140514.png",
     "public/Pasted image 20260707114330.png",
-    "Pasted image 20260707135916.png",
-    "Pasted image 20260707134938.png",
     "Untitled.canvas",
     "Untitled.base",
     "public",

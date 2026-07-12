@@ -9,3 +9,9 @@
     - Manusia mengejar apa yang mereka inginkan, sampai apa yang mereka butuhkan menarik mereka kembali.
 - It's okay if you like AI music, just dont put it on speaker
 - Make writing and reading separate; and make reading and researching separate
+- My dad is watching AI generated video on our dinner table and I don't blame him
+	- I can focus on what he did wrong that day; I can judge my dad based on what he didn't do right. 
+	- But I also can judge him based on what he did right: raising me as an independent thinker who can think differently from him — rather than just following him blindly. 
+--- 
+- Design thinking: sebelum dan sesudah era generative AI 
+	- Keep it super simple. **Empathize, Prototype, Iterate**

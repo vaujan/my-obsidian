@@ -9,11 +9,11 @@
 > - Strategi untuk monetisasi -> Additional benefits for paid users
 > - How these strategy works? We'll find out after 1 month of launching
 > Report
-
 # Study Case: Multiformat Saver for Archiving the Web
+**tags**: #reflections #building #business 
+**links**: [Excalidraw](https://excalidraw.com/#json=LbQvTMWjflk4XXTotiISI,0M8JbXl_7Qjq7PSxRBaTLw)
 
-tags: #reflections #building #business
-
+## Problems 
 Menyimpan konten internet  sebenarnya cukup mudah. Fitur bookmarking konvensional yang berada pada browser menyelesaikan permasalahan ini jauh sebelum aplikasi *notetaking* seperti Notion, Obsidian, dan Evernote dengan plugin web clipper mereka masing-masing.
 
  Namun sebagai *[product builder](https://vaujan.github.io/)*, aku kesulitan menemukan solusi *bookmarking* atau *content saver* yang seusai dengan kebutuhanku: yaitu menyimpan gambar, URL (bookmarking) dan teks yang terorganisir. Sebagai contoh, ketika kita menemukan sebagai video di YouTube, mudah untuk menyimpannya — dengan web clipper contohnya. Hal ini menyelesaikan permasalahan dalam menyimpan artikel, blog post, atau tweet.  
@@ -26,7 +26,7 @@ Aku menemukan keperluan mengorganisir URL (YouTube video, tweet, etc.), gambar, 
 - Folder 'Productivity SaaS Project', berisi: (a) tweet tentang *user demand* atau *pain points* yang ada dalam *niche productivity*, (b) refleksi atau development log berupa teks file project tersebut, dan juga (c) screenshot bagaimana referensi UI yang ingin dicapai
 - Folder 'Kettlebell Training', berisi: (a) video YouTube program kettlebell, (b) log dan catatan latihan, serta (c) gambar mengenai form gerakan atau dokumentasi latihan
 
-![[Pasted image 20260707140514.png]]
+![[Pasted image 20260712190613.png]]
 
 Ketika pikirkan secara sekilas, tidak ada solusi *out-of-the-box* yang muncul sebagai *top-of-mind*. Mungkin Notion. Notion memiliki kapasitas untuk menyelesaikan permasalahan ini, namun dengan konfigurasi dan kustomisasi yang tentu memerlukan pengetahuan dasar tentang aplikasi tersebut. Lagi pula, Notion lebih cocok digunakan pada kasus pengembangan *knowledge base* atau *second brain* yang menginginkan fleksibilitas maksimal. Fleksibilitas yang menjadi nilai plus terbaik Notion juga sekaligus menjadi titik terlemahnya: yaitu tidak ada *out-of-the-box experience* dan sangat mudah untuk tergelincir pada *neraka konfigurasi*.
 
@@ -40,8 +40,8 @@ Menggunakan Notion dalam untuk mengorganisir project sederhana rasanya seperti m
 
 Setelah Notion kita coret, Evernote dan Obsidian adalah kandidat yang sangat menarik (p.s blog post ditulis di Obsidian). Tapi kedua produk tersebut memiliki fungsi utama sebagai pencatat (*notetaker*). *That's it*. Markdown file yang disimpan ke dalam sebuah folder. *That's it, and it works for notetaking*.
 
-![[Pasted image 20260707140429.png]]
 
+![[Pasted image 20260712190538.png]]
 URL yang tersimpan ketika menggunakan web clipper akan berbentuk file markdown. Ini ketidaknyamanan minor dari sisi UX, selain itu Obsidian juga tidak memiliki fitur overview dari semua item yang ada dalam sebuah folder. *Everything is a note* dan mengubah konvensi tersebut bukan pilihan (mungkin ada opsi community plugin, *but it's very likely to break and is painful to setup*).
 
 --- 
@@ -69,7 +69,34 @@ Kalaupun aku akan menggunakan aplikasi untuk merangkum *resource* dalam multifor
 
 Notion boleh memiliki pilihan untuk mengintegrasikan berbagai AI agents ke *knowledge base* dan menampilkannya dalam dashboard dengan metrik macam-macam, tapi Obsidian lebih membantu tujuanku dalam menulis dan merorganisasi serta mengkoneksikan tulisan. 
 
-> *Needless to say,  I need something to like Are.na & Fabric but with a desktop support and local storage-first like Obsidian. And if possible, No AI*
+> *Needless to say,  I need something to like Are.na & Fabric but with a desktop support and local storage-first like Obsidian. And if possible, No AI*. 
+> 
+> *Shorter version: Are.na or Fabric with Obsidian UX and file control* 
 
+--- 
+2026-07-12 12:53
 
+Sebelum kita lanjut terlalu jauh, aku penasaran:  apakah proses/metode pembuatan produk pada zaman sebelum AI masih relevant? Apakah *Design Thinking* masih diperlukan? 
 
+*Anyway.*
+## Sketching the solution
+
+Aku percaya bahwa shipping 10 produk setengah matang dalam dalam sebulan jauh lebih baik daripada shipping 1 produk matang dalam 1 bulan.
+
+> *I prefer quantity and volume over quality. I believe in bias towards action.* 
+
+Maka dari itu aku langsung memulai pengembangan dengan men-sketsa beberapa layar utama yang menjadi main flow. Untuk sementara, produknya akan aku namakan: Kuskus (jangan tanya kenapa)
+
+Journey map yang aku bayangkan kurang lebih seperti ini: 
+1. User sedang scrolling dan menjelajahi konten internet
+2. User menemukan ada post Reddit menarik (misalnya) 
+3. User menyimpan post tersebut
+4. Post tersimpan sebagai link dalam inbox di penyimpanan lokal
+
+Obsidian fixed this dengan web clipper untuk menyimpan link dan artikel, oleh karena itu kita gabungkan dengan solusi existing seperti Are.na dan Fabric terkait cara mereka menampilkan konten yang tersimpan (belakangan aku nemu [mymind](https://mymind.com/), basically UX-nya kurang lebih sama tapi lebih punya personality).
+![[Pasted image 20260712190812.png]]
+![[Pasted image 20260712190752.png]]
+
+Setelah nyakar-nyakar di [Excalidraw](https://excalidraw.com/#json=LbQvTMWjflk4XXTotiISI,0M8JbXl_7Qjq7PSxRBaTLw), aku dapat gambaran kasar UInya dan beberapa referensi visual dari produk lain. Now let's start building the UI. 
+
+## Proto-MVP

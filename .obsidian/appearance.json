@@ -1,11 +1,11 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "accentColor": "",
   "showRibbon": false,
-  "interfaceFontFamily": "IBM Plex Sans,Inter",
-  "textFontFamily": "IBM Plex Serif,Inter,IBM Plex Sans",
-  "monospaceFontFamily": "IBM Plex Mono,Cascadia Mono",
-  "baseFontSize": 21,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSize": 18,
   "theme": "system",
   "baseFontSizeAction": true
 }

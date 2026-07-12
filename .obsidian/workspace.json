@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7536e34223678ad6",
+        "id": "059ddb5671dacdca",
         "type": "tabs",
         "children": [
           {
-            "id": "9bb57fc8b652bec0",
+            "id": "1e8bb50a27d54352",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Study Case - looking for multiformat saver with desktop and local storage support"
             }
@@ -54,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#business",
+                "query": "tag:#reflections",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "3da6fab6773ac8c5",
@@ -187,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -210,42 +213,44 @@
       "zenmode:Toggle zen mode": true
     }
   },
-  "active": "9bb57fc8b652bec0",
+  "active": "1e8bb50a27d54352",
   "lastOpenFiles": [
-    "drafts/maps/Build.canvas",
+    "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
+    "essays/20 Perintah untuk Penulis Amatir.md",
     "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
+    "drafts/Mengkultivasi Kebosanan.md",
+    "drafts/maps/Build.canvas",
+    "public/Pasted image 20260712190812.png",
+    "public/Pasted image 20260712190752.png",
+    "pictures",
+    "_archive/ExcalidrawBackup-2026-07-07-1347.excalidraw",
+    "drafts/Brainrotted gooner mencoba meditasi.md",
+    "Pasted image 20260712190708.png",
+    "Pasted image 20260712190659.png",
+    "public/Pasted image 20260712190613.png",
+    "public/Pasted image 20260712190538.png",
+    "public/Pasted image 20260712190502.png",
+    "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
+    "drafts/Konsistensi.md",
+    "areas/Writings.md",
+    "drafts/maps/Consistency.canvas",
     "drafts/maps/Untitled.md",
     "drafts/maps/Build",
     "drafts/maps/Meditation.canvas",
-    "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
     "resources/clippings/How to articulate yourself intelligently.md",
     "journal/2026-07-04.md",
     "journal/2026-06-30.md",
     "public/Pasted image 20260711174229.png",
     "public/Pasted image 20260707114148.png",
     "public/Pasted image 20260707140429.png",
-    "public/Pasted image 20260707140514.png",
-    "public/quality-over-quantity.png",
-    "public/Pasted image 20260711160957.png",
-    "Pasted image 20260711155720.png",
     "resources/ai chats/deep-research-report.md",
     "_archive/Anytype login key.md",
-    "drafts/Brainrotted gooner mencoba meditasi.md",
     "drafts/Video Game, Mimpi jadi Kaya dan Disfungsi Ereksi.md",
-    "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
-    "drafts/maps/Consistency.canvas",
-    "drafts/Konsistensi.md",
-    "drafts/Mengkultivasi Kebosanan.md",
-    "areas/Writings.md",
     "areas/Phrases.md",
-    "essays/20 Perintah untuk Penulis Amatir.md",
     "resources/workout/Norwegian 4x4 - Single Kettlebell v2.md",
     "areas/Ideas.md",
-    "Pasted image 20260709215629.png",
     "journal/2026-06-29.md",
     "journal/2026-07-09.md",
-    "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/cover.jpg",
-    "_calibre/Iceberg Slim/Pimp_ The Story of My Life (3)/cover.jpg",
     "tasks.md",
     "drafts/Meditasi itu artinya.md",
     "resources/clippings/Muscle Hub on X Brutally Effective Beginner KB Complex (Full Body) httpst.coQMJLbv4phX.md",
@@ -258,8 +263,6 @@
     "resources/later",
     "Testing.sheet",
     "areas/Workout log.xlsx",
-    "Untitled.yaml.yaml",
-    "resources/workout",
-    "areas/Untitled.base"
+    "Untitled.yaml.yaml"
   ]
 }

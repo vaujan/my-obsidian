@@ -51,7 +51,7 @@ Setelah menanyakan kebutuhan produk yang kujelaskan ke LLM (dalam hal ini [ChatG
 3. **Personal Knowledge Management (PKM)**: Notion, Logseq, Obsidian
 4. **Creative Research Platforms**: Are.na, Cosmos, Milanote, Fabric
 
-Bookmark managers dan visual asset managers tentu aku coret, sangat terbatas dari segi fitur: hanya terfokus pada satu format item — URL saja atau asset visual saja. Dan *personal knowledge management* seperti Notion dan Obsidian terlalu overkill dan perlu konfigurasi khusus — dan itu pun masih kurang dalam memberikan pengalaman pengguna yang natural dan intuitif. 
+Bookmark managers dan visual asset managers tentu aku coret, sangat terbatas dari segi fitur: hanya terfokus pada satu format item — URL atau asset visual saja. Dan *personal knowledge management* seperti Notion dan Obsidian terlalu overkill serta perlu konfigurasi khusus — dan itu pun masih kurang dalam memberikan pengalaman pengguna yang natural dan intuitif. 
 
 Solusi pada *creative research platforms* sangat mendekati permasalahan yang coba kita selesaikan:
 - Misalnya **[Cosmos](https://www.cosmos.so/)**, secara sekilas memiliki *use case* yang sangat mirip dengan Pinterest, yaitu sebagai platform pencari referensi dan inspirasi visual. Beberapa fitur yang menarik perhatianku: "Hide AI Content" dan "Search by Color". UI-nya juga elegan, minimalis dan terlihat sangat intuitif. Meski tertarik dengan konsep produk tersebut, aku tidak mencobanya secara langsung karena ini jelas bukan yang aku cari. 
@@ -59,7 +59,7 @@ Solusi pada *creative research platforms* sangat mendekati permasalahan yang cob
 - [**Fabric**](https://fabric.so/) memiliki fitur yang persis aku butuhkan: penyimpanan multfiformat yang teroganisir dalam satu folder. ![[Pasted image 20260711160957.png]]
 - Sama halnya dengan [**Are.na**](https://www.are.na/)  , bisa aku sederhanakan bahwa Are.na sama seperti Pinterest, namun bisa digunakan untuk menyimpan item dengan format lain, selain gambar. ![[Pasted image 20260711174229.png]]
 
-**Are.na** dan **Fabric** adalah produk cukup baik jika hanya dinilai pada kemampuannya untuk mengorganisir file multiformat. Namun aspek penting lainnya juga menentukan pengguna untuk menggunakan dan tetap bertahan dengan sebuah produk, seperti: *pricing*, *privacy concern*, *user interface/experience*, *AI integration* dan lainnya. ****
+**Are.na** dan **Fabric** adalah produk cukup baik jika hanya dinilai pada kemampuannya untuk mengorganisir file multiformat. Namun aspek penting lainnya juga menentukan pengguna untuk menggunakan dan tetap bertahan dengan sebuah produk, seperti: *pricing*, *privacy concern*, *user interface/experience*, *AI integration* dan lainnya. 
 
 Kalaupun aku akan menggunakan aplikasi untuk merangkum *resource* dalam multiformat, aku menginginkan aplikasi tersebut memiliki desktop support (bukan browser) dan dapat digunakan tanpa memerlukan *Sign In* atau *Sign Up* (*probably too much to ask)*. Desktop support sangat penting bagiku. Selain karena kenyamanan, aku juga memiliki kontrol atas file tersebut secara langsung di komputerku. 
 
@@ -70,3 +70,6 @@ Kalaupun aku akan menggunakan aplikasi untuk merangkum *resource* dalam multifor
 Notion boleh memiliki pilihan untuk mengintegrasikan berbagai AI agents ke *knowledge base* dan menampilkannya dalam dashboard dengan metrik macam-macam, tapi Obsidian lebih membantu tujuanku dalam menulis dan merorganisasi serta mengkoneksikan tulisan. 
 
 > *Needless to say,  I need something to like Are.na & Fabric but with a desktop support and local storage-first like Obsidian. And if possible, No AI*
+
+
+

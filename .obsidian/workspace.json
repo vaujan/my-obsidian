@@ -10,35 +10,16 @@
           {
             "id": "9bb57fc8b652bec0",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Study Case - looking for multiformat saver with desktop and local storage support"
-            }
-          },
-          {
-            "id": "604640d56144d0d2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "drafts/maps/Build.canvas",
-                "viewState": {
-                  "x": -33.6440394813537,
-                  "y": 103.37490823818945,
-                  "zoom": -0.06970332728439954
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Build"
             }
           }
         ]
@@ -113,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "right": {
     "id": "3da6fab6773ac8c5",
@@ -211,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,6 +213,7 @@
   "active": "9bb57fc8b652bec0",
   "lastOpenFiles": [
     "drafts/maps/Build.canvas",
+    "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
     "drafts/maps/Untitled.md",
     "drafts/maps/Build",
     "drafts/maps/Meditation.canvas",
@@ -240,7 +222,6 @@
     "journal/2026-07-04.md",
     "journal/2026-06-30.md",
     "public/Pasted image 20260711174229.png",
-    "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
     "public/Pasted image 20260707114148.png",
     "public/Pasted image 20260707140429.png",
     "public/Pasted image 20260707140514.png",

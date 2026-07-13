@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "3da6fab6773ac8c5",
@@ -190,12 +189,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,23 +213,24 @@
   },
   "active": "1e8bb50a27d54352",
   "lastOpenFiles": [
+    "drafts/Konsistensi.md",
+    "drafts/Brainrotted gooner mencoba meditasi.md",
+    "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
     "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
     "essays/20 Perintah untuk Penulis Amatir.md",
-    "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
+    "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
     "drafts/Mengkultivasi Kebosanan.md",
+    "drafts/Video Game, Mimpi jadi Kaya dan Disfungsi Ereksi.md",
     "drafts/maps/Build.canvas",
     "public/Pasted image 20260712190812.png",
     "public/Pasted image 20260712190752.png",
     "pictures",
     "_archive/ExcalidrawBackup-2026-07-07-1347.excalidraw",
-    "drafts/Brainrotted gooner mencoba meditasi.md",
     "Pasted image 20260712190708.png",
     "Pasted image 20260712190659.png",
     "public/Pasted image 20260712190613.png",
     "public/Pasted image 20260712190538.png",
     "public/Pasted image 20260712190502.png",
-    "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
-    "drafts/Konsistensi.md",
     "areas/Writings.md",
     "drafts/maps/Consistency.canvas",
     "drafts/maps/Untitled.md",
@@ -245,7 +244,6 @@
     "public/Pasted image 20260707140429.png",
     "resources/ai chats/deep-research-report.md",
     "_archive/Anytype login key.md",
-    "drafts/Video Game, Mimpi jadi Kaya dan Disfungsi Ereksi.md",
     "areas/Phrases.md",
     "resources/workout/Norwegian 4x4 - Single Kettlebell v2.md",
     "areas/Ideas.md",

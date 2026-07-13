@@ -100,3 +100,4 @@ Obsidian fixed this dengan web clipper untuk menyimpan link dan artikel, oleh ka
 Setelah nyakar-nyakar di [Excalidraw](https://excalidraw.com/#json=LbQvTMWjflk4XXTotiISI,0M8JbXl_7Qjq7PSxRBaTLw), aku dapat gambaran kasar UInya dan beberapa referensi visual dari produk lain. Now let's start building the UI. 
 
 ## Proto-MVP
+Before we code, let's focus on the tech specs

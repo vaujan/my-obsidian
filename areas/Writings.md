@@ -14,4 +14,4 @@
 	- But I also can judge him based on what he did right: raising me as an independent thinker who can think differently from him — rather than just following him blindly. 
 --- 
 - Design thinking: sebelum dan sesudah era generative AI 
-	- Keep it super simple. **Empathize, Prototype, Iterate**
+	- Keep it super simple. **Empathize, ProtoMVP, Iterate**

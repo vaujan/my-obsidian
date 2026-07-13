@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "Study Case - looking for multiformat saver with desktop and local storage support"
             }
+          },
+          {
+            "id": "91ea3bd2a15ac626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dev/Flagship AI models for coding, business analysis, and copywriting.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Flagship AI models for coding, business analysis, and copywriting"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "3da6fab6773ac8c5",
@@ -179,17 +196,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
+                "file": "dev/Flagship AI models for coding, business analysis, and copywriting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Study Case - looking for multiformat saver with desktop and local storage support"
+              "title": "Outline of Flagship AI models for coding, business analysis, and copywriting"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -211,14 +228,23 @@
       "zenmode:Toggle zen mode": true
     }
   },
-  "active": "1e8bb50a27d54352",
+  "active": "91ea3bd2a15ac626",
   "lastOpenFiles": [
+    "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
+    "dev/Flagship AI models for coding, business analysis, and copywriting.md",
+    "dev/Low-cost and open-model report, with OpenCode Go coverage.md",
+    "journal/2026-06-30.md",
+    "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
+    "dev/Git Commit Skills.md",
+    "dev/Vercel Native SDK.md",
+    "dev/Vercel Agent Skills.md",
+    "resources/ai chats/deep-research-report.md",
+    "areas/Writings.md",
+    "dev",
     "drafts/Konsistensi.md",
     "drafts/Brainrotted gooner mencoba meditasi.md",
-    "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
     "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
     "essays/20 Perintah untuk Penulis Amatir.md",
-    "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
     "drafts/Mengkultivasi Kebosanan.md",
     "drafts/Video Game, Mimpi jadi Kaya dan Disfungsi Ereksi.md",
     "drafts/maps/Build.canvas",
@@ -231,18 +257,15 @@
     "public/Pasted image 20260712190613.png",
     "public/Pasted image 20260712190538.png",
     "public/Pasted image 20260712190502.png",
-    "areas/Writings.md",
     "drafts/maps/Consistency.canvas",
     "drafts/maps/Untitled.md",
     "drafts/maps/Build",
     "drafts/maps/Meditation.canvas",
     "resources/clippings/How to articulate yourself intelligently.md",
     "journal/2026-07-04.md",
-    "journal/2026-06-30.md",
     "public/Pasted image 20260711174229.png",
     "public/Pasted image 20260707114148.png",
     "public/Pasted image 20260707140429.png",
-    "resources/ai chats/deep-research-report.md",
     "_archive/Anytype login key.md",
     "areas/Phrases.md",
     "resources/workout/Norwegian 4x4 - Single Kettlebell v2.md",
@@ -250,17 +273,12 @@
     "journal/2026-06-29.md",
     "journal/2026-07-09.md",
     "tasks.md",
-    "drafts/Meditasi itu artinya.md",
-    "resources/clippings/Muscle Hub on X Brutally Effective Beginner KB Complex (Full Body) httpst.coQMJLbv4phX.md",
-    "resources/clippings/How to fix your entire life in 1 day.md",
-    "resources/clippings/Make Your Writing Flow  Sentences Transitions, Subordination, and Modification.md",
     "Untitled.canvas",
     "Untitled.base",
     "public",
     "resources/clippings",
     "resources/later",
     "Testing.sheet",
-    "areas/Workout log.xlsx",
-    "Untitled.yaml.yaml"
+    "areas/Workout log.xlsx"
   ]
 }

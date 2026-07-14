@@ -15,7 +15,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1783734927.2694495,
+  "last_expired_trash_at": 1783954345.039321,
   "field_metadata": {
     "au_map": {
       "column": null,
@@ -566,6 +566,47 @@
     }
   },
   "library_view books view state": {
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 3,
+      "formats": 10,
+      "id": 1,
+      "languages": 14,
+      "last_modified": 13,
+      "ondevice": 0,
+      "pages": 15,
+      "path": 11,
+      "pubdate": 12,
+      "publisher": 9,
+      "rating": 6,
+      "series": 8,
+      "size": 5,
+      "tags": 7,
+      "timestamp": 4,
+      "title": 2
+    },
+    "column_sizes": {
+      "authors": 87,
+      "formats": 0,
+      "id": 0,
+      "languages": 0,
+      "last_modified": 0,
+      "pages": 0,
+      "path": 0,
+      "pubdate": 82,
+      "publisher": 80,
+      "rating": 64,
+      "series": 59,
+      "size": 79,
+      "tags": 226,
+      "timestamp": 66,
+      "title": 402
+    },
+    "formats_injected": true,
     "hidden_columns": [
       "id",
       "formats",
@@ -574,12 +615,11 @@
       "languages",
       "pages"
     ],
-    "last_modified_injected": true,
-    "languages_injected": true,
-    "formats_injected": true,
     "id_injected": true,
-    "path_injected": true,
+    "languages_injected": true,
+    "last_modified_injected": true,
     "pages_injected": true,
+    "path_injected": true,
     "sort_history": [
       [
         "title",
@@ -597,47 +637,7 @@
         "timestamp",
         false
       ]
-    ],
-    "column_positions": {
-      "ondevice": 0,
-      "id": 1,
-      "title": 2,
-      "authors": 3,
-      "timestamp": 4,
-      "size": 5,
-      "rating": 6,
-      "tags": 7,
-      "series": 8,
-      "publisher": 9,
-      "formats": 10,
-      "path": 11,
-      "pubdate": 12,
-      "last_modified": 13,
-      "languages": 14,
-      "pages": 15
-    },
-    "column_sizes": {
-      "id": 0,
-      "title": 402,
-      "authors": 87,
-      "timestamp": 66,
-      "size": 79,
-      "rating": 64,
-      "tags": 226,
-      "series": 59,
-      "publisher": 80,
-      "formats": 0,
-      "path": 0,
-      "pubdate": 82,
-      "last_modified": 0,
-      "languages": 0,
-      "pages": 0
-    },
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    }
+    ]
   },
   "books view split pane state": {
     "column_positions": {
@@ -686,5 +686,6 @@
       3,
       "Pimp: The Story of My Life"
     ]
-  ]
+  ],
+  "news_to_be_synced": []
 }

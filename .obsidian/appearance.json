@@ -7,5 +7,6 @@
   "monospaceFontFamily": "IBM Plex Mono",
   "baseFontSize": 18,
   "theme": "system",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showViewHeader": true
 }

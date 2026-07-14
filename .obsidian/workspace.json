@@ -23,8 +23,21 @@
               "icon": "lucide-file",
               "title": "Study Case - looking for multiformat saver with desktop and local storage support"
             }
+          },
+          {
+            "id": "89508f33ef05d85f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "_archive/Excalidraw Kuskus.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Kuskus"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 429.5
   },
   "right": {
     "id": "3da6fab6773ac8c5",
@@ -180,17 +192,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
+                "file": "_archive/Excalidraw Kuskus.excalidraw",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Study Case - looking for multiformat saver with desktop and local storage support"
+              "title": "Outline of Excalidraw Kuskus"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -209,53 +221,54 @@
       "random-note:Open random note": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-calibre-plugin:Calibre": false,
-      "zenmode:Toggle zen mode": true
+      "zenmode:Toggle zen mode": true,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1e8bb50a27d54352",
+  "active": "89508f33ef05d85f",
   "lastOpenFiles": [
-    "public/Pasted image 20260712190812.png",
-    "public/Pasted image 20260712190752.png",
     "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
-    "areas/Writings.md",
-    "dev/Shadcn Improve Skill.md",
-    "dev/Low-cost and open-model report, with OpenCode Go coverage.md",
+    "_archive/Excalidraw Kuskus.excalidraw",
+    "drafts/Mengkultivasi Kebosanan.md",
+    "drafts/Konsistensi.md",
+    "drafts/Brainrotted gooner mencoba meditasi.md",
+    "journal/2026-06-30.md",
+    "public/Pasted image 20260707114148.png",
+    "public/Pasted image 20260707140429.png",
+    "resources/clippings/Notion Is Where Productivity Goes to Die  I Like Kill Nerds.md",
+    "dev/emilkowalskiskills Skills for Design Engineers.md",
+    "dev/Developing Taste.md",
+    "dev/Animation Vocabulary.md",
     "dev/Flagship AI models for coding, business analysis, and copywriting.md",
-    "dev/Vercel Native SDK.md",
+    "dev/Low-cost and open-model report, with OpenCode Go coverage.md",
+    "dev/Say precisely what you mean.md",
+    "dev/shadcn Improve Skill.md",
+    "dev/AI Skills for Design Engineers.md",
     "dev/Vercel Agent Skills.md",
     "dev/Git Commit Skill.md",
-    "journal/2026-06-30.md",
+    "dev/Vercel Native SDK.md",
+    "resources/clippings/Make Your Writing Flow  Sentences Transitions, Subordination, and Modification.md",
+    "resources/clippings/How to fix your entire life in 1 day.md",
+    "resources/clippings/Muscle Hub on X Brutally Effective Beginner KB Complex (Full Body) httpst.coQMJLbv4phX.md",
+    "resources/clippings/How to articulate yourself intelligently.md",
+    "public/Pasted image 20260712190812.png",
+    "public/Pasted image 20260712190752.png",
+    "areas/Writings.md",
     "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
     "resources/ai chats/deep-research-report.md",
     "dev",
-    "drafts/Konsistensi.md",
-    "drafts/Brainrotted gooner mencoba meditasi.md",
     "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
-    "essays/20 Perintah untuk Penulis Amatir.md",
-    "drafts/Mengkultivasi Kebosanan.md",
-    "drafts/Video Game, Mimpi jadi Kaya dan Disfungsi Ereksi.md",
     "drafts/maps/Build.canvas",
     "pictures",
-    "_archive/ExcalidrawBackup-2026-07-07-1347.excalidraw",
     "Pasted image 20260712190708.png",
     "Pasted image 20260712190659.png",
     "public/Pasted image 20260712190613.png",
     "public/Pasted image 20260712190538.png",
     "public/Pasted image 20260712190502.png",
     "drafts/maps/Consistency.canvas",
-    "drafts/maps/Untitled.md",
     "drafts/maps/Build",
     "drafts/maps/Meditation.canvas",
-    "resources/clippings/How to articulate yourself intelligently.md",
-    "journal/2026-07-04.md",
     "public/Pasted image 20260711174229.png",
-    "public/Pasted image 20260707114148.png",
-    "public/Pasted image 20260707140429.png",
-    "_archive/Anytype login key.md",
-    "areas/Phrases.md",
-    "resources/workout/Norwegian 4x4 - Single Kettlebell v2.md",
-    "areas/Ideas.md",
-    "journal/2026-06-29.md",
     "Untitled.canvas",
     "Untitled.base",
     "public",

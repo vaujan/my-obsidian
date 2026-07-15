@@ -4,28 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "059ddb5671dacdca",
+        "id": "9de4de2d3d9edabe",
         "type": "tabs",
         "children": [
           {
-            "id": "1e8bb50a27d54352",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Study Case - looking for multiformat saver with desktop and local storage support"
-            }
-          },
-          {
-            "id": "19f3d369757627f7",
+            "id": "6dc63742accfe6bd",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -36,8 +19,7 @@
               "title": "Excalidraw Kuskus"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +87,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,12 +208,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2197f3b05a51382c",
+  "active": "3951c83798dcf733",
   "lastOpenFiles": [
     "resources/clippings/Post by @marcelkargul on X.md",
+    "resources/clippings/make-interfaces-feel-better Skill - jakubkrehel.md",
+    "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
     "_archive/Excalidraw Kuskus.excalidraw",
     "dev/Git Commit Skill.md",
-    "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
     "dev/Say precisely what you mean.md",
     "dev/emilkowalskiskills Skills for Design Engineers.md",
     "dev/Animation Vocabulary.md",
@@ -256,8 +240,6 @@
     "resources/clippings/How to articulate yourself intelligently.md",
     "public/Pasted image 20260712190812.png",
     "public/Pasted image 20260712190752.png",
-    "areas/Writings.md",
-    "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
     "dev",
     "drafts/maps/Build.canvas",
     "pictures",

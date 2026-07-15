@@ -1,9 +1,11 @@
 ---
-title: "Say precisely what you mean."
-source: "https://index.how/to/articulate"
+title: Say precisely what you mean.
+source: https://index.how/to/articulate
 published:
 created: 2026-07-14
-description: "The words designers use when they know what they’re looking at."
+description: The words designers use when they know what they’re looking at.
+tags:
+  - skills
 ---
 ## Vocabulary
 
@@ -127,7 +129,7 @@ The transparency component of a color, from fully opaque to fully invisible. An 
 
 Semantic token
 
-A color variable named for its purpose rather than its value. --color-border-subtle instead of #e0e0e0. When the value changes, everything using the token updates.
+A color variable named for its purpose rather than its value. --color-border-subtle instead of `#e0e0e0`. When the value changes, everything using the token updates.
 
 Contrast ratio
 

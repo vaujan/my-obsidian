@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "89508f33ef05d85f",
+            "id": "19f3d369757627f7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#reflections",
+                "query": "tag:#skills",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 264.5
   },
   "right": {
     "id": "3da6fab6773ac8c5",
@@ -225,10 +225,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "89508f33ef05d85f",
+  "active": "2197f3b05a51382c",
   "lastOpenFiles": [
-    "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
+    "resources/clippings/Post by @marcelkargul on X.md",
     "_archive/Excalidraw Kuskus.excalidraw",
+    "dev/Git Commit Skill.md",
+    "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
+    "dev/Say precisely what you mean.md",
+    "dev/emilkowalskiskills Skills for Design Engineers.md",
+    "dev/Animation Vocabulary.md",
+    "dev/Vercel Agent Skills.md",
+    "dev/Vercel Native SDK.md",
+    "dev/Flagship AI models for coding, business analysis, and copywriting.md",
+    "dev/shadcn Improve Skill.md",
+    "dev/Developing Taste.md",
+    "dev/shadcn Skills.md",
+    "resources/ai chats/deep-research-report.md",
     "drafts/Mengkultivasi Kebosanan.md",
     "drafts/Konsistensi.md",
     "drafts/Brainrotted gooner mencoba meditasi.md",
@@ -236,17 +248,8 @@
     "public/Pasted image 20260707114148.png",
     "public/Pasted image 20260707140429.png",
     "resources/clippings/Notion Is Where Productivity Goes to Die  I Like Kill Nerds.md",
-    "dev/emilkowalskiskills Skills for Design Engineers.md",
-    "dev/Developing Taste.md",
-    "dev/Animation Vocabulary.md",
-    "dev/Flagship AI models for coding, business analysis, and copywriting.md",
     "dev/Low-cost and open-model report, with OpenCode Go coverage.md",
-    "dev/Say precisely what you mean.md",
-    "dev/shadcn Improve Skill.md",
     "dev/AI Skills for Design Engineers.md",
-    "dev/Vercel Agent Skills.md",
-    "dev/Git Commit Skill.md",
-    "dev/Vercel Native SDK.md",
     "resources/clippings/Make Your Writing Flow  Sentences Transitions, Subordination, and Modification.md",
     "resources/clippings/How to fix your entire life in 1 day.md",
     "resources/clippings/Muscle Hub on X Brutally Effective Beginner KB Complex (Full Body) httpst.coQMJLbv4phX.md",
@@ -255,9 +258,7 @@
     "public/Pasted image 20260712190752.png",
     "areas/Writings.md",
     "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
-    "resources/ai chats/deep-research-report.md",
     "dev",
-    "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
     "drafts/maps/Build.canvas",
     "pictures",
     "Pasted image 20260712190708.png",

@@ -1,9 +1,11 @@
 ---
 title: "shadcn/improve: Use your most capable model to audit your codebase and write plans for cheaper models to execute."
-source: "https://github.com/shadcn/improve"
+source: https://github.com/shadcn/improve
 published:
 created: 2026-07-13
-description: "Use your most capable model to audit your codebase and write plans for cheaper models to execute. - shadcn/improve"
+description: Use your most capable model to audit your codebase and write plans for cheaper models to execute. - shadcn/improve
+tags:
+  - skills
 ---
 ## improve
 

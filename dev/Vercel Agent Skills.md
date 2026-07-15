@@ -1,9 +1,11 @@
 ---
-title: "vercel-labs/agent-skills — Agent skills"
-source: "https://www.skills.sh/vercel-labs/agent-skills"
+title: vercel-labs/agent-skills — Agent skills
+source: https://www.skills.sh/vercel-labs/agent-skills
 published:
 created: 2026-07-13
-description: "13 agent skills from vercel-labs/agent-skills — including vercel-react-best-practices, web-design-guidelines, vercel-composition-patterns. Install with npx skills add vercel-labs/agent-skills."
+description: 13 agent skills from vercel-labs/agent-skills — including vercel-react-best-practices, web-design-guidelines, vercel-composition-patterns. Install with npx skills add vercel-labs/agent-skills.
+tags:
+  - skills
 ---
 # vercel-labs/agent-skills
 ## React

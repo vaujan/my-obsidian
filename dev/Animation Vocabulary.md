@@ -1,9 +1,11 @@
 ---
-title: "Vocabulary"
-source: "https://animations.dev/vocabulary"
+title: Vocabulary
+source: https://animations.dev/vocabulary
 published:
 created: 2026-07-14
-description: "A glossary of common animation patterns, so you know what to ask for."
+description: A glossary of common animation patterns, so you know what to ask for.
+tags:
+  - skills
 ---
 # Entrances & Exits
 

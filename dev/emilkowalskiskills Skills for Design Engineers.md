@@ -1,9 +1,11 @@
 ---
 title: "emilkowalski/skills: Skills for Design Engineers."
-source: "https://github.com/emilkowalski/skills"
+source: https://github.com/emilkowalski/skills
 published:
 created: 2026-07-14
-description: "Skills for Design Engineers. Contribute to emilkowalski/skills development by creating an account on GitHub."
+description: Skills for Design Engineers. Contribute to emilkowalski/skills development by creating an account on GitHub.
+tags:
+  - skills
 ---
 [![opengraph-image-pwu6ef](https://private-user-images.githubusercontent.com/36730035/619431456-a405a37f-1a1a-4e8d-8fd6-269ee6d4fba6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQwMjQxNjUsIm5iZiI6MTc4NDAyMzg2NSwicGF0aCI6Ii8zNjczMDAzNS82MTk0MzE0NTYtYTQwNWEzN2YtMWExYS00ZThkLThmZDYtMjY5ZWU2ZDRmYmE2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE0VDEwMTEwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgzMDQwN2NlOTY1MjRhNDQ1NTAyY2VlOTI2YzgyN2JlNmM0Mzk0OTE5NWYwYWNkMzE0NzEwODA3Njc5NGU1OWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.ti8NrsXwUkHCjOcncbt1_AERJ2kANoYn9PxvBCZXdms)](https://animations.dev/)
 

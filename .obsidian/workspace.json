@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9de4de2d3d9edabe",
+        "id": "7b743d051d798d8d",
         "type": "tabs",
         "children": [
           {
-            "id": "6dc63742accfe6bd",
+            "id": "934e136cb1d83a77",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "_archive/Excalidraw Kuskus.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw Kuskus"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -208,12 +206,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3951c83798dcf733",
+  "active": "934e136cb1d83a77",
   "lastOpenFiles": [
+    "_archive/Excalidraw Kuskus.excalidraw",
     "resources/clippings/Post by @marcelkargul on X.md",
     "resources/clippings/make-interfaces-feel-better Skill - jakubkrehel.md",
     "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
-    "_archive/Excalidraw Kuskus.excalidraw",
     "dev/Git Commit Skill.md",
     "dev/Say precisely what you mean.md",
     "dev/emilkowalskiskills Skills for Design Engineers.md",

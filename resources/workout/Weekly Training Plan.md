@@ -1,4 +1,5 @@
 # Weekly Training Plan
+tags: #workout
 
 ## Monday — Home Strength A
 

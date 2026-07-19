@@ -11,10 +11,15 @@
             "id": "286a4ef584cf55f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Note for Kuskus Development.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Note for Kuskus Development"
             }
           }
         ]
@@ -85,12 +90,11 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 200
   },
   "right": {
     "id": "3da6fab6773ac8c5",
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/ai chats/Personalised Training Plan.md",
+                "file": "Note for Kuskus Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Personalised Training Plan"
+              "title": "Backlinks for Note for Kuskus Development"
             }
           },
           {
@@ -125,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/ai chats/Personalised Training Plan.md",
+                "file": "Note for Kuskus Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Personalised Training Plan"
+              "title": "Outgoing links from Note for Kuskus Development"
             }
           },
           {
@@ -149,26 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Note for Kuskus Development.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "fbc2f83027a61d33",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Outline of Note for Kuskus Development"
             }
           }
         ],
@@ -197,6 +188,15 @@
   },
   "active": "286a4ef584cf55f1",
   "lastOpenFiles": [
+    "Pasted image 20260719163242.png",
+    "_archive/Excalidraw Kuskus.excalidraw",
+    "public/Pasted image 20260719154418.png",
+    "Note for Kuskus Development.md",
+    "public/Pasted image 20260719155551.png",
+    "drafts/Video Game, Mimpi jadi Kaya dan Disfungsi Ereksi.md",
+    "public/Pasted image 20260719155213.png",
+    "public/Pasted image 20260719155212.png",
+    "public/Pasted image 20260719155210.png",
     "resources/clippings/vercel-labsdeepsec Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents.md",
     "resources/clippings/React Bits - Animated UI Components For React.md",
     "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
@@ -216,7 +216,6 @@
     "resources/workout/Norwegian 4x4 - Single Kettlebell v2.md",
     "resources/workout/Fauzan_Training_Log.xlsx",
     "drafts/Brainrotted gooner mencoba meditasi.md",
-    "_archive/Excalidraw Kuskus.excalidraw",
     "resources/clippings/Post by @marcelkargul on X.md",
     "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
     "dev/Git Commit Skill.md",
@@ -227,21 +226,13 @@
     "dev/Vercel Native SDK.md",
     "dev/Flagship AI models for coding, business analysis, and copywriting.md",
     "dev/shadcn Improve Skill.md",
-    "dev/Developing Taste.md",
-    "dev/shadcn Skills.md",
-    "drafts/Mengkultivasi Kebosanan.md",
     "public/Pasted image 20260707114148.png",
     "public/Pasted image 20260707140429.png",
     "public/Pasted image 20260712190812.png",
     "dev",
     "pictures",
     "Pasted image 20260712190708.png",
-    "Pasted image 20260712190659.png",
-    "public/Pasted image 20260712190613.png",
-    "public/Pasted image 20260712190538.png",
-    "public/Pasted image 20260712190502.png",
     "drafts/maps/Build",
-    "public/Pasted image 20260711174229.png",
     "Untitled.canvas",
     "Untitled.base",
     "public",

@@ -8,15 +8,15 @@ This is enough to preserve or build muscle while cutting, provided the sets are 
 
 ## Weekly structure
 
-|Day|Training|
-|---|---|
-|Monday|Home Strength A|
-|Tuesday|Walking or easy rucking|
-|Wednesday|Rest or ordinary walking|
-|Thursday|Home Strength B|
-|Friday|Rest|
-|Saturday|Full-body gym|
-|Sunday|Easy walking, rucking, or complete rest|
+| Day       | Training                                |
+| --------- | --------------------------------------- |
+| Monday    | Home Strength A                         |
+| Tuesday   | Walking or easy rucking                 |
+| Wednesday | Rest or ordinary walking                |
+| Thursday  | Home Strength B                         |
+| Friday    | Rest                                    |
+| Saturday  | Full-body gym                           |
+| Sunday    | Easy walking, rucking, or complete rest |
 
 The exact days do not matter. Just avoid placing all three strength sessions consecutively.
 

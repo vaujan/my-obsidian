@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7b743d051d798d8d",
+        "id": "e0eb71d5666fb875",
         "type": "tabs",
         "children": [
           {
-            "id": "934e136cb1d83a77",
+            "id": "286a4ef584cf55f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resources/workout/Weekly Training Plan.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Weekly Training Plan"
-            }
-          },
-          {
-            "id": "20bedfacb8359ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resources/workout/Weekly Training Plan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Weekly Training Plan"
+              "title": "New tab"
             }
           }
         ]
@@ -69,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#skills",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,12 +85,12 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "3da6fab6773ac8c5",
@@ -169,13 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/workout/Weekly Training Plan.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Weekly Training Plan"
+              "title": "Outline"
             }
           },
           {
@@ -193,12 +172,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,17 +195,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "934e136cb1d83a77",
+  "active": "286a4ef584cf55f1",
   "lastOpenFiles": [
-    "resources/ai chats/deep-research-report.md",
+    "resources/clippings/vercel-labsdeepsec Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents.md",
+    "resources/clippings/React Bits - Animated UI Components For React.md",
+    "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
+    "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
+    "essays/20 Perintah untuk Penulis Amatir.md",
+    "journal/2026-06-30.md",
+    "journal/2026-07-04.md",
+    "public/Pasted image 20260712190752.png",
     "resources/ai chats/Personalised Training Plan.md",
+    "drafts/maps/Consistency.canvas",
+    "drafts/maps/Meditation.canvas",
+    "drafts/maps/Build.canvas",
+    "resources/clippings/make-interfaces-feel-better Skill - jakubkrehel.md",
+    "resources/ai chats/deep-research-report.md",
     "resources/workout/Weekly Training Plan.md",
+    "desktop.ini",
     "resources/workout/Norwegian 4x4 - Single Kettlebell v2.md",
     "resources/workout/Fauzan_Training_Log.xlsx",
     "drafts/Brainrotted gooner mencoba meditasi.md",
     "_archive/Excalidraw Kuskus.excalidraw",
     "resources/clippings/Post by @marcelkargul on X.md",
-    "resources/clippings/make-interfaces-feel-better Skill - jakubkrehel.md",
     "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
     "dev/Git Commit Skill.md",
     "dev/Say precisely what you mean.md",
@@ -240,33 +230,22 @@
     "dev/Developing Taste.md",
     "dev/shadcn Skills.md",
     "drafts/Mengkultivasi Kebosanan.md",
-    "drafts/Konsistensi.md",
-    "journal/2026-06-30.md",
     "public/Pasted image 20260707114148.png",
     "public/Pasted image 20260707140429.png",
-    "resources/clippings/Notion Is Where Productivity Goes to Die  I Like Kill Nerds.md",
-    "dev/Low-cost and open-model report, with OpenCode Go coverage.md",
-    "dev/AI Skills for Design Engineers.md",
-    "resources/clippings/Make Your Writing Flow  Sentences Transitions, Subordination, and Modification.md",
     "public/Pasted image 20260712190812.png",
-    "public/Pasted image 20260712190752.png",
     "dev",
-    "drafts/maps/Build.canvas",
     "pictures",
     "Pasted image 20260712190708.png",
     "Pasted image 20260712190659.png",
     "public/Pasted image 20260712190613.png",
     "public/Pasted image 20260712190538.png",
     "public/Pasted image 20260712190502.png",
-    "drafts/maps/Consistency.canvas",
     "drafts/maps/Build",
-    "drafts/maps/Meditation.canvas",
     "public/Pasted image 20260711174229.png",
     "Untitled.canvas",
     "Untitled.base",
     "public",
     "resources/clippings",
-    "resources/later",
-    "Testing.sheet"
+    "resources/later"
   ]
 }

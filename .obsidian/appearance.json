@@ -1,12 +1,12 @@
 {
-  "cssTheme": "Flexoki",
+  "cssTheme": "",
   "accentColor": "",
   "showRibbon": false,
   "interfaceFontFamily": "IBM Plex Sans",
   "textFontFamily": "IBM Plex Serif",
   "monospaceFontFamily": "IBM Plex Mono",
   "baseFontSize": 17,
-  "theme": "system",
+  "theme": "obsidian",
   "baseFontSizeAction": true,
   "showViewHeader": true
 }

@@ -16,3 +16,4 @@ Scrollbar and toolbar index problems, make it impossible to minimize, maximize o
 11. For the menu should we have it? ![[Pasted image 20260719163242.png]]
 12. Item detail control: Renaming, deleting
 	1. Separate the floating control, the X button should be in the top-right corner, the rest are on the top-left
+	2. 

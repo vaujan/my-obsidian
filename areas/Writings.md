@@ -1,17 +1,19 @@
 - Title: What I talk about when I talked about gooning
 - **Silentmaxxing**
-	- Menanamkan kemampuan berhenti di dunia yang terus berlari
-	- Menanamkan kemampuan menahan sunyi di tengah kebisingan
+  - Menanamkan kemampuan berhenti di dunia yang terus berlari
+  - Menanamkan kemampuan menahan sunyi di tengah kebisingan
 - Freestyle writing: Menulis tanpa format
 - Kenapa pria sering 'meminta lebih banyak waktu' di lagu cinta
 - Instagram is a mask party, some people leave the party faceless
 - Man chases the thing they want, until the thing they need pull them back.
-    - Manusia mengejar apa yang mereka inginkan, sampai apa yang mereka butuhkan menarik mereka kembali.
+  - Manusia mengejar apa yang mereka inginkan, sampai apa yang mereka butuhkan menarik mereka kembali.
 - It's okay if you like AI music, just dont put it on speaker
 - Make writing and reading separate; and make reading and researching separate
 - My dad is watching AI generated video on our dinner table and I don't blame him
-	- I can focus on what he did wrong that day; I can judge my dad based on what he didn't do right. 
-	- But I also can judge him based on what he did right: raising me as an independent thinker who can think differently from him — rather than just following him blindly. 
---- 
-- Design thinking: sebelum dan sesudah era generative AI 
-	- Keep it super simple. **Empathize, ProtoMVP, Iterate**
+  - I can focus on what he did wrong that day; I can judge my dad based on what he didn't do right.
+  - But I also can judge him based on what he did right: raising me as an independent thinker who can think differently from him — rather than just following him blindly.
+
+---
+
+- Design thinking: sebelum dan sesudah era generative AI
+  - Keep it super simple. **Empathize, ProtoMVP, Iterate**

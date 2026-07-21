@@ -11,6 +11,8 @@ I have watched people spend more time building their Notion setup than actually 
 
 ## You are building a system, not doing work
 
+C:\\Users\\Fauzan\\Documents\\fauzan-obsidian\\dev\\shadcn Skills.md
+
 The Notion trap works like this. You decide to get organised. You open Notion. You create a database for your tasks. But wait, tasks have projects, so you need a projects database. And projects have areas, so you need an areas database. And you should link them with relations. And you need different views. And maybe a dashboard that shows everything. And some templates so you can create things faster.
 
 Three hours later you have built an elaborate system. You have not done any actual work, but you feel accomplished because the system looks impressive. You share it on Twitter. People ask for the template. You are now a productivity influencer.

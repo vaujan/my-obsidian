@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e014e81b-4220-4a17-9051-ade0a8654893</dc:identifier>
+        <dc:title>The Odyssey</dc:title>
+        <dc:creator opf:file-as="Homer, Homer" opf:role="aut">Homer Homer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2026-01-01T03:57:49.968123+00:00</dc:date>
+        <dc:description>&lt;p&gt;Embark on an Epic Journey with Homer’s The OdysseyThe Odyssey, attributed to the ancient Greek poet Homer, is a timeless epic that chronicles the adventurous voyage of Odysseus as he strives to return home after the Trojan War. Composed between 751 and 651 BCE, this foundational work of Western literature explores themes of heroism, loyalty, cunning, and the enduring human spirit. Through vivid storytelling and memorable characters, Homer immerses readers in a world of gods and monsters, treacherous seas, and moral dilemmas, capturing the complexities of human nature and the quest for identity and belonging. Odysseus’s ten-year odyssey is not only a physical journey but also a profound exploration of perseverance and ingenuity in the face of adversity. The narrative’s rich symbolism and poetic language have influenced countless generations, making The Odyssey a cornerstone of literary history. Whether read for its adventurous plot or its philosophical insights, this epic continues to resonate with modern audiences, inspiring reflections on resilience, leadership, and the pursuit of home.&lt;/p&gt;
+
+&lt;p&gt;Homer, the legendary ancient Greek poet, is traditionally credited as the author of both The Odyssey and The Iliad. Although little is known about his life, he is revered as the greatest storyteller of Greek oral tradition. His works have shaped Western literature and continue to be studied for their poetic mastery, cultural significance, and profound exploration of human values. Homer’s epics are considered foundational texts that have influenced countless writers, artists, and thinkers throughout history.&lt;/p&gt;</dc:description>
+        <dc:publisher>Primento Digital sprl</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">OxnUEQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9782496770582</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Anthologies (Multiple Authors)</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>https://archive.org/details/odyssey00home_1</dc:subject>
+        <dc:subject>Poetry</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Subjects &amp; Themes</dc:subject>
+        <meta name="calibre:timestamp" content="2026-07-22T03:57:11.884290+00:00"/>
+        <meta name="calibre:title_sort" content="Odyssey, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

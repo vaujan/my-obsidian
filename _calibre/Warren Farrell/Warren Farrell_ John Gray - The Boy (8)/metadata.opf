@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">534fd7d1-55d9-42ea-8a51-9a6f1d741646</dc:identifier>
+        <dc:title>Warren Farrell_ John Gray - The Boy Crisis_ Why Our Boys Are Struggling and What We Can Do about It-Benbella Books (2018)(Z-Lib.io)</dc:title>
+        <dc:creator opf:file-as="Farrell, Warren &amp; Gray, John" opf:role="aut">Warren Farrell</dc:creator>
+        <dc:creator opf:file-as="Farrell, Warren &amp; Gray, John" opf:role="aut">John Gray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-28T15:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">5830D0792F3D478F97D104E0D3BAF47B</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2026-07-22T04:00:46.625053+00:00"/>
+        <meta name="calibre:title_sort" content="Warren Farrell_ John Gray - The Boy Crisis_ Why Our Boys Are Struggling and What We Can Do about It-Benbella Books (2018)(Z-Lib.io)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ded1f1ef5dc9f2a1",
+        "id": "0236349a7b09eaea",
         "type": "tabs",
         "children": [
           {
@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Note for Kuskus Development.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -90,12 +90,12 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "3da6fab6773ac8c5",
@@ -202,10 +202,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "55c7906a4516e7b2",
+  "active": "3951c83798dcf733",
   "lastOpenFiles": [
-    "areas/Dev.md",
+    "Pasted image 20260722194328.png",
+    "drafts/Konsistensi.md",
     "Note for Kuskus Development.md",
+    "areas/Dev.md",
     "resources/clippings/The Building Block Economy.md",
     "resources/workout/Fauzan_Training_Log.xlsx",
     "public/Pasted image 20260719163242.png",
@@ -241,8 +243,6 @@
     "dev/Git Commit Skill.md",
     "dev/Say precisely what you mean.md",
     "dev/emilkowalskiskills Skills for Design Engineers.md",
-    "dev/Animation Vocabulary.md",
-    "dev/Vercel Agent Skills.md",
     "public/Pasted image 20260707114148.png",
     "public/Pasted image 20260707140429.png",
     "public/Pasted image 20260712190812.png",

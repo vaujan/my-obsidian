@@ -13,10 +13,13 @@ Scrollbar and toolbar index problems, make it impossible to minimize, maximize o
 8. Complete the folder and tags functionality so we can click it, and use it
 	1. The demo content folder should contain 
 9. For the alert, are we using shadcn? 
-10. For the windows control buttons, can what is the 'original buttons' that is used? Also use the familiar windows colors for the it
+10. For the windows control buttons, what is the 'original buttons' that is used? Also use the familiar windows colors for the it
 11. For the menu should we have it? ![[Pasted image 20260719163242.png]]
 12. Item detail control: Renaming, deleting
 	1. Separate the floating control, the X button should be in the top-right corner, the rest are on the top-left
 13. The local built should be in a human-readable contents
 	1. Tolaria.md is vault based notes management, so it works with existing obsidian **vault**
 	2. Hello world
+14. Draft should render the markdown while we type it (just dont include the detailed formatting, just straight writing in markdown), show the picture. 
+     ![[Pasted image 20260722194328.png]]
+ 15. For headings (# Heading), shouldn't be styled (code formatted, bold, italic, strikethrough). The default rendering should be in bold (like how it is shown in the item library)

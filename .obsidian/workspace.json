@@ -90,12 +90,11 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 230.5
   },
   "right": {
     "id": "3da6fab6773ac8c5",
@@ -202,11 +201,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3951c83798dcf733",
+  "active": "55c7906a4516e7b2",
   "lastOpenFiles": [
     "Pasted image 20260722194328.png",
-    "drafts/Konsistensi.md",
     "Note for Kuskus Development.md",
+    "drafts/Konsistensi.md",
     "areas/Dev.md",
     "resources/clippings/The Building Block Economy.md",
     "resources/workout/Fauzan_Training_Log.xlsx",
@@ -245,7 +244,6 @@
     "dev/emilkowalskiskills Skills for Design Engineers.md",
     "public/Pasted image 20260707114148.png",
     "public/Pasted image 20260707140429.png",
-    "public/Pasted image 20260712190812.png",
     "dev",
     "pictures",
     "drafts/maps/Build",

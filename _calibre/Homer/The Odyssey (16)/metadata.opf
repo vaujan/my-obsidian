@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d44b30c-268c-406d-bf01-f7b06261bd51</dc:identifier>
+        <dc:title>The Odyssey</dc:title>
+        <dc:creator opf:file-as="Homer" opf:role="aut">Homer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-07T13:47:15.094092+00:00</dc:date>
+        <dc:description>&lt;p&gt;Homer’s great epic of a hero’s journey home—inspiration for the major motion picture by Christopher Nolan—in a bold, contemporary, and refreshingly readable translation. "Wilson’s language is fresh, unpretentious and lean. . . . It is rare to find a translation that is at once so effortlessly easy to read and so rigorously considered.&lt;/p&gt;
+
+&lt;p&gt;" —Madeline Miller, author of Circe Composed at the rosy-fingered dawn of world literature almost three millennia ago, The Odyssey is a poem about violence and the aftermath of war; about wealth, poverty, and power; about marriage and family; about travelers, hospitality, and the yearning for home. This fresh, authoritative translation captures the beauty of this ancient poem as well as the drama of its narrative. Its characters are unforgettable, none more so than the “complicated” hero himself, a man of many disguises, many tricks, and many moods, who emerges in this version as a more fully rounded human being than ever before. Written in iambic pentameter verse and a vivid, contemporary idiom, Emily Wilson’s Odyssey sings with a voice that echoes the epic’s music, sailing along at Homer’s swift, smooth pace. A fascinating, informative introduction explores the Bronze Age milieu that produced the epic, the poem’s major themes, the controversies about its origins, and the unparalleled scope of its impact and influence. Maps drawn especially for this volume, a pronunciation glossary, and extensive notes and summaries of each book make this an Odyssey that will be treasured by a new generation of readers.&lt;/p&gt;</dc:description>
+        <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780393634563</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">PpJYDgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poetry</dc:subject>
+        <dc:subject>Ancient &amp; Classical</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Fairy Tales; Folk Tales; Legends &amp; Mythology</dc:subject>
+        <dc:subject>Epic</dc:subject>
+        <meta name="calibre:timestamp" content="2026-07-23T13:47:05.107193+00:00"/>
+        <meta name="calibre:title_sort" content="Odyssey, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

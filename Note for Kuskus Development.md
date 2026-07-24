@@ -31,3 +31,5 @@
 8. Detailed view (Inkdrop or Evernote style), item list pane and detailed pane
 9. Lack visual feedback in clicked link item
 10. The sonner design looks very standard
+11. The cleanup word has red underline, but right-clicking is not working 
+	![[Pasted image 20260724000222.png]]

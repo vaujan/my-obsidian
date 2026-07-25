@@ -39,3 +39,5 @@
 15. UI reference for current development ![[Pasted image 20260725004930.png]]
 16. Like all of your notes, we are here to stay! 
 17. Pin items
+18. Is this not a notetaking app? 
+19. Sk

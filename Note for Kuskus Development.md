@@ -33,3 +33,9 @@
 10. The sonner design looks very standard
 11. The cleanup word has red underline, but right-clicking is not working 
 	![[Pasted image 20260724000222.png]]
+12. Kukus markdown typeset and typeset docs is different
+13. I am thinking that the detailed pane for our markdown editor should have the same typeset styling with the library note markdown render
+14. Q: based on our current implementation, what should we expect of the implementations? what components that are affected? Right now, we only seeing 'no animation' stuffs
+15. UI reference for current development ![[Pasted image 20260725004930.png]]
+16. Like all of your notes, we are here to stay! 
+17. Pin items

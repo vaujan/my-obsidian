@@ -1,0 +1,2682 @@
+{
+	"version": 1,
+	"date": "2026-07-25T17:26:00.850Z",
+	"items": {
+		"FILES/.tangent/tags": {
+			"uuid": "1f1884db-1d1c-64d0-ab56-de8d010051a5"
+		},
+		"FILES/.tangent/tangents": {
+			"uuid": "1f1884db-1d1c-64d1-bee0-0e88eb31229d"
+		},
+		"FILES/.tangent/tangents/FAUZAN-PC_0": {
+			"uuid": "1f1884db-1d3c-60a0-abf9-dda17ceb2a8a"
+		},
+		"FILES/.tangent/tangents/FAUZAN-PC_0/sessions": {
+			"uuid": "1f1884db-2030-6e00-9d2e-d32fbfe80740"
+		},
+		"FILES/.tangent/tangents/FAUZAN-PC_0/sessions/2026-7-26_2-24-30.tangentsession": {
+			"uuid": "1f1884db-2030-6e01-9b6e-8873f942f38a"
+		},
+		"FILES/.tangent/tangents/FAUZAN-PC_0/state": {
+			"uuid": "1f1884db-8748-67a0-a39f-fd836607bd24"
+		},
+		"FILES/.tangent/tangents/FAUZAN-PC_0/state/1f1884db-1c2d-60b0-bda0-bd1ddfc07c9e.noteview": {
+			"uuid": "1f1884db-8748-67a1-bf10-a7cd2bb04d71"
+		},
+		"FILES/.tangent/tangents/FAUZAN-PC_0/state/1f1884db-1bf0-6020-b173-ce5acfc01117.noteview": {
+			"uuid": "1f1884db-a409-6510-99e1-ca0c40e8e8a8"
+		},
+		"FILES/.tangent/tangents/FAUZAN-PC_0/state/1f1884db-1c03-68a0-b3c4-84335e958176.noteview": {
+			"uuid": "1f1884dc-38aa-6a20-b2d6-a3ed55f5193a"
+		},
+		"FILES/.tangent/tangents/FAUZAN-PC_0/state/1f1884db-1c2f-67c0-a1f2-26d5ff3d4a69.noteview": {
+			"uuid": "1f1884db-ee73-69c0-980d-234f80335999"
+		},
+		"FILES/.tangent/tangents/FAUZAN-PC_0/state/1f1884db-1bd0-6450-8a72-fa8016c9cbf8.noteview": {
+			"uuid": "1f1884dd-80e4-6830-b9bd-a8a5a71f0f7b"
+		},
+		"FILES/.tangent/tangents/FAUZAN-PC_0/state/1f1884db-1bc4-6100-807f-7de11c2db2fd.noteview": {
+			"uuid": "1f1884dd-ff54-6ad0-980e-abf4d3e53db1"
+		},
+		"FILES/.tangent/tangents/FAUZAN-PC_0/state/1f1884dc-a5dc-6bc0-a707-37cc840e8666.noteview": {
+			"uuid": "1f1884de-0bbf-6630-8412-8b5c9ae2c9aa"
+		},
+		"FILES/.tangent/tangents/FAUZAN-PC_0/tangent.json": {
+			"uuid": "1f1884db-1d3e-67b0-8fa7-d2d63001a950"
+		},
+		"FILES/areas/Dev.md": {
+			"uuid": "1f1884db-1b5f-6f70-8097-d7e47e8dc443",
+			"modified": "2026-07-20T10:58:44.167Z"
+		},
+		"FILES/areas/Writings.md": {
+			"uuid": "1f1884db-1b3b-6580-be54-e65ab9bfcbc0",
+			"modified": "2026-07-20T08:41:57.615Z"
+		},
+		"FILES/areas/.tangentfolder": {
+			"uuid": "1f1884db-6559-6f40-abe0-644c2afeeb6a"
+		},
+		"FILES/dev/Animation Vocabulary.md": {
+			"uuid": "1f1884db-1b40-63a0-b1c6-20c8ab84ed94",
+			"modified": "2026-07-14T11:51:15.766Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 198,
+					"data": {
+						"title": "Vocabulary",
+						"source": "https://animations.dev/vocabulary",
+						"published": null,
+						"created": "2026-07-14",
+						"description": "A glossary of common animation patterns, so you know what to ask for.",
+						"tags": [
+							"skills"
+						]
+					}
+				},
+				{
+					"type": 5,
+					"form": "front-matter",
+					"start": 0,
+					"end": 0,
+					"href": "skills",
+					"to": "#/SKILLS"
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Entrances & Exits",
+					"start": 199,
+					"end": 218
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Sequencing & Timing",
+					"start": 772,
+					"end": 793
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Movement & Transforms",
+					"start": 1581,
+					"end": 1604
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Transitions Between States",
+					"start": 2328,
+					"end": 2356
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Scroll",
+					"start": 3219,
+					"end": 3227
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Easing",
+					"start": 3746,
+					"end": 3754
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": " Spring Animations",
+					"start": 4390,
+					"end": 4410
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Looping & Ambient Motion",
+					"start": 5385,
+					"end": 5411
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Polish & Effects",
+					"start": 6059,
+					"end": 6077
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Performance",
+					"start": 7073,
+					"end": 7086
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Principles to Know",
+					"start": 7829,
+					"end": 7849
+				}
+			]
+		},
+		"FILES/dev/Developing Taste.md": {
+			"uuid": "1f1884db-1b71-60e0-a84d-964084467852",
+			"modified": "2026-07-14T10:05:05.183Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 172,
+					"data": {
+						"title": "Developing Taste",
+						"source": "https://emilkowal.ski/ui/developing-taste",
+						"published": null,
+						"created": "2026-07-14",
+						"description": "Why taste matters and how to develop it."
+					}
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Surround yourself with great work",
+					"start": 1223,
+					"end": 1259
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Think about why you like something",
+					"start": 1964,
+					"end": 2001
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Practice",
+					"start": 2538,
+					"end": 2549
+				}
+			]
+		},
+		"FILES/dev/emilkowalskiskills Skills for Design Engineers.md": {
+			"uuid": "1f1884db-1b7f-6b40-a3d0-83e95584f037",
+			"modified": "2026-07-14T11:51:23.070Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 283,
+					"data": {
+						"title": "emilkowalski/skills: Skills for Design Engineers.",
+						"source": "https://github.com/emilkowalski/skills",
+						"published": null,
+						"created": "2026-07-14",
+						"description": "Skills for Design Engineers. Contribute to emilkowalski/skills development by creating an account on GitHub.",
+						"tags": [
+							"skills"
+						]
+					}
+				},
+				{
+					"type": 5,
+					"form": "front-matter",
+					"start": 0,
+					"end": 0,
+					"href": "skills",
+					"to": "#/SKILLS"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Skills For Design Engineers",
+					"start": 1163,
+					"end": 1193
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Install",
+					"start": 1900,
+					"end": 1910
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Why use it",
+					"start": 1963,
+					"end": 1977
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Reference",
+					"start": 2713,
+					"end": 2725
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Improve animations",
+					"start": 3752,
+					"end": 3774
+				}
+			]
+		},
+		"FILES/dev/Git Commit Skill.md": {
+			"uuid": "1f1884db-1bd5-6270-aa30-d7c5952a3603",
+			"modified": "2026-07-14T13:08:21.532Z",
+			"structure": [
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 0,
+					"end": 7,
+					"href": "skills",
+					"context": "#skills ",
+					"to": "#/SKILLS"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Commit message",
+					"start": 9,
+					"end": 26
+				}
+			]
+		},
+		"FILES/dev/Low-cost and open-model report, with OpenCode Go coverage.md": {
+			"uuid": "1f1884db-1bb5-66a0-a801-bac32a4de00e",
+			"modified": "2026-07-13T07:35:52.385Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Low-cost and open-model report with OpenCode Go coverage",
+					"start": 0,
+					"end": 59
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Executive recommendation",
+					"start": 258,
+					"end": 285
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "What OpenCode Go includes today",
+					"start": 1467,
+					"end": 1501
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Capability comparison",
+					"start": 3071,
+					"end": 3095
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Notes on the leading Go choices",
+					"start": 4444,
+					"end": 4478
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "GLM-52",
+					"start": 4480,
+					"end": 4491
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Kimi K27 Code",
+					"start": 4709,
+					"end": 4727
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "MiniMax M3 and M27",
+					"start": 5031,
+					"end": 5054
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "MiMo-V25-Pro and MiMo-V25",
+					"start": 5460,
+					"end": 5491
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "DeepSeek V4 Pro and Flash",
+					"start": 5892,
+					"end": 5921
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Qwen37 Max and Plus",
+					"start": 6385,
+					"end": 6409
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Open source versus open weight versus hosted access",
+					"start": 6682,
+					"end": 6740
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "How Go compares with cheap proprietary APIs",
+					"start": 7769,
+					"end": 7815
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Recommended OpenCode routing policy",
+					"start": 8850,
+					"end": 8888
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Operational caveats",
+					"start": 9832,
+					"end": 9854
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Bottom line",
+					"start": 10787,
+					"end": 10801
+				}
+			]
+		},
+		"FILES/dev/Say precisely what you mean.md": {
+			"uuid": "1f1884db-1b89-6780-a285-9f16ffcc11e2",
+			"modified": "2026-07-14T11:51:39.555Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 208,
+					"data": {
+						"title": "Say precisely what you mean.",
+						"source": "https://index.how/to/articulate",
+						"published": null,
+						"created": "2026-07-14",
+						"description": "The words designers use when they know what they’re looking at.",
+						"tags": [
+							"skills"
+						]
+					}
+				},
+				{
+					"type": 5,
+					"form": "front-matter",
+					"start": 0,
+					"end": 0,
+					"href": "skills",
+					"to": "#/SKILLS"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Vocabulary",
+					"start": 209,
+					"end": 222
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Typography",
+					"start": 379,
+					"end": 392
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Color",
+					"start": 4005,
+					"end": 4013
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 5199,
+					"end": 5206,
+					"href": "808080",
+					"context": "A grey with a slight hue bias. Pure #808080 looks like a placeholder. A tinted neutral feels chosen.",
+					"to": "#/808080"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Iconography",
+					"start": 6410,
+					"end": 6424
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Layout",
+					"start": 8844,
+					"end": 8853
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Motion",
+					"start": 12043,
+					"end": 12052
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Accessibility",
+					"start": 15116,
+					"end": 15132
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Information Architecture",
+					"start": 17109,
+					"end": 17136
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Copywriting",
+					"start": 20055,
+					"end": 20069
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Tools",
+					"start": 22924,
+					"end": 22932
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Analysis",
+					"start": 25746,
+					"end": 25757
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Components",
+					"start": 27644,
+					"end": 27657
+				}
+			]
+		},
+		"FILES/dev/shadcn Improve Skill.md": {
+			"uuid": "1f1884db-1bc4-6101-ac5b-1fec15929459",
+			"modified": "2026-07-14T11:51:54.750Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 348,
+					"data": {
+						"title": "shadcn/improve: Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+						"source": "https://github.com/shadcn/improve",
+						"published": null,
+						"created": "2026-07-13",
+						"description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute. - shadcn/improve",
+						"tags": [
+							"skills"
+						]
+					}
+				},
+				{
+					"type": 5,
+					"form": "front-matter",
+					"start": 0,
+					"end": 0,
+					"href": "skills",
+					"to": "#/SKILLS"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "improve",
+					"start": 349,
+					"end": 359
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Install",
+					"start": 943,
+					"end": 953
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Usage",
+					"start": 1158,
+					"end": 1166
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "How to use",
+					"start": 1984,
+					"end": 1997
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Example",
+					"start": 2865,
+					"end": 2875
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 3632,
+					"end": 3634,
+					"href": "1",
+					"context": "Picking #1 produced [this plan](https://github.com/shadcn/improve/blob/main/examples/001-extract-shadow-config-resolution.md) — current code excerpted, exact steps, the repo's own test/lint commands as verification gates, and STOP conditions for when reality doesn't match.",
+					"to": "#/1"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "How it works",
+					"start": 3899,
+					"end": 3914
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "What makes the plans executable",
+					"start": 5192,
+					"end": 5226
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Closing the loop",
+					"start": 6047,
+					"end": 6066
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Hard rules",
+					"start": 6804,
+					"end": 6817
+				}
+			]
+		},
+		"FILES/dev/shadcn Skills.md": {
+			"uuid": "1f1884db-1b5f-6f71-8e30-94fb3e3bddb9",
+			"modified": "2026-07-14T11:51:12.191Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 217,
+					"data": {
+						"title": "Skills",
+						"source": "https://ui.shadcn.com/docs/skills",
+						"published": null,
+						"created": "2026-07-14",
+						"description": "Give your AI assistant deep knowledge of shadcn/ui components, patterns, and best practices.",
+						"tags": [
+							"skills"
+						]
+					}
+				},
+				{
+					"type": 5,
+					"form": "front-matter",
+					"start": 0,
+					"end": 0,
+					"href": "skills",
+					"to": "#/SKILLS"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Install",
+					"start": 1084,
+					"end": 1094
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Whats Included",
+					"start": 1353,
+					"end": 1371
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Project Context",
+					"start": 1441,
+					"end": 1460
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "CLI Commands",
+					"start": 1691,
+					"end": 1707
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Theming and Customization",
+					"start": 1894,
+					"end": 1923
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Registry Authoring",
+					"start": 2076,
+					"end": 2098
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "MCP Server",
+					"start": 2277,
+					"end": 2291
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "How It Works",
+					"start": 2423,
+					"end": 2438
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Learn More",
+					"start": 3038,
+					"end": 3051
+				}
+			]
+		},
+		"FILES/dev/Vercel Agent Skills.md": {
+			"uuid": "1f1884db-1bc1-69f0-bb91-c20292626c14",
+			"modified": "2026-07-14T11:52:14.946Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 363,
+					"data": {
+						"title": "vercel-labs/agent-skills — Agent skills",
+						"source": "https://www.skills.sh/vercel-labs/agent-skills",
+						"published": null,
+						"created": "2026-07-13",
+						"description": "13 agent skills from vercel-labs/agent-skills — including vercel-react-best-practices, web-design-guidelines, vercel-composition-patterns. Install with npx skills add vercel-labs/agent-skills.",
+						"tags": [
+							"skills"
+						]
+					}
+				},
+				{
+					"type": 5,
+					"form": "front-matter",
+					"start": 0,
+					"end": 0,
+					"href": "skills",
+					"to": "#/SKILLS"
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "vercel-labsagent-skills",
+					"start": 364,
+					"end": 390
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "React",
+					"start": 391,
+					"end": 399
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "vercel-react-best-practices",
+					"start": 508,
+					"end": 617
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "vercel-composition-patterns",
+					"start": 619,
+					"end": 728
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "vercel-react-native-skills",
+					"start": 730,
+					"end": 837
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "vercel-react-view-transitions",
+					"start": 838,
+					"end": 951
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Vercel",
+					"start": 952,
+					"end": 961
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "deploy-to-vercel",
+					"start": 1034,
+					"end": 1121
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "vercel-cli-with-tokens",
+					"start": 1122,
+					"end": 1221
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "vercel-optimize",
+					"start": 1222,
+					"end": 1307
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Design",
+					"start": 1308,
+					"end": 1317
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "web-design-guidelines",
+					"start": 1401,
+					"end": 1498
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Other skills",
+					"start": 1500,
+					"end": 1515
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "writing-guidelines",
+					"start": 1516,
+					"end": 1607
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "vercel-deploy",
+					"start": 1609,
+					"end": 1690
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "composition-patterns",
+					"start": 1692,
+					"end": 1787
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "vercel-react-best-practices",
+					"start": 1789,
+					"end": 1891
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "react-native-skills",
+					"start": 1893,
+					"end": 1986
+				}
+			]
+		},
+		"FILES/dev/Vercel Native SDK.md": {
+			"uuid": "1f1884db-1bf2-6730-817b-df46cc65612a",
+			"modified": "2026-07-13T06:51:14.058Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 378,
+					"data": {
+						"title": "The Complete Toolkit for Native Apps",
+						"source": "https://native-sdk.dev/",
+						"published": null,
+						"created": "2026-07-13",
+						"description": "Native SDK is the complete toolkit for building beautiful native desktop applications: declarative markup, a predictable message-based state model, a modern component library, and its own native renderer — no browser, no WebView, no compromise."
+					}
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Toolkit for building native desktop apps",
+					"start": 379,
+					"end": 422
+				}
+			]
+		},
+		"FILES/dev/Flagship AI models for coding, business analysis, and copywriting.md": {
+			"uuid": "1f1884db-1b16-6b90-b36d-a421e36744c5",
+			"modified": "2026-07-13T07:37:37.582Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Flagship AI models for coding business analysis and copywriting",
+					"start": 0,
+					"end": 67
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Executive recommendation",
+					"start": 340,
+					"end": 367
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "At-a-glance comparison",
+					"start": 1562,
+					"end": 1587
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Model-by-model assessment",
+					"start": 4290,
+					"end": 4318
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "OpenAI GPT-56 family",
+					"start": 4320,
+					"end": 4345
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Anthropic Claude family",
+					"start": 5388,
+					"end": 5415
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Google Gemini family",
+					"start": 6602,
+					"end": 6626
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Best model by job",
+					"start": 7677,
+					"end": 7697
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Writing and maintaining code",
+					"start": 7699,
+					"end": 7731
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Business analysis",
+					"start": 8293,
+					"end": 8314
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Copywriting and editing",
+					"start": 8842,
+					"end": 8869
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Cost scenarios",
+					"start": 9422,
+					"end": 9439
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Procurement checklist",
+					"start": 10635,
+					"end": 10659
+				},
+				{
+					"type": 4,
+					"start": 10762,
+					"end": 10807,
+					"state": "open",
+					"text": "task success and human correction time;"
+				},
+				{
+					"type": 4,
+					"start": 10808,
+					"end": 10873,
+					"state": "open",
+					"text": "total tokens and wall-clock time, not just per-token price;"
+				},
+				{
+					"type": 4,
+					"start": 10874,
+					"end": 10924,
+					"state": "open",
+					"text": "tool-call correctness and loop/failure rate;"
+				},
+				{
+					"type": 4,
+					"start": 10925,
+					"end": 10972,
+					"state": "open",
+					"text": "citation accuracy and unsupported claims;"
+				},
+				{
+					"type": 4,
+					"start": 10973,
+					"end": 11022,
+					"state": "open",
+					"text": "style adherence and edit distance for copy;"
+				},
+				{
+					"type": 4,
+					"start": 11023,
+					"end": 11100,
+					"state": "open",
+					"text": "security, retention, regional processing, and contractual requirements;"
+				},
+				{
+					"type": 4,
+					"start": 11101,
+					"end": 11167,
+					"state": "open",
+					"text": "stable model IDs, deprecation policy, and fallback behavior."
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Bottom line",
+					"start": 11169,
+					"end": 11183
+				}
+			]
+		},
+		"FILES/dev/.tangentfolder": {
+			"uuid": "1f1884dc-5a72-6180-aa8e-9d4ade7c34df"
+		},
+		"FILES/drafts/Brainrotted gooner mencoba meditasi.md": {
+			"uuid": "1f1884db-1bd0-6450-8a72-fa8016c9cbf8",
+			"modified": "2026-07-11T05:16:24.336Z",
+			"structure": [
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 24,
+					"end": 35,
+					"href": "meditation",
+					"context": "tags: #meditation #silentmaxxing ",
+					"to": "#/MEDITATION"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 36,
+					"end": 50,
+					"href": "silentmaxxing",
+					"context": "tags: #meditation #silentmaxxing ",
+					"to": "#/SILENTMAXXING"
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Tujuan Sederhana Meditasi Untuk Berhenti Memisahkan Meditasi dan Kehidupan Sehari-hari",
+					"start": 52,
+					"end": 141
+				}
+			]
+		},
+		"FILES/drafts/Konsistensi.md": {
+			"uuid": "1f1884db-1bc4-6100-807f-7de11c2db2fd",
+			"modified": "2026-07-22T10:40:22.847Z",
+			"structure": [
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 23,
+					"end": 29,
+					"href": "habit",
+					"context": "tags: #habit",
+					"to": "#/HABIT"
+				}
+			]
+		},
+		"FILES/drafts/Mengkultivasi Kebosanan.md": {
+			"uuid": "1f1884db-1bed-6910-b085-31ad3a39ba44",
+			"modified": "2026-07-10T00:18:43.623Z",
+			"structure": [
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 23,
+					"end": 34,
+					"href": "meditation",
+					"context": "tags: #meditation #silentmaxxing",
+					"to": "#/MEDITATION"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 35,
+					"end": 49,
+					"href": "silentmaxxing",
+					"context": "tags: #meditation #silentmaxxing",
+					"to": "#/SILENTMAXXING"
+				}
+			]
+		},
+		"FILES/drafts/Study Case - looking for multiformat saver with desktop and local storage support.md": {
+			"uuid": "1f1884db-1bd7-6980-8f9a-8cd62820c6d7",
+			"modified": "2026-07-15T06:04:33.359Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Study Case Multiformat Saver for Archiving the Web",
+					"start": 684,
+					"end": 737
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 748,
+					"end": 760,
+					"href": "reflections",
+					"context": "**tags**: #reflections #building #business ",
+					"to": "#/REFLECTIONS"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 761,
+					"end": 770,
+					"href": "building",
+					"context": "**tags**: #reflections #building #business ",
+					"to": "#/BUILDING"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 771,
+					"end": 780,
+					"href": "business",
+					"context": "**tags**: #reflections #building #business ",
+					"to": "#/BUSINESS"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Problems ",
+					"start": 882,
+					"end": 894
+				},
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 1594,
+					"end": 1630,
+					"href": "Pasted image 20260707114148.png",
+					"context": "![[Pasted image 20260707114148.png]]",
+					"to": "FILES/public/Pasted image 20260707114148.png"
+				},
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 2626,
+					"end": 2662,
+					"href": "Pasted image 20260712190613.png",
+					"context": "![[Pasted image 20260712190613.png]]",
+					"to": "FILES/public/Pasted image 20260712190613.png"
+				},
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 4432,
+					"end": 4468,
+					"href": "Pasted image 20260712190538.png",
+					"context": "![[Pasted image 20260712190538.png]]",
+					"to": "FILES/public/Pasted image 20260712190538.png"
+				},
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 6630,
+					"end": 6666,
+					"href": "Pasted image 20260711160957.png",
+					"context": "- [**Fabric**](https://fabric.so/) memiliki fitur yang persis aku butuhkan: penyimpanan multfiformat yang teroganisir dalam satu folder. ![[Pasted image 20260711160957.png]]",
+					"to": "FILES/public/Pasted image 20260711160957.png"
+				},
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 6861,
+					"end": 6897,
+					"href": "Pasted image 20260711174229.png",
+					"context": "- Sama halnya dengan [**Are.na**](https://www.are.na/)  , bisa aku sederhanakan bahwa Are.na sama seperti Pinterest, namun bisa digunakan untuk menyimpan item dengan format lain, selain gambar. ![[Pasted image 20260711174229.png]]",
+					"to": "FILES/public/Pasted image 20260711174229.png"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Sketching the solution",
+					"start": 8529,
+					"end": 8554
+				},
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 9555,
+					"end": 9591,
+					"href": "Pasted image 20260712190812.png",
+					"context": "![[Pasted image 20260712190812.png]]",
+					"to": "FILES/public/Pasted image 20260712190812.png"
+				},
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 9592,
+					"end": 9628,
+					"href": "Pasted image 20260712190752.png",
+					"context": "![[Pasted image 20260712190752.png]]",
+					"to": "FILES/public/Pasted image 20260712190752.png"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Proto-MVP",
+					"start": 9858,
+					"end": 9870
+				}
+			]
+		},
+		"FILES/drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md": {
+			"uuid": "1f1884db-1bf4-6e41-986f-bc5ced793194",
+			"modified": "2026-07-09T08:58:39.483Z",
+			"structure": [
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 23,
+					"end": 34,
+					"href": "meditation",
+					"context": "tags: #meditation #silentmaxxing ",
+					"to": "#/MEDITATION"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 35,
+					"end": 49,
+					"href": "silentmaxxing",
+					"context": "tags: #meditation #silentmaxxing ",
+					"to": "#/SILENTMAXXING"
+				}
+			]
+		},
+		"FILES/drafts/Video Game, Mimpi jadi Kaya dan Disfungsi Ereksi.md": {
+			"uuid": "1f1884db-1bf4-6e40-abd8-c0bec5d88520",
+			"modified": "2026-07-05T01:03:39.986Z"
+		},
+		"FILES/drafts/.tangentfolder": {
+			"uuid": "1f1884dc-6141-6420-84f9-24b4a2d4758f"
+		},
+		"FILES/drafts/New Note.md": {
+			"uuid": "1f1884dc-a5dc-6bc0-a707-37cc840e8666",
+			"modified": "2026-07-25T17:25:20.778Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "hello world",
+					"start": 0,
+					"end": 13
+				}
+			]
+		},
+		"FILES/essays/20 Perintah untuk Penulis Amatir.md": {
+			"uuid": "1f1884db-1c2d-60b0-bda0-bd1ddfc07c9e",
+			"modified": "2026-07-09T09:15:37.216Z",
+			"structure": [
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 23,
+					"end": 36,
+					"href": "mental_model",
+					"context": "tags: #mental_model",
+					"to": "#/MENTAL_MODEL"
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "20 Perintah untuk Penulis Amatir",
+					"start": 37,
+					"end": 71
+				}
+			]
+		},
+		"FILES/essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md": {
+			"uuid": "1f1884db-1bf0-6020-b173-ce5acfc01117",
+			"modified": "2026-07-09T12:52:19.614Z",
+			"structure": [
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 23,
+					"end": 37,
+					"href": "silentmaxxing",
+					"context": "tags: #silentmaxxing #reflections ",
+					"to": "#/SILENTMAXXING"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 38,
+					"end": 50,
+					"href": "reflections",
+					"context": "tags: #silentmaxxing #reflections ",
+					"to": "#/REFLECTIONS"
+				},
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 53,
+					"end": 83,
+					"href": "quality-over-quantity.png",
+					"context": "![[quality-over-quantity.png]]",
+					"to": "FILES/public/quality-over-quantity.png"
+				}
+			]
+		},
+		"FILES/essays/.tangentfolder": {
+			"uuid": "1f1884db-7c0e-6f10-b659-b1c9a7004faf"
+		},
+		"FILES/essays/New Note.md": {
+			"uuid": "1f1884db-b003-6b90-8bf0-57327e3102e2",
+			"modified": "2026-07-25T17:24:45.643Z"
+		},
+		"FILES/journal/2026-06-30.md": {
+			"uuid": "1f1884db-1c2f-67c0-a1f2-26d5ff3d4a69",
+			"modified": "2026-07-09T12:57:16.665Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Kenapa menulis",
+					"start": 0,
+					"end": 16
+				}
+			]
+		},
+		"FILES/journal/2026-07-04.md": {
+			"uuid": "1f1884db-1c03-68a0-b3c4-84335e958176",
+			"modified": "2026-07-07T10:00:59.123Z",
+			"structure": [
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 17,
+					"end": 29,
+					"href": "reflections",
+					"context": "tags: #reflections",
+					"to": "#/REFLECTIONS"
+				}
+			]
+		},
+		"FILES/journal/.tangentfolder": {
+			"uuid": "1f1884db-e3bb-6780-9223-88bed537f562"
+		},
+		"FILES/Note for Kuskus Development.md": {
+			"uuid": "1f1884db-1c05-6fb0-91ab-58f8e6c05acd",
+			"modified": "2026-07-25T13:53:24.547Z",
+			"structure": [
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 278,
+					"end": 314,
+					"href": "Pasted image 20260719155213.png",
+					"context": "3. Improve functionality for the theming. Theme should have it own dialog or tab in the general settings ![[Pasted image 20260719155213.png]]",
+					"to": "FILES/public/Pasted image 20260719155213.png"
+				},
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 1054,
+					"end": 1090,
+					"href": "Pasted image 20260719163242.png",
+					"context": "11. For the menu should we have it? ![[Pasted image 20260719163242.png]]",
+					"to": "FILES/public/Pasted image 20260719163242.png"
+				},
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 1568,
+					"end": 1604,
+					"href": "Pasted image 20260722194328.png",
+					"context": "17. Draft should render the markdown while we type it (just dont include the detailed formatting, just straight writing in markdown), show the picture.  ![[Pasted image 20260722194328.png]]",
+					"to": "FILES/Pasted image 20260722194328.png"
+				},
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 2442,
+					"end": 2478,
+					"href": "Pasted image 20260724000222.png",
+					"context": "\t![[Pasted image 20260724000222.png]]",
+					"to": "FILES/Pasted image 20260724000222.png"
+				},
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 2890,
+					"end": 2926,
+					"href": "Pasted image 20260725004930.png",
+					"context": "15. UI reference for current development ![[Pasted image 20260725004930.png]]",
+					"to": "FILES/Pasted image 20260725004930.png"
+				}
+			]
+		},
+		"FILES/Pasted image 20260722194328.png": {
+			"uuid": "1f1884db-1cc4-6691-83ee-569325d9f808"
+		},
+		"FILES/Pasted image 20260724000222.png": {
+			"uuid": "1f1884db-1cc4-6692-a615-0469d7bfd47d"
+		},
+		"FILES/Pasted image 20260725004930.png": {
+			"uuid": "1f1884db-1cc6-6da0-a398-23c41b4764c8"
+		},
+		"FILES/public/Pasted image 20260719155213.png": {
+			"uuid": "1f1884db-1cc1-6f81-a8c1-78b206bf0070"
+		},
+		"FILES/public/Pasted image 20260719163242.png": {
+			"uuid": "1f1884db-1cc4-6690-a4e2-91e41d727d52"
+		},
+		"FILES/public/quality-over-quantity.png": {
+			"uuid": "1f1884db-1cc1-6f80-8324-d14e6bf2eaf4"
+		},
+		"FILES/public/Pasted image 20260712190613.png": {
+			"uuid": "1f1884db-1cb8-6341-ac60-da21f61ef91d"
+		},
+		"FILES/public/Pasted image 20260712190538.png": {
+			"uuid": "1f1884db-1cba-6a50-990e-a20e2fa1e59b"
+		},
+		"FILES/public/Pasted image 20260707114148.png": {
+			"uuid": "1f1884db-1cb8-6340-b25b-9d7473c0eae8"
+		},
+		"FILES/public/Pasted image 20260712190812.png": {
+			"uuid": "1f1884db-1cbf-6870-a2b3-c18b17e9f083"
+		},
+		"FILES/public/Pasted image 20260712190752.png": {
+			"uuid": "1f1884db-1cbf-6871-b221-4fef2866168d"
+		},
+		"FILES/public/Pasted image 20260711174229.png": {
+			"uuid": "1f1884db-1cbd-6161-b179-229480eaf5e4"
+		},
+		"FILES/public/Pasted image 20260711160957.png": {
+			"uuid": "1f1884db-1cbd-6160-996e-1dca111446c8"
+		},
+		"FILES/resources/ai chats/deep-research-report.md": {
+			"uuid": "1f1884db-1c08-66c0-9b2d-3dc1984c9e7f",
+			"modified": "2026-07-11T09:38:20.837Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 7,
+					"end": 92,
+					"href": "Study Case - looking for multiformat saver with desktop and local storage support",
+					"context": "links: [[Study Case - looking for multiformat saver with desktop and local storage support]]",
+					"to": "FILES/drafts/Study Case - looking for multiformat saver with desktop and local storage support.md"
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Executive Summary",
+					"start": 93,
+					"end": 112
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Definitions and Concepts",
+					"start": 3816,
+					"end": 3843
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Evidence Speed Volume and Quality",
+					"start": 5536,
+					"end": 5575
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Mechanisms Why Implementation Is Cheap Selection Is Costly",
+					"start": 8358,
+					"end": 8421
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Consequences for Teams Hiring and Process",
+					"start": 10833,
+					"end": 10879
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Practical Guidance Prioritize Taste and Selection",
+					"start": 13515,
+					"end": 13568
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Predictions 20262032 Timeline of Impact",
+					"start": 15835,
+					"end": 15881
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Skills & Activities Commoditized vs Valuable",
+					"start": 18026,
+					"end": 18075
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Case Studies",
+					"start": 19292,
+					"end": 19307
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Visual Comparison Old vs New Product Cycle",
+					"start": 20886,
+					"end": 20932
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Sources",
+					"start": 21640,
+					"end": 21650
+				}
+			]
+		},
+		"FILES/resources/ai chats/Personalised Training Plan.md": {
+			"uuid": "1f1884db-1bf7-6550-8d1b-1601b4a033c5",
+			"modified": "2026-07-18T03:19:41.613Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Weekly structure",
+					"start": 301,
+					"end": 320
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Home Strength A",
+					"start": 925,
+					"end": 942
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "1 Pull-ups",
+					"start": 1004,
+					"end": 1019
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "2 Bulgarian split squat",
+					"start": 1262,
+					"end": 1290
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "3 Push-up variation",
+					"start": 1659,
+					"end": 1683
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "4 Suspension hamstring curl",
+					"start": 2051,
+					"end": 2083
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "5 Kettlebell overhead press",
+					"start": 2253,
+					"end": 2285
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "6 Suspension body saw or ab rollout",
+					"start": 2471,
+					"end": 2511
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Home Strength B",
+					"start": 2635,
+					"end": 2652
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "1 Suspension row",
+					"start": 2732,
+					"end": 2753
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "2 Single-leg Romanian deadlift",
+					"start": 3012,
+					"end": 3047
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "3 Pike push-up",
+					"start": 3323,
+					"end": 3342
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "4 Reverse lunge or step-up",
+					"start": 3764,
+					"end": 3795
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "5 Kettlebell swing",
+					"start": 3988,
+					"end": 4011
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "6 Suspension face pull or reverse fly",
+					"start": 4338,
+					"end": 4380
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Full-body gym session",
+					"start": 4533,
+					"end": 4556
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "1 Heavy squat pattern",
+					"start": 4640,
+					"end": 4665
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "2 Heavy horizontal press",
+					"start": 4952,
+					"end": 4980
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "3 Heavy hip hinge",
+					"start": 5210,
+					"end": 5231
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "4 Weighted pull-up or heavy row",
+					"start": 5505,
+					"end": 5540
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "5 Lateral raise",
+					"start": 5741,
+					"end": 5760
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "6 Optional arms",
+					"start": 5896,
+					"end": 5915
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Are you missing anything without dips",
+					"start": 6141,
+					"end": 6181
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Conditioning and fat loss",
+					"start": 6950,
+					"end": 6977
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Rucking",
+					"start": 7079,
+					"end": 7090
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Ordinary walking",
+					"start": 7325,
+					"end": 7345
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Optional swing conditioning",
+					"start": 7619,
+					"end": 7650
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Progression system",
+					"start": 8008,
+					"end": 8028
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "The 8020 priorities",
+					"start": 8669,
+					"end": 8692
+				}
+			]
+		},
+		"FILES/resources/clippings/How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5mo.md": {
+			"uuid": "1f1884db-1c31-6ed0-aec1-400a25f8f91d",
+			"modified": "2026-07-24T16:07:00.336Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 374,
+					"data": {
+						"title": "How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5/mo",
+						"source": "https://www.devas.life/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo/",
+						"published": "2018-10-15",
+						"created": "2026-07-25",
+						"description": "You Don’t Have To Get Covered on Large Blogs, Why Churn Rate is Surprisingly Low, Spend a Lot of Time At User Forum, etc.."
+					}
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "TLDR",
+					"start": 1238,
+					"end": 1247
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "You Dont Have To Get Covered on Large Blogs",
+					"start": 1502,
+					"end": 1550
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Why Churn Rate is Surprisingly Low",
+					"start": 2572,
+					"end": 2610
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Spend a Lot of Time At User Forum",
+					"start": 3548,
+					"end": 3585
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Publish Roadmaps",
+					"start": 4842,
+					"end": 4862
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Treat Paid Users as Special",
+					"start": 6153,
+					"end": 6184
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Add a Star Badge on Their Icons on User Forum",
+					"start": 6329,
+					"end": 6379
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Discuss about Next Roadmap",
+					"start": 6629,
+					"end": 6660
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Private Beta Testing",
+					"start": 6920,
+					"end": 6945
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Tell Your Strategy",
+					"start": 7182,
+					"end": 7204
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Ignore All Competitors",
+					"start": 8971,
+					"end": 8997
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Accept Your Incompleteness",
+					"start": 9778,
+					"end": 9808
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Related Articles",
+					"start": 10431,
+					"end": 10451
+				}
+			]
+		},
+		"FILES/resources/clippings/How to articulate yourself intelligently.md": {
+			"uuid": "1f1884db-1c1b-6f40-9779-640738b95882",
+			"modified": "2026-07-14T10:08:39.935Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 313,
+					"data": {
+						"title": "How to articulate yourself intelligently",
+						"source": "https://x.com/thedankoe/status/2011827303962329458",
+						"published": "2026-01-16",
+						"created": "2026-07-09",
+						"description": "When I was young, I was always drawn to people who sounded intelligent.People like Alan Watts, Jordan Peterson, Daniel Schmachtenberger, or ..."
+					}
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "The Inner Album Of Greatest Hits",
+					"start": 2495,
+					"end": 2530
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "3 Methods To Articulate Yourself Intelligently",
+					"start": 7438,
+					"end": 7487
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Beginner The Micro Story",
+					"start": 9950,
+					"end": 9979
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Intermediate The Pyramid Principle",
+					"start": 12398,
+					"end": 12437
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Advanced Cross Domain Synthesis",
+					"start": 13970,
+					"end": 14006
+				}
+			]
+		},
+		"FILES/resources/clippings/How to fix your entire life in 1 day.md": {
+			"uuid": "1f1884db-1c40-6930-8ba9-4cec9c34c2fe",
+			"modified": "2026-07-09T07:10:47.398Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 315,
+					"data": {
+						"title": "How to fix your entire life in 1 day",
+						"source": "https://x.com/thedankoe/status/2010751592346030461",
+						"published": "2026-01-13",
+						"created": "2026-07-09",
+						"description": "If you're anything like me, you think new years resolutions are stupid.Because most people go about changing their lives in the completely w..."
+					}
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "I You arent where you want to be because you arent the person who would be there",
+					"start": 1993,
+					"end": 2080
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "II You arent where you want to be because you dont want to be there",
+					"start": 5093,
+					"end": 5167
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "III You arent where you want to be because youre afraid to be there",
+					"start": 7655,
+					"end": 7729
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "IV The life you want lies within a specific level of mind",
+					"start": 11143,
+					"end": 11205
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "V Intelligence is the ability to get what you want out of life",
+					"start": 15018,
+					"end": 15085
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "VI How to launch into a completely new life in 1 day",
+					"start": 19632,
+					"end": 19691
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "VII Turn Your Life Into A Video Game",
+					"start": 29340,
+					"end": 29381
+				}
+			]
+		},
+		"FILES/resources/clippings/Make Your Writing Flow  Sentences Transitions, Subordination, and Modification.md": {
+			"uuid": "1f1884db-1c6c-6850-8d0e-09c73bdcad6a",
+			"modified": "2026-07-07T01:36:34.344Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 371,
+					"data": {
+						"title": "Make Your Writing Flow | Sentences: Transitions, Subordination, and Modification",
+						"source": "https://www.youtube.com/watch?v=hhVic18H4u4",
+						"published": "2021-02-23",
+						"created": "2026-07-07",
+						"description": "People always say they want their writing to flow, but what does \"flow\" even mean? In this video, we talk about three ways that you can make your sentences f..."
+					}
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Transcript",
+					"start": 422,
+					"end": 435
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Introduction",
+					"start": 437,
+					"end": 453
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Transitions",
+					"start": 2705,
+					"end": 2720
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Subordination",
+					"start": 4981,
+					"end": 4998
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Modification",
+					"start": 7960,
+					"end": 7976
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Caution Variety and Contrast",
+					"start": 10347,
+					"end": 10380
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Conclusion",
+					"start": 12111,
+					"end": 12125
+				}
+			]
+		},
+		"FILES/resources/clippings/make-interfaces-feel-better Skill - jakubkrehel.md": {
+			"uuid": "1f1884db-1c82-67e0-b4bf-2dfc24ebca2b",
+			"modified": "2026-07-15T06:04:39.169Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 356,
+					"data": {
+						"title": "make-interfaces-feel-better Skill - jakubkrehel",
+						"source": "https://www.ui-skills.com/skills/jakubkrehel/make-interfaces-feel-better",
+						"published": null,
+						"created": "2026-07-15",
+						"description": "Design engineering principles for making interfaces feel polished, with focus on micro-interactions, typography, and visual details. Install from jakubkrehel i..."
+					}
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "make-interfaces-feel-better",
+					"start": 357,
+					"end": 387
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Install",
+					"start": 584,
+					"end": 594
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Details that make interfaces feel better",
+					"start": 909,
+					"end": 952
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Quick Reference",
+					"start": 1146,
+					"end": 1164
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Core Principles",
+					"start": 2000,
+					"end": 2018
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "1 Concentric Border Radius",
+					"start": 2020,
+					"end": 2052
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "2 Optical Over Geometric Alignment",
+					"start": 2187,
+					"end": 2227
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "3 Shadows Over Borders",
+					"start": 2368,
+					"end": 2396
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "4 Interruptible Animations",
+					"start": 2519,
+					"end": 2551
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "5 Split and Stagger Enter Animations",
+					"start": 2699,
+					"end": 2741
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "6 Subtle Exit Animations",
+					"start": 2849,
+					"end": 2879
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "7 Contextual Icon Animations",
+					"start": 2973,
+					"end": 3007
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "8 Font Smoothing",
+					"start": 3580,
+					"end": 3602
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "9 Tabular Numbers",
+					"start": 3695,
+					"end": 3718
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "10 Text Wrapping",
+					"start": 3824,
+					"end": 3846
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "11 Image Outlines",
+					"start": 3943,
+					"end": 3966
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "12 Scale on Press",
+					"start": 4325,
+					"end": 4348
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "13 Skip Animation on Page Load",
+					"start": 4576,
+					"end": 4612
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "14 Never Use transition all",
+					"start": 4760,
+					"end": 4794
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "15 Use will-change Sparingly",
+					"start": 4949,
+					"end": 4983
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "16 Minimum Hit Area",
+					"start": 5140,
+					"end": 5165
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Common Mistakes",
+					"start": 5412,
+					"end": 5430
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Review Output Format",
+					"start": 6250,
+					"end": 6273
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Example",
+					"start": 6639,
+					"end": 6650
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Concentric border radius",
+					"start": 6652,
+					"end": 6681
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Tabular numbers",
+					"start": 6944,
+					"end": 6964
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Scale on press",
+					"start": 7180,
+					"end": 7199
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Review Checklist",
+					"start": 7635,
+					"end": 7654
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Reference Files",
+					"start": 8349,
+					"end": 8367
+				}
+			]
+		},
+		"FILES/resources/clippings/Muscle Hub on X Brutally Effective Beginner KB Complex (Full Body) httpst.coQMJLbv4phX.md": {
+			"uuid": "1f1884db-1c60-6500-b89b-4d7dfcb1befa",
+			"modified": "2026-07-09T08:16:01.133Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 229,
+					"data": {
+						"title": "Muscle Hub on X: \"Brutally Effective Beginner KB Complex (Full Body) https://t.co/QMJLbv4phX\"",
+						"source": "https://x.com/MusclezHub/status/2074059371701842087",
+						"published": "2026-07-06",
+						"created": "2026-07-09",
+						"description": null
+					}
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Post",
+					"start": 230,
+					"end": 237
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "ConversationMuscle HubMusclezHub",
+					"start": 239,
+					"end": 331
+				}
+			]
+		},
+		"FILES/resources/clippings/Notion Is Where Productivity Goes to Die  I Like Kill Nerds.md": {
+			"uuid": "1f1884db-1c3b-6b10-8930-6d39c2481f34",
+			"modified": "2026-07-20T08:42:29.406Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 386,
+					"data": {
+						"title": "Notion Is Where Productivity Goes to Die | I Like Kill Nerds",
+						"source": "https://ilikekillnerds.com/2026/01/20/notion-is-where-productivity-goes-to-die/",
+						"published": "2026-01-20",
+						"created": "2026-07-07",
+						"description": "Notion is not a productivity tool. Notion is a tool for feeling productive while accomplishing nothing. It is a creativity sink disguised as a workspace. It is …"
+					}
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "You are building a system not doing work",
+					"start": 818,
+					"end": 862
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Notion enables infinite customisation which is the problem",
+					"start": 1641,
+					"end": 1703
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Second brain people are not getting things done",
+					"start": 2499,
+					"end": 2549
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "The template economy",
+					"start": 3368,
+					"end": 3391
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "What I actually use",
+					"start": 4098,
+					"end": 4120
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Notion is great for some things",
+					"start": 4776,
+					"end": 4810
+				}
+			]
+		},
+		"FILES/resources/clippings/Post by @marcelkargul on X.md": {
+			"uuid": "1f1884db-1c9d-6591-a1b8-d69f09db7359",
+			"modified": "2026-07-15T05:40:03.515Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 216,
+					"data": {
+						"title": "Post by @marcelkargul on X",
+						"source": "https://x.com/marcelkargul/status/2077103291121414238/photo/1",
+						"published": "2026-07-15",
+						"created": "2026-07-15",
+						"description": "btw, most of the time this is all you need."
+					}
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Comments",
+					"start": 507,
+					"end": 518
+				}
+			]
+		},
+		"FILES/resources/clippings/React Bits - Animated UI Components For React.md": {
+			"uuid": "1f1884db-1c8e-6b30-b64a-c97276a70c24",
+			"modified": "2026-07-18T07:18:41.623Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 294,
+					"data": {
+						"title": "React Bits - Animated UI Components For React",
+						"source": "https://reactbits.dev/",
+						"published": null,
+						"created": "2026-07-18",
+						"description": "An open source collection of high quality, animated, interactive & fully customizable React components for building stunning, memorable user interfaces."
+					}
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "React components forcreative developers",
+					"start": 295,
+					"end": 337
+				}
+			]
+		},
+		"FILES/resources/clippings/The Building Block Economy.md": {
+			"uuid": "1f1884db-1c8e-6b31-9dc4-a2dc27ee7934",
+			"modified": "2026-07-20T10:20:44.216Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 305,
+					"data": {
+						"title": "The Building Block Economy",
+						"source": "https://x.com/mitchellh/status/2041566958681014418",
+						"published": "2026-04-08",
+						"created": "2026-07-20",
+						"description": "The most effective way to build software and get massive adoption is no longer high quality mainline apps but via building blocks that enabl..."
+					}
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Imports Are Up",
+					"start": 968,
+					"end": 985
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Exports Are Up",
+					"start": 2371,
+					"end": 2388
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "The Impact",
+					"start": 4264,
+					"end": 4277
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "The Elephant in the Room Commercialization",
+					"start": 5051,
+					"end": 5097
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "The Shift Has Happened",
+					"start": 6062,
+					"end": 6087
+				}
+			]
+		},
+		"FILES/resources/clippings/vercel-labsdeepsec Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents.md": {
+			"uuid": "1f1884db-1c9a-6e80-9c9a-8748467317ac",
+			"modified": "2026-07-19T03:35:50.987Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 354,
+					"data": {
+						"title": "vercel-labs/deepsec: Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents",
+						"source": "https://github.com/vercel-labs/deepsec",
+						"published": null,
+						"created": "2026-07-19",
+						"description": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents - vercel-labs/deepsec"
+					}
+				}
+			]
+		},
+		"FILES/resources/clippings/welcome   to   a   calmer   internet.md": {
+			"uuid": "1f1884db-1c9f-6ca0-8641-ea2ad9e41d3d",
+			"modified": "2026-07-23T14:05:13.477Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 199,
+					"data": {
+						"title": "welcome   to   a   calmer   internet",
+						"source": "https://zen-browser.app/",
+						"published": null,
+						"created": "2026-07-23",
+						"description": "Beautifully designed, privacy-focused, and packed with features."
+					}
+				}
+			]
+		},
+		"FILES/resources/workout/Norwegian 4x4 - Single Kettlebell v2.md": {
+			"uuid": "1f1884db-1c9f-6ca1-acf3-e32e3a738eaf",
+			"modified": "2026-07-07T09:58:41.098Z",
+			"structure": [
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 74,
+					"end": 82,
+					"href": "workout",
+					"context": "tags: #workout",
+					"to": "#/WORKOUT"
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Workout Protocol",
+					"start": 84,
+					"end": 102
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Block 1 4-Min AMRAP",
+					"start": 187,
+					"end": 211
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Block 2 Ascending Ladder",
+					"start": 350,
+					"end": 380
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Block 3 4-Min AMRAP",
+					"start": 500,
+					"end": 525
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Block 4 Pyramid Style",
+					"start": 695,
+					"end": 722
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Description",
+					"start": 876,
+					"end": 889
+				}
+			]
+		},
+		"FILES/resources/workout/Weekly Training Plan.md": {
+			"uuid": "1f1884db-1cab-6ff0-aa8d-c5fb0616850b",
+			"modified": "2026-07-16T11:09:08.579Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Weekly Training Plan",
+					"start": 0,
+					"end": 22
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 29,
+					"end": 37,
+					"href": "workout",
+					"context": "tags: #workout",
+					"to": "#/WORKOUT"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Monday Home Strength A",
+					"start": 39,
+					"end": 66
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Tuesday Rucking Walking",
+					"start": 307,
+					"end": 337
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Wednesday Rest Easy Walking",
+					"start": 416,
+					"end": 450
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Thursday Home Strength B",
+					"start": 492,
+					"end": 521
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Friday Rest Easy Walking",
+					"start": 757,
+					"end": 788
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Saturday Full-Body Gym",
+					"start": 828,
+					"end": 855
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Sunday Recovery",
+					"start": 1146,
+					"end": 1166
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Progression Rules",
+					"start": 1247,
+					"end": 1266
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Conditioning Targets",
+					"start": 1555,
+					"end": 1577
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Fat-Loss Targets",
+					"start": 1809,
+					"end": 1827
+				}
+			]
+		},
+		"FILES/_archive/Anytype login key.md": {
+			"uuid": "1f1884db-1c9d-6590-bc8a-475209f96720",
+			"modified": "2026-07-11T06:07:13.076Z"
+		}
+	}
+}

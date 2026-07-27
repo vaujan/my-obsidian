@@ -11,15 +11,12 @@
             "id": "ffe78f812ccd44ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Note for Kuskus Development.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Pasted image 20260725004930.png"
               },
-              "icon": "lucide-file",
-              "title": "Note for Kuskus Development"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260725004930"
             }
           }
         ]
@@ -203,6 +200,10 @@
   },
   "active": "ffe78f812ccd44ec",
   "lastOpenFiles": [
+    "resources/clippings/Rebound Health Trauma Therapy.md",
+    "Pasted image 20260724000222.png",
+    "Pasted image 20260722194328.png",
+    "Note for Kuskus Development.md",
     "drafts/Brainrotted gooner mencoba meditasi.md",
     "drafts/Mengkultivasi Kebosanan.md",
     "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
@@ -211,10 +212,7 @@
     "journal/2026-06-30.md",
     "journal/2026-07-04.md",
     "public/Pasted image 20260719163242.png",
-    "Pasted image 20260724000222.png",
     "Pasted image 20260725004930.png",
-    "Pasted image 20260722194328.png",
-    "Note for Kuskus Development.md",
     "dev/shadcn Skills.md",
     "dev/untitled-note-1784536930.md",
     "resources/clippings/How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5mo.md",
@@ -244,7 +242,6 @@
     "resources/workout/Weekly Training Plan.md",
     "desktop.ini",
     "resources/workout/Norwegian 4x4 - Single Kettlebell v2.md",
-    "resources/clippings/Post by @marcelkargul on X.md",
     "dev",
     "pictures",
     "drafts/maps/Build",

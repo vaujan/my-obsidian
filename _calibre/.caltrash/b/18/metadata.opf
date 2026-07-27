@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b86d330d-846e-45d8-a27b-d7331f0fa967</dc:identifier>
+        <dc:title>The Inferno</dc:title>
+        <dc:creator opf:file-as="Alighieri, Dante" opf:role="aut">Dante Alighieri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-07-15T17:44:46.893025+00:00</dc:date>
+        <dc:description>&lt;p&gt;The Inferno, the first volume of Dante Alighieri's Divine Comedy, is an imaginative tour de force. In this celebrated work -- widely considered to be one of the greatest in the Western canon -- Dante's literary hero Virgil guides him through Hell, showing him the inhabitants of each of its nine circles and examples of the divine justice meted out to them. Originally written in colloquial Italian, The Inferno was intended by Dante as a poem for the common reader. In his new translation, Ciaran Carson has constructed a version that is suffused with wit, anger and irreverent vigor. Carson, an award-winning Irish poet, accents his Inferno with vivid Hiberno-English idioms, drawing on the Irish poetic and balladmaking tradition to create rhymes that sparkle and stimulate. Carson's swift intelligence never diminishes the pathos of the original, however, and Dante's visions of Hell -- and his pity for some of the damned -- shine through undimmed. This is a truly original retelling of Dante's epic journey that will surprise and renew the twenty-first-century reader's faith in the art of translation. Remarkably inventive, Carson's Inferno is deserving of comparison with Seamus Heaney's Beowulf and Ted Hughes's Tales from Ovid.&lt;/p&gt;</dc:description>
+        <dc:publisher>Granta</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">765809</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781862075252</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">MvQeAQAAIAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Age Range 2 Older Audience</dc:subject>
+        <dc:subject>Poetry</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>English; Irish; Scottish; Welsh</dc:subject>
+        <dc:subject>Ancient &amp; Classical</dc:subject>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>European</dc:subject>
+        <meta name="calibre:series" content="B&amp;N Classics"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2026-07-25T17:44:27.651307+00:00"/>
+        <meta name="calibre:title_sort" content="Inferno, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

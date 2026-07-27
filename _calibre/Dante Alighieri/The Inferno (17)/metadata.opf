@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9275c60-1abd-46ee-99eb-160aa9c33a74</dc:identifier>
+        <dc:title>The Inferno</dc:title>
+        <dc:creator opf:file-as="Alighieri, Dante" opf:role="aut">Dante Alighieri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-06-01T17:44:36.252591+00:00</dc:date>
+        <dc:description>&lt;p&gt;Belonging in the immortal company of the works of Homer, Virgil, Milton, and Shakespeare, Dante Alighieri’s poetic masterpiece is a visionary journey that takes readers through the torment of Hell.&lt;/p&gt;
+
+&lt;p&gt;The first part of Dante’s Divine Comedy is many things: a moving human drama, a supreme expression of the Middle Ages, a glorification of the ways of God, and a magnificent protest against the ways in which men have thwarted the divine plan. One of the few literary works that has enjoyed a fame both immediate and enduring, The Inferno remains powerful after seven centuries. It confronts the most universal values—good and evil, free will and predestination—while remaining intensely personal and ferociously political, for it was born out of the anguish of a man who saw human life blighted by the injustice and corruption of his times.&lt;/p&gt;
+
+&lt;p&gt;Translated by John CiardiWith an Introduction by Archibald T. MacAllisterand an Afterword by Edward M. Cifelli&lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781101078037</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">doqPjauXF1QC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Subjects &amp; Themes</dc:subject>
+        <dc:subject>Medieval Literature</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Poetry</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Epic</dc:subject>
+        <dc:subject>European</dc:subject>
+        <dc:subject>Religious</dc:subject>
+        <meta name="calibre:series" content="The Divine Comedy"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2026-07-25T17:44:23.047695+00:00"/>
+        <meta name="calibre:title_sort" content="Inferno, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

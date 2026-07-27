@@ -40,4 +40,5 @@
 16. Like all of your notes, we are here to stay! 
 17. Pin items
 18. Is this not a notetaking app? 
-19. Sk
+19. Skeumorphic buttons
+20. 

@@ -1,48 +1,12 @@
 {
 	"version": 1,
-	"date": "2026-07-25T17:26:00.850Z",
+	"date": "2026-07-28T07:38:24.246Z",
 	"items": {
-		"FILES/.tangent/tags": {
-			"uuid": "1f1884db-1d1c-64d0-ab56-de8d010051a5"
+		"FILES/.tangent/tangents/FAUZAN-PC_0/sessions/2026-7-28_16-37-59.tangentsession": {
+			"uuid": "1f18a574-1faa-6850-be99-ac1b5cbf93ac"
 		},
-		"FILES/.tangent/tangents": {
-			"uuid": "1f1884db-1d1c-64d1-bee0-0e88eb31229d"
-		},
-		"FILES/.tangent/tangents/FAUZAN-PC_0": {
-			"uuid": "1f1884db-1d3c-60a0-abf9-dda17ceb2a8a"
-		},
-		"FILES/.tangent/tangents/FAUZAN-PC_0/sessions": {
-			"uuid": "1f1884db-2030-6e00-9d2e-d32fbfe80740"
-		},
-		"FILES/.tangent/tangents/FAUZAN-PC_0/sessions/2026-7-26_2-24-30.tangentsession": {
-			"uuid": "1f1884db-2030-6e01-9b6e-8873f942f38a"
-		},
-		"FILES/.tangent/tangents/FAUZAN-PC_0/state": {
-			"uuid": "1f1884db-8748-67a0-a39f-fd836607bd24"
-		},
-		"FILES/.tangent/tangents/FAUZAN-PC_0/state/1f1884db-1c2d-60b0-bda0-bd1ddfc07c9e.noteview": {
-			"uuid": "1f1884db-8748-67a1-bf10-a7cd2bb04d71"
-		},
-		"FILES/.tangent/tangents/FAUZAN-PC_0/state/1f1884db-1bf0-6020-b173-ce5acfc01117.noteview": {
-			"uuid": "1f1884db-a409-6510-99e1-ca0c40e8e8a8"
-		},
-		"FILES/.tangent/tangents/FAUZAN-PC_0/state/1f1884db-1c03-68a0-b3c4-84335e958176.noteview": {
-			"uuid": "1f1884dc-38aa-6a20-b2d6-a3ed55f5193a"
-		},
-		"FILES/.tangent/tangents/FAUZAN-PC_0/state/1f1884db-1c2f-67c0-a1f2-26d5ff3d4a69.noteview": {
-			"uuid": "1f1884db-ee73-69c0-980d-234f80335999"
-		},
-		"FILES/.tangent/tangents/FAUZAN-PC_0/state/1f1884db-1bd0-6450-8a72-fa8016c9cbf8.noteview": {
-			"uuid": "1f1884dd-80e4-6830-b9bd-a8a5a71f0f7b"
-		},
-		"FILES/.tangent/tangents/FAUZAN-PC_0/state/1f1884db-1bc4-6100-807f-7de11c2db2fd.noteview": {
-			"uuid": "1f1884dd-ff54-6ad0-980e-abf4d3e53db1"
-		},
-		"FILES/.tangent/tangents/FAUZAN-PC_0/state/1f1884dc-a5dc-6bc0-a707-37cc840e8666.noteview": {
-			"uuid": "1f1884de-0bbf-6630-8412-8b5c9ae2c9aa"
-		},
-		"FILES/.tangent/tangents/FAUZAN-PC_0/tangent.json": {
-			"uuid": "1f1884db-1d3e-67b0-8fa7-d2d63001a950"
+		"FILES/.tangent/tangents/FAUZAN-PC_0/state/1f1884db-b003-6b90-8bf0-57327e3102e2.noteview": {
+			"uuid": "1f18a574-d86b-6e20-be11-626fa0c88db0"
 		},
 		"FILES/areas/Dev.md": {
 			"uuid": "1f1884db-1b5f-6f70-8097-d7e47e8dc443",
@@ -51,9 +15,6 @@
 		"FILES/areas/Writings.md": {
 			"uuid": "1f1884db-1b3b-6580-be54-e65ab9bfcbc0",
 			"modified": "2026-07-20T08:41:57.615Z"
-		},
-		"FILES/areas/.tangentfolder": {
-			"uuid": "1f1884db-6559-6f40-abe0-644c2afeeb6a"
 		},
 		"FILES/dev/Animation Vocabulary.md": {
 			"uuid": "1f1884db-1b40-63a0-b1c6-20c8ab84ed94",
@@ -261,6 +222,159 @@
 					"text": "Improve animations",
 					"start": 3752,
 					"end": 3774
+				}
+			]
+		},
+		"FILES/dev/Flagship AI models for coding, business analysis, and copywriting.md": {
+			"uuid": "1f1884db-1b16-6b90-b36d-a421e36744c5",
+			"modified": "2026-07-13T07:37:37.582Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Flagship AI models for coding business analysis and copywriting",
+					"start": 0,
+					"end": 67
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Executive recommendation",
+					"start": 340,
+					"end": 367
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "At-a-glance comparison",
+					"start": 1562,
+					"end": 1587
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Model-by-model assessment",
+					"start": 4290,
+					"end": 4318
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "OpenAI GPT-56 family",
+					"start": 4320,
+					"end": 4345
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Anthropic Claude family",
+					"start": 5388,
+					"end": 5415
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Google Gemini family",
+					"start": 6602,
+					"end": 6626
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Best model by job",
+					"start": 7677,
+					"end": 7697
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Writing and maintaining code",
+					"start": 7699,
+					"end": 7731
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Business analysis",
+					"start": 8293,
+					"end": 8314
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Copywriting and editing",
+					"start": 8842,
+					"end": 8869
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Cost scenarios",
+					"start": 9422,
+					"end": 9439
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Procurement checklist",
+					"start": 10635,
+					"end": 10659
+				},
+				{
+					"type": 4,
+					"start": 10762,
+					"end": 10807,
+					"state": "open",
+					"text": "task success and human correction time;"
+				},
+				{
+					"type": 4,
+					"start": 10808,
+					"end": 10873,
+					"state": "open",
+					"text": "total tokens and wall-clock time, not just per-token price;"
+				},
+				{
+					"type": 4,
+					"start": 10874,
+					"end": 10924,
+					"state": "open",
+					"text": "tool-call correctness and loop/failure rate;"
+				},
+				{
+					"type": 4,
+					"start": 10925,
+					"end": 10972,
+					"state": "open",
+					"text": "citation accuracy and unsupported claims;"
+				},
+				{
+					"type": 4,
+					"start": 10973,
+					"end": 11022,
+					"state": "open",
+					"text": "style adherence and edit distance for copy;"
+				},
+				{
+					"type": 4,
+					"start": 11023,
+					"end": 11100,
+					"state": "open",
+					"text": "security, retention, regional processing, and contractual requirements;"
+				},
+				{
+					"type": 4,
+					"start": 11101,
+					"end": 11167,
+					"state": "open",
+					"text": "stable model IDs, deprecation policy, and fallback behavior."
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Bottom line",
+					"start": 11169,
+					"end": 11183
 				}
 			]
 		},
@@ -899,162 +1013,6 @@
 				}
 			]
 		},
-		"FILES/dev/Flagship AI models for coding, business analysis, and copywriting.md": {
-			"uuid": "1f1884db-1b16-6b90-b36d-a421e36744c5",
-			"modified": "2026-07-13T07:37:37.582Z",
-			"structure": [
-				{
-					"type": 2,
-					"level": 1,
-					"text": "Flagship AI models for coding business analysis and copywriting",
-					"start": 0,
-					"end": 67
-				},
-				{
-					"type": 2,
-					"level": 2,
-					"text": "Executive recommendation",
-					"start": 340,
-					"end": 367
-				},
-				{
-					"type": 2,
-					"level": 2,
-					"text": "At-a-glance comparison",
-					"start": 1562,
-					"end": 1587
-				},
-				{
-					"type": 2,
-					"level": 2,
-					"text": "Model-by-model assessment",
-					"start": 4290,
-					"end": 4318
-				},
-				{
-					"type": 2,
-					"level": 3,
-					"text": "OpenAI GPT-56 family",
-					"start": 4320,
-					"end": 4345
-				},
-				{
-					"type": 2,
-					"level": 3,
-					"text": "Anthropic Claude family",
-					"start": 5388,
-					"end": 5415
-				},
-				{
-					"type": 2,
-					"level": 3,
-					"text": "Google Gemini family",
-					"start": 6602,
-					"end": 6626
-				},
-				{
-					"type": 2,
-					"level": 2,
-					"text": "Best model by job",
-					"start": 7677,
-					"end": 7697
-				},
-				{
-					"type": 2,
-					"level": 3,
-					"text": "Writing and maintaining code",
-					"start": 7699,
-					"end": 7731
-				},
-				{
-					"type": 2,
-					"level": 3,
-					"text": "Business analysis",
-					"start": 8293,
-					"end": 8314
-				},
-				{
-					"type": 2,
-					"level": 3,
-					"text": "Copywriting and editing",
-					"start": 8842,
-					"end": 8869
-				},
-				{
-					"type": 2,
-					"level": 2,
-					"text": "Cost scenarios",
-					"start": 9422,
-					"end": 9439
-				},
-				{
-					"type": 2,
-					"level": 2,
-					"text": "Procurement checklist",
-					"start": 10635,
-					"end": 10659
-				},
-				{
-					"type": 4,
-					"start": 10762,
-					"end": 10807,
-					"state": "open",
-					"text": "task success and human correction time;"
-				},
-				{
-					"type": 4,
-					"start": 10808,
-					"end": 10873,
-					"state": "open",
-					"text": "total tokens and wall-clock time, not just per-token price;"
-				},
-				{
-					"type": 4,
-					"start": 10874,
-					"end": 10924,
-					"state": "open",
-					"text": "tool-call correctness and loop/failure rate;"
-				},
-				{
-					"type": 4,
-					"start": 10925,
-					"end": 10972,
-					"state": "open",
-					"text": "citation accuracy and unsupported claims;"
-				},
-				{
-					"type": 4,
-					"start": 10973,
-					"end": 11022,
-					"state": "open",
-					"text": "style adherence and edit distance for copy;"
-				},
-				{
-					"type": 4,
-					"start": 11023,
-					"end": 11100,
-					"state": "open",
-					"text": "security, retention, regional processing, and contractual requirements;"
-				},
-				{
-					"type": 4,
-					"start": 11101,
-					"end": 11167,
-					"state": "open",
-					"text": "stable model IDs, deprecation policy, and fallback behavior."
-				},
-				{
-					"type": 2,
-					"level": 2,
-					"text": "Bottom line",
-					"start": 11169,
-					"end": 11183
-				}
-			]
-		},
-		"FILES/dev/.tangentfolder": {
-			"uuid": "1f1884dc-5a72-6180-aa8e-9d4ade7c34df"
-		},
 		"FILES/drafts/Brainrotted gooner mencoba meditasi.md": {
 			"uuid": "1f1884db-1bd0-6450-8a72-fa8016c9cbf8",
 			"modified": "2026-07-11T05:16:24.336Z",
@@ -1122,6 +1080,19 @@
 					"href": "silentmaxxing",
 					"context": "tags: #meditation #silentmaxxing",
 					"to": "#/SILENTMAXXING"
+				}
+			]
+		},
+		"FILES/drafts/New Note.md": {
+			"uuid": "1f1884dc-a5dc-6bc0-a707-37cc840e8666",
+			"modified": "2026-07-25T17:25:20.778Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "hello world",
+					"start": 0,
+					"end": 13
 				}
 			]
 		},
@@ -1277,21 +1248,9 @@
 			"uuid": "1f1884db-1bf4-6e40-abd8-c0bec5d88520",
 			"modified": "2026-07-05T01:03:39.986Z"
 		},
-		"FILES/drafts/.tangentfolder": {
-			"uuid": "1f1884dc-6141-6420-84f9-24b4a2d4758f"
-		},
-		"FILES/drafts/New Note.md": {
-			"uuid": "1f1884dc-a5dc-6bc0-a707-37cc840e8666",
-			"modified": "2026-07-25T17:25:20.778Z",
-			"structure": [
-				{
-					"type": 2,
-					"level": 1,
-					"text": "hello world",
-					"start": 0,
-					"end": 13
-				}
-			]
+		"FILES/essays/New Note.md": {
+			"uuid": "1f1884db-b003-6b90-8bf0-57327e3102e2",
+			"modified": "2026-07-25T17:24:45.643Z"
 		},
 		"FILES/essays/20 Perintah untuk Penulis Amatir.md": {
 			"uuid": "1f1884db-1c2d-60b0-bda0-bd1ddfc07c9e",
@@ -1348,13 +1307,6 @@
 				}
 			]
 		},
-		"FILES/essays/.tangentfolder": {
-			"uuid": "1f1884db-7c0e-6f10-b659-b1c9a7004faf"
-		},
-		"FILES/essays/New Note.md": {
-			"uuid": "1f1884db-b003-6b90-8bf0-57327e3102e2",
-			"modified": "2026-07-25T17:24:45.643Z"
-		},
 		"FILES/journal/2026-06-30.md": {
 			"uuid": "1f1884db-1c2f-67c0-a1f2-26d5ff3d4a69",
 			"modified": "2026-07-09T12:57:16.665Z",
@@ -1382,9 +1334,6 @@
 					"to": "#/REFLECTIONS"
 				}
 			]
-		},
-		"FILES/journal/.tangentfolder": {
-			"uuid": "1f1884db-e3bb-6780-9223-88bed537f562"
 		},
 		"FILES/Note for Kuskus Development.md": {
 			"uuid": "1f1884db-1c05-6fb0-91ab-58f8e6c05acd",
@@ -1415,7 +1364,7 @@
 					"end": 1604,
 					"href": "Pasted image 20260722194328.png",
 					"context": "17. Draft should render the markdown while we type it (just dont include the detailed formatting, just straight writing in markdown), show the picture.  ![[Pasted image 20260722194328.png]]",
-					"to": "FILES/Pasted image 20260722194328.png"
+					"to": "FILES/public/Pasted image 20260722194328.png"
 				},
 				{
 					"type": 1,
@@ -1424,7 +1373,7 @@
 					"end": 2478,
 					"href": "Pasted image 20260724000222.png",
 					"context": "\t![[Pasted image 20260724000222.png]]",
-					"to": "FILES/Pasted image 20260724000222.png"
+					"to": "FILES/public/Pasted image 20260724000222.png"
 				},
 				{
 					"type": 1,
@@ -1433,48 +1382,48 @@
 					"end": 2926,
 					"href": "Pasted image 20260725004930.png",
 					"context": "15. UI reference for current development ![[Pasted image 20260725004930.png]]",
-					"to": "FILES/Pasted image 20260725004930.png"
+					"to": "FILES/public/Pasted image 20260725004930.png"
 				}
 			]
 		},
-		"FILES/Pasted image 20260722194328.png": {
-			"uuid": "1f1884db-1cc4-6691-83ee-569325d9f808"
-		},
-		"FILES/Pasted image 20260724000222.png": {
-			"uuid": "1f1884db-1cc4-6692-a615-0469d7bfd47d"
-		},
-		"FILES/Pasted image 20260725004930.png": {
-			"uuid": "1f1884db-1cc6-6da0-a398-23c41b4764c8"
-		},
-		"FILES/public/Pasted image 20260719155213.png": {
-			"uuid": "1f1884db-1cc1-6f81-a8c1-78b206bf0070"
-		},
-		"FILES/public/Pasted image 20260719163242.png": {
-			"uuid": "1f1884db-1cc4-6690-a4e2-91e41d727d52"
-		},
-		"FILES/public/quality-over-quantity.png": {
-			"uuid": "1f1884db-1cc1-6f80-8324-d14e6bf2eaf4"
-		},
-		"FILES/public/Pasted image 20260712190613.png": {
-			"uuid": "1f1884db-1cb8-6341-ac60-da21f61ef91d"
-		},
-		"FILES/public/Pasted image 20260712190538.png": {
-			"uuid": "1f1884db-1cba-6a50-990e-a20e2fa1e59b"
-		},
 		"FILES/public/Pasted image 20260707114148.png": {
-			"uuid": "1f1884db-1cb8-6340-b25b-9d7473c0eae8"
-		},
-		"FILES/public/Pasted image 20260712190812.png": {
-			"uuid": "1f1884db-1cbf-6870-a2b3-c18b17e9f083"
-		},
-		"FILES/public/Pasted image 20260712190752.png": {
-			"uuid": "1f1884db-1cbf-6871-b221-4fef2866168d"
-		},
-		"FILES/public/Pasted image 20260711174229.png": {
-			"uuid": "1f1884db-1cbd-6161-b179-229480eaf5e4"
+			"uuid": "1f18a573-8d0e-6c80-b0e6-e9b359fb409d"
 		},
 		"FILES/public/Pasted image 20260711160957.png": {
-			"uuid": "1f1884db-1cbd-6160-996e-1dca111446c8"
+			"uuid": "1f18a573-8d16-61b0-a288-94827a077fd8"
+		},
+		"FILES/public/Pasted image 20260711174229.png": {
+			"uuid": "1f18a573-8d1d-66e0-994b-90350ded34f6"
+		},
+		"FILES/public/Pasted image 20260712190538.png": {
+			"uuid": "1f18a573-8d13-6aa0-b533-3f8cad859375"
+		},
+		"FILES/public/Pasted image 20260712190613.png": {
+			"uuid": "1f18a573-8d11-6390-9c83-504884eee332"
+		},
+		"FILES/public/Pasted image 20260712190752.png": {
+			"uuid": "1f18a573-8d22-6500-8f8e-9b696b108145"
+		},
+		"FILES/public/Pasted image 20260712190812.png": {
+			"uuid": "1f18a573-8d1f-6df0-adb1-9d8d2f9d78e9"
+		},
+		"FILES/public/Pasted image 20260719155213.png": {
+			"uuid": "1f18a573-8d24-6c10-a67b-b99b76c7660e"
+		},
+		"FILES/public/Pasted image 20260719163242.png": {
+			"uuid": "1f18a573-8d27-6320-afd2-ca3aea478447"
+		},
+		"FILES/public/Pasted image 20260722194328.png": {
+			"uuid": "1f18a573-8d27-6321-8bf1-8d67cba76ae5"
+		},
+		"FILES/public/Pasted image 20260724000222.png": {
+			"uuid": "1f18a573-8d29-6a30-855d-e350b87b47ae"
+		},
+		"FILES/public/Pasted image 20260725004930.png": {
+			"uuid": "1f18a573-8d29-6a31-9e2e-2ffce8a7b46b"
+		},
+		"FILES/public/quality-over-quantity.png": {
+			"uuid": "1f18a573-8d22-6502-9cfb-6d0a4223bcdd"
 		},
 		"FILES/resources/ai chats/deep-research-report.md": {
 			"uuid": "1f1884db-1c08-66c0-9b2d-3dc1984c9e7f",
@@ -2522,6 +2471,385 @@
 						"created": "2026-07-23",
 						"description": "Beautifully designed, privacy-focused, and packed with features."
 					}
+				}
+			]
+		},
+		"FILES/resources/clippings/Rebound Health Trauma Therapy.md": {
+			"uuid": "1f18a573-8c9c-6090-8ffa-7083157660fc",
+			"modified": "2026-07-27T12:24:36.375Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 255,
+					"data": {
+						"title": "Rebound Health: Trauma Therapy",
+						"source": "https://hellorebound.com/healthygamer",
+						"published": null,
+						"created": "2026-07-27",
+						"description": "Virtual trauma therapy designed to ease your brain and body out of survival mode. We accept most insurance plans."
+					}
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Get out of survival mode after trauma",
+					"start": 256,
+					"end": 296
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "We accept most insurance plans",
+					"start": 664,
+					"end": 697
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": " over 60 health plans",
+					"start": 815,
+					"end": 842
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Survivor-centered recovery",
+					"start": 844,
+					"end": 873
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "At-home therapy to ease your brain and body out of survival mode",
+					"start": 875,
+					"end": 943
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Why Rebound",
+					"start": 975,
+					"end": 990
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "We are trauma specialists",
+					"start": 1089,
+					"end": 1118
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "You are never alone",
+					"start": 1296,
+					"end": 1320
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Receive a personalized recovery plan",
+					"start": 1532,
+					"end": 1573
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Before I struggled to open my mail I avoided the grocery store",
+					"start": 1625,
+					"end": 1694
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Life was harder than it needed to be After about 3 weeks of Rebound Therapy I started to feel less triggered by daily life",
+					"start": 1696,
+					"end": 1825
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Kim H 34",
+					"start": 1827,
+					"end": 1842
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Core benefits our members report",
+					"start": 1874,
+					"end": 1909
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "FAQs",
+					"start": 2269,
+					"end": 2276
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "What insurance plans do you accept",
+					"start": 2278,
+					"end": 2317
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "I dont have just one trauma Is Rebound Therapy a fit for me",
+					"start": 2319,
+					"end": 2385
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "What if I have CPTSD",
+					"start": 2387,
+					"end": 2412
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Do you treat children",
+					"start": 2414,
+					"end": 2440
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Do I get to pick my therapist",
+					"start": 2442,
+					"end": 2476
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "How much does Rebound Therapy cost",
+					"start": 2478,
+					"end": 2517
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "What treatment methods do you use",
+					"start": 2519,
+					"end": 2557
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Founded by survivors and psychologistsAbout us",
+					"start": 2559,
+					"end": 2643
+				}
+			]
+		},
+		"FILES/resources/clippings/TriliumNextTrilium Build your personal knowledge base with Trilium Notes.md": {
+			"uuid": "1f18a573-8cd4-6300-943b-11f90f879911",
+			"modified": "2026-07-27T15:09:22.069Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 262,
+					"data": {
+						"title": "TriliumNext/Trilium: Build your personal knowledge base with Trilium Notes",
+						"source": "https://github.com/TriliumNext/Trilium",
+						"published": null,
+						"created": "2026-07-28",
+						"description": "Build your personal knowledge base with Trilium Notes - TriliumNext/Trilium"
+					}
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Trilium Notes",
+					"start": 263,
+					"end": 279
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " Download",
+					"start": 2323,
+					"end": 2336
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " Documentation",
+					"start": 2621,
+					"end": 2640
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Quick Links",
+					"start": 3169,
+					"end": 3184
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " Features",
+					"start": 3706,
+					"end": 3720
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Why TriliumNext",
+					"start": 7343,
+					"end": 7363
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Migrating from ZadamTrilium",
+					"start": 7584,
+					"end": 7619
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " Discuss with us",
+					"start": 8172,
+					"end": 8193
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " Installation",
+					"start": 8714,
+					"end": 8732
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Windows MacOS",
+					"start": 8734,
+					"end": 8753
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Linux",
+					"start": 8942,
+					"end": 8951
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Browser any OS",
+					"start": 9600,
+					"end": 9620
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Mobile",
+					"start": 9843,
+					"end": 9853
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "TriliumDroid",
+					"start": 10112,
+					"end": 10129
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Pocket Trilium",
+					"start": 10551,
+					"end": 10570
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Trinote",
+					"start": 10810,
+					"end": 10822
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Server",
+					"start": 11444,
+					"end": 11454
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " Contribute",
+					"start": 11679,
+					"end": 11695
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Translations",
+					"start": 11697,
+					"end": 11713
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Code",
+					"start": 12183,
+					"end": 12191
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Documentation",
+					"start": 12449,
+					"end": 12466
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Building the Executable",
+					"start": 12871,
+					"end": 12898
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Developer Documentation",
+					"start": 13302,
+					"end": 13329
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " Sponsors",
+					"start": 13612,
+					"end": 13626
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " Shoutouts",
+					"start": 14440,
+					"end": 14455
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " Support",
+					"start": 16366,
+					"end": 16379
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " License",
+					"start": 16868,
+					"end": 16881
 				}
 			]
 		},

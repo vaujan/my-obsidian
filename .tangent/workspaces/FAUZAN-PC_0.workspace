@@ -2,7 +2,7 @@
 	"directoryView": {
 		"openDirectories": [],
 		"selection": [
-			"FILES/essays"
+			"FILES/essays/New Note.md"
 		],
 		"sortMode": "name|ascending",
 		"sortFoldersToTop": true,
@@ -11,14 +11,14 @@
 	"tagTreeView": {
 		"openDirectories": [],
 		"selection": [
-			"FILES/essays"
+			"FILES/essays/New Note.md"
 		],
 		"sortMode": "name|ascending",
 		"sortFoldersToTop": true,
 		"sortQueriesToTop": true
 	},
 	"leftSidebar": {
-		"size": 180.8000030517578,
+		"size": 236,
 		"mode": 1,
 		"lastUnfocusedMode": 1,
 		"lastFocusedMode": 0,

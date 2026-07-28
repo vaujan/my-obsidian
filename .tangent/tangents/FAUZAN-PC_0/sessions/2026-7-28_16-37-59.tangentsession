@@ -1,0 +1,70 @@
+{
+	"threadHistory": [
+		{
+			"thread": [
+				"FILES/essays"
+			],
+			"currentNode": "FILES/essays"
+		},
+		{
+			"thread": [
+				"FILES/essays",
+				"FILES/essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md"
+			],
+			"currentNode": "FILES/essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md"
+		},
+		{
+			"thread": [
+				"FILES/essays",
+				"FILES/essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md"
+			],
+			"currentNode": "FILES/essays"
+		},
+		{
+			"thread": [
+				"FILES/essays",
+				"FILES/essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md"
+			],
+			"currentNode": "FILES/essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md"
+		},
+		{
+			"thread": [
+				"FILES/essays/New Note.md"
+			],
+			"currentNode": "FILES/essays/New Note.md"
+		}
+	],
+	"threadIndex": 4,
+	"previousSession": "FILES/.tangent/tangents/FAUZAN-PC_0/sessions/2026-7-26_2-24-30.tangentsession",
+	"map": {
+		"nodes": {
+			"FILES/essays": {
+				"node": "FILES/essays",
+				"isRoot": true,
+				"strength": 3,
+				"dateCreated": "2026-07-28T07:38:00.205Z"
+			},
+			"FILES/essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md": {
+				"node": "FILES/essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2026-07-28T07:38:00.205Z"
+			},
+			"FILES/essays/New Note.md": {
+				"node": "FILES/essays/New Note.md",
+				"isRoot": true,
+				"strength": 2,
+				"dateCreated": "2026-07-28T07:38:19.244Z"
+			}
+		},
+		"connections": [
+			{
+				"from": "FILES/essays",
+				"to": "FILES/essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
+				"strength": 3,
+				"dateCreated": "2026-07-28T07:38:00.206Z"
+			}
+		]
+	},
+	"version": 1
+}

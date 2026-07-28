@@ -1,9 +1,11 @@
 {
 	"openSessions": [
-		"FILES/.tangent/tangents/FAUZAN-PC_0/sessions/2026-7-26_2-24-30.tangentsession"
+		"FILES/.tangent/tangents/FAUZAN-PC_0/sessions/2026-7-26_2-24-30.tangentsession",
+		"FILES/.tangent/tangents/FAUZAN-PC_0/sessions/2026-7-28_16-37-59.tangentsession"
 	],
-	"activeSession": "FILES/.tangent/tangents/FAUZAN-PC_0/sessions/2026-7-26_2-24-30.tangentsession",
-	"focusLevel": 0,
+	"activeSession": "FILES/.tangent/tangents/FAUZAN-PC_0/sessions/2026-7-28_16-37-59.tangentsession",
+	"focusLevel": -1,
 	"scrollX": 0,
-	"scrollY": 552.7999877929688
+	"scrollY": 840,
+	"zoom": 0.10250000000000001
 }

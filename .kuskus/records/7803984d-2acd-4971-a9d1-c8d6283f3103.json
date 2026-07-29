@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "id": "7803984d-2acd-4971-a9d1-c8d6283f3103",
+  "relativePath": "_calibre/Unknown/Oxford Dictionary of English (5)/cover.jpg",
+  "fingerprint": "6ac10ac790927e7d7dc53f19d56ef6cbafd2b55835057d4fc6e1cc1fe0b282df",
+  "fileIdentity": "3121943230:13792273858997932",
+  "recovery": {
+    "lastSeenAt": "2026-07-28T19:28:11.797Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "7803984d-2acd-4971-a9d1-c8d6283f3103",
+    "type": "image",
+    "title": "cover",
+    "createdAt": "2026-07-22T04:00:45.974Z",
+    "updatedAt": "2026-07-22T04:00:45.974Z",
+    "sourceUrl": null,
+    "sourceFilename": "cover.jpg",
+    "contentFilename": "cover.jpg",
+    "mediaType": "image/jpeg",
+    "width": 800,
+    "height": 1200,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_calibre/Unknown/Oxford Dictionary of English (5)/cover.jpg",
+    "referencedAttachment": false
+  }
+}

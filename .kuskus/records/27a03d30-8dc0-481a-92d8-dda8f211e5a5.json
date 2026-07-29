@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "27a03d30-8dc0-481a-92d8-dda8f211e5a5",
+  "relativePath": "_calibre/Unknown/Mydict (12)/metadata.opf",
+  "fingerprint": "7ec127062ceec7ab7f6c4914c48d3a3a04f3569fa115d6b793fa890ede39b9c9",
+  "fileIdentity": "3121943230:34621422135596581",
+  "recovery": {
+    "lastSeenAt": "2026-07-28T19:28:11.775Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "27a03d30-8dc0-481a-92d8-dda8f211e5a5",
+    "type": "file",
+    "title": "metadata",
+    "createdAt": "2026-07-22T04:00:55.707Z",
+    "updatedAt": "2026-07-22T04:00:55.707Z",
+    "sourceUrl": null,
+    "sourceFilename": "metadata.opf",
+    "contentFilename": "metadata.opf",
+    "mediaType": "application/octet-stream",
+    "size": 1003,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_calibre/Unknown/Mydict (12)/metadata.opf",
+    "referencedAttachment": false
+  }
+}

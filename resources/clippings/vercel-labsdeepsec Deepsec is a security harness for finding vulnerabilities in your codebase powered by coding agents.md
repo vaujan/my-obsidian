@@ -1,9 +1,9 @@
 ---
 title: "vercel-labs/deepsec: Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents"
-source: "https://github.com/vercel-labs/deepsec"
+source: https://github.com/vercel-labs/deepsec
 published:
 created: 2026-07-19
-description: "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents - vercel-labs/deepsec"
+description: Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents - vercel-labs/deepsec
 ---
 `deepsec` an agent-powered vulnerability scanner that you can run in your own infrastructure, optimized to perform on-demand review of all code in existing large-scale repos.
 

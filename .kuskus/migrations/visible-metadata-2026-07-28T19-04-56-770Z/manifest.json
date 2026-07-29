@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-07-28T19:04:57.550Z",
+  "files": [
+    {
+      "relativePath": "areas/Dev.md",
+      "destinationRelativePath": "areas/Dev.md",
+      "sha256": "fb7e285943ce880beb7ff57d9bfa8e7be8d6a8641f05411e5cd3f8a7f2cf2669"
+    },
+    {
+      "relativePath": "areas/Writings.md",
+      "destinationRelativePath": "areas/Writings.md",
+      "sha256": "8751fe034640612f46eaa1395fd821802d84b0ba796e74f495593c8c5cf22372"
+    },
+    {
+      "relativePath": "dev/Animation Vocabulary.md",
+      "destinationRelativePath": "dev/Animation Vocabulary.md",
+      "sha256": "d64c4406e4a97289c6b4613961dc1f87c9a2567876de552104bceeca8639a56e"
+    },
+    {
+      "relativePath": "dev/Developing Taste.md",
+      "destinationRelativePath": "dev/Developing Taste.md",
+      "sha256": "ca61b200ab6800fefe413e1f99ad0f7404db177430ac4bd67e23d34b0066ed18"
+    },
+    {
+      "relativePath": "dev/emilkowalskiskills Skills for Design Engineers.md",
+      "destinationRelativePath": "dev/emilkowalskiskills Skills for Design Engineers.md",
+      "sha256": "93c2b87bfe056c9bf329cb21da1fd89764989e8ed69492bd0e979f9cabe5226b"
+    },
+    {
+      "relativePath": "dev/Flagship AI models for coding, business analysis, and copywriting.md",
+      "destinationRelativePath": "dev/Flagship AI models for coding, business analysis, and copywriting.md",
+      "sha256": "02d698a31d31ed65c182ec4024003894795818aa0210b850e8a672f10717c4e2"
+    },
+    {
+      "relativePath": "dev/Git Commit Skill.md",
+      "destinationRelativePath": "dev/Git Commit Skill.md",
+      "sha256": "937092c5066f4cf016ef429dff786afc628873fac53464b61a8cdddfe7ce3cb2"
+    },
+    {
+      "relativePath": "dev/Low-cost and open-model report, with OpenCode Go coverage.md",
+      "destinationRelativePath": "dev/Low-cost and open-model report, with OpenCode Go coverage.md",
+      "sha256": "03936f1ce9748631880c93c18f0016624adba0ba4a9626cbf8cd6391e6a03e6c"
+    },
+    {
+      "relativePath": "dev/Say precisely what you mean.md",
+      "destinationRelativePath": "dev/Say precisely what you mean.md",
+      "sha256": "623691fd91165f14a71453b2228d3adc192c7204f3435d7c7b87e7cacd1ca36b"
+    },
+    {
+      "relativePath": "dev/shadcn Improve Skill.md",
+      "destinationRelativePath": "dev/shadcn Improve Skill.md",
+      "sha256": "d088e6564402ad8e20cdcd6d05abac13100a2e3df9ed096ca6569cb01f1e5d19"
+    },
+    {
+      "relativePath": "dev/shadcn Skills.md",
+      "destinationRelativePath": "dev/shadcn Skills.md",
+      "sha256": "1224368762161a5c6f4a2f0178ec3bf1704b8e0069cbecdd96125547b5c4a7c4"
+    },
+    {
+      "relativePath": "dev/Vercel Agent Skills.md",
+      "destinationRelativePath": "dev/Vercel Agent Skills.md",
+      "sha256": "f88d64f9270c0d87a31252fa4c47f8d095a937e431b6edae7b4a7b6bd949bd3e"
+    },
+    {
+      "relativePath": "dev/Vercel Native SDK.md",
+      "destinationRelativePath": "dev/Vercel Native SDK.md",
+      "sha256": "77c0f833273277a86d8bf3fd2ae2f584833331a1e963e4c129b4fcedcf7124b2"
+    },
+    {
+      "relativePath": "drafts/Brainrotted gooner mencoba meditasi.md",
+      "destinationRelativePath": "drafts/Brainrotted gooner mencoba meditasi.md",
+      "sha256": "cce7400485beb773dccdbf15ed15e7b7f1e3fd6b8ed6fd79a09ffd23fbb4ea88"
+    },
+    {
+      "relativePath": "drafts/Konsistensi.md",
+      "destinationRelativePath": "drafts/Konsistensi.md",
+      "sha256": "a2ecfb699493e5de965efa47f97fc2438bb28a3052880b6cccbf28b02c014ab4"
+    },
+    {
+      "relativePath": "drafts/Mengkultivasi Kebosanan.md",
+      "destinationRelativePath": "drafts/Mengkultivasi Kebosanan.md",
+      "sha256": "87a82d29a5b40bb4f1e59c23f231677cd244e2068b34ede7cf284565510a3d2e"
+    },
+    {
+      "relativePath": "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
+      "destinationRelativePath": "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
+      "sha256": "a5d0d794fc0d7dc27b233fb79e8d32989e5ea05278ca6ae43374c45d652895b6"
+    },
+    {
+      "relativePath": "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
+      "destinationRelativePath": "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
+      "sha256": "163264c60d3513f23821e16ce097fb1a7c41c84e9d4bc8a1d0c435491afc0a66"
+    },
+    {
+      "relativePath": "drafts/Video Game, Mimpi jadi Kaya dan Disfungsi Ereksi.md",
+      "destinationRelativePath": "drafts/Video Game, Mimpi jadi Kaya dan Disfungsi Ereksi.md",
+      "sha256": "16bc747d725ae7c300186872d2f5e4b8996327d0a3c37ce65001f572ee165999"
+    },
+    {
+      "relativePath": "essays/20 Perintah untuk Penulis Amatir.md",
+      "destinationRelativePath": "essays/20 Perintah untuk Penulis Amatir.md",
+      "sha256": "17f03584db3b4ab49b4f64e0a41d47ddd02eb762ee26d2416ded9f6a1a139051"
+    },
+    {
+      "relativePath": "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
+      "destinationRelativePath": "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
+      "sha256": "36f9ef0031e54ed8a9452889d75acb2991d088773de1f032aa4a676796b8820d"
+    },
+    {
+      "relativePath": "journal/2026-06-30.md",
+      "destinationRelativePath": "journal/2026-06-30.md",
+      "sha256": "4872baecf448c44276c869992ec37ff78a74abfb1c9bf580f3df4952050bd96d"
+    },
+    {
+      "relativePath": "journal/2026-07-04.md",
+      "destinationRelativePath": "journal/2026-07-04.md",
+      "sha256": "0bde8b7656ac7b08c29541cf0b4df11785942d9e52d41a75d3be8eaa32740c1b"
+    },
+    {
+      "relativePath": "Note for Kuskus Development.md",
+      "destinationRelativePath": "Note for Kuskus Development.md",
+      "sha256": "7cc71f905b9385b0d7780c09184fea96d24a17301376d27aa919513d2718bd31"
+    },
+    {
+      "relativePath": "resources/ai chats/deep-research-report.md",
+      "destinationRelativePath": "resources/ai chats/deep-research-report.md",
+      "sha256": "d9b57e7e682f495a0c382078cb7fdcf598516e6f436d135df5f5df4df5ae110a"
+    },
+    {
+      "relativePath": "resources/ai chats/Personalised Training Plan.md",
+      "destinationRelativePath": "resources/ai chats/Personalised Training Plan.md",
+      "sha256": "74b85817b58858416ab2734a2cf6bf5d2c065a0cdf8b18b6ea449944e9f311b5"
+    },
+    {
+      "relativePath": "resources/clippings/How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5mo.md",
+      "destinationRelativePath": "resources/clippings/How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5mo.md",
+      "sha256": "c911bd97e807f3abf008d8373bcfe62b850f283d58f01064fc835a5cc770f24c"
+    },
+    {
+      "relativePath": "resources/clippings/How to articulate yourself intelligently.md",
+      "destinationRelativePath": "resources/clippings/How to articulate yourself intelligently.md",
+      "sha256": "dee34e5c82502ec5ff2ac198d4b368623c0a17ba38438399e1df505cca9cff88"
+    },
+    {
+      "relativePath": "resources/clippings/How to fix your entire life in 1 day.md",
+      "destinationRelativePath": "resources/clippings/How to fix your entire life in 1 day.md",
+      "sha256": "74720397d088ddad33e37d52828e9c5808ff17ac6e4a88137dc8bcd1cb7f832a"
+    },
+    {
+      "relativePath": "resources/clippings/Make Your Writing Flow  Sentences Transitions, Subordination, and Modification.md",
+      "destinationRelativePath": "resources/clippings/Make Your Writing Flow  Sentences Transitions, Subordination, and Modification.md",
+      "sha256": "125508461bf605bbc3430bcf1c21a3d372fe7ca1cc84a59399e5dc74373829a1"
+    },
+    {
+      "relativePath": "resources/clippings/make-interfaces-feel-better Skill - jakubkrehel.md",
+      "destinationRelativePath": "resources/clippings/make-interfaces-feel-better Skill - jakubkrehel.md",
+      "sha256": "431478c1bc10d5a632495ea2a0d795b94f11e4f1cc4ff584ed6e98a07cba9406"
+    },
+    {
+      "relativePath": "resources/clippings/Muscle Hub on X Brutally Effective Beginner KB Complex (Full Body) httpst.coQMJLbv4phX.md",
+      "destinationRelativePath": "resources/clippings/Muscle Hub on X Brutally Effective Beginner KB Complex (Full Body) httpst.coQMJLbv4phX.md",
+      "sha256": "8c0c3e92e165a959836c6c9c2a89da0bf7b6b910b95d11a3fc37e83169b92eb1"
+    },
+    {
+      "relativePath": "resources/clippings/Notion Is Where Productivity Goes to Die  I Like Kill Nerds.md",
+      "destinationRelativePath": "resources/clippings/Notion Is Where Productivity Goes to Die  I Like Kill Nerds.md",
+      "sha256": "6d7a729457eac3b2e153b8c95d1f6ba8e99e16b83279ed8581956292a3c6804f"
+    },
+    {
+      "relativePath": "resources/clippings/Post by @marcelkargul on X.md",
+      "destinationRelativePath": "resources/clippings/Post by @marcelkargul on X.md",
+      "sha256": "c70967f2403b3d3bc936fed1c572d575e116a04a1a0f80113fbe84a21897c0d6"
+    },
+    {
+      "relativePath": "resources/clippings/React Bits - Animated UI Components For React.md",
+      "destinationRelativePath": "resources/clippings/React Bits - Animated UI Components For React.md",
+      "sha256": "ef4f94f91a0a07b872c279bdf97b81d3fa7e4c433d19b3befd2a62230d3b0675"
+    },
+    {
+      "relativePath": "resources/clippings/Rebound Health Trauma Therapy.md",
+      "destinationRelativePath": "resources/clippings/Rebound Health Trauma Therapy.md",
+      "sha256": "4d9f88b682e6e5226802e9735b0324f3a3c82a105e6bdbcedc31505e7d4319e2"
+    },
+    {
+      "relativePath": "resources/clippings/The Building Block Economy.md",
+      "destinationRelativePath": "resources/clippings/The Building Block Economy.md",
+      "sha256": "55e6e21d88b84ef6f20f21b7e1273ff2cb5eb4c47287335fadc6777e7e7fffd1"
+    },
+    {
+      "relativePath": "resources/clippings/TriliumNextTrilium Build your personal knowledge base with Trilium Notes.md",
+      "destinationRelativePath": "resources/clippings/TriliumNextTrilium Build your personal knowledge base with Trilium Notes.md",
+      "sha256": "55c30793b002677890c2c9defb32f4b7a9b6476ad066cdfe2fecb44b5cba8bd2"
+    },
+    {
+      "relativePath": "resources/clippings/vercel-labsdeepsec Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents.md",
+      "destinationRelativePath": "resources/clippings/vercel-labsdeepsec Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents.md",
+      "sha256": "a6c613b938fa45d54ba5be53a60e7872ab97a8870647ec6866794625bf53385c"
+    },
+    {
+      "relativePath": "resources/clippings/welcome   to   a   calmer   internet.md",
+      "destinationRelativePath": "resources/clippings/welcome   to   a   calmer   internet.md",
+      "sha256": "5178ed0b1d7384c24f3a0dc99bf4313fafc9eb08c8ff57b21b9e0a86d7da30a8"
+    },
+    {
+      "relativePath": "resources/workout/Norwegian 4x4 - Single Kettlebell v2.md",
+      "destinationRelativePath": "resources/workout/Norwegian 4x4 - Single Kettlebell v2.md",
+      "sha256": "12ca0a3afc180d19afb85e4f4475f1b4eaae135ebed275c3f68b4ce81d6d960c"
+    },
+    {
+      "relativePath": "resources/workout/Weekly Training Plan.md",
+      "destinationRelativePath": "resources/workout/Weekly Training Plan.md",
+      "sha256": "e0b87a47564d950fab468842abe6f3cc72b712515a332e25d89044c14a634919"
+    },
+    {
+      "relativePath": "_archive/Anytype login key.md",
+      "destinationRelativePath": "_archive/Anytype login key.md",
+      "sha256": "719938f527fda82279d278cae642bd147f27e850370866a0925bc6343e72d839"
+    }
+  ]
+}

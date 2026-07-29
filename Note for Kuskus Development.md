@@ -42,3 +42,4 @@
 17. Is this not a notetaking app? 
 18. Skeumorphic buttons
 19. Helpful empty state would be great ![[Pasted image 20260728220049.png]]
+20. Change the scrollbar to align ![[Pasted image 20260729042742.png]]

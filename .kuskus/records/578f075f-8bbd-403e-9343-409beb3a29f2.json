@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "578f075f-8bbd-403e-9343-409beb3a29f2",
+  "relativePath": "_calibre/Unknown/Oxford Dictionary of English (5)/Oxford Dictionary of English - Unknown.azw",
+  "fingerprint": "1bdc1ce9971bdae6256d623b50de3ef338c7ea8edfd8e899b87cf1d43082228b",
+  "fileIdentity": "3121943230:12666373952155765",
+  "recovery": {
+    "lastSeenAt": "2026-07-28T19:28:11.894Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "578f075f-8bbd-403e-9343-409beb3a29f2",
+    "type": "file",
+    "title": "Oxford Dictionary of English - Unknown",
+    "createdAt": "2026-07-22T04:00:46.001Z",
+    "updatedAt": "2026-07-22T04:00:46.098Z",
+    "sourceUrl": null,
+    "sourceFilename": "Oxford Dictionary of English - Unknown.azw",
+    "contentFilename": "Oxford Dictionary of English - Unknown.azw",
+    "mediaType": "application/octet-stream",
+    "size": 49335612,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_calibre/Unknown/Oxford Dictionary of English (5)/Oxford Dictionary of English - Unknown.azw",
+    "referencedAttachment": false
+  }
+}

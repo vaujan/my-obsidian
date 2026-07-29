@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "caa3aa03-a6bc-4250-af7f-6dc133f6ea9f",
+  "relativePath": "_calibre/Iceberg Slim/Pimp_ The Story of My Life (3)/Pimp_ The Story of My Life - Iceberg Slim.mobi",
+  "fingerprint": "e2bef7d33dd52fdca308bb2bad804addf39356fe9fec43fc1f7b0060cc0841b7",
+  "fileIdentity": "3121943230:6755399441200636",
+  "recovery": {
+    "lastSeenAt": "2026-07-28T19:28:11.670Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "caa3aa03-a6bc-4250-af7f-6dc133f6ea9f",
+    "type": "file",
+    "title": "Pimp_ The Story of My Life - Iceberg Slim",
+    "createdAt": "2026-07-13T14:52:58.801Z",
+    "updatedAt": "2026-07-13T14:53:07.804Z",
+    "sourceUrl": null,
+    "sourceFilename": "Pimp_ The Story of My Life - Iceberg Slim.mobi",
+    "contentFilename": "Pimp_ The Story of My Life - Iceberg Slim.mobi",
+    "mediaType": "application/octet-stream",
+    "size": 1990488,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_calibre/Iceberg Slim/Pimp_ The Story of My Life (3)/Pimp_ The Story of My Life - Iceberg Slim.mobi",
+    "referencedAttachment": false
+  }
+}

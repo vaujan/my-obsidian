@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "ee0e8353-1fd7-4de2-9491-068a3d0db354",
+  "relativePath": "_calibre/Unknown/The New Oxford American Dictionary (6)/The New Oxford American Diction - Unknown.azw",
+  "fingerprint": "04864044521f509af82f2abb8a3cd671b6f86c1c38983c15d2ea25c3300effb2",
+  "fileIdentity": "3121943230:21110623253482371",
+  "recovery": {
+    "lastSeenAt": "2026-07-28T19:28:12.021Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "ee0e8353-1fd7-4de2-9491-068a3d0db354",
+    "type": "file",
+    "title": "The New Oxford American Diction - Unknown",
+    "createdAt": "2026-07-22T04:00:46.264Z",
+    "updatedAt": "2026-07-22T04:00:46.412Z",
+    "sourceUrl": null,
+    "sourceFilename": "The New Oxford American Diction - Unknown.azw",
+    "contentFilename": "The New Oxford American Diction - Unknown.azw",
+    "mediaType": "application/octet-stream",
+    "size": 71114360,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_calibre/Unknown/The New Oxford American Dictionary (6)/The New Oxford American Diction - Unknown.azw",
+    "referencedAttachment": false
+  }
+}

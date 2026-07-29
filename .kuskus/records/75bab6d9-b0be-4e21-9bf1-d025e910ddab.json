@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "id": "75bab6d9-b0be-4e21-9bf1-d025e910ddab",
+  "relativePath": "resources/clippings/vercel-labsdeepsec Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents.md",
+  "fingerprint": "bb43b72e9b1d0214542621c69db619b2bd4149eda4cc372445d3743f8bbfd045",
+  "fileIdentity": "3121943230:5348024558247146",
+  "recovery": {
+    "lastSeenAt": "2026-07-28T19:28:11.459Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "75bab6d9-b0be-4e21-9bf1-d025e910ddab",
+    "type": "note",
+    "title": "vercel-labsdeepsec Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents",
+    "createdAt": "2026-07-19T03:35:50.925Z",
+    "updatedAt": "2026-07-28T19:09:29.675Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "resources/clippings/vercel-labsdeepsec Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents.md",
+    "referencedAttachment": false
+  }
+}

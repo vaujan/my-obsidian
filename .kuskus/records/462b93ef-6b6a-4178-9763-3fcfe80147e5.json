@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "id": "462b93ef-6b6a-4178-9763-3fcfe80147e5",
+  "relativePath": "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/cover.jpg",
+  "fingerprint": "cb517f6a3733738c9fb0dc2417528ad888f54ab5bba7b9f513994fb61cacd29f",
+  "fileIdentity": "3121943230:6192449487645723",
+  "recovery": {
+    "lastSeenAt": "2026-07-28T19:28:11.529Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "462b93ef-6b6a-4178-9763-3fcfe80147e5",
+    "type": "image",
+    "title": "cover",
+    "createdAt": "2026-07-04T11:03:58.612Z",
+    "updatedAt": "2026-07-04T11:03:58.612Z",
+    "sourceUrl": null,
+    "sourceFilename": "cover.jpg",
+    "contentFilename": "cover.jpg",
+    "mediaType": "image/jpeg",
+    "width": 1059,
+    "height": 1600,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/cover.jpg",
+    "referencedAttachment": false
+  }
+}

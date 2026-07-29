@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "id": "83e96335-aef1-4623-a37a-0714662c4771",
+  "relativePath": "_archive/Anytype login key.md",
+  "fingerprint": "87318aaf3f6345e2d57bd317061ea41d209f69fedfe867e332601e9ddbda77ad",
+  "fileIdentity": "3121943230:5348024558247164",
+  "recovery": {
+    "lastSeenAt": "2026-07-28T19:28:11.509Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "83e96335-aef1-4623-a37a-0714662c4771",
+    "type": "note",
+    "title": "Anytype login key",
+    "createdAt": "2026-07-11T06:07:06.811Z",
+    "updatedAt": "2026-07-28T19:05:05.898Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_archive/Anytype login key.md",
+    "referencedAttachment": false
+  }
+}

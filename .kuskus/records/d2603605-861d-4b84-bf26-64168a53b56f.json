@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "id": "d2603605-861d-4b84-bf26-64168a53b56f",
+  "relativePath": "drafts/New Note.md",
+  "fingerprint": "6ae7ec9ebcfb543cb498dc5ef494ee3b4d1a2e1831b129bdf576f60ac1730004",
+  "fileIdentity": "3121943230:5629499534393599",
+  "recovery": {
+    "lastSeenAt": "2026-07-28T19:28:12.993Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "d2603605-861d-4b84-bf26-64168a53b56f",
+    "type": "note",
+    "title": "New Note",
+    "createdAt": "2026-07-25T17:25:11.425Z",
+    "updatedAt": "2026-07-28T19:04:24.839Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "drafts/New Note.md",
+    "referencedAttachment": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "e5ed7757-a654-4cb5-8d60-284a8b7ff16a",
+  "relativePath": "_calibre/Unknown/Mydict (12)/Mydict - Unknown.mobi",
+  "fingerprint": "d35ee5bca7bb318715aa7ce09f3455a8f213babcb8f36530005830794443504d",
+  "fileIdentity": "3121943230:5348024557691382",
+  "recovery": {
+    "lastSeenAt": "2026-07-28T19:28:11.788Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "e5ed7757-a654-4cb5-8d60-284a8b7ff16a",
+    "type": "file",
+    "title": "Mydict - Unknown",
+    "createdAt": "2026-07-22T04:00:47.366Z",
+    "updatedAt": "2026-07-22T04:00:47.370Z",
+    "sourceUrl": null,
+    "sourceFilename": "Mydict - Unknown.mobi",
+    "contentFilename": "Mydict - Unknown.mobi",
+    "mediaType": "application/octet-stream",
+    "size": 1274660,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_calibre/Unknown/Mydict (12)/Mydict - Unknown.mobi",
+    "referencedAttachment": false
+  }
+}

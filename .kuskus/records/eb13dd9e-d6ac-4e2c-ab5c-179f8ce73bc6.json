@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "id": "eb13dd9e-d6ac-4e2c-ab5c-179f8ce73bc6",
+  "relativePath": "dev/Low-cost and open-model report, with OpenCode Go coverage.md",
+  "fingerprint": "d65b2acc32d32abc744d0b8645a1787f7deaf87ea718df4bdd6fd3e4f6d4450e",
+  "fileIdentity": "3121943230:31243722415596737",
+  "recovery": {
+    "lastSeenAt": "2026-07-28T19:28:12.895Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "eb13dd9e-d6ac-4e2c-ab5c-179f8ce73bc6",
+    "type": "note",
+    "title": "Low-cost and open-model report, with OpenCode Go coverage",
+    "createdAt": "2026-07-13T07:33:48.546Z",
+    "updatedAt": "2026-07-28T19:05:05.561Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "dev/Low-cost and open-model report, with OpenCode Go coverage.md",
+    "referencedAttachment": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "id": "9f6beb54-cc10-4bba-b430-062d9f92a733",
+  "relativePath": "_calibre/Iceberg Slim/Pimp_ The Story of My Life (3)/cover.jpg",
+  "fingerprint": "ecede8e6b6c1d31af8de218638a397ba2e1f80fd4b9fc7cc219286aa5c388d59",
+  "fileIdentity": "3121943230:3377699720980395",
+  "recovery": {
+    "lastSeenAt": "2026-07-28T19:28:11.632Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "9f6beb54-cc10-4bba-b430-062d9f92a733",
+    "type": "image",
+    "title": "cover",
+    "createdAt": "2026-07-08T09:27:05.208Z",
+    "updatedAt": "2026-07-08T09:27:05.209Z",
+    "sourceUrl": null,
+    "sourceFilename": "cover.jpg",
+    "contentFilename": "cover.jpg",
+    "mediaType": "image/jpeg",
+    "width": 905,
+    "height": 1400,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_calibre/Iceberg Slim/Pimp_ The Story of My Life (3)/cover.jpg",
+    "referencedAttachment": false
+  }
+}

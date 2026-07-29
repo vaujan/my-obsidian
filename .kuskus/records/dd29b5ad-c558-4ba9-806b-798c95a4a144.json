@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "dd29b5ad-c558-4ba9-806b-798c95a4a144",
+  "relativePath": "_calibre/metadata_db_prefs_backup.json",
+  "fingerprint": "43f5fe3c41c9f3bdc03ddc2887e225a2c07fa151405c6dc25c60309853d0aff0",
+  "fileIdentity": "3121943230:7881299347909647",
+  "recovery": {
+    "lastSeenAt": "2026-07-28T19:28:11.688Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "dd29b5ad-c558-4ba9-806b-798c95a4a144",
+    "type": "file",
+    "title": "metadata_db_prefs_backup",
+    "createdAt": "2026-07-04T11:03:48.196Z",
+    "updatedAt": "2026-07-28T15:35:12.920Z",
+    "sourceUrl": null,
+    "sourceFilename": "metadata_db_prefs_backup.json",
+    "contentFilename": "metadata_db_prefs_backup.json",
+    "mediaType": "application/octet-stream",
+    "size": 14900,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_calibre/metadata_db_prefs_backup.json",
+    "referencedAttachment": false
+  }
+}

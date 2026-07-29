@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "5a7cbcff-8e35-4319-b289-32c90187e5c7",
+  "relativePath": "desktop.ini",
+  "fingerprint": "8921661995287b068986f5c67cb9e4296f749923c1ce92d9e296fb1fa0f76ae7",
+  "fileIdentity": "3121943230:8725724278202144",
+  "recovery": {
+    "lastSeenAt": "2026-07-28T19:28:12.848Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "5a7cbcff-8e35-4319-b289-32c90187e5c7",
+    "type": "file",
+    "title": "desktop",
+    "createdAt": "2026-07-18T04:04:39.599Z",
+    "updatedAt": "2026-07-18T04:04:40.076Z",
+    "sourceUrl": null,
+    "sourceFilename": "desktop.ini",
+    "contentFilename": "desktop.ini",
+    "mediaType": "application/octet-stream",
+    "size": 144,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "desktop.ini",
+    "referencedAttachment": false
+  }
+}

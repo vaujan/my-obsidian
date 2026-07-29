@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "14c986a9-18d8-49f0-933c-8f54b773fdb6",
+  "relativePath": "_calibre/Dante Alighieri/The Inferno (17)/metadata.opf",
+  "fingerprint": "3668b836cfdd9bce0f81905ec2646c15e9e6f03fdf8b54387cf35b9286254739",
+  "fileIdentity": "3121943230:6755399441228000",
+  "recovery": {
+    "lastSeenAt": "2026-07-28T19:28:11.597Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "14c986a9-18d8-49f0-933c-8f54b773fdb6",
+    "type": "file",
+    "title": "metadata",
+    "createdAt": "2026-07-25T17:44:24.323Z",
+    "updatedAt": "2026-07-25T17:45:50.425Z",
+    "sourceUrl": null,
+    "sourceFilename": "metadata.opf",
+    "contentFilename": "metadata.opf",
+    "mediaType": "application/octet-stream",
+    "size": 2762,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_calibre/Dante Alighieri/The Inferno (17)/metadata.opf",
+    "referencedAttachment": false
+  }
+}

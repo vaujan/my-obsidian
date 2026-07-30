@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "32915694b8aecbe4",
+        "id": "b9a076aa82c74838",
         "type": "tabs",
         "children": [
           {
-            "id": "4f415903f3ffa4be",
+            "id": "377789f5042e7c27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2026-07-04.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-07-04"
+              "title": "New tab"
             }
           }
         ]
@@ -153,13 +148,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2026-07-04.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-07-04"
+              "title": "Outline"
             }
           },
           {
@@ -200,27 +194,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4f415903f3ffa4be",
+  "active": "377789f5042e7c27",
   "lastOpenFiles": [
+    "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
+    "drafts/Mengkultivasi Kebosanan.md",
+    "drafts/New Note.md",
+    "drafts/maps/Consistency.canvas",
+    "drafts/maps/Build.canvas",
+    "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
+    "essays/20 Perintah untuk Penulis Amatir.md",
+    "journal/2026-07-04.md",
     "journal/2026-06-30.md",
+    "Pasted image 20260729042742.png",
+    "Note for Kuskus Development.md",
     "resources/workout/Weekly Training Plan.md",
     "resources/workout/Norwegian 4x4 - Single Kettlebell v2.md",
-    "Note for Kuskus Development.md",
-    "Pasted image 20260729042742.png",
-    "journal/2026-07-04.md",
     "drafts/Untitled",
     "drafts/Konsistensi.md",
     "drafts/Brainrotted gooner mencoba meditasi.md",
-    "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
-    "drafts/New Note.md",
     "areas/Dev.md",
     "dev/Low-cost and open-model report, with OpenCode Go coverage.md",
     "dev/shadcn Skills.md",
     "areas/Writings.md",
     "_archive/Anytype login key.md",
     "public/Pasted image 20260728220049.png",
-    "essays/20 Perintah untuk Penulis Amatir.md",
-    "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
     "dev/shadcn Improve Skill.md",
     "dev/Flagship AI models for coding, business analysis, and copywriting.md",
     "dev/Say precisely what you mean.md",
@@ -228,7 +225,6 @@
     "dev/emilkowalskiskills Skills for Design Engineers.md",
     "dev/Animation Vocabulary.md",
     "drafts/Video Game, Mimpi jadi Kaya dan Disfungsi Ereksi.md",
-    "drafts/Mengkultivasi Kebosanan.md",
     "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
     "Pasted image 20260728220049.png",
     "public/Pasted image 20260722194328.png",
@@ -240,9 +236,7 @@
     "public/Pasted image 20260719154418.png",
     "public/Pasted image 20260719155551.png",
     "public/Pasted image 20260719155213.png",
-    "drafts/maps/Consistency.canvas",
     "drafts/maps/Meditation.canvas",
-    "drafts/maps/Build.canvas",
     "desktop.ini",
     "dev",
     "pictures",

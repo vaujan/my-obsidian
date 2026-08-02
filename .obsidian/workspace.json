@@ -11,10 +11,12 @@
             "id": "377789f5042e7c27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260729042742.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260729042742"
             }
           }
         ]
@@ -89,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 268.5
   },
   "right": {
     "id": "3da6fab6773ac8c5",
@@ -148,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Pasted image 20260729042742.png",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Pasted image 20260729042742"
             }
           },
           {

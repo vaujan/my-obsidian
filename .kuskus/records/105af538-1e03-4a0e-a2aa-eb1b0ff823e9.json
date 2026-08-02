@@ -5,7 +5,7 @@
   "fingerprint": "9e524168ddcadc72d4d4152ee0440d0a23a5643d038771c252095a7c392de55c",
   "fileIdentity": "3121943230:5629499534401713",
   "recovery": {
-    "lastSeenAt": "2026-07-28T19:28:11.184Z",
+    "lastSeenAt": "2026-08-02T10:48:27.602Z",
     "missingSince": null
   },
   "metadata": {
@@ -24,6 +24,6 @@
     "note": "",
     "originalCollectionId": null,
     "relativePath": "public/Pasted image 20260712190752.png",
-    "referencedAttachment": false
+    "referencedAttachment": true
   }
 }

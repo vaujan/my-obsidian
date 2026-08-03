@@ -155,6 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Note for Kuskus Development.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 503.5,
-    "collapsed": true
+    "width": 503.5
   },
   "left-ribbon": {
     "hiddenItems": {

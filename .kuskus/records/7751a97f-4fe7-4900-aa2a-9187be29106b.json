@@ -5,7 +5,7 @@
   "fingerprint": "75d0ad2b438651a95872d094b4b4b1a52bc75a0c26641f1f321134bb3acc679b",
   "fileIdentity": "3121943230:5348024558247093",
   "recovery": {
-    "lastSeenAt": "2026-08-02T10:48:27.547Z",
+    "lastSeenAt": "2026-08-06T12:33:43.265Z",
     "missingSince": null
   },
   "metadata": {
@@ -21,6 +21,71 @@
     "note": "",
     "originalCollectionId": null,
     "relativePath": "Note for Kuskus Development.md",
-    "referencedAttachment": false
+    "referencedAttachment": false,
+    "attachments": [
+      {
+        "id": "1ae6908a-eea6-485d-9d43-eb15b6785dfc",
+        "filename": "Pasted image 20260719155213.png",
+        "relativePath": "./public/Pasted image 20260719155213.png",
+        "sourceFilename": "Pasted image 20260719155213.png",
+        "mediaType": "image/png",
+        "width": 1022,
+        "height": 842
+      },
+      {
+        "id": "53798127-0263-420d-984b-0cb6ecdc8770",
+        "filename": "Pasted image 20260719163242.png",
+        "relativePath": "./public/Pasted image 20260719163242.png",
+        "sourceFilename": "Pasted image 20260719163242.png",
+        "mediaType": "image/png",
+        "width": 402,
+        "height": 42
+      },
+      {
+        "id": "381db1bd-8d56-405f-9251-155fdfbd27f2",
+        "filename": "Pasted image 20260722194328.png",
+        "relativePath": "./public/Pasted image 20260722194328.png",
+        "sourceFilename": "Pasted image 20260722194328.png",
+        "mediaType": "image/png",
+        "width": 407,
+        "height": 408
+      },
+      {
+        "id": "103688d3-bba1-4867-94bc-38ee10d2567f",
+        "filename": "Pasted image 20260724000222.png",
+        "relativePath": "./public/Pasted image 20260724000222.png",
+        "sourceFilename": "Pasted image 20260724000222.png",
+        "mediaType": "image/png",
+        "width": 780,
+        "height": 278
+      },
+      {
+        "id": "bf46638b-0848-4b18-9b36-9791a5d5453e",
+        "filename": "Pasted image 20260725004930.png",
+        "relativePath": "./public/Pasted image 20260725004930.png",
+        "sourceFilename": "Pasted image 20260725004930.png",
+        "mediaType": "image/png",
+        "width": 3698,
+        "height": 2362
+      },
+      {
+        "id": "e9645f3d-ead8-49ec-868f-845ec871cb3e",
+        "filename": "Pasted image 20260728220049.png",
+        "relativePath": "./public/Pasted image 20260728220049.png",
+        "sourceFilename": "Pasted image 20260728220049.png",
+        "mediaType": "image/png",
+        "width": 1397,
+        "height": 893
+      },
+      {
+        "id": "43ddbfaa-16fc-4dce-9aa0-18d117b26cde",
+        "filename": "Pasted image 20260729042742.png",
+        "relativePath": "./public/Pasted image 20260729042742.png",
+        "sourceFilename": "Pasted image 20260729042742.png",
+        "mediaType": "image/png",
+        "width": 337,
+        "height": 897
+      }
+    ]
   }
 }

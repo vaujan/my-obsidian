@@ -5,7 +5,7 @@
   "fingerprint": "06f1dba984c73f7b46fb5325c068970334e396b792d042bda12eb2a0214c14e0",
   "fileIdentity": "3121943230:5348024558247078",
   "recovery": {
-    "lastSeenAt": "2026-08-02T10:48:27.534Z",
+    "lastSeenAt": "2026-08-06T12:33:43.244Z",
     "missingSince": null
   },
   "metadata": {
@@ -21,6 +21,17 @@
     "note": "",
     "originalCollectionId": null,
     "relativePath": "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
-    "referencedAttachment": false
+    "referencedAttachment": false,
+    "attachments": [
+      {
+        "id": "bcf8dc32-ec13-4e9d-825b-d763ad123e16",
+        "filename": "quality-over-quantity.png",
+        "relativePath": "../public/quality-over-quantity.png",
+        "sourceFilename": "quality-over-quantity.png",
+        "mediaType": "image/png",
+        "width": 1600,
+        "height": 1600
+      }
+    ]
   }
 }

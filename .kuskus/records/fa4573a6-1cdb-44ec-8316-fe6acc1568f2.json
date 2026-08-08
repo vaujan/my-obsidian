@@ -3,9 +3,11 @@
   "id": "fa4573a6-1cdb-44ec-8316-fe6acc1568f2",
   "relativePath": "public/Pasted image 20260712190502.png",
   "fingerprint": "01bdb1a0d2920e80e0e937824f679d2cfcd6502c64523c948b486e61418baac2",
-  "fileIdentity": "3121943230:19984723346608265",
+  "fileIdentity": "3121943230:19984723346608264",
+  "fileSize": 1674706,
+  "modifiedAtMs": 1783850702851.683,
   "recovery": {
-    "lastSeenAt": "2026-08-06T12:33:43.309Z",
+    "lastSeenAt": "2026-08-07T06:36:06.412Z",
     "missingSince": null
   },
   "metadata": {

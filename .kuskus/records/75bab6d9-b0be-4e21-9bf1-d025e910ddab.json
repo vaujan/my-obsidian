@@ -4,8 +4,10 @@
   "relativePath": "resources/clippings/vercel-labsdeepsec Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents.md",
   "fingerprint": "bb43b72e9b1d0214542621c69db619b2bd4149eda4cc372445d3743f8bbfd045",
   "fileIdentity": "3121943230:5348024558247146",
+  "fileSize": 1305,
+  "modifiedAtMs": 1785265769675.1096,
   "recovery": {
-    "lastSeenAt": "2026-08-06T12:33:43.529Z",
+    "lastSeenAt": "2026-08-07T06:36:06.425Z",
     "missingSince": null
   },
   "metadata": {

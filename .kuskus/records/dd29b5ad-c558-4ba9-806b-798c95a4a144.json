@@ -4,8 +4,10 @@
   "relativePath": "_calibre/metadata_db_prefs_backup.json",
   "fingerprint": "43f5fe3c41c9f3bdc03ddc2887e225a2c07fa151405c6dc25c60309853d0aff0",
   "fileIdentity": "3121943230:7881299347909647",
+  "fileSize": 14900,
+  "modifiedAtMs": 1785252912920.0708,
   "recovery": {
-    "lastSeenAt": "2026-08-06T12:33:43.698Z",
+    "lastSeenAt": "2026-08-07T06:36:06.435Z",
     "missingSince": null
   },
   "metadata": {

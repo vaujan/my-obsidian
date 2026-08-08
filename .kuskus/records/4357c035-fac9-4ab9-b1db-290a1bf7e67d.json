@@ -3,9 +3,11 @@
   "id": "4357c035-fac9-4ab9-b1db-290a1bf7e67d",
   "relativePath": "dev/Developing Taste.md",
   "fingerprint": "629a753da4abb6b78b7f94433aff2435304d0f1b5626c6f5cb42cf7043437b15",
-  "fileIdentity": "3121943230:25332747904111405",
+  "fileIdentity": "3121943230:25332747904111404",
+  "fileSize": 3674,
+  "modifiedAtMs": 1785265949858.3643,
   "recovery": {
-    "lastSeenAt": "2026-08-06T12:33:43.084Z",
+    "lastSeenAt": "2026-08-07T06:36:06.387Z",
     "missingSince": null
   },
   "metadata": {

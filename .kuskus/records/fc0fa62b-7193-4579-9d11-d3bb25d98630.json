@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 2,
+  "id": "fc0fa62b-7193-4579-9d11-d3bb25d98630",
+  "relativePath": "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
+  "fingerprint": "eca3aa10779e7268f736fd3a8c26cab31e14487bc7d992c8913acd958bbccd24",
+  "fileIdentity": "3121943230:5629499534957719",
+  "fileSize": 9922,
+  "modifiedAtMs": 1785265505635.7695,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.209Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "fc0fa62b-7193-4579-9d11-d3bb25d98630",
+    "type": "note",
+    "title": "Study Case - looking for multiformat saver with desktop and local storage support",
+    "createdAt": "2026-07-04T06:11:02.107Z",
+    "updatedAt": "2026-07-28T19:05:05.636Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
+    "referencedAttachment": false,
+    "attachments": [
+      {
+        "id": "dc518cb4-fb5e-4660-9485-e1c9a3f430f1",
+        "filename": "Pasted image 20260707114148.png",
+        "relativePath": "../public/Pasted image 20260707114148.png",
+        "sourceFilename": "Pasted image 20260707114148.png",
+        "mediaType": "image/png",
+        "width": 625,
+        "height": 753
+      },
+      {
+        "id": "9c870c7e-d5c9-4ecb-b2b1-45e16319ea38",
+        "filename": "Pasted image 20260712190613.png",
+        "relativePath": "../public/Pasted image 20260712190613.png",
+        "sourceFilename": "Pasted image 20260712190613.png",
+        "mediaType": "image/png",
+        "width": 488,
+        "height": 313
+      },
+      {
+        "id": "09503118-4f38-40a9-be6b-a465cc3f4a4a",
+        "filename": "Pasted image 20260712190538.png",
+        "relativePath": "../public/Pasted image 20260712190538.png",
+        "sourceFilename": "Pasted image 20260712190538.png",
+        "mediaType": "image/png",
+        "width": 488,
+        "height": 312
+      },
+      {
+        "id": "8c31da27-aa6f-4b2a-8c95-9ea6a591f6d6",
+        "filename": "Pasted image 20260711160957.png",
+        "relativePath": "../public/Pasted image 20260711160957.png",
+        "sourceFilename": "Pasted image 20260711160957.png",
+        "mediaType": "image/png",
+        "width": 1918,
+        "height": 901
+      },
+      {
+        "id": "e4513a48-e73c-43cf-87d1-4387d8e875f2",
+        "filename": "Pasted image 20260711174229.png",
+        "relativePath": "../public/Pasted image 20260711174229.png",
+        "sourceFilename": "Pasted image 20260711174229.png",
+        "mediaType": "image/png",
+        "width": 1907,
+        "height": 890
+      },
+      {
+        "id": "439d7774-4b2d-4362-87c1-f3363ede1250",
+        "filename": "Pasted image 20260712190812.png",
+        "relativePath": "../public/Pasted image 20260712190812.png",
+        "sourceFilename": "Pasted image 20260712190812.png",
+        "mediaType": "image/png",
+        "width": 1679,
+        "height": 646
+      },
+      {
+        "id": "a1cf9b6d-4764-4139-a9d9-bbae46e86080",
+        "filename": "Pasted image 20260712190752.png",
+        "relativePath": "../public/Pasted image 20260712190752.png",
+        "sourceFilename": "Pasted image 20260712190752.png",
+        "mediaType": "image/png",
+        "width": 1451,
+        "height": 430
+      }
+    ]
+  }
+}

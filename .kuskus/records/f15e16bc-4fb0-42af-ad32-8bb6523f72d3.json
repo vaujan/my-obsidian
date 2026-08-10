@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "f15e16bc-4fb0-42af-ad32-8bb6523f72d3",
+  "relativePath": "The -grill-me Skills.md",
+  "fingerprint": "d9329ca6d7cb800fb6ab879617f5a08ce21105dfc1d5343b7e20089998f9c35b",
+  "fileIdentity": "3121943230:5910974511572850",
+  "fileSize": 5665,
+  "modifiedAtMs": 1786175356347.7417,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.249Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "f15e16bc-4fb0-42af-ad32-8bb6523f72d3",
+    "type": "note",
+    "title": "The -grill-me Skills",
+    "createdAt": "2026-08-06T13:12:08.321Z",
+    "updatedAt": "2026-08-08T07:49:16.348Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "The -grill-me Skills.md",
+    "referencedAttachment": false
+  }
+}

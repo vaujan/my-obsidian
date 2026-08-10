@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "id": "f6044626-2f6b-4f3d-a3f8-2fb7330373c5",
+  "relativePath": "_calibre/Oxford University Press/Oxford Spanish - English Dictionary (7)/cover.jpg",
+  "fingerprint": "6ef74a42e304a2941c3e0c3097114fc9aef6945f48bebe2b0783403e4e8bad1c",
+  "fileIdentity": "3121943230:12666373952164868",
+  "fileSize": 116240,
+  "modifiedAtMs": 1784692846524.9294,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.255Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "f6044626-2f6b-4f3d-a3f8-2fb7330373c5",
+    "type": "image",
+    "title": "cover",
+    "createdAt": "2026-07-22T04:00:46.524Z",
+    "updatedAt": "2026-07-22T04:00:46.525Z",
+    "sourceUrl": null,
+    "sourceFilename": "cover.jpg",
+    "contentFilename": "cover.jpg",
+    "mediaType": "image/jpeg",
+    "width": 1165,
+    "height": 1620,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_calibre/Oxford University Press/Oxford Spanish - English Dictionary (7)/cover.jpg",
+    "referencedAttachment": false
+  }
+}

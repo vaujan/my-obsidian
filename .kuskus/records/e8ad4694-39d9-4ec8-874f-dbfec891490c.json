@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "e8ad4694-39d9-4ec8-874f-dbfec891490c",
+  "relativePath": "drafts/maps/Consistency.canvas",
+  "fingerprint": "6482cb60a37f5f2c5292407926697a9bfc169215a5ece686125209e76413cec6",
+  "fileIdentity": "3121943230:10414574138318266",
+  "fileSize": 543,
+  "modifiedAtMs": 1783389077487.9524,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.209Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "e8ad4694-39d9-4ec8-874f-dbfec891490c",
+    "type": "file",
+    "title": "Consistency",
+    "createdAt": "2026-07-01T01:16:43.271Z",
+    "updatedAt": "2026-07-07T01:51:17.488Z",
+    "sourceUrl": null,
+    "sourceFilename": "Consistency.canvas",
+    "contentFilename": "Consistency.canvas",
+    "mediaType": "application/octet-stream",
+    "size": 543,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "drafts/maps/Consistency.canvas",
+    "referencedAttachment": false
+  }
+}

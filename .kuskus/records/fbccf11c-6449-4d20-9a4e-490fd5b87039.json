@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "fbccf11c-6449-4d20-9a4e-490fd5b87039",
+  "relativePath": "areas/Writings.md",
+  "fingerprint": "813b22958c83419c43c5e4b98aceef3716db1bda87a8f3c7cba652aa4fc0cbad",
+  "fileIdentity": "3121943230:8725724278738503",
+  "fileSize": 1166,
+  "modifiedAtMs": 1785265505496.5525,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.190Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "fbccf11c-6449-4d20-9a4e-490fd5b87039",
+    "type": "note",
+    "title": "Writings",
+    "createdAt": "2026-06-29T22:50:44.456Z",
+    "updatedAt": "2026-07-28T19:05:05.497Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "areas/Writings.md",
+    "referencedAttachment": false
+  }
+}

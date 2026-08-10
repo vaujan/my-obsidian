@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "1e518a33-94b7-4462-8973-47f953d1e2a9",
+  "relativePath": "resources/ai chats/deep-research-report.md",
+  "fingerprint": "14d54cd3fce37b7182b5caf8527c1dcc3caa9bb6759ecec399a92e8bbaecb678",
+  "fileIdentity": "3121943230:5348024558247101",
+  "fileSize": 22679,
+  "modifiedAtMs": 1785265505714.1912,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.222Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "1e518a33-94b7-4462-8973-47f953d1e2a9",
+    "type": "note",
+    "title": "deep-research-report",
+    "createdAt": "2026-07-04T10:46:25.606Z",
+    "updatedAt": "2026-07-28T19:05:05.714Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "resources/ai chats/deep-research-report.md",
+    "referencedAttachment": false
+  }
+}

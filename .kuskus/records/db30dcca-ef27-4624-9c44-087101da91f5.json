@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "db30dcca-ef27-4624-9c44-087101da91f5",
+  "relativePath": "dev/shadcn Improve Skill.md",
+  "fingerprint": "25e24b15216786f36fe8be81ec08d60fe32644a0348eedbb9b83196704f8d05b",
+  "fileIdentity": "3121943230:17732923533515464",
+  "fileSize": 7288,
+  "modifiedAtMs": 1785265505574.7036,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.192Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "db30dcca-ef27-4624-9c44-087101da91f5",
+    "type": "note",
+    "title": "shadcn Improve Skill",
+    "createdAt": "2026-07-13T10:09:17.796Z",
+    "updatedAt": "2026-07-28T19:05:05.575Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "dev/shadcn Improve Skill.md",
+    "referencedAttachment": false
+  }
+}

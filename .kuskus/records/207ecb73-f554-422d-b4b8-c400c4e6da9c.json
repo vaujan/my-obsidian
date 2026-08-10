@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "207ecb73-f554-422d-b4b8-c400c4e6da9c",
+  "relativePath": "dev/Vercel Native SDK.md",
+  "fingerprint": "ba0a7d3cb0886622e1f9fffd6706c10323e5fa7e3bc2641d16de04f3f51a3fc6",
+  "fileIdentity": "3121943230:10414574139038756",
+  "fileSize": 700,
+  "modifiedAtMs": 1785265505601.6719,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.199Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "207ecb73-f554-422d-b4b8-c400c4e6da9c",
+    "type": "note",
+    "title": "Vercel Native SDK",
+    "createdAt": "2026-07-13T05:12:24.164Z",
+    "updatedAt": "2026-07-28T19:05:05.602Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "dev/Vercel Native SDK.md",
+    "referencedAttachment": false
+  }
+}

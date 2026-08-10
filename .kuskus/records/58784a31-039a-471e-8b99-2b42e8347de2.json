@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "58784a31-039a-471e-8b99-2b42e8347de2",
+  "relativePath": "resources/clippings/TriliumNextTrilium Build your personal knowledge base with Trilium Notes.md",
+  "fingerprint": "d83736f659695c51dd7de3d4cc3e12e310b81d27fe1f18a680a854149e5bd709",
+  "fileIdentity": "3121943230:27866022694507236",
+  "fileSize": 17225,
+  "modifiedAtMs": 1785265978710.6548,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.247Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "58784a31-039a-471e-8b99-2b42e8347de2",
+    "type": "note",
+    "title": "TriliumNextTrilium Build your personal knowledge base with Trilium Notes",
+    "createdAt": "2026-07-27T15:09:21.978Z",
+    "updatedAt": "2026-07-28T19:12:58.711Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "resources/clippings/TriliumNextTrilium Build your personal knowledge base with Trilium Notes.md",
+    "referencedAttachment": false
+  }
+}

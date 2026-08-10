@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "89f2db1e-cbee-448c-85f6-773ed4df9e5e",
+  "relativePath": "dev/emilkowalskiskills Skills for Design Engineers.md",
+  "fingerprint": "848bff8914cb26868e278dc0d8125f57cb2e531d118f089b743078cf2cd18197",
+  "fileIdentity": "3121943230:8725724278739378",
+  "fileSize": 4777,
+  "modifiedAtMs": 1785265505536.072,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.189Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "89f2db1e-cbee-448c-85f6-773ed4df9e5e",
+    "type": "note",
+    "title": "emilkowalskiskills Skills for Design Engineers",
+    "createdAt": "2026-07-14T10:11:16.246Z",
+    "updatedAt": "2026-07-28T19:05:05.536Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "dev/emilkowalskiskills Skills for Design Engineers.md",
+    "referencedAttachment": false
+  }
+}

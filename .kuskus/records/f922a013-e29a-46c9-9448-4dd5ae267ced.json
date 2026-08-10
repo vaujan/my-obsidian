@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "id": "f922a013-e29a-46c9-9448-4dd5ae267ced",
+  "relativePath": "_calibre/Dante Alighieri/The Inferno (17)/cover.jpg",
+  "fingerprint": "bbfd49d6c370071039fba4a0e8bc60140864fca7a1e19a7ab9bdf086a25fbb2c",
+  "fileIdentity": "3121943230:24769797950709976",
+  "fileSize": 33231,
+  "modifiedAtMs": 1785001510843.0422,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.252Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "f922a013-e29a-46c9-9448-4dd5ae267ced",
+    "type": "image",
+    "title": "cover",
+    "createdAt": "2026-07-25T17:44:23.085Z",
+    "updatedAt": "2026-07-25T17:45:10.843Z",
+    "sourceUrl": null,
+    "sourceFilename": "cover.jpg",
+    "contentFilename": "cover.jpg",
+    "mediaType": "image/jpeg",
+    "width": 375,
+    "height": 500,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_calibre/Dante Alighieri/The Inferno (17)/cover.jpg",
+    "referencedAttachment": false
+  }
+}

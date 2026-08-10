@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "e971b88b-0530-4e96-aa6d-2af49e8f6155",
+  "relativePath": "areas/Dev.md",
+  "fingerprint": "4dcf74d3ec59c2236d626e8ca08237f352a50cc5ef4a1449854e75a63e3a66a9",
+  "fileIdentity": "3121943230:5629499534894650",
+  "fileSize": 44,
+  "modifiedAtMs": 1785265505485.379,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.182Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "e971b88b-0530-4e96-aa6d-2af49e8f6155",
+    "type": "note",
+    "title": "Dev",
+    "createdAt": "2026-07-20T10:58:22.702Z",
+    "updatedAt": "2026-07-28T19:05:05.485Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "areas/Dev.md",
+    "referencedAttachment": false
+  }
+}

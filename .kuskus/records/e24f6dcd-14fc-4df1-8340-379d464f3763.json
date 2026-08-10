@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "e24f6dcd-14fc-4df1-8340-379d464f3763",
+  "relativePath": "_calibre/metadata.db",
+  "fingerprint": "4dc15c27b903a201da31e7f5db6734c5734fe52e6b6514165a29bfd287b826b5",
+  "fileIdentity": "3121943230:3377699720537282",
+  "fileSize": 475136,
+  "modifiedAtMs": 1785252911834.712,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.253Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "e24f6dcd-14fc-4df1-8340-379d464f3763",
+    "type": "file",
+    "title": "metadata",
+    "createdAt": "2026-07-04T11:02:42.642Z",
+    "updatedAt": "2026-07-28T15:35:11.835Z",
+    "sourceUrl": null,
+    "sourceFilename": "metadata.db",
+    "contentFilename": "metadata.db",
+    "mediaType": "application/octet-stream",
+    "size": 475136,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_calibre/metadata.db",
+    "referencedAttachment": false
+  }
+}

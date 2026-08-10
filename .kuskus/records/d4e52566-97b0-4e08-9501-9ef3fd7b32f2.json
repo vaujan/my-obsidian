@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "id": "d4e52566-97b0-4e08-9501-9ef3fd7b32f2",
+  "relativePath": "_calibre/Warren Farrell/The Boy Crisis_ Why Our Boys Are Str (8)/cover.jpg",
+  "fingerprint": "ede8a2f3458e80a6de4b15f52711c0dcc6a536cdc7b11fd031184f6ea4ca1b5e",
+  "fileIdentity": "3121943230:6473924464526201",
+  "fileSize": 52020,
+  "modifiedAtMs": 1784692846695.4895,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.280Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "d4e52566-97b0-4e08-9501-9ef3fd7b32f2",
+    "type": "image",
+    "title": "cover",
+    "createdAt": "2026-07-22T04:00:46.695Z",
+    "updatedAt": "2026-07-22T04:00:46.695Z",
+    "sourceUrl": null,
+    "sourceFilename": "cover.jpg",
+    "contentFilename": "cover.jpg",
+    "mediaType": "image/jpeg",
+    "width": 600,
+    "height": 800,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_calibre/Warren Farrell/The Boy Crisis_ Why Our Boys Are Str (8)/cover.jpg",
+    "referencedAttachment": false
+  }
+}

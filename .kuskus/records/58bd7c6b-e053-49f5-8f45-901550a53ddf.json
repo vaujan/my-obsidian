@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "58bd7c6b-e053-49f5-8f45-901550a53ddf",
+  "relativePath": "dev/Vercel Agent Skills.md",
+  "fingerprint": "98b60b66518bcb925a1d4b74798dac961926dfe0c1c5e5287b07d084e91552e5",
+  "fileIdentity": "3121943230:7599824371931959",
+  "fileSize": 1991,
+  "modifiedAtMs": 1785265505595.6843,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.197Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "58bd7c6b-e053-49f5-8f45-901550a53ddf",
+    "type": "note",
+    "title": "Vercel Agent Skills",
+    "createdAt": "2026-07-13T05:10:14.172Z",
+    "updatedAt": "2026-07-28T19:05:05.596Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "dev/Vercel Agent Skills.md",
+    "referencedAttachment": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "0f8b3345-ce6b-40eb-b2bc-e77b01dbf611",
+  "relativePath": "dev/Animation Vocabulary.md",
+  "fingerprint": "769cc67b036fb2086c4670f9b3d2d9902d27cf5141ca7996f0d731e7940f100c",
+  "fileIdentity": "3121943230:9851624185581900",
+  "fileSize": 9060,
+  "modifiedAtMs": 1785265505507.679,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.185Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "0f8b3345-ce6b-40eb-b2bc-e77b01dbf611",
+    "type": "note",
+    "title": "Animation Vocabulary",
+    "createdAt": "2026-07-14T10:17:05.167Z",
+    "updatedAt": "2026-07-28T19:05:05.508Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "dev/Animation Vocabulary.md",
+    "referencedAttachment": false
+  }
+}

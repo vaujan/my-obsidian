@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 2,
+  "id": "e7cef2b3-09f1-44e9-a88c-13ae4b3f13fc",
+  "relativePath": "Note for Kuskus Development.md",
+  "fingerprint": "75d0ad2b438651a95872d094b4b4b1a52bc75a0c26641f1f321134bb3acc679b",
+  "fileIdentity": "3121943230:5348024558247093",
+  "fileSize": 3204,
+  "modifiedAtMs": 1785665569807.4866,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.211Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "e7cef2b3-09f1-44e9-a88c-13ae4b3f13fc",
+    "type": "note",
+    "title": "Note for Kuskus Development",
+    "createdAt": "2026-07-19T06:41:47.158Z",
+    "updatedAt": "2026-08-02T10:12:49.807Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "Note for Kuskus Development.md",
+    "referencedAttachment": false,
+    "attachments": [
+      {
+        "id": "8c4083fd-9cb9-4f4f-b3ad-5ac414f9cd5e",
+        "filename": "Pasted image 20260719155213.png",
+        "relativePath": "./public/Pasted image 20260719155213.png",
+        "sourceFilename": "Pasted image 20260719155213.png",
+        "mediaType": "image/png",
+        "width": 1022,
+        "height": 842
+      },
+      {
+        "id": "5045e473-0998-49ca-b118-12a9347bacbc",
+        "filename": "Pasted image 20260719163242.png",
+        "relativePath": "./public/Pasted image 20260719163242.png",
+        "sourceFilename": "Pasted image 20260719163242.png",
+        "mediaType": "image/png",
+        "width": 402,
+        "height": 42
+      },
+      {
+        "id": "e9a10dc6-da84-4c4c-ad7d-4ad28611d01b",
+        "filename": "Pasted image 20260722194328.png",
+        "relativePath": "./public/Pasted image 20260722194328.png",
+        "sourceFilename": "Pasted image 20260722194328.png",
+        "mediaType": "image/png",
+        "width": 407,
+        "height": 408
+      },
+      {
+        "id": "f2017b7b-0941-4507-a23c-4c475c8d9fd9",
+        "filename": "Pasted image 20260724000222.png",
+        "relativePath": "./public/Pasted image 20260724000222.png",
+        "sourceFilename": "Pasted image 20260724000222.png",
+        "mediaType": "image/png",
+        "width": 780,
+        "height": 278
+      },
+      {
+        "id": "2f284b0d-3310-4215-b334-6b52362c97a9",
+        "filename": "Pasted image 20260725004930.png",
+        "relativePath": "./public/Pasted image 20260725004930.png",
+        "sourceFilename": "Pasted image 20260725004930.png",
+        "mediaType": "image/png",
+        "width": 3698,
+        "height": 2362
+      },
+      {
+        "id": "9b78b912-68e3-4a92-ac82-9f6bfcf63264",
+        "filename": "Pasted image 20260728220049.png",
+        "relativePath": "./public/Pasted image 20260728220049.png",
+        "sourceFilename": "Pasted image 20260728220049.png",
+        "mediaType": "image/png",
+        "width": 1397,
+        "height": 893
+      },
+      {
+        "id": "3ec69013-16e3-4b41-8f39-059f0313d7d9",
+        "filename": "Pasted image 20260729042742.png",
+        "relativePath": "./public/Pasted image 20260729042742.png",
+        "sourceFilename": "Pasted image 20260729042742.png",
+        "mediaType": "image/png",
+        "width": 337,
+        "height": 897
+      }
+    ]
+  }
+}

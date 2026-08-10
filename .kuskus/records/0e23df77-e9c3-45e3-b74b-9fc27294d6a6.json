@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "0e23df77-e9c3-45e3-b74b-9fc27294d6a6",
+  "relativePath": "_calibre/Iceberg Slim/Pimp_ The Story of My Life (3)/Pimp_ The Story of My Life - Iceberg Slim.epub",
+  "fingerprint": "02e51c66d9d9a6da13bc62c985c931e84032b39ad9841821247810711d5b95b6",
+  "fileIdentity": "3121943230:27021597764373160",
+  "fileSize": 2740775,
+  "modifiedAtMs": 1783504584269.2998,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.264Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "0e23df77-e9c3-45e3-b74b-9fc27294d6a6",
+    "type": "file",
+    "title": "Pimp_ The Story of My Life - Iceberg Slim",
+    "createdAt": "2026-07-08T09:56:24.224Z",
+    "updatedAt": "2026-07-08T09:56:24.269Z",
+    "sourceUrl": null,
+    "sourceFilename": "Pimp_ The Story of My Life - Iceberg Slim.epub",
+    "contentFilename": "Pimp_ The Story of My Life - Iceberg Slim.epub",
+    "mediaType": "application/octet-stream",
+    "size": 2740775,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_calibre/Iceberg Slim/Pimp_ The Story of My Life (3)/Pimp_ The Story of My Life - Iceberg Slim.epub",
+    "referencedAttachment": false
+  }
+}

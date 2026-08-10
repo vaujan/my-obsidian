@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "e3877808-3e39-4692-8501-762f305bde8d",
+  "relativePath": "_calibre/Oxford University Press/Oxford Spanish - English Dictionary (7)/Oxford Spanish - English Dictio - Oxford University Press.azw",
+  "fingerprint": "fba1beb18da8f0e87eca1cadbc50c1d8cced21c5c3e2d4739b1018e7b4f1f278",
+  "fileIdentity": "3121943230:9570149208347660",
+  "fileSize": 12639672,
+  "modifiedAtMs": 1784692846579.2976,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.292Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "e3877808-3e39-4692-8501-762f305bde8d",
+    "type": "file",
+    "title": "Oxford Spanish - English Dictio - Oxford University Press",
+    "createdAt": "2026-07-22T04:00:46.554Z",
+    "updatedAt": "2026-07-22T04:00:46.579Z",
+    "sourceUrl": null,
+    "sourceFilename": "Oxford Spanish - English Dictio - Oxford University Press.azw",
+    "contentFilename": "Oxford Spanish - English Dictio - Oxford University Press.azw",
+    "mediaType": "application/octet-stream",
+    "size": 12639672,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_calibre/Oxford University Press/Oxford Spanish - English Dictionary (7)/Oxford Spanish - English Dictio - Oxford University Press.azw",
+    "referencedAttachment": false
+  }
+}

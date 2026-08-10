@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "73cc69d7-cbee-427c-bf98-01e797189ef5",
+  "relativePath": "resources/clippings/App Icons.md",
+  "fingerprint": "5e4b4140f91e7d1ef846136004efbc954d8cf13e3585e950c0d9458c1e40fa58",
+  "fileIdentity": "3121943230:10133099161730364",
+  "fileSize": 15941,
+  "modifiedAtMs": 1785985001364.8008,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.225Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "73cc69d7-cbee-427c-bf98-01e797189ef5",
+    "type": "note",
+    "title": "App Icons",
+    "createdAt": "2026-08-06T02:56:41.349Z",
+    "updatedAt": "2026-08-06T02:56:41.365Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "resources/clippings/App Icons.md",
+    "referencedAttachment": false
+  }
+}

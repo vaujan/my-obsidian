@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "bb5a8fa2-b9d1-44f9-a64f-c1822cfd9341",
+  "relativePath": "resources/clippings/The Building Block Economy.md",
+  "fingerprint": "930a8a2b7798d42ac40c8157eb3a595f57ecfea25e9dd1974610d03d263dab14",
+  "fileIdentity": "3121943230:11540474045293680",
+  "fileSize": 7183,
+  "modifiedAtMs": 1786101299124.6467,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.243Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "bb5a8fa2-b9d1-44f9-a64f-c1822cfd9341",
+    "type": "note",
+    "title": "The Building Block Economy",
+    "createdAt": "2026-07-20T10:20:44.172Z",
+    "updatedAt": "2026-08-07T11:14:59.125Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "resources/clippings/The Building Block Economy.md",
+    "referencedAttachment": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "94be4ce7-31ca-4c70-a870-261ec4c4432c",
+  "relativePath": "dev/Git Commit Skill.md",
+  "fingerprint": "d53fb5b4c261928e60b3ebd6826e7a947d721584393d0bcfc3c936a07e56c57e",
+  "fileIdentity": "3121943230:14636698789665304",
+  "fileSize": 917,
+  "modifiedAtMs": 1785265505551.777,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.190Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "94be4ce7-31ca-4c70-a870-261ec4c4432c",
+    "type": "note",
+    "title": "Git Commit Skill",
+    "createdAt": "2026-07-13T06:45:03.713Z",
+    "updatedAt": "2026-07-28T19:05:05.552Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "dev/Git Commit Skill.md",
+    "referencedAttachment": false
+  }
+}

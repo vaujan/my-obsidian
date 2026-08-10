@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "692774e4-4ba3-4307-9943-94d05b2e5d41",
+  "relativePath": "dev/Say precisely what you mean.md",
+  "fingerprint": "51350d77e186c3040caca7e249fda0b9a133ea1c799d5dda043c0b41317f032b",
+  "fileIdentity": "3121943230:9288674232188944",
+  "fileSize": 32915,
+  "modifiedAtMs": 1785265505565.9966,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.196Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "692774e4-4ba3-4307-9943-94d05b2e5d41",
+    "type": "note",
+    "title": "Say precisely what you mean",
+    "createdAt": "2026-07-14T09:53:03.145Z",
+    "updatedAt": "2026-07-28T19:05:05.566Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "dev/Say precisely what you mean.md",
+    "referencedAttachment": false
+  }
+}

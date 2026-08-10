@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "a94b5b03-d734-4dfd-9413-c1d9197b4570",
+  "relativePath": "_calibre/Unknown/My Clippings (15)/metadata.opf",
+  "fingerprint": "832edb6321dc93120a389ba74814a20294c21cb9e2f4af0ff89550f007990208",
+  "fileIdentity": "3121943230:15199648742380376",
+  "fileSize": 1014,
+  "modifiedAtMs": 1784692862354.6482,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.258Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "a94b5b03-d734-4dfd-9413-c1d9197b4570",
+    "type": "file",
+    "title": "metadata",
+    "createdAt": "2026-07-22T04:01:02.354Z",
+    "updatedAt": "2026-07-22T04:01:02.355Z",
+    "sourceUrl": null,
+    "sourceFilename": "metadata.opf",
+    "contentFilename": "metadata.opf",
+    "mediaType": "application/octet-stream",
+    "size": 1014,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "_calibre/Unknown/My Clippings (15)/metadata.opf",
+    "referencedAttachment": false
+  }
+}

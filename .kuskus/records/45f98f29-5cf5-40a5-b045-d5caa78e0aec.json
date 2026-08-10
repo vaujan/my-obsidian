@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "45f98f29-5cf5-40a5-b045-d5caa78e0aec",
+  "relativePath": "journal/2026-06-30.md",
+  "fingerprint": "d08920a3bac5b764fa57bfe9718359320642a32a7448dc7b00cdef9f444f5b33",
+  "fileIdentity": "3121943230:5348024558247085",
+  "fileSize": 2119,
+  "modifiedAtMs": 1785265505681.0654,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.211Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "45f98f29-5cf5-40a5-b045-d5caa78e0aec",
+    "type": "note",
+    "title": "2026-06-30",
+    "createdAt": "2026-07-04T03:43:02.722Z",
+    "updatedAt": "2026-07-28T19:05:05.681Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "journal/2026-06-30.md",
+    "referencedAttachment": false
+  }
+}

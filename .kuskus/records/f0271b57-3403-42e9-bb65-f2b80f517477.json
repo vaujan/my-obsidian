@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "f0271b57-3403-42e9-bb65-f2b80f517477",
+  "relativePath": "resources/clippings/React Bits - Animated UI Components For React.md",
+  "fingerprint": "0a91a47e31cef59baf7ed582da37d8b0a414908fc86e5f243efa64f1e376257e",
+  "fileIdentity": "3121943230:8725724278070768",
+  "fileSize": 852,
+  "modifiedAtMs": 1785667019922.994,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.242Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "f0271b57-3403-42e9-bb65-f2b80f517477",
+    "type": "note",
+    "title": "React Bits - Animated UI Components For React",
+    "createdAt": "2026-07-18T07:18:41.591Z",
+    "updatedAt": "2026-08-02T10:36:59.923Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "resources/clippings/React Bits - Animated UI Components For React.md",
+    "referencedAttachment": false
+  }
+}

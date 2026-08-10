@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "f0cdb557-ce97-4069-af0b-6a2701d45e35",
+  "relativePath": "dev/Developing Taste.md",
+  "fingerprint": "629a753da4abb6b78b7f94433aff2435304d0f1b5626c6f5cb42cf7043437b15",
+  "fileIdentity": "3121943230:25332747904111404",
+  "fileSize": 3674,
+  "modifiedAtMs": 1785265949858.3643,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.188Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "f0cdb557-ce97-4069-af0b-6a2701d45e35",
+    "type": "note",
+    "title": "Developing Taste",
+    "createdAt": "2026-07-14T10:02:08.782Z",
+    "updatedAt": "2026-07-28T19:12:29.858Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "dev/Developing Taste.md",
+    "referencedAttachment": false
+  }
+}

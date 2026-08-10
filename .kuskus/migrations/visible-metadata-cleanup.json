@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "completed",
-  "affectedFiles": 43,
-  "recoveryRelativePath": ".kuskus/migrations/visible-metadata-2026-07-28T19-05-05-471Z",
+  "status": "not-needed",
+  "affectedFiles": 0,
+  "recoveryRelativePath": null,
   "conflicts": [],
-  "completedAt": "2026-07-28T19:05:06.461Z"
+  "completedAt": "2026-08-09T06:43:05.325Z"
 }

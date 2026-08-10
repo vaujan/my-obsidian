@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "bd8fec1e-10dd-40ee-ac35-edc9937399c9",
+  "relativePath": "resources/workout/Fauzan_Training_Log.xlsx",
+  "fingerprint": "eeb3a8d01b6b2242fd91ffeba0f36d7bfc3053c8b00e5318a1f145195d99e0b2",
+  "fileIdentity": "3121943230:4785074605101291",
+  "fileSize": 55178,
+  "modifiedAtMs": 1784551288137.9905,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.248Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "bd8fec1e-10dd-40ee-ac35-edc9937399c9",
+    "type": "file",
+    "title": "Fauzan_Training_Log",
+    "createdAt": "2026-07-16T03:08:47.613Z",
+    "updatedAt": "2026-07-20T12:41:28.138Z",
+    "sourceUrl": null,
+    "sourceFilename": "Fauzan_Training_Log.xlsx",
+    "contentFilename": "Fauzan_Training_Log.xlsx",
+    "mediaType": "application/octet-stream",
+    "size": 55178,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "resources/workout/Fauzan_Training_Log.xlsx",
+    "referencedAttachment": false
+  }
+}

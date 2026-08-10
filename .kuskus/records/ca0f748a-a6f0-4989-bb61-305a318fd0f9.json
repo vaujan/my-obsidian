@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 2,
+  "id": "ca0f748a-a6f0-4989-bb61-305a318fd0f9",
+  "relativePath": "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
+  "fingerprint": "06f1dba984c73f7b46fb5325c068970334e396b792d042bda12eb2a0214c14e0",
+  "fileIdentity": "3121943230:5348024558247078",
+  "fileSize": 2578,
+  "modifiedAtMs": 1785265505669.084,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.211Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "ca0f748a-a6f0-4989-bb61-305a318fd0f9",
+    "type": "note",
+    "title": "Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja",
+    "createdAt": "2026-07-09T08:16:01.009Z",
+    "updatedAt": "2026-07-28T19:05:05.669Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
+    "referencedAttachment": false,
+    "attachments": [
+      {
+        "id": "834555ea-0bb2-4a44-9d01-0252ecabb146",
+        "filename": "quality-over-quantity.png",
+        "relativePath": "../public/quality-over-quantity.png",
+        "sourceFilename": "quality-over-quantity.png",
+        "mediaType": "image/png",
+        "width": 1600,
+        "height": 1600
+      }
+    ]
+  }
+}

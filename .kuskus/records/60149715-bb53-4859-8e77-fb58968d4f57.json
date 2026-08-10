@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "60149715-bb53-4859-8e77-fb58968d4f57",
+  "relativePath": "drafts/maps/Build.canvas",
+  "fingerprint": "732696c6e7a18f3d40a9e7c7c2083a22d0e39804086fd53eb2a23c3b84756e18",
+  "fileIdentity": "3121943230:9570149208177432",
+  "fileSize": 1515,
+  "modifiedAtMs": 1783762701334.4473,
+  "recovery": {
+    "lastSeenAt": "2026-08-09T06:43:04.208Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "60149715-bb53-4859-8e77-fb58968d4f57",
+    "type": "file",
+    "title": "Build",
+    "createdAt": "2026-07-11T09:15:11.502Z",
+    "updatedAt": "2026-07-11T09:38:21.334Z",
+    "sourceUrl": null,
+    "sourceFilename": "Build.canvas",
+    "contentFilename": "Build.canvas",
+    "mediaType": "application/octet-stream",
+    "size": 1515,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "drafts/maps/Build.canvas",
+    "referencedAttachment": false
+  }
+}

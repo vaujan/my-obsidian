@@ -2,12 +2,12 @@
   "schemaVersion": 2,
   "id": "a28e85de-9447-4581-aa65-79d0a7302f30",
   "relativePath": "resources/clippings/welcome   to   a   calmer   internet.md",
-  "fingerprint": "0aa363613525c97b1ccc11bff947ac550ebce60cb0e36374746bd728dfc1c9fa",
+  "fingerprint": "ca76684ad3a318385e049441d8227a1f05ff66ac1858d6f1665d655fe2a6a1c9",
   "fileIdentity": "3121943230:5348024558247149",
-  "fileSize": 342,
-  "modifiedAtMs": 1785265769682.7107,
+  "fileSize": 337,
+  "modifiedAtMs": 1786459238737.388,
   "recovery": {
-    "lastSeenAt": "2026-08-09T06:43:04.248Z",
+    "lastSeenAt": "2026-08-11T15:34:32.672Z",
     "missingSince": null
   },
   "metadata": {
@@ -16,7 +16,7 @@
     "type": "note",
     "title": "welcome   to   a   calmer   internet",
     "createdAt": "2026-07-23T14:05:13.458Z",
-    "updatedAt": "2026-07-28T19:09:29.683Z",
+    "updatedAt": "2026-08-11T14:40:38.737Z",
     "sourceUrl": null,
     "sourceFilename": null,
     "contentFilename": "note.md",

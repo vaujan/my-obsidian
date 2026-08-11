@@ -1,9 +1,9 @@
 ---
-title: "ponytail/skills/ponytail/SKILL.md at main"
-source: "https://github.com/DietrichGebert/ponytail/tree/main"
+title: ponytail/skills/ponytail/SKILL.md at main
+source: https://github.com/DietrichGebert/ponytail/tree/main
 published:
 created: 2026-08-11
-description: "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. - ponytail/skills/ponytail/SKILL.md at main · DietrichGebert/ponytail"
+description: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. - ponytail/skills/ponytail/SKILL.md at main · DietrichGebert/ponytail
 ---
 ![Ponytail, the lazy senior dev](https://github.com/DietrichGebert/ponytail/raw/main/assets/logo-dark.png)
 

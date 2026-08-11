@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "libraryId": "9eed48f3-1aff-4083-afa6-0049e96c9720",
-  "writtenAt": "2026-08-09T08:33:13.062Z",
+  "writtenAt": "2026-08-10T19:04:37.480Z",
   "library": {
     "schemaVersion": 2,
     "id": "9eed48f3-1aff-4083-afa6-0049e96c9720",
@@ -15,9 +15,9 @@
         "id": "e23c32b7-d59f-4ff6-8f9a-8c630d1af9b5",
         "type": "note",
         "title": "Checklist Design",
-        "body": "Notification Settings Checklist\r\n\r\nWhere users configure exactly which notifications they receive, through which channels, and how frequently.\r\n\r\n- [ ] Categories — Notification types organised into logical groups e.g. product activity, mentions, billing, security, marketing\r\n- [ ] Channel selection — Controls for which channel each notification type comes through e.g. in-app, email, push, or SMS\r\n  - 💡 Not all channels make sense for all notification types — a billing alert via push notification is rarely necessary\r\n- [ ] Frequency controls — Where applicable, controls for how often notifications arrive e.g. immediately, daily digest, or weekly summary.\r\n- [ ] Global mute — A way to temporarily silence all notifications without having to turn each one off individually\r\n- [ ] Save confirmation — A clear indication that preference changes have been saved.\r\n  - 💡 Auto-save works well also, the key thing is ensuring the user is aware the changes are enabled as often they are customising due to preference or annoyance",
+        "body": "Notification Settings Checklist\n\nWhere users configure exactly which notifications they receive, through which channels, and how frequently.\n\n- [ ] Categories — Notification types organised into logical groups e.g. product activity, mentions, billing, security, marketing\n- [ ] Channel selection — Controls for which channel each notification type comes through e.g. in-app, email, push, or SMS\n  - 💡 Not all channels make sense for all notification types — a billing alert via push notification is rarely necessary\n- [ ] Frequency controls — Where applicable, controls for how often notifications arrive e.g. immediately, daily digest, or weekly summary.\n- [ ] Global mute — A way to temporarily silence all notifications without having to turn each one off individually\n- [ ] Save confirmation — A clear indication that preference changes have been saved.\n  - 💡 Auto-save works well also, the key thing is ensuring the user is aware the changes are enabled as often they are customising due to preference or annoyance",
         "createdAt": "2026-08-08T09:45:35.312Z",
-        "updatedAt": "2026-08-08T09:45:35.320Z",
+        "updatedAt": "2026-08-10T15:00:28.341Z",
         "missingContent": false,
         "attachments": [],
         "location": {

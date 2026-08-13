@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4c8b144226422a21",
+        "id": "b56f914f5615583d",
         "type": "tabs",
         "children": [
           {
-            "id": "d5fe70aa395ef5ae",
+            "id": "2f522052a1a3c51d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "resources/clippings/The grill-me Skill.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
+                "file": "_archive/Excalidraw Kuskus.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "The grill-me Skill"
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Kuskus"
             }
           }
         ]
@@ -56,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"kuskus-id\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 513.2919311523438,
+    "collapsed": true
   },
   "right": {
     "id": "3da6fab6773ac8c5",
@@ -155,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The -grill-me Skills.md",
+                "file": "_archive/Excalidraw Kuskus.excalidraw",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.143798828125,
-    "collapsed": true
+    "width": 404.143798828125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,57 +200,57 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d5fe70aa395ef5ae",
+  "active": "2f522052a1a3c51d",
   "lastOpenFiles": [
-    "journal/2026-04-28.md",
-    "resources/clippings/The grill-me Skill.md",
-    "journal/2026-08-06.md",
-    "resources/clippings/Checklist Design.md",
-    "The -grill-me Skills.md",
+    "_archive/Excalidraw Kuskus.excalidraw",
+    "resources/clippings/React Bits - Animated UI Components For React.md.ba070b98-f213-4aaf-9e3e-2b17dbc8f6dc.previous",
+    "resources/clippings/React Bits - Animated UI Components For React.md.f575f016-06d9-43bd-93f5-b76a6f648e6d.previous",
+    "resources/clippings/React Bits - Animated UI Components For React.md.bd6c2101-d9e3-4479-9530-76b7e086962d.previous",
+    "resources/clippings/React Bits - Animated UI Components For React.md.4970c9a5-967d-4d56-83ce-7ae4c79aacc4.previous",
+    "resources/clippings/React Bits - Animated UI Components For React.md.c9246e74-187d-4b5a-bcba-e25301a8d122.previous",
+    "resources/clippings/React Bits - Animated UI Components For React.md.9dd0e1c4-af1b-4646-973b-e040b8599f88.previous",
+    "Note for Kuskus Development.md.58e2f80e-b842-406c-9845-5af91741e9be.previous",
+    "Note for Kuskus Development.md.8a9af3f9-676d-4e11-af58-7029baa0e935.previous",
+    "Note for Kuskus Development.md.fe245288-647b-4996-9006-58a9bce37eb6.previous",
+    "Note for Kuskus Development.md.fdc4dc2c-5a20-4724-82de-dafab3914940.previous",
+    "_archive/Anytype login key.md",
+    "areas/Dev.md",
+    "areas/Writings.md",
+    "dev/emilkowalskiskills Skills for Design Engineers.md",
+    "dev/Animation Vocabulary.md",
+    "dev/shadcn Skills.md",
     "essays/20 Perintah untuk Penulis Amatir.md",
-    "resources/clippings/How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5mo.md",
-    "resources/clippings/welcome   to   a   calmer   internet.md",
     "essays/Hanya karena kita memencet tombol, bukan berarti kita sedang bekerja.md",
-    "resources/clippings/ponytailskillsponytailSKILL.md at main.md",
-    "Note for Kuskus Development.md",
-    "resources/clippings/Checklist Design.md.832f8154-0d55-4ea7-9e2c-3d2c8f6e94d9.previous",
-    "resources/clippings/Rebound Health Trauma Therapy.md.9773ab5d-14a4-4ab8-b66d-321b3e603ad0.previous",
-    "The -grill-me Skill.md",
-    "resources/clippings/App Icons.md",
-    "resources/clippings/React Bits - Animated UI Components For React.md.b48a71fc-b0fa-4096-8449-97add1f0d3ae.previous",
-    "public/Pasted image 20260729042742.png",
-    "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
-    "drafts/Mengkultivasi Kebosanan.md",
-    "drafts/New Note.md",
-    "drafts/maps/Consistency.canvas",
-    "drafts/maps/Build.canvas",
     "journal/2026-07-04.md",
     "journal/2026-06-30.md",
-    "resources/workout/Weekly Training Plan.md",
-    "resources/workout/Norwegian 4x4 - Single Kettlebell v2.md",
-    "drafts/Untitled",
-    "drafts/Konsistensi.md",
-    "drafts/Brainrotted gooner mencoba meditasi.md",
-    "areas/Dev.md",
-    "dev/Low-cost and open-model report, with OpenCode Go coverage.md",
-    "dev/shadcn Skills.md",
-    "areas/Writings.md",
+    "journal/2026-08-06.md",
+    "journal/2026-04-28.md",
+    "resources/ai chats/deep-research-report.md",
+    "resources/ai chats/Personalised Training Plan.md",
+    "resources/clippings/vercel-labsdeepsec Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents.md",
+    "vercel-labs/deepsec/blob/main/docs/models.md",
+    "resources/clippings/App Icons.md",
+    "resources/clippings/The grill-me Skill.md",
+    "Hello world.md",
+    "resources/clippings/Checklist Design.md",
+    "The -grill-me Skills.md",
+    "resources/clippings/How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5mo.md",
+    "resources/clippings/welcome   to   a   calmer   internet.md",
+    "resources/clippings/ponytailskillsponytailSKILL.md at main.md",
+    "Note for Kuskus Development.md",
+    "public/Pasted image 20260729042742.png",
+    "drafts/maps/Consistency.canvas",
+    "drafts/maps/Build.canvas",
     "public/Pasted image 20260728220049.png",
     "Pasted image 20260728220049.png",
     "public/Pasted image 20260722194328.png",
     "public/Pasted image 20260725004930.png",
     "public/Pasted image 20260724000222.png",
     "public/Pasted image 20260719163242.png",
-    "resources/workout/Fauzan_Training_Log.xlsx",
-    "_archive/Excalidraw Kuskus.excalidraw",
     "public/Pasted image 20260719154418.png",
     "public/Pasted image 20260719155551.png",
     "public/Pasted image 20260719155213.png",
     "drafts/maps/Meditation.canvas",
-    "desktop.ini",
-    "dev",
-    "pictures",
-    "drafts/maps/Build",
     "Untitled.canvas"
   ]
 }

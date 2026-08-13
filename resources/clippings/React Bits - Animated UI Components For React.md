@@ -1,8 +1,6 @@
 ---
 title: "React Bits - Animated UI Components For React"
 source: "https://reactbits.dev/"
-published:
-created: 2026-07-18
 description: "An open source collection of high quality, animated, interactive & fully customizable React components for building stunning, memorable user interfaces."
 ---
 ## React components forcreative developers
@@ -11,7 +9,7 @@ Highly customizable animated components & backgrounds that drop into your projec
 
 [Browse Components](https://reactbits.dev/get-started/index)
 
-```
+```typescript
 import { ColorBends } from '@components/ColorBends';
 
 function App() {

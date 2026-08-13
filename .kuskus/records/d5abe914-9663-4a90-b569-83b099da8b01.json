@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "d5abe914-9663-4a90-b569-83b099da8b01",
+  "relativePath": "Todo.md",
+  "fingerprint": "5d4751ffac7cfc7a50b21ad92c0ed388513df38693a4f4e4efa39c945be33058",
+  "fileIdentity": "3121943230:22236523160149990",
+  "fileSize": 169,
+  "modifiedAtMs": 1786623725453.272,
+  "recovery": {
+    "lastSeenAt": "2026-08-13T12:22:05.627Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "d5abe914-9663-4a90-b569-83b099da8b01",
+    "type": "note",
+    "title": "Todo",
+    "createdAt": "2026-08-13T10:09:25.919Z",
+    "updatedAt": "2026-08-13T12:22:05.453Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "Todo.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "Todo.md",
+    "referencedAttachment": false
+  }
+}

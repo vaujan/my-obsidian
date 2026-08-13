@@ -2,12 +2,12 @@
   "schemaVersion": 2,
   "id": "73cc69d7-cbee-427c-bf98-01e797189ef5",
   "relativePath": "resources/clippings/App Icons.md",
-  "fingerprint": "5e4b4140f91e7d1ef846136004efbc954d8cf13e3585e950c0d9458c1e40fa58",
+  "fingerprint": "9683cf5c44685f41f11de567bcdbf1b6a338fb31c2b7230e560d207ad63cab0e",
   "fileIdentity": "3121943230:10133099161730364",
-  "fileSize": 15941,
-  "modifiedAtMs": 1785985001364.8008,
+  "fileSize": 15706,
+  "modifiedAtMs": 1786494912996.9963,
   "recovery": {
-    "lastSeenAt": "2026-08-09T06:43:04.225Z",
+    "lastSeenAt": "2026-08-12T00:50:47.651Z",
     "missingSince": null
   },
   "metadata": {
@@ -16,7 +16,7 @@
     "type": "note",
     "title": "App Icons",
     "createdAt": "2026-08-06T02:56:41.349Z",
-    "updatedAt": "2026-08-06T02:56:41.365Z",
+    "updatedAt": "2026-08-12T00:35:12.997Z",
     "sourceUrl": null,
     "sourceFilename": null,
     "contentFilename": "note.md",

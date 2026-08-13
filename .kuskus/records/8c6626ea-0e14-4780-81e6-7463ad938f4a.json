@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "8c6626ea-0e14-4780-81e6-7463ad938f4a",
+  "relativePath": "How a release goes out.md",
+  "fingerprint": "bc8ffd8b173643c784edfc8eb13d470eaeef2a0365e3172e797def0de2afa8db",
+  "fileIdentity": "3121943230:8444249301325319",
+  "fileSize": 801,
+  "modifiedAtMs": 1786593963694.659,
+  "recovery": {
+    "lastSeenAt": "2026-08-13T04:06:03.839Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "8c6626ea-0e14-4780-81e6-7463ad938f4a",
+    "type": "note",
+    "title": "How a release goes out",
+    "createdAt": "2026-08-12T15:09:39.394Z",
+    "updatedAt": "2026-08-13T04:06:03.695Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "How a release goes out.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "How a release goes out.md",
+    "referencedAttachment": false
+  }
+}

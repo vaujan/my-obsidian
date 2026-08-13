@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "b66d0439-5a12-4990-93f9-0f107a8042d8",
+  "relativePath": "Goal- semantic search over 3k notes, fully offline, no server. The index has to sit next to the.md",
+  "fingerprint": "fec7d362dfcd83f88af06a963d2ae5d229905f20308c3846f7d15360f61dc018",
+  "fileIdentity": "3121943230:26177172834246044",
+  "fileSize": 1417,
+  "modifiedAtMs": 1786548257309.543,
+  "recovery": {
+    "lastSeenAt": "2026-08-12T15:24:17.467Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "b66d0439-5a12-4990-93f9-0f107a8042d8",
+    "type": "note",
+    "title": "Goal- semantic search over 3k notes, fully offline, no server. The index has to sit next to the",
+    "createdAt": "2026-08-12T15:10:26.608Z",
+    "updatedAt": "2026-08-12T15:24:17.310Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "Goal- semantic search over 3k notes, fully offline, no server. The index has to sit next to the.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "Goal- semantic search over 3k notes, fully offline, no server. The index has to sit next to the.md",
+    "referencedAttachment": false
+  }
+}

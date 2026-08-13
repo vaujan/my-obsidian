@@ -1,3 +1,4 @@
+# Note for Kuskus Development
 1. There no tagging system. 
 2. Markdown view in add composer, make it possible to view the rendered markdown in real-time writing it. 
 	1. Source **view**
@@ -43,4 +44,4 @@
 18. Skeumorphic buttons
 19. Helpful empty state would be great ![[Pasted image 20260728220049.png]]
 20. Change the scrollbar to align ![[Pasted image 20260729042742.png]]
-21. 
+21. Update the current 

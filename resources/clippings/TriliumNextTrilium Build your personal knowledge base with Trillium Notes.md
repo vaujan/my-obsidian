@@ -1,5 +1,4 @@
 ---
-title: "TriliumNext/Trilium: Build your personal knowledge base with Trilium Notes"
 source: "https://github.com/TriliumNext/Trilium"
 published:
 created: 2026-07-28

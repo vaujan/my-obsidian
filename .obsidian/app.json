@@ -2,7 +2,7 @@
   "vimMode": true,
   "spellcheck": false,
   "alwaysUpdateLinks": true,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "readableLineLength": true,
   "pdfExportSettings": {
     "includeName": true,
@@ -11,5 +11,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": false
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "libraryId": "9eed48f3-1aff-4083-afa6-0049e96c9720",
-  "writtenAt": "2026-08-13T12:41:24.872Z",
+  "writtenAt": "2026-08-14T11:47:55.080Z",
   "library": {
     "schemaVersion": 2,
     "id": "9eed48f3-1aff-4083-afa6-0049e96c9720",
@@ -12,113 +12,173 @@
     "items": [
       {
         "schemaVersion": 2,
+        "id": "dcc271a3-a2d7-4350-90d3-2f9ebebb132d",
+        "type": "image",
+        "title": "image-2026-08-14-142453",
+        "createdAt": "2026-08-14T05:24:53.391Z",
+        "updatedAt": "2026-08-14T05:24:53.443Z",
+        "sourceUrl": null,
+        "sourceFilename": "image-2026-08-14-142453.png",
+        "contentFilename": "image-2026-08-14-142453.png",
+        "mediaType": "image/png",
+        "width": 843,
+        "height": 500,
+        "note": "",
+        "originalCollectionId": null,
+        "relativePath": "image-2026-08-14-142453.png",
+        "referencedAttachment": true,
+        "attachmentOrigin": "note-capture",
+        "missingContent": false,
+        "location": {
+          "type": "inbox"
+        }
+      },
+      {
+        "schemaVersion": 2,
+        "id": "da60b064-f187-4423-ad09-fea6a5fec986",
+        "type": "image",
+        "title": "image-2026-08-14-142447",
+        "createdAt": "2026-08-14T05:24:47.136Z",
+        "updatedAt": "2026-08-14T05:24:47.193Z",
+        "sourceUrl": null,
+        "sourceFilename": "image-2026-08-14-142447.png",
+        "contentFilename": "image-2026-08-14-142447.png",
+        "mediaType": "image/png",
+        "width": 843,
+        "height": 500,
+        "note": "",
+        "originalCollectionId": null,
+        "relativePath": "image-2026-08-14-142447.png",
+        "referencedAttachment": false,
+        "attachmentOrigin": "note-capture",
+        "missingContent": false,
+        "location": {
+          "type": "inbox"
+        }
+      },
+      {
+        "schemaVersion": 2,
+        "id": "05e6d82f-9fb5-4949-a1b6-832df57933da",
+        "type": "image",
+        "title": "image-2026-08-14-142406",
+        "createdAt": "2026-08-14T05:24:06.614Z",
+        "updatedAt": "2026-08-14T05:24:06.656Z",
+        "sourceUrl": null,
+        "sourceFilename": "image-2026-08-14-142406.png",
+        "contentFilename": "image-2026-08-14-142406.png",
+        "mediaType": "image/png",
+        "width": 1308,
+        "height": 975,
+        "note": "",
+        "originalCollectionId": null,
+        "relativePath": "image-2026-08-14-142406.png",
+        "referencedAttachment": true,
+        "attachmentOrigin": "note-capture",
+        "missingContent": false,
+        "location": {
+          "type": "inbox"
+        }
+      },
+      {
+        "schemaVersion": 2,
+        "id": "168efcfb-4b13-448c-8ac1-76020c4f0375",
+        "type": "note",
+        "title": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes (3)",
+        "body": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes.",
+        "createdAt": "2026-08-14T05:18:48.218Z",
+        "updatedAt": "2026-08-14T05:18:48.384Z",
+        "missingContent": false,
+        "attachments": [],
+        "location": {
+          "type": "inbox"
+        },
+        "relativePath": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes (3).md",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
+        "id": "99aa1cd8-7d6a-4e20-aab8-1801c7ac5e7c",
+        "type": "image",
+        "title": "image-2026-08-14-093453",
+        "createdAt": "2026-08-14T00:34:53.176Z",
+        "updatedAt": "2026-08-14T00:34:53.223Z",
+        "sourceUrl": null,
+        "sourceFilename": "image-2026-08-14-093453.png",
+        "contentFilename": "image-2026-08-14-093453.png",
+        "mediaType": "image/png",
+        "width": 1919,
+        "height": 1012,
+        "note": "",
+        "originalCollectionId": null,
+        "relativePath": "image-2026-08-14-093453.png",
+        "referencedAttachment": true,
+        "attachmentOrigin": "note-capture",
+        "missingContent": false,
+        "location": {
+          "type": "inbox"
+        }
+      },
+      {
+        "schemaVersion": 2,
+        "id": "e188179a-95b1-42c5-bebe-a5ca35a887df",
+        "type": "note",
+        "title": "First time install note for Kuskus (Actual dogfood)",
+        "body": "**13 August 2026**\n\n![](./image-2026-08-14-093453.png)\n\n1. Paste-ing an screenshot from clipboard doesn't work\n2. Solarized theme sucks\n3. Toggling back-and-forth for from our current app  should also automatically focuses into the editor (there should be a highlighted line and a blinking cursor)\n4. Vim mode can be good, but does it have the implementation in our prosemirror or milkdown?\n\n***\n\n1. Remote image issue\n   1.  I think we should also be able to render remote image\n2. `<br/>` still rendered randomly thorughout our documents \n   1. In read mode to be precise\n3. Different checkbox design in live/edit mode\n4. App is very slow. Optimization is needed but not desperately\n   1. In-app speed is everything, smooth interaction is what we need\n5. Codeblock sometimes are empty (not rendered?) in existing documents\n6. Apply shortcut to our current zen mode\n7. Mermaid render\n8. Item rails date info is updated, not created\n9. Codeblock background for our math (if inline, we dont have to)\n10. Item title renaming sometimes is not lively rendered (the item rails already updated, but the title in our detail pane isn't)\n11. Image interaction? \n12. Sonner design\n\n***\n\n![](./image-2026-08-14-142406.png)I dont know what should i integrate right now\n\n![](./image-2026-08-14-142453.png)text on image should be smaller and is less 'distracting' than the actual regular text that we have. centering it might be good also\n\n* Make on boarding feature way less boring right now\n",
+        "createdAt": "2026-08-13T13:49:34.353Z",
+        "updatedAt": "2026-08-14T05:26:59.548Z",
+        "missingContent": false,
+        "attachments": [
+          {
+            "id": "99aa1cd8-7d6a-4e20-aab8-1801c7ac5e7c",
+            "filename": "image-2026-08-14-093453.png",
+            "relativePath": "./image-2026-08-14-093453.png",
+            "sourceFilename": "image-2026-08-14-093453.png",
+            "mediaType": "image/png",
+            "width": 1919,
+            "height": 1012,
+            "missingContent": false
+          },
+          {
+            "id": "05e6d82f-9fb5-4949-a1b6-832df57933da",
+            "filename": "image-2026-08-14-142406.png",
+            "relativePath": "./image-2026-08-14-142406.png",
+            "sourceFilename": "image-2026-08-14-142406.png",
+            "mediaType": "image/png",
+            "width": 1308,
+            "height": 975,
+            "missingContent": false
+          },
+          {
+            "id": "dcc271a3-a2d7-4350-90d3-2f9ebebb132d",
+            "filename": "image-2026-08-14-142453.png",
+            "relativePath": "./image-2026-08-14-142453.png",
+            "sourceFilename": "image-2026-08-14-142453.png",
+            "mediaType": "image/png",
+            "width": 843,
+            "height": 500,
+            "missingContent": false
+          }
+        ],
+        "location": {
+          "type": "inbox"
+        },
+        "relativePath": "First time install note for Kuskus (Actual dogfood).md",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
         "id": "d5abe914-9663-4a90-b569-83b099da8b01",
         "type": "note",
-        "title": "Todo",
-        "body": "* [ ] Todo\n* [ ] Todo \n* [ ] Todo todo\n* [ ] todooo todo\n* [ ] TODODODODDO\n\n# Ciu masuk tas, uang masuk berangkas\n\n* [x] hello world\n* [x] Hell world\n* [x] Hello world\n",
+        "title": "Evernote",
+        "body": "# Ciu masuk tas, uang masuk berangkas\n\n* [x] hello world\n* [x] Hell world\n* [x] Hello world\n",
         "createdAt": "2026-08-13T10:09:25.919Z",
-        "updatedAt": "2026-08-13T12:22:05.453Z",
+        "updatedAt": "2026-08-14T00:23:42.251Z",
         "missingContent": false,
         "attachments": [],
         "location": {
           "type": "inbox"
         },
-        "relativePath": "Todo.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "95bd7451-a06e-4a22-8f86-81c0156fee6f",
-        "type": "note",
-        "title": "│ Before                           │ After                                │",
-        "body": "```\n ┌──────────────────────────────────┬──────────────────────────────────────┐ \n │ Before                           │ After                                │ \n ├──────────────────────────────────┼──────────────────────────────────────┤ \n │ Task row gap plus checkbox right │ Single gap; removed duplicate        │ \n │ margin                           │ checkbox margin                      │ \n └──────────────────────────────────┴──────────────────────────────────────┘ \n                                                                             \n Updated src/renderer/src/assets/markdown.css. Typecheck and diff checks     \n pass.                                                             \n```\n",
-        "createdAt": "2026-08-13T10:02:14.746Z",
-        "updatedAt": "2026-08-13T10:02:14.865Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/95bd7451-a06e-4a22-8f86-81c0156fee6f/│ Before                           │ After                                │.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "7b455cd9-24b8-46b9-b998-0e17d9bec374",
-        "type": "note",
-        "title": "-$ Test note",
-        "body": "## \\$ Test note\n",
-        "createdAt": "2026-08-13T10:01:32.802Z",
-        "updatedAt": "2026-08-13T10:01:32.926Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/7b455cd9-24b8-46b9-b998-0e17d9bec374/-$ Test note.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "ab8340f5-c959-4f14-b567-d2f6e5a90e7e",
-        "type": "note",
-        "title": "# Markdown syntax guide",
-        "body": "\\# Markdown syntax guide\n\n\\## Headers\n\n\\# This is a Heading h1\n\n\\## This is a Heading h2\n\n\\###### This is a Heading h6\n\n\\## Emphasis\n\n*\\*This text will be italic\\**  \n\n*\\_This will also be italic\\_*\n\n**\\*\\*This text will be bold\\*\\***  \n\n**\\_\\_This will also be bold\\_\\_**\n\n*\\_You \\*\\*can\\*\\* combine them\\_*\n\n\\## Lists\n\n\\### Unordered\n\n\\* Item 1\n\n\\* Item 2\n\n\\* Item 2a\n\n\\* Item 2b\n\n    \\* Item 3a\n\n    \\* Item 3b\n\n\\### Ordered\n\n1\\. Item 1\n\n2\\. Item 2\n\n3\\. Item 3\n\n    1. Item 3a\n\n    2. Item 3b\n\n\\## Images\n\n!\\[This is an alt text.]\\(/image/Markdown-mark.svg \"This is a sample image.\")\n\n\\## Links\n\nYou may be using \\[Markdown Live Preview]\\(<https://markdownlivepreview.com/>).\n\n\\## Blockquotes\n\n\\> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.\n\n\\>\n\n\\>> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.\n\n\\## Tables\n\n\\| Left columns  | Right columns |\n\n\\| ------------- |:-------------:|\n\n\\| left foo      | right foo     |\n\n\\| left bar      | right bar     |\n\n\\| left baz      | right baz     |\n\n\\## Blocks of code\n\n\\`\\`\\`\n\nlet message = 'Hello world';\n\nalert(message);\n\n\\`\\`\\`\n\n\\## Mermaid diagrams\n\n\\`\\`\\`mermaid\n\ngraph TD\n\n  A\\[Start] --> B{Decision}\n\n  B -->|Yes| C\\[Finish]\n\n  B -->|No| D\\[Alternate]\n\n\\`\\`\\`\n\n\\## Inline code\n\nThis web site is using \\`markedjs/marked\\`.\n",
-        "createdAt": "2026-08-13T09:40:11.768Z",
-        "updatedAt": "2026-08-13T09:40:21.717Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/ab8340f5-c959-4f14-b567-d2f6e5a90e7e/# Markdown syntax guide.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "fafd336d-0787-49dc-a775-88ddd7df2f42",
-        "type": "url",
-        "title": "Tekken 7 - Jin Kazama Complete Breakdown",
-        "createdAt": "2026-08-13T09:32:56.431Z",
-        "updatedAt": "2026-08-13T09:32:56.529Z",
-        "sourceUrl": "https://www.youtube.com/watch?v=zU1tD6Wcy14",
-        "domain": "www.youtube.com",
-        "description": "🥊Get online Tekken coaching from the best: https://metafy.is/salami 00:00 Intro00:23 i. Wavedash Mixups 00:25 Overview01:11 Wavedash Mixups & EWHF01:58 Dela...",
-        "siteName": "YouTube",
-        "contentKind": "video",
-        "metadataVersion": 2,
-        "hasFavicon": true,
-        "hasPreviewImage": true,
-        "metadataStatus": "ready",
-        "metadataError": null,
-        "location": {
-          "type": "inbox"
-        },
-        "relativePath": "Tekken 7 - Jin Kazama Complete Breakdown.url",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "86221530-0e4b-4533-adb8-9cab9898adc6",
-        "type": "note",
-        "title": "https----www.youtube.com-watch-v=zU1tD6Wcy14",
-        "body": "https\\://www\\.youtube.com/watch?v=zU1tD6Wcy14\n",
-        "createdAt": "2026-08-13T09:32:46.710Z",
-        "updatedAt": "2026-08-13T09:32:46.834Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/86221530-0e4b-4533-adb8-9cab9898adc6/https----www.youtube.com-watch-v=zU1tD6Wcy14.md",
+        "relativePath": "Evernote.md",
         "referencedAttachment": false
       },
       {
@@ -128,7 +188,7 @@
         "title": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration",
         "body": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the `@inkdropapp/github` migration\nso I can copy-paste it next time.\n\n> **Verify versions first** — these tools move fast, so pin what you check instead of copying\n> from memory.\n>\n> ```sh\n> pnpm view oxlint version    # was 1.68.0\n> pnpm view oxfmt version     # was 0.53.0 (still pre-1.0, intentionally)\n> ```\n\n## Swap the dependencies\n\n```sh\npnpm remove eslint @eslint/js typescript-eslint eslint-config-prettier \\\n            prettier @ianvs/prettier-plugin-sort-imports\npnpm add -D oxlint oxfmt\n```\n\n## Config\n\n```json\n{\n  \"$schema\": \"./node_modules/oxfmt/configuration_schema.json\",\n  \"semi\": false,\n  \"singleQuote\": true,\n  \"trailingComma\": \"none\",\n  \"sortImports\": true,\n  \"sortPackageJson\": true\n}\n```\n\n| option          | Prettier default | oxfmt default | set to   |\n| --------------- | ---------------- | ------------- | -------- |\n| `semi`          | `true`           | `true`        | `false`  |\n| `singleQuote`   | `false`          | `false`       | `true`   |\n| `trailingComma` | `\"all\"`          | `\"all\"`       | `\"none\"` |\n\n`sortImports: true` replaces `@ianvs/prettier-plugin-sort-imports`. Don't set `printWidth`.\n`oxfmt --migrate=prettier` converts an existing config; `oxlint --init` scaffolds\n`.oxlintrc.json`.\n\nFor oxlint, `categories.correctness: \"error\"` is the conservative likely-bugs set and the right\ndefault. Rule names map `@typescript-eslint/foo` → `typescript/foo`; core rules keep their bare\nname. Nothing like `eslint-config-prettier` is needed — oxlint has no formatting rules to\nconflict with.\n\n## Gotchas\n\n* **oxlint reads only the _local_ `.gitignore`.** If `node_modules` isn't in it, a bare `oxlint`\n  lints the entire dependency tree and explodes. Add `\"node_modules/**\"` to `ignorePatterns`.\n  oxfmt skips it natively.\n* **`sortImports` is more opinionated than `@ianvs`.** It groups third-party and internal imports\n  with a blank line between them, so expect a one-time diff.\n* **oxfmt is pre-1.0** — output can shift between minors. Pin it and bump deliberately.\n* A failing `tsc` afterwards is usually a separate tsconfig problem, not oxc's fault. Run the\n  build before declaring victory.\n\n## Verify\n\n```sh\npnpm install\npnpm format    # apply once, then review the import-grouping diff\npnpm lint      # expect exit 0\npnpm typecheck && pnpm build\n```\n",
         "createdAt": "2026-08-12T15:12:42.262Z",
-        "updatedAt": "2026-08-13T12:33:05.786Z",
+        "updatedAt": "2026-08-13T12:55:10.743Z",
         "missingContent": false,
         "attachments": [],
         "location": {
@@ -142,9 +202,9 @@
         "id": "22ad198c-6872-4272-b82e-9b1b11a24049",
         "type": "note",
         "title": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes",
-        "body": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes.\nReproduced on my own database (3,040 notes) — the FPS meter drops to \\~20 while dragging the scrollbar.\n\n## Profile first\n\n* [Analyze runtime performance | Chrome DevTools](https://developer.chrome.com/docs/devtools/performance/)\n\nRecorded a 4-second scroll:\n\n```\nScripting   2,140 ms\nRendering     680 ms\nPainting      210 ms\nIdle           95 ms\n```\n\nSo it's scripting-bound, not paint-bound. 🤔\n\n## ✅ Every row re-renders on scroll\n\n`NoteListItem` isn't memoized, so a scroll-position change re-renders all 3,040 of them.\n\n```tsx\nexport const NoteListItem = memo(function NoteListItem({ note, active }: Props) {\n  // ...\n})\n```\n\n* [`memo` – React](https://react.dev/reference/react/memo)\n\nScripting drops to 380 ms. Good enough to ship, but the whole list is still mounted.\n\n## 🤔 Windowing the list\n\n* [react-window](https://github.com/bvaughn/react-window)\n\nRendering $n$ rows costs roughly $c \\cdot n$, and windowing replaces $n$ with the $v$ rows\nactually on screen. At $n = 3040$ and $v = 24$:\n\n$$\n\\frac{n}{v} \\approx 127\n$$\n\n...two orders of magnitude fewer mounted rows. Blocked on the sticky pinned-notes header, which\nassumes every row is in the DOM.\n\n## Next\n\n* [x] Memoize `NoteListItem`\n* [x] Verify against a 10k-note database\n* [ ] Windowed list behind a config flag\n* [ ] Re-test on the iPad app\n",
+        "body": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes.\nReproduced on my own database (3,040 notes) — the FPS meter drops to \\~20 while dragging the scrollbar.\n\n***\n\n## Profile first\n\n* [Analyze runtime performance | Chrome DevTools](https://developer.chrome.com/docs/devtools/performance/)\n\nRecorded a 4-second scroll:\n\n```\nScripting   2,140 ms\nRendering     680 ms\nPainting      210 ms\nIdle           95 ms\n```\n\nSo it's scripting-bound, not paint-bound. 🤔\n\n## ✅ Every row re-renders on scroll\n\n`NoteListItem` isn't memoized, so a scroll-position change re-renders all 3,040 of them.\n\n```tsx\nexport const NoteListItem = memo(function NoteListItem({ note, active }: Props) {\n  // ...\n})\n```\n\n* [`memo` – React](https://react.dev/reference/react/memo)\n\nScripting drops to 380 ms. Good enough to ship, but the whole list is still mounted.\n\n## 🤔 Windowing the list\n\n* [react-window](https://github.com/bvaughn/react-window)\n\nRendering $n$ rows costs roughly $c \\cdot n$, and windowing replaces $n$ with the $v$ rows\nactually on screen. At $n = 3040$ and $v = 24$:\n\n$$\n\\frac{n}{v} \\approx 127\n$$\n\n...two orders of magnitude fewer mounted rows. Blocked on the sticky pinned-notes header, which\nassumes every row is in the DOM.\n\n## Next\n\n* [x] Memoize `NoteListItem`\n* [x] Verify against a 10k-note database\n* [ ] Windowed list behind a config flag ✅ 2026-08-13\n* [ ] Re-test on the iPad app ✅ 2026-08-13\n",
         "createdAt": "2026-08-12T15:12:24.539Z",
-        "updatedAt": "2026-08-13T08:24:35.844Z",
+        "updatedAt": "2026-08-14T00:33:05.175Z",
         "missingContent": false,
         "attachments": [],
         "location": {
@@ -158,9 +218,9 @@
         "id": "b66d0439-5a12-4990-93f9-0f107a8042d8",
         "type": "note",
         "title": "Goal- semantic search over 3k notes, fully offline, no server. The index has to sit next to the",
-        "body": "# Goal: semantic search over ~3k notes, fully offline, no server. The index has to sit next to the\nexisting PouchDB database and survive sync.\n\nThis is meant to sit _alongside_ keyword search, not replace it — see\n\n## Candidates\n\n- 👍 [sqlite-vec](https://github.com/asg017/sqlite-vec)\n  - Single C file, no extra process, runs anywhere SQLite already runs\n  - Brute-force KNN only — fine at 3k vectors, questionable at 100k\n- 😕 [hnswlib-node](https://github.com/yoshoku/hnswlib-node)\n  - Fast approximate search, but it's a native addon → ABI-locked to the Electron version\n  - Rebuilding it on every Electron bump is exactly the maintenance I'm trying to avoid\n- 🤔 [LanceDB](https://github.com/lancedb/lancedb)\n  - Embedded, columnar, handles updates well\n  - Ships its own storage format — a second database to back up, migrate, and explain\n\n## Rough sizing\n\n3,000 notes × 384 dimensions × 4 bytes ≈ 4.6 MB of vectors. Small enough that a brute-force scan\nis bound by memory bandwidth rather than algorithm choice, so an approximate index buys nothing\nuntil the corpus is ~50× bigger.\n\n## Leaning toward sqlite-vec\n\n- [x] Confirm it loads inside a packaged Electron build\n- [ ] Measure query latency at 3k and 30k vectors\n- [ ] Decide where embeddings get computed — on-device model, or a batch job on save\n- [ ] Work out what sync does: are embeddings replicated, or recomputed per device?\n",
+        "body": "# Goal: semantic search over \\~3k notes, fully offline, no server. The index has to sit next to the\n\nexisting PouchDB database and survive sync.\n\nThis is meant to sit _alongside_ keyword search, not replace it — see\n\n## Candidates\n\n* 👍 [sqlite-vec](https://github.com/asg017/sqlite-vec)\n  * Single C file, no extra process, runs anywhere SQLite already runs\n  * Brute-force KNN only — fine at 3k vectors, questionable at 100k\n* 😕 [hnswlib-node](https://github.com/yoshoku/hnswlib-node)\n  * Fast approximate search, but it's a native addon → ABI-locked to the Electron version\n  * Rebuilding it on every Electron bump is exactly the maintenance I'm trying to avoid\n* 🤔 [LanceDB](https://github.com/lancedb/lancedb)\n  * Embedded, columnar, handles updates well\n  * Ships its own storage format — a second database to back up, migrate, and explain\n\n## Rough sizing\n\n3,000 notes × 384 dimensions × 4 bytes ≈ 4.6 MB of vectors. Small enough that a brute-force scan\nis bound by memory bandwidth rather than algorithm choice, so an approximate index buys nothing\nuntil the corpus is \\~50× bigger.\n\n## Leaning toward sqlite-vec\n\n* [x] Confirm it loads inside a packaged Electron build\n* [x] Measure query latency at 3k and 30k vectors\n* [x] Decide where embeddings get computed — on-device model, or a batch job on save\n* [x] Work out what sync does: are embeddings replicated, or recomputed per device?\n",
         "createdAt": "2026-08-12T15:10:26.608Z",
-        "updatedAt": "2026-08-12T15:24:17.310Z",
+        "updatedAt": "2026-08-13T21:47:36.245Z",
         "missingContent": false,
         "attachments": [],
         "location": {
@@ -203,60 +263,6 @@
       },
       {
         "schemaVersion": 2,
-        "id": "a92a2be2-381f-4bec-a43d-1b259145024a",
-        "type": "note",
-        "title": "2026-04-28",
-        "body": "",
-        "createdAt": "2026-08-11T18:14:28.638Z",
-        "updatedAt": "2026-08-11T18:14:28.638Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "collection",
-          "originalCollectionId": "e5384d56-122b-4c47-8f7d-0b5f10e0f0ac"
-        },
-        "relativePath": ".kuskus/trash/a92a2be2-381f-4bec-a43d-1b259145024a/2026-04-28.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "47f9825a-b873-4749-82ce-ceecbfcb9a9f",
-        "type": "note",
-        "title": "2026-08-06",
-        "body": "",
-        "createdAt": "2026-08-11T18:14:07.422Z",
-        "updatedAt": "2026-08-11T18:14:07.422Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "collection",
-          "originalCollectionId": "e5384d56-122b-4c47-8f7d-0b5f10e0f0ac"
-        },
-        "relativePath": ".kuskus/trash/47f9825a-b873-4749-82ce-ceecbfcb9a9f/2026-08-06.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "1fbc6a6f-bbff-44db-bd40-c9014a5ab9bb",
-        "type": "note",
-        "title": "Hello world",
-        "body": "# Hello world\n---",
-        "createdAt": "2026-08-11T15:57:05.093Z",
-        "updatedAt": "2026-08-11T15:57:28.113Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/1fbc6a6f-bbff-44db-bd40-c9014a5ab9bb/Hello world.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
         "id": "d7a2ccb8-14e4-41bc-8f46-611e0d648ffc",
         "type": "note",
         "title": "ponytailskillsponytailSKILL.md at main",
@@ -277,9 +283,9 @@
         "id": "e23c32b7-d59f-4ff6-8f9a-8c630d1af9b5",
         "type": "note",
         "title": "Checklist Design",
-        "body": "Notification Settings Checklist\n\nWhere users configure exactly which notifications they receive, through which channels, and how frequently.\n\n* [ ] Categories — Notification types organised into logical groups e.g. product activity, mentions, billing, security, marketing\n* [ ] Channel selection — Controls for which channel each notification type comes through e.g. in-app, email, push, or SMS\n  * 💡 Not all channels make sense for all notification types — a billing alert via push notification is rarely necessary\n* [ ] Frequency controls — Where applicable, controls for how often notifications arrive e.g. immediately, daily digest, or weekly summary.\n* [ ] Global mute — A way to temporarily silence all notifications without having to turn each one off individually\n* [ ] Save confirmation — A clear indication that preference changes have been saved.\n  * 💡 Auto-save works well also, the key thing is ensuring the user is aware the changes are enabled as often they are customising due to preference or annoyance\n",
+        "body": "Notification Settings Checklist\n\nWhere users configure exactly which notifications they receive, through which channels, and how frequently.\n\n* [x] Categories — Notification types organised into logical groups e.g. product activity, mentions, billing, security, marketing\n* [ ] Channel selection — Controls for which channel each notification type comes through e.g. in-app, email, push, or SMS\n\n  💡 Not all channels make sense for all notification types — a billing alert via push notification is rarely necessary\n* [ ] Frequency controls — Where applicable, controls for how often notifications arrive e.g. immediately, daily digest, or weekly summary.\n* [x] Global mute — A way to temporarily silence all notifications without having to turn each one off individually\n* [ ] Save confirmation — A clear indication that preference changes have been saved.\n  * 💡 Auto-save works well also, the key thing is ensuring the user is aware the changes are enabled as often they are customising due to preference or annoyance\n",
         "createdAt": "2026-08-08T09:45:35.312Z",
-        "updatedAt": "2026-08-13T12:19:22.723Z",
+        "updatedAt": "2026-08-14T11:43:41.801Z",
         "missingContent": false,
         "attachments": [],
         "location": {
@@ -310,9 +316,9 @@
         "id": "dfec9e06-ad43-47d9-ad5f-bfdc426c53bf",
         "type": "note",
         "title": "The grill-me Skill",
-        "body": "---\ntitle:\nsource: https://www.aihero.dev/skills-grill-me#grillable-and-ungrillable\npublished: 2026-04-28\ndescription: Get interviewed about a loose idea until it holds decisions.\ncreated: 2026-08-06\n---\n16 / 25AI Skills for Real Engineers · 5 min read\n\nGet interviewed about a loose idea until it holds decisions.\n\nMatt Pocock\n\n[Next page](https://www.aihero.dev/skills-handoff)\n\nInstall this skill\n\n`npx skills@latest add mattpocock/skills --skill=grill-me`\n\nThen type `/grill-me` in your coding agent.\n\nSource\n\n[mattpocock/skills](https://github.com/mattpocock/skills)\n\n## What it does\n\n`grill-me` takes a **loose idea** and interviews you until it has real decisions in it. You do not need a worked-out plan to start — producing one is what the [session](https://www.aihero.dev/ai-coding-dictionary/session) is for. It asks in **rounds**: each round is the whole **frontier** — every question whose prerequisites you have already settled — so you are never asked something that hinges on an answer it hasn't heard yet.\n\nIt is **[stateless](https://www.aihero.dev/ai-coding-dictionary/stateless)**. It writes no files and leaves no workspace behind. The only thing it leaves is a sharper version of the idea, in your own head.\n\n## When to reach for it\n\nYou invoke this by typing `/grill-me` — the [agent](https://www.aihero.dev/ai-coding-dictionary/agent) won't reach for it on its own. Start it in a **fresh conversation**, not on top of a plan you already had an agent write.\n\nReach for it as soon as you have an idea worth taking seriously — a feature, a product direction, a business call, a piece of writing — and long before you have worked out what it involves. Vagueness is not a reason to wait; it is the thing the session eats. If you can already specify the thing precisely, you don't need to grill it.\n\nWhich of the three [grilling](https://www.aihero.dev/ai-coding-dictionary/grilling) skills you want depends on what is in front of you:\n\n- **Anything, anywhere** — `grill-me`. It needs no repo and writes no files, and the subject doesn't have to be code.\n- **A codebase to align against** — [grill-with-docs](https://aihero.dev/skills-grill-with-docs). The same interview, but [stateful](https://www.aihero.dev/ai-coding-dictionary/stateful): it reads your code and keeps what it learns in `CONTEXT.md` and ADRs.\n- **Too big for one session** — [wayfinder](https://aihero.dev/skills-wayfinder). It charts the effort as a map and runs grilling sessions inside it.\n\nLeave [plan mode](https://www.aihero.dev/ai-coding-dictionary/agent-mode) off. [Plan mode](https://www.aihero.dev/ai-coding-dictionary/agent-mode) primes the agent to rush toward producing a plan, which is the opposite of staying in inquiry.\n\n## It's a conversation, not an interview\n\nThe skill asks the questions, but **you** own the scope. That is the part people miss, and it separates a session that turns an idea into decisions from one that produces confident nonsense.\n\nThe failure mode is **passivity** — answering \"agreed, agreed, agreed\" for forty questions and coming out with a plan the agent wrote and you nodded at. It feels productive because it was long. Nothing was actually decided, and the result carries a certainty it hasn't earned.\n\nBeing active means steering. Push back on a question pitched beneath the fidelity you need. Say when the scope is drifting. Answer \"I don't know\" and mean it. This skill is built to aid an engineer, not to replace one: what comes out tracks the quality of your answers, not the number of questions asked.\n\nThe opposite error is real but rarer — staying in the interview so long you never reach code.\n\n## Grillable and ungrillable\n\nSome questions can be answered by talking. Others can't, and no amount of grilling will get you there.\n\n\"One long form or three pages?\" and \"how should this interaction feel?\" are **ungrillable** — they need something to react to. When you hit one, stop grilling. Build the throwaway version with [prototype](https://aihero.dev/skills-prototype), look at it, then come back and answer in one line.\n\nTalking your way through an ungrillable question is where sessions balloon. The agent keeps rephrasing, you keep guessing, and the scope grows to fill the uncertainty.\n\n## It's working if\n\n- You disagree with something. A session with no pushback from you is a session you didn't need.\n- Questions arrive in a few rounds rather than one long drip, and later rounds clearly build on what you said earlier.\n- You end up somewhere you didn't expect, because a question surfaced a decision you had been making implicitly.\n- At the end you could defend each choice to someone who wasn't there.\n\n## Common questions\n\n**How many questions should I expect, and how do I know when it ends?** Count rounds, not questions. Forty-six questions across four rounds is an ordinary session. It ends when the frontier is empty — every branch visited, nothing left silently assumed.\n\n**It asked me two hundred questions. What went wrong?** Usually the scope was too large. Ask the agent to break the work into smaller pieces first, then grill each one. Very long sessions also drift into the **[dumb zone](https://www.aihero.dev/ai-coding-dictionary/smart-zone)**, where the [context window](https://www.aihero.dev/ai-coding-dictionary/context-window) is full enough that the questions get worse.\n\n**Can I go back to one question at a time?** Yes. Add this to your global `CLAUDE.md`:\n\n```txt\nWhen grilling, ask one question at a time.\n```\n\n**What if I genuinely don't know the answer?** Say so. \"I don't know\" is a real answer, and a question you can't answer is usually a sign to prototype rather than to guess.\n\n**Do I start a fresh session before writing the spec?** No. The value of the session is the [context](https://www.aihero.dev/ai-coding-dictionary/context) you just built. Hand the same conversation straight to [to-spec](https://aihero.dev/skills-to-spec).\n\n**Does the model matter?** More than for most skills. Grilling leans on the [model](https://www.aihero.dev/ai-coding-dictionary/model) 's own sense of how systems break, so give it your best one. Implementation mostly follows context and tolerates a cheaper model.\n\n## Where it fits\n\n`grill-me` is a **standalone you can run anywhere, on anything**. Being [stateless](https://www.aihero.dev/ai-coding-dictionary/stateless) is what makes it portable: no repo, no workspace, no setup, and no assumption that the idea is even about software. People point it at business decisions, at writing, at what to do next — anything that won't sit still in their head.\n\nThat portability is the whole difference from [grill-with-docs](https://aihero.dev/skills-grill-with-docs), which runs the same interview but reads a codebase to align against and records what it learns as `CONTEXT.md` and ADRs. Both sit on the [grilling](https://aihero.dev/skills-grilling) primitive; `grill-me` is the user-invoked front door that carries nothing with it.\n\nIf what you grilled does turn out to be software, you can hand the same conversation to [to-spec](https://aihero.dev/skills-to-spec) and carry on into the build flow — an option, not the point of the skill. When you're unsure which flow fits, [ask-matt](https://aihero.dev/skills-ask-matt) routes you.",
+        "body": "---\ntitle: \"The grill-me Skill\"\nsource: https://www.aihero.dev/skills-grill-me#grillable-and-ungrillable\npublished: 2026-04-28\ndescription: Get interviewed about a loose idea until it holds decisions.\ncreated: 2026-08-06\n---\n16 / 25AI Skills for Real Engineers · 5 min read\n\nGet interviewed about a loose idea until it holds decisions.\n\nMatt Pocock\n\n[Next page](https://www.aihero.dev/skills-handoff)\n\nInstall this skill\n\n`npx skills@latest add mattpocock/skills --skill=grill-me`\n\nThen type `/grill-me` in your coding agent.\n\nSource\n\n[mattpocock/skills](https://github.com/mattpocock/skills)\n\n## What it does\n\n`grill-me` takes a **loose idea** and interviews you until it has real decisions in it. You do not need a worked-out plan to start — producing one is what the [session](https://www.aihero.dev/ai-coding-dictionary/session) is for. It asks in **rounds**: each round is the whole **frontier** — every question whose prerequisites you have already settled — so you are never asked something that hinges on an answer it hasn't heard yet.\n\nIt is **[stateless](https://www.aihero.dev/ai-coding-dictionary/stateless)**. It writes no files and leaves no workspace behind. The only thing it leaves is a sharper version of the idea, in your own head.\n\n## When to reach for it\n\nYou invoke this by typing `/grill-me` — the [agent](https://www.aihero.dev/ai-coding-dictionary/agent) won't reach for it on its own. Start it in a **fresh conversation**, not on top of a plan you already had an agent write.\n\nReach for it as soon as you have an idea worth taking seriously — a feature, a product direction, a business call, a piece of writing — and long before you have worked out what it involves. Vagueness is not a reason to wait; it is the thing the session eats. If you can already specify the thing precisely, you don't need to grill it.\n\nWhich of the three [grilling](https://www.aihero.dev/ai-coding-dictionary/grilling) skills you want depends on what is in front of you:\n\n- **Anything, anywhere** — `grill-me`. It needs no repo and writes no files, and the subject doesn't have to be code.\n- **A codebase to align against** — [grill-with-docs](https://aihero.dev/skills-grill-with-docs). The same interview, but [stateful](https://www.aihero.dev/ai-coding-dictionary/stateful): it reads your code and keeps what it learns in `CONTEXT.md` and ADRs.\n- **Too big for one session** — [wayfinder](https://aihero.dev/skills-wayfinder). It charts the effort as a map and runs grilling sessions inside it.\n\nLeave [plan mode](https://www.aihero.dev/ai-coding-dictionary/agent-mode) off. [Plan mode](https://www.aihero.dev/ai-coding-dictionary/agent-mode) primes the agent to rush toward producing a plan, which is the opposite of staying in inquiry.\n\n## It's a conversation, not an interview\n\nThe skill asks the questions, but **you** own the scope. That is the part people miss, and it separates a session that turns an idea into decisions from one that produces confident nonsense.\n\nThe failure mode is **passivity** — answering \"agreed, agreed, agreed\" for forty questions and coming out with a plan the agent wrote and you nodded at. It feels productive because it was long. Nothing was actually decided, and the result carries a certainty it hasn't earned.\n\nBeing active means steering. Push back on a question pitched beneath the fidelity you need. Say when the scope is drifting. Answer \"I don't know\" and mean it. This skill is built to aid an engineer, not to replace one: what comes out tracks the quality of your answers, not the number of questions asked.\n\nThe opposite error is real but rarer — staying in the interview so long you never reach code.\n\n## Grillable and ungrillable\n\nSome questions can be answered by talking. Others can't, and no amount of grilling will get you there.\n\n\"One long form or three pages?\" and \"how should this interaction feel?\" are **ungrillable** — they need something to react to. When you hit one, stop grilling. Build the throwaway version with [prototype](https://aihero.dev/skills-prototype), look at it, then come back and answer in one line.\n\nTalking your way through an ungrillable question is where sessions balloon. The agent keeps rephrasing, you keep guessing, and the scope grows to fill the uncertainty.\n\n## It's working if\n\n- You disagree with something. A session with no pushback from you is a session you didn't need.\n- Questions arrive in a few rounds rather than one long drip, and later rounds clearly build on what you said earlier.\n- You end up somewhere you didn't expect, because a question surfaced a decision you had been making implicitly.\n- At the end you could defend each choice to someone who wasn't there.\n\n## Common questions\n\n**How many questions should I expect, and how do I know when it ends?** Count rounds, not questions. Forty-six questions across four rounds is an ordinary session. It ends when the frontier is empty — every branch visited, nothing left silently assumed.\n\n**It asked me two hundred questions. What went wrong?** Usually the scope was too large. Ask the agent to break the work into smaller pieces first, then grill each one. Very long sessions also drift into the **[dumb zone](https://www.aihero.dev/ai-coding-dictionary/smart-zone)**, where the [context window](https://www.aihero.dev/ai-coding-dictionary/context-window) is full enough that the questions get worse.\n\n**Can I go back to one question at a time?** Yes. Add this to your global `CLAUDE.md`:\n\n```txt\nWhen grilling, ask one question at a time.\n```\n\n**What if I genuinely don't know the answer?** Say so. \"I don't know\" is a real answer, and a question you can't answer is usually a sign to prototype rather than to guess.\n\n**Do I start a fresh session before writing the spec?** No. The value of the session is the [context](https://www.aihero.dev/ai-coding-dictionary/context) you just built. Hand the same conversation straight to [to-spec](https://aihero.dev/skills-to-spec).\n\n**Does the model matter?** More than for most skills. Grilling leans on the [model](https://www.aihero.dev/ai-coding-dictionary/model) 's own sense of how systems break, so give it your best one. Implementation mostly follows context and tolerates a cheaper model.\n\n## Where it fits\n\n`grill-me` is a **standalone you can run anywhere, on anything**. Being [stateless](https://www.aihero.dev/ai-coding-dictionary/stateless) is what makes it portable: no repo, no workspace, no setup, and no assumption that the idea is even about software. People point it at business decisions, at writing, at what to do next — anything that won't sit still in their head.\n\nThat portability is the whole difference from [grill-with-docs](https://aihero.dev/skills-grill-with-docs), which runs the same interview but reads a codebase to align against and records what it learns as `CONTEXT.md` and ADRs. Both sit on the [grilling](https://aihero.dev/skills-grilling) primitive; `grill-me` is the user-invoked front door that carries nothing with it.\n\nIf what you grilled does turn out to be software, you can hand the same conversation to [to-spec](https://aihero.dev/skills-to-spec) and carry on into the build flow — an option, not the point of the skill. When you're unsure which flow fits, [ask-matt](https://aihero.dev/skills-ask-matt) routes you.",
         "createdAt": "2026-08-06T13:09:32.223Z",
-        "updatedAt": "2026-08-11T18:24:41.990Z",
+        "updatedAt": "2026-08-14T00:18:19.210Z",
         "missingContent": false,
         "attachments": [],
         "location": {
@@ -1134,9 +1140,9 @@
         "id": "e7cef2b3-09f1-44e9-a88c-13ae4b3f13fc",
         "type": "note",
         "title": "Note for Kuskus Development",
-        "body": "# Note for Kuskus Development\n1. There no tagging system. \n2. Markdown view in add composer, make it possible to view the rendered markdown in real-time writing it. \n\t1. Source **view**\n\t2. Item details\n3. Improve functionality for the theming. Theme should have it own dialog or tab in the general settings ![[Pasted image 20260719155213.png]]\n4. Detailed view for writing down markdown\n5. UX Issue: After paste-ing an image into the composer, it immediately add it. We should update the save button copy into something like \"Save as Image\"\n\t1. This also apply if we paste a link. \"Save as Link\"\n\t2. Same goes with text only, \"Save as Note\"\n6. Update the markdown render, for view and writing capabilities. Apply ui.shadcn.com/typeset for the **rendering**\n7. Complete the folder and tags functionality so we can click it, and use it\n8. The demo content folder should contain \n9. For the alert, are we using shadcn? \n10. For the windows control buttons, what is the 'original buttons' that is used? Also use the familiar windows colors for the it\n11. For the menu should we have it? ![[Pasted image 20260719163242.png]]\n12. Item detail control: Renaming, deleting\n13. Separate the floating control, the X button should be in the top-right corner, the rest are on the top-left\n14. The local built should be in a human-readable contents\n15. Tolaria.md is vault based notes management, so it works with existing obsidian **vault**\n16. Hello world\n17. Draft should render the markdown while we type it (just dont include the detailed formatting, just straight writing in markdown), show the picture.  ![[Pasted image 20260722194328.png]]\n18. For headings (# Heading), shouldn't be styled (code formatted, bold, italic, strikethrough). The default rendering should be in bold (like how it is shown in the item library)\n---\n1. Multiple item select action toolbar, should be floating with background blur. Make it smaller width (rather then streched to the whole container). \n2. Default open on normal click\n3. Verify New item to typing/paste-ing flow\n4. Browser extensions, reference is obsidian web clipper\n5. Multiple select can be dragged to folders\n6. Readable file system (vault-like storage like obsidian)\n7. Library sort system\n8. Detailed view (Inkdrop or Evernote style), item list pane and detailed pane\n9. Lack visual feedback in clicked link item\n10. The sonner design looks very standard\n11. The misspelled word has red underline, but right-clicking is not working \n\t![[Pasted image 20260724000222.png]]\n12. Kukus markdown typeset and typeset docs is different\n13. I am thinking that the detailed pane for our markdown editor should have the same typeset styling with the library note markdown render\n\t1. Q: based on our current implementation, what should we expect of the implementations? what components that are affected? Right now, we only seeing 'no animation' stuffs\n14. UI reference for current development ![[Pasted image 20260725004930.png]]\n15. Like all of your notes, we are here to stay! \n16. Pin items\n17. Is this not a notetaking app? \n18. Skeumorphic buttons\n19. Helpful empty state would be great ![[Pasted image 20260728220049.png]]\n20. Change the scrollbar to align ![[Pasted image 20260729042742.png]]\n21. Update the current ",
+        "body": "# Note for Kuskus Development\n1. There no tagging system. \n2. Markdown view in add composer, make it possible to view the rendered markdown in real-time writing it. \n\t1. Source **view**\n\t2. Item details\n3. Improve functionality for the theming. Theme should have it own dialog or tab in the general settings ![[public/Pasted image 20260719155213.png]]\n4. Detailed view for writing down markdown\n5. UX Issue: After paste-ing an image into the composer, it immediately add it. We should update the save button copy into something like \"Save as Image\"\n\t1. This also apply if we paste a link. \"Save as Link\"\n\t2. Same goes with text only, \"Save as Note\"\n6. Update the markdown render, for view and writing capabilities. Apply ui.shadcn.com/typeset for the **rendering**\n7. Complete the folder and tags functionality so we can click it, and use it\n8. The demo content folder should contain \n9. For the alert, are we using shadcn? \n10. For the windows control buttons, what is the 'original buttons' that is used? Also use the familiar windows colors for the it\n11. For the menu should we have it? ![[public/Pasted image 20260719163242.png]]\n12. Item detail control: Renaming, deleting\n13. Separate the floating control, the X button should be in the top-right corner, the rest are on the top-left\n14. The local built should be in a human-readable contents\n15. Tolaria.md is vault based notes management, so it works with existing obsidian **vault**\n16. Hello world\n17. Draft should render the markdown while we type it (just dont include the detailed formatting, just straight writing in markdown), show the picture.  ![[public/Pasted image 20260722194328.png]]\n18. For headings (# Heading), shouldn't be styled (code formatted, bold, italic, strikethrough). The default rendering should be in bold (like how it is shown in the item library)\n---\n1. Multiple item select action toolbar, should be floating with background blur. Make it smaller width (rather then streched to the whole container). \n2. Default open on normal click\n3. Verify New item to typing/paste-ing flow\n4. Browser extensions, reference is obsidian web clipper\n5. Multiple select can be dragged to folders\n6. Readable file system (vault-like storage like obsidian)\n7. Library sort system\n8. Detailed view (Inkdrop or Evernote style), item list pane and detailed pane\n9. Lack visual feedback in clicked link item\n10. The sonner design looks very standard\n11. The misspelled word has red underline, but right-clicking is not working \n\t![[public/Pasted image 20260724000222.png]]\n12. Kukus markdown typeset and typeset docs is different\n13. I am thinking that the detailed pane for our markdown editor should have the same typeset styling with the library note markdown render\n\t1. Q: based on our current implementation, what should we expect of the implementations? what components that are affected? Right now, we only seeing 'no animation' stuffs\n14. UI reference for current development ![[public/Pasted image 20260725004930.png]]\n15. Like all of your notes, we are here to stay! \n16. Pin items\n17. Is this not a notetaking app? \n18. Skeumorphic buttons\n19. Helpful empty state would be great ![[public/Pasted image 20260728220049.png]]\n20. Change the scrollbar to align ![[public/Pasted image 20260729042742.png]]\n21. Update the current ",
         "createdAt": "2026-07-19T06:41:47.158Z",
-        "updatedAt": "2026-08-13T05:29:32.762Z",
+        "updatedAt": "2026-08-14T00:37:33.921Z",
         "missingContent": false,
         "attachments": [
           {
@@ -1266,26 +1272,6 @@
           "type": "inbox"
         },
         "relativePath": "desktop.ini",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "bd8fec1e-10dd-40ee-ac35-edc9937399c9",
-        "type": "file",
-        "title": "Fauzan_Training_Log",
-        "createdAt": "2026-07-16T03:08:47.613Z",
-        "updatedAt": "2026-07-20T12:41:28.138Z",
-        "sourceFilename": "Fauzan_Training_Log.xlsx",
-        "contentFilename": "Fauzan_Training_Log.xlsx",
-        "mediaType": "application/octet-stream",
-        "size": 55178,
-        "missingContent": false,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "collection",
-          "originalCollectionId": "5b4097c6-d67c-40e2-9d5b-bf506d00221c"
-        },
-        "relativePath": ".kuskus/trash/bd8fec1e-10dd-40ee-ac35-edc9937399c9/Fauzan_Training_Log.xlsx",
         "referencedAttachment": false
       },
       {
@@ -1569,9 +1555,9 @@
         "id": "58bd7c6b-e053-49f5-8f45-901550a53ddf",
         "type": "note",
         "title": "Vercel Agent Skills",
-        "body": "---\ntitle: vercel-labs/agent-skills — Agent skills\nsource: https://www.skills.sh/vercel-labs/agent-skills\npublished:\ncreated: 2026-07-13\ndescription: 13 agent skills from vercel-labs/agent-skills — including vercel-react-best-practices, web-design-guidelines, vercel-composition-patterns. Install with npx skills add vercel-labs/agent-skills.\ntags:\n  - skills\n---\n# vercel-labs/agent-skills\n\n## React\n\nSkills for building production-quality React and React Native interfaces with Vercel engineering patterns.\n\n### [vercel-react-best-practices](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices)\n\n### [vercel-composition-patterns](https://www.skills.sh/vercel-labs/agent-skills/vercel-composition-patterns)\n\n### [vercel-react-native-skills](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-native-skills)\n\n### [vercel-react-view-transitions](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-view-transitions)\n\n## Vercel\n\nSkills for deploying, managing, and optimizing applications on Vercel.\n\n### [deploy-to-vercel](https://www.skills.sh/vercel-labs/agent-skills/deploy-to-vercel)\n\n### [vercel-cli-with-tokens](https://www.skills.sh/vercel-labs/agent-skills/vercel-cli-with-tokens)\n\n### [vercel-optimize](https://www.skills.sh/vercel-labs/agent-skills/vercel-optimize)\n\n## Design\n\nSkills for reviewing and improving web interfaces, accessibility, and UX quality.\n\n### [web-design-guidelines](https://www.skills.sh/vercel-labs/agent-skills/web-design-guidelines)\n\n## Other skills\n\n### [writing-guidelines](https://www.skills.sh/vercel-labs/agent-skills/writing-guidelines)\n\n### [vercel-deploy](https://www.skills.sh/vercel-labs/agent-skills/vercel-deploy)\n\n### [composition-patterns](https://www.skills.sh/vercel-labs/agent-skills/composition-patterns)\n\n### [vercel-react-best-practices](https://www.skills.sh/vercel-labs/agent-skills/react-best-practices)\n\n### [react-native-skills](https://www.skills.sh/vercel-labs/agent-skills/react-native-skills)\n",
+        "body": "---\ntitle: vercel-labs/agent-skills — Agent skills\nsource: https://www.skills.sh/vercel-labs/agent-skills\npublished:\ncreated: 2026-07-13\ndescription: 13 agent skills from vercel-labs/agent-skills — including vercel-react-best-practices, web-design-guidelines, vercel-composition-patterns. Install with npx skills add vercel-labs/agent-skills.\ntags:\n  - skills\n---\n****# vercel-labs/agent-skills\n\n## React\n\nSkills for building production-quality React and React Native interfaces with Vercel engineering patterns.\n\n### [vercel-react-best-practices](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices)\n\n### [vercel-composition-patterns](https://www.skills.sh/vercel-labs/agent-skills/vercel-composition-patterns)\n\n### [vercel-react-native-skills](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-native-skills)\n\n### [vercel-react-view-transitions](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-view-transitions)\n\n## Vercel\n\nSkills for deploying, managing, and optimizing applications on Vercel.\n\n### [deploy-to-vercel](https://www.skills.sh/vercel-labs/agent-skills/deploy-to-vercel)\n\n### [vercel-cli-with-tokens](https://www.skills.sh/vercel-labs/agent-skills/vercel-cli-with-tokens)\n\n### [vercel-optimize](https://www.skills.sh/vercel-labs/agent-skills/vercel-optimize)\n\n## Design\n\nSkills for reviewing and improving web interfaces, accessibility, and UX quality.\n\n### [web-design-guidelines](https://www.skills.sh/vercel-labs/agent-skills/web-design-guidelines)\n\n## Other skills\n\n### [writing-guidelines](https://www.skills.sh/vercel-labs/agent-skills/writing-guidelines)\n\n### [vercel-deploy](https://www.skills.sh/vercel-labs/agent-skills/vercel-deploy)\n\n### [composition-patterns](https://www.skills.sh/vercel-labs/agent-skills/composition-patterns)\n\n### [vercel-react-best-practices](https://www.skills.sh/vercel-labs/agent-skills/react-best-practices)\n\n### [react-native-skills](https://www.skills.sh/vercel-labs/agent-skills/react-native-skills)\n",
         "createdAt": "2026-07-13T05:10:14.172Z",
-        "updatedAt": "2026-08-13T12:39:57.151Z",
+        "updatedAt": "2026-08-13T12:42:27.390Z",
         "missingContent": false,
         "attachments": [],
         "location": {
@@ -2549,7 +2535,7 @@
         "schemaVersion": 2,
         "id": "7ed2e5e1-8dfe-48ea-b61b-030a0eb1929c",
         "name": "essays",
-        "icon": "folder",
+        "icon": "bulb",
         "createdAt": "2026-08-09T06:43:01.624Z",
         "relativePath": "essays",
         "parentId": null

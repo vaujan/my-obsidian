@@ -1,0 +1,1 @@
+Scrolling the note list stutters badly once a notebook holds more than a few thousand notes.

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "id": "e188179a-95b1-42c5-bebe-a5ca35a887df",
+  "relativePath": "First time install note for Kuskus (Actual dogfood).md",
+  "fingerprint": "c023b696b0ec9231f8a3da71b5f551424de7246ebe5754a84824b826a02a30a3",
+  "fileIdentity": "3121943230:12384898975439764",
+  "fileSize": 1484,
+  "modifiedAtMs": 1786685219547.5417,
+  "recovery": {
+    "lastSeenAt": "2026-08-14T05:26:59.665Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "e188179a-95b1-42c5-bebe-a5ca35a887df",
+    "type": "note",
+    "title": "First time install note for Kuskus (Actual dogfood)",
+    "createdAt": "2026-08-13T13:49:34.353Z",
+    "updatedAt": "2026-08-14T05:26:59.548Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "First time install note for Kuskus (Actual dogfood).md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "First time install note for Kuskus (Actual dogfood).md",
+    "referencedAttachment": false,
+    "titleSource": "custom",
+    "attachments": [
+      {
+        "id": "99aa1cd8-7d6a-4e20-aab8-1801c7ac5e7c",
+        "filename": "image-2026-08-14-093453.png",
+        "relativePath": "./image-2026-08-14-093453.png",
+        "sourceFilename": "image-2026-08-14-093453.png",
+        "mediaType": "image/png",
+        "width": 1919,
+        "height": 1012
+      },
+      {
+        "id": "05e6d82f-9fb5-4949-a1b6-832df57933da",
+        "filename": "image-2026-08-14-142406.png",
+        "relativePath": "./image-2026-08-14-142406.png",
+        "sourceFilename": "image-2026-08-14-142406.png",
+        "mediaType": "image/png",
+        "width": 1308,
+        "height": 975
+      },
+      {
+        "id": "dcc271a3-a2d7-4350-90d3-2f9ebebb132d",
+        "filename": "image-2026-08-14-142453.png",
+        "relativePath": "./image-2026-08-14-142453.png",
+        "sourceFilename": "image-2026-08-14-142453.png",
+        "mediaType": "image/png",
+        "width": 843,
+        "height": 500
+      }
+    ]
+  }
+}

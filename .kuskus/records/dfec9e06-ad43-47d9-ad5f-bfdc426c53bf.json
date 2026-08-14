@@ -2,12 +2,12 @@
   "schemaVersion": 2,
   "id": "dfec9e06-ad43-47d9-ad5f-bfdc426c53bf",
   "relativePath": "resources/clippings/The grill-me Skill.md",
-  "fingerprint": "f4bf7096250b8dc402025700afde864603f135a01aa58c3fbaa82f0337ff17cd",
-  "fileIdentity": "3121943230:8444249301368675",
-  "fileSize": 7286,
-  "modifiedAtMs": 1786472681989.5198,
+  "fingerprint": "adc604d1c4660d198e11a2a556e711644c2ad1374b8e1d38892295f732baa6ef",
+  "fileIdentity": "3121943230:7318349394872916",
+  "fileSize": 7307,
+  "modifiedAtMs": 1786666699209.511,
   "recovery": {
-    "lastSeenAt": "2026-08-12T00:50:47.651Z",
+    "lastSeenAt": "2026-08-14T00:18:19.322Z",
     "missingSince": null
   },
   "metadata": {
@@ -16,7 +16,7 @@
     "type": "note",
     "title": "The grill-me Skill",
     "createdAt": "2026-08-06T13:09:32.223Z",
-    "updatedAt": "2026-08-11T18:24:41.990Z",
+    "updatedAt": "2026-08-14T00:18:19.210Z",
     "sourceUrl": null,
     "sourceFilename": null,
     "contentFilename": "The grill-me Skill.md",

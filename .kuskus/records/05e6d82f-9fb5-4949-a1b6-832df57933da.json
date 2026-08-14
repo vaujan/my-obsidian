@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "id": "05e6d82f-9fb5-4949-a1b6-832df57933da",
+  "relativePath": "image-2026-08-14-142406.png",
+  "fingerprint": "a3c177d73218e2a095992da597319531e0da5efffc9e22e95e672027fe749be5",
+  "fileIdentity": "3121943230:10977524091886472",
+  "fileSize": 277494,
+  "modifiedAtMs": 1786685046655.6409,
+  "recovery": {
+    "lastSeenAt": "2026-08-14T05:24:06.995Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "05e6d82f-9fb5-4949-a1b6-832df57933da",
+    "type": "image",
+    "title": "image-2026-08-14-142406",
+    "createdAt": "2026-08-14T05:24:06.614Z",
+    "updatedAt": "2026-08-14T05:24:06.656Z",
+    "sourceUrl": null,
+    "sourceFilename": "image-2026-08-14-142406.png",
+    "contentFilename": "image-2026-08-14-142406.png",
+    "mediaType": "image/png",
+    "width": 1308,
+    "height": 975,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "image-2026-08-14-142406.png",
+    "referencedAttachment": true,
+    "attachmentOrigin": "note-capture"
+  }
+}

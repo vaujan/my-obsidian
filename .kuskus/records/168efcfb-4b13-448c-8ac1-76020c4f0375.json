@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "id": "168efcfb-4b13-448c-8ac1-76020c4f0375",
+  "relativePath": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes (3).md",
+  "fingerprint": "d5d35bc41deecdb76e1b5baa88a6f4dc279db3bf565be4e3910f157bf62b648e",
+  "fileIdentity": "3121943230:15762598695950202",
+  "fileSize": 92,
+  "modifiedAtMs": 1786684728384.1152,
+  "recovery": {
+    "lastSeenAt": "2026-08-14T05:20:39.461Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "168efcfb-4b13-448c-8ac1-76020c4f0375",
+    "type": "note",
+    "title": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes (3)",
+    "createdAt": "2026-08-14T05:18:48.218Z",
+    "updatedAt": "2026-08-14T05:18:48.384Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes (3).md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes (3).md",
+    "referencedAttachment": false,
+    "titleSource": "custom"
+  }
+}

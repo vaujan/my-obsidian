@@ -1,6 +1,8 @@
 Scrolling the note list stutters badly once a notebook holds more than a few thousand notes.
 Reproduced on my own database (3,040 notes) — the FPS meter drops to \~20 while dragging the scrollbar.
 
+***
+
 ## Profile first
 
 * [Analyze runtime performance | Chrome DevTools](https://developer.chrome.com/docs/devtools/performance/)
@@ -48,5 +50,5 @@ assumes every row is in the DOM.
 
 * [x] Memoize `NoteListItem`
 * [x] Verify against a 10k-note database
-* [ ] Windowed list behind a config flag
-* [ ] Re-test on the iPad app
+* [ ] Windowed list behind a config flag ✅ 2026-08-13
+* [ ] Re-test on the iPad app ✅ 2026-08-13

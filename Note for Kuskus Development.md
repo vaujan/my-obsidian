@@ -3,7 +3,7 @@
 2. Markdown view in add composer, make it possible to view the rendered markdown in real-time writing it. 
 	1. Source **view**
 	2. Item details
-3. Improve functionality for the theming. Theme should have it own dialog or tab in the general settings ![[Pasted image 20260719155213.png]]
+3. Improve functionality for the theming. Theme should have it own dialog or tab in the general settings ![[public/Pasted image 20260719155213.png]]
 4. Detailed view for writing down markdown
 5. UX Issue: After paste-ing an image into the composer, it immediately add it. We should update the save button copy into something like "Save as Image"
 	1. This also apply if we paste a link. "Save as Link"
@@ -13,13 +13,13 @@
 8. The demo content folder should contain 
 9. For the alert, are we using shadcn? 
 10. For the windows control buttons, what is the 'original buttons' that is used? Also use the familiar windows colors for the it
-11. For the menu should we have it? ![[Pasted image 20260719163242.png]]
+11. For the menu should we have it? ![[public/Pasted image 20260719163242.png]]
 12. Item detail control: Renaming, deleting
 13. Separate the floating control, the X button should be in the top-right corner, the rest are on the top-left
 14. The local built should be in a human-readable contents
 15. Tolaria.md is vault based notes management, so it works with existing obsidian **vault**
 16. Hello world
-17. Draft should render the markdown while we type it (just dont include the detailed formatting, just straight writing in markdown), show the picture.  ![[Pasted image 20260722194328.png]]
+17. Draft should render the markdown while we type it (just dont include the detailed formatting, just straight writing in markdown), show the picture.  ![[public/Pasted image 20260722194328.png]]
 18. For headings (# Heading), shouldn't be styled (code formatted, bold, italic, strikethrough). The default rendering should be in bold (like how it is shown in the item library)
 ---
 1. Multiple item select action toolbar, should be floating with background blur. Make it smaller width (rather then streched to the whole container). 
@@ -33,15 +33,15 @@
 9. Lack visual feedback in clicked link item
 10. The sonner design looks very standard
 11. The misspelled word has red underline, but right-clicking is not working 
-	![[Pasted image 20260724000222.png]]
+	![[public/Pasted image 20260724000222.png]]
 12. Kukus markdown typeset and typeset docs is different
 13. I am thinking that the detailed pane for our markdown editor should have the same typeset styling with the library note markdown render
 	1. Q: based on our current implementation, what should we expect of the implementations? what components that are affected? Right now, we only seeing 'no animation' stuffs
-14. UI reference for current development ![[Pasted image 20260725004930.png]]
+14. UI reference for current development ![[public/Pasted image 20260725004930.png]]
 15. Like all of your notes, we are here to stay! 
 16. Pin items
 17. Is this not a notetaking app? 
 18. Skeumorphic buttons
-19. Helpful empty state would be great ![[Pasted image 20260728220049.png]]
-20. Change the scrollbar to align ![[Pasted image 20260729042742.png]]
+19. Helpful empty state would be great ![[public/Pasted image 20260728220049.png]]
+20. Change the scrollbar to align ![[public/Pasted image 20260729042742.png]]
 21. Update the current 

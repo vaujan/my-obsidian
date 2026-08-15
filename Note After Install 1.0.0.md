@@ -1,6 +1,6 @@
 ## **Fix** and **Confirm** these issues
 
-# Hello world
+<br />
 
 * **Confirm/Check:** We should confirm the existing implementation about the image embedding feature. We should check how image is embedded and how it looks like in the Markdown source
 * **Confirm/Check:** Scrolling through the main item visual rails is 'kind of' heavy. Is it normal because each note item is rendering 'markdown'? It happens in 100 notes, not after 1000
@@ -34,7 +34,7 @@
 
 * Opening an item navigates us into a detailed view. But the item rails on the left side is not scrolled to the selected item (instead it started from the top)
 
-![](./image-2026-08-15-184107.png)
+![700](./image-2026-08-15-184107.png)
 
 * Terrible placement for the callout
 * Multi select in item rails is inaccessible via `shift + click`

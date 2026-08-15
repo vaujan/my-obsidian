@@ -2,6 +2,7 @@
   "schemaVersion": 2,
   "id": "2a8a015a-3645-40ff-8340-b96cdc3c4b55",
   "name": "resources",
+  "icon": "bookmark",
   "createdAt": "2026-08-09T06:43:01.654Z",
   "relativePath": "resources",
   "parentId": null

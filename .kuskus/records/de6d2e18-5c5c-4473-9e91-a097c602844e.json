@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "id": "de6d2e18-5c5c-4473-9e91-a097c602844e",
+  "relativePath": "ui/card-ui.png",
+  "fingerprint": "8b1d12d8c2d94c43f10c592c7c3ce30e8d97a467d89034a421b7442e83c0e95f",
+  "fileIdentity": "3121943230:21110623253469616",
+  "fileSize": 140227,
+  "modifiedAtMs": 1786709195206.4182,
+  "recovery": {
+    "lastSeenAt": "2026-08-15T05:43:50.446Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "de6d2e18-5c5c-4473-9e91-a097c602844e",
+    "type": "image",
+    "title": "card-ui",
+    "createdAt": "2026-08-14T12:06:35.052Z",
+    "updatedAt": "2026-08-14T12:06:35.206Z",
+    "sourceUrl": null,
+    "sourceFilename": "card-ui.png",
+    "contentFilename": "card-ui.png",
+    "mediaType": "image/png",
+    "width": 1534,
+    "height": 611,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "ui/card-ui.png",
+    "referencedAttachment": false
+  }
+}

@@ -2,12 +2,12 @@
   "schemaVersion": 2,
   "id": "e188179a-95b1-42c5-bebe-a5ca35a887df",
   "relativePath": "First time install note for Kuskus (Actual dogfood).md",
-  "fingerprint": "c023b696b0ec9231f8a3da71b5f551424de7246ebe5754a84824b826a02a30a3",
-  "fileIdentity": "3121943230:12384898975439764",
-  "fileSize": 1484,
-  "modifiedAtMs": 1786685219547.5417,
+  "fingerprint": "64d21308c868cc4052eab8c37fa2cbfe7483d5dcdfad35ddd2e8b43acd9619b8",
+  "fileIdentity": "3121943230:19984723346852520",
+  "fileSize": 1377,
+  "modifiedAtMs": 1786770381996.4978,
   "recovery": {
-    "lastSeenAt": "2026-08-14T05:26:59.665Z",
+    "lastSeenAt": "2026-08-15T05:06:22.046Z",
     "missingSince": null
   },
   "metadata": {
@@ -16,7 +16,7 @@
     "type": "note",
     "title": "First time install note for Kuskus (Actual dogfood)",
     "createdAt": "2026-08-13T13:49:34.353Z",
-    "updatedAt": "2026-08-14T05:26:59.548Z",
+    "updatedAt": "2026-08-15T05:06:21.996Z",
     "sourceUrl": null,
     "sourceFilename": null,
     "contentFilename": "First time install note for Kuskus (Actual dogfood).md",

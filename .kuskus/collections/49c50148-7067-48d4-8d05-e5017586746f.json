@@ -2,6 +2,7 @@
   "schemaVersion": 2,
   "id": "49c50148-7067-48d4-8d05-e5017586746f",
   "name": "ai chats",
+  "icon": "notes",
   "createdAt": "2026-08-09T06:43:01.691Z",
   "relativePath": "resources/ai chats",
   "parentId": "2a8a015a-3645-40ff-8340-b96cdc3c4b55"

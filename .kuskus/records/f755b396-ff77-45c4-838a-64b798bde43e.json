@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "id": "f755b396-ff77-45c4-838a-64b798bde43e",
-  "relativePath": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration.md",
-  "fingerprint": "cdae1a2f41f22ea6edd966f862fec65c4048b25ec59fe71af77fc259306120ba",
-  "fileIdentity": "3121943230:8725724278042060",
+  "relativePath": "dev/mock/Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration.md",
+  "fingerprint": "eecc3ac6f68f6609d1a978ea29974a02762aaa1b3c5dcbaa7bce766e261ebfe5",
+  "fileIdentity": "3121943230:41939771529907660",
   "fileSize": 2374,
-  "modifiedAtMs": 1786625710743.3108,
+  "modifiedAtMs": 1786712348714.1287,
   "recovery": {
-    "lastSeenAt": "2026-08-13T12:55:10.951Z",
+    "lastSeenAt": "2026-08-14T13:00:24.390Z",
     "missingSince": null
   },
   "metadata": {
@@ -16,13 +16,13 @@
     "type": "note",
     "title": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration",
     "createdAt": "2026-08-12T15:12:42.262Z",
-    "updatedAt": "2026-08-13T12:55:10.743Z",
+    "updatedAt": "2026-08-14T12:59:08.714Z",
     "sourceUrl": null,
     "sourceFilename": null,
     "contentFilename": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration.md",
     "note": "",
     "originalCollectionId": null,
-    "relativePath": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration.md",
+    "relativePath": "dev/mock/Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration.md",
     "referencedAttachment": false
   }
 }

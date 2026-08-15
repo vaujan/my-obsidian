@@ -1,15 +1,8 @@
 {
   "schemaVersion": 2,
   "id": "da60b064-f187-4423-ad09-fea6a5fec986",
-  "relativePath": "image-2026-08-14-142447.png",
+  "relativePath": ".kuskus/trash/da60b064-f187-4423-ad09-fea6a5fec986/image-2026-08-14-142447.png",
   "fingerprint": "b8e90ff62782550dc7c2709eb005bba036af01cdfcecd9f2fe9037063ef43734",
-  "fileIdentity": "3121943230:18014398509652856",
-  "fileSize": 115315,
-  "modifiedAtMs": 1786685087193.4172,
-  "recovery": {
-    "lastSeenAt": "2026-08-14T05:24:47.256Z",
-    "missingSince": null
-  },
   "metadata": {
     "schemaVersion": 2,
     "id": "da60b064-f187-4423-ad09-fea6a5fec986",
@@ -25,8 +18,14 @@
     "height": 500,
     "note": "",
     "originalCollectionId": null,
-    "relativePath": "image-2026-08-14-142447.png",
+    "relativePath": ".kuskus/trash/da60b064-f187-4423-ad09-fea6a5fec986/image-2026-08-14-142447.png",
     "referencedAttachment": false,
-    "attachmentOrigin": "note-capture"
+    "attachmentOrigin": "note-capture",
+    "trashedFrom": "inbox",
+    "trashedFromRelativePath": "image-2026-08-14-142447.png"
+  },
+  "recovery": {
+    "lastSeenAt": "2026-08-14T05:24:47.193Z",
+    "missingSince": "2026-08-14T12:55:10.207Z"
   }
 }

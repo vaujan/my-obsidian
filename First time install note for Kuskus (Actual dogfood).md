@@ -1,6 +1,6 @@
-**13 August 2026**
+## 13 August
 
-![](./image-2026-08-14-093453.png)
+![](./image-2026-08-14-093453.png)Hello world
 
 1. Paste-ing an screenshot from clipboard doesn't work
 2. Solarized theme sucks
@@ -8,6 +8,8 @@
 4. Vim mode can be good, but does it have the implementation in our prosemirror or milkdown?
 
 ***
+
+## 14 Agustus 2026
 
 1. Remote image issue
    1.  I think we should also be able to render remote image
@@ -29,6 +31,6 @@
 
 ![](./image-2026-08-14-142406.png)I dont know what should i integrate right now
 
-![](./image-2026-08-14-142453.png)text on image should be smaller and is less 'distracting' than the actual regular text that we have. centering it might be good also
+![](./image-2026-08-14-142453.png)
 
 * Make on boarding feature way less boring right now

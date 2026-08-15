@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 2,
+  "id": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36",
+  "name": "mock",
+  "icon": "flask",
+  "createdAt": "2026-08-14T13:00:02.637Z",
+  "relativePath": "dev/mock",
+  "parentId": "214a8412-84c1-4aab-b8ec-4a5e417279c0"
+}

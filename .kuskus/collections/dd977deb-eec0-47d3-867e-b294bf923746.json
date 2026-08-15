@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 2,
+  "id": "dd977deb-eec0-47d3-867e-b294bf923746",
+  "name": "dogfood",
+  "icon": "flask",
+  "createdAt": "2026-08-14T12:55:12.286Z",
+  "relativePath": "dev/dogfood",
+  "parentId": "214a8412-84c1-4aab-b8ec-4a5e417279c0"
+}

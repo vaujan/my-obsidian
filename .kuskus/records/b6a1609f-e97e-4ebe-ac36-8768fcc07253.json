@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "id": "b6a1609f-e97e-4ebe-ac36-8768fcc07253",
+  "relativePath": "Mermaid Test.md",
+  "fingerprint": "a1a876cc9bb7c2762460302dc1073e7e606d3ffd9b4f9be1857372c35178b6e9",
+  "fileIdentity": "3121943230:27021597764257880",
+  "fileSize": 1661,
+  "modifiedAtMs": 1786773026097.7341,
+  "recovery": {
+    "lastSeenAt": "2026-08-15T05:50:26.170Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "b6a1609f-e97e-4ebe-ac36-8768fcc07253",
+    "type": "note",
+    "title": "Mermaid Test",
+    "createdAt": "2026-08-14T13:09:56.533Z",
+    "updatedAt": "2026-08-15T05:50:26.098Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "Mermaid Test.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "Mermaid Test.md",
+    "referencedAttachment": false,
+    "titleSource": "custom"
+  }
+}

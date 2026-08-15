@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "libraryId": "9eed48f3-1aff-4083-afa6-0049e96c9720",
-  "writtenAt": "2026-08-14T11:47:55.080Z",
+  "writtenAt": "2026-08-15T06:09:32.630Z",
   "library": {
     "schemaVersion": 2,
     "id": "9eed48f3-1aff-4083-afa6-0049e96c9720",
@@ -10,6 +10,246 @@
     "archiveDirectory": "Archive",
     "path": "C:\\Users\\Fauzan\\Documents\\fauzan-obsidian",
     "items": [
+      {
+        "schemaVersion": 2,
+        "id": "10465260-ab69-40b0-a090-7347f57c4349",
+        "type": "image",
+        "title": "image-2026-08-15-145253",
+        "createdAt": "2026-08-15T05:52:53.551Z",
+        "updatedAt": "2026-08-15T05:52:53.554Z",
+        "sourceUrl": null,
+        "sourceFilename": "image-2026-08-15-145253.png",
+        "contentFilename": "image-2026-08-15-145253.png",
+        "mediaType": "image/png",
+        "width": 1266,
+        "height": 914,
+        "note": "",
+        "originalCollectionId": null,
+        "relativePath": "image-2026-08-15-145253.png",
+        "referencedAttachment": true,
+        "attachmentOrigin": "note-capture",
+        "missingContent": false,
+        "location": {
+          "type": "inbox"
+        }
+      },
+      {
+        "schemaVersion": 2,
+        "id": "e3300b4f-9aa2-45e6-8061-f71312acde90",
+        "type": "image",
+        "title": "image-2026-08-15-144635",
+        "createdAt": "2026-08-15T05:46:35.260Z",
+        "updatedAt": "2026-08-15T05:46:35.263Z",
+        "sourceUrl": null,
+        "sourceFilename": "image-2026-08-15-144635.png",
+        "contentFilename": "image-2026-08-15-144635.png",
+        "mediaType": "image/png",
+        "width": 1489,
+        "height": 1020,
+        "note": "",
+        "originalCollectionId": null,
+        "relativePath": "image-2026-08-15-144635.png",
+        "referencedAttachment": true,
+        "attachmentOrigin": "note-capture",
+        "missingContent": false,
+        "location": {
+          "type": "inbox"
+        }
+      },
+      {
+        "schemaVersion": 2,
+        "id": "af6451d6-107c-43cb-8686-c4782d62cb2d",
+        "type": "image",
+        "title": "image-2026-08-15-141131",
+        "createdAt": "2026-08-15T05:11:31.661Z",
+        "updatedAt": "2026-08-15T05:11:31.663Z",
+        "sourceUrl": null,
+        "sourceFilename": "image-2026-08-15-141131.png",
+        "contentFilename": "image-2026-08-15-141131.png",
+        "mediaType": "image/png",
+        "width": 765,
+        "height": 396,
+        "note": "",
+        "originalCollectionId": null,
+        "relativePath": ".kuskus/trash/af6451d6-107c-43cb-8686-c4782d62cb2d/image-2026-08-15-141131.png",
+        "referencedAttachment": false,
+        "attachmentOrigin": "note-capture",
+        "trashedFrom": "inbox",
+        "trashedFromRelativePath": "image-2026-08-15-141131.png",
+        "missingContent": false,
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        }
+      },
+      {
+        "schemaVersion": 2,
+        "id": "539c8153-199f-40b7-b5a6-c6320a1bc868",
+        "type": "note",
+        "title": "Note After Install 1.0.0",
+        "body": "# Notable Issues\n\n* **Confirm/Check:** We should confirm the existing implementation about the image embedding feature. We should check how image is embedded and how it looks like in the Markdown source\n* **Confirm/Check:** Scrolling through the main item visual rails is 'kind of' heavy. Is it normal because each note item is rendering 'markdown'? It happens in 100 notes, not after 1000\n* Writing down markdown doesn't feel any different from this app to other app? \n* Right-clicking in our index item doesn't open the context menu\n* Cannot access developer tools  via `f12`\n* Zen mode key toggle doesn't works\n* ![](./image-2026-08-15-144635.png)The selected UI indicator should look like this, it should use the 'active' item state without the left border for indicator\n* Date system should also follow created and updated, not only updated. The index item rail keep showing 'Just now' everytime we update or if any changes occur. This doesn't provide a useful information for the user when is the item created (which more important than 'Just now' everytime')\n* Badge redesign for a11y, add a bit border\n* When our notes it scrolled away, toggling from live mode to read mode behaves normally. But from read mode to live mode, we immediately scrolled to the beginning line and is prompted to write from the starting point of the document\n\n# Features For Later Improvement\n\n* ![](./image-2026-08-15-145253.png)The active cursor is at the bottom of the page when we extend a new document further than the height of the pane. It is very 'packed' and need more space/room \n* What is the recommended settings for performance also for aesthetic? The user should also can picked which one suits their needs the best\n* Pin notes? The goal of this feature is to provide user a way to put item on a 'watchlist', that they constantly looking up to or providing updates to\n",
+        "createdAt": "2026-08-15T05:06:32.510Z",
+        "updatedAt": "2026-08-15T06:09:09.792Z",
+        "missingContent": false,
+        "attachments": [
+          {
+            "id": "e3300b4f-9aa2-45e6-8061-f71312acde90",
+            "filename": "image-2026-08-15-144635.png",
+            "relativePath": "./image-2026-08-15-144635.png",
+            "sourceFilename": "image-2026-08-15-144635.png",
+            "mediaType": "image/png",
+            "width": 1489,
+            "height": 1020,
+            "missingContent": false
+          },
+          {
+            "id": "10465260-ab69-40b0-a090-7347f57c4349",
+            "filename": "image-2026-08-15-145253.png",
+            "relativePath": "./image-2026-08-15-145253.png",
+            "sourceFilename": "image-2026-08-15-145253.png",
+            "mediaType": "image/png",
+            "width": 1266,
+            "height": 914,
+            "missingContent": false
+          }
+        ],
+        "location": {
+          "type": "inbox"
+        },
+        "relativePath": "Note After Install 1.0.0.md",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
+        "id": "b6a1609f-e97e-4ebe-ac36-8768fcc07253",
+        "type": "note",
+        "title": "Mermaid Test",
+        "body": "## Sankey graph \n\n```mermaid\nsankey\n\n%% source,target,value\nElectricity grid,Over generation / exports,104.453\nElectricity grid,Heating and cooling - homes,113.726\nElectricity grid,H2 conversion,27.14\n\n```\n\n## Kanban\n\n```mermaid\n---\nconfig:\n  kanban:\n    ticketBaseUrl: 'https://mermaidchart.atlassian.net/browse/#TICKET#'\n---\nkanban\n  Todo\n    [Create Documentation]\n    docs[Create Blog about the new diagram]\n  [In progress]\n    id6[Create renderer so that it works in all cases. We also add some extra text here for testing purposes. And some more just for the extra flare.]\n  id9[Ready for deploy]\n    id8[Design grammar]@{ assigned: 'knsv' }\n  id10[Ready for test]\n    id4[Create parsing tests]@{ ticket: MC-2038, assigned: 'K.Sveidqvist', priority: 'High' }\n    id66[last item]@{ priority: 'Very Low', assigned: 'knsv' }\n  id11[Done]\n    id5[define getData]\n    id2[Title of diagram is more than 100 chars when user duplicates diagram with 100 char]@{ ticket: MC-2036, priority: 'Very High'}\n    id3[Update DB function]@{ ticket: MC-2037, assigned: knsv, priority: 'High' }\n\n  id12[Can't reproduce]\n    id3[Weird flickering in Firefox]\n\n```\n\n## Architecture\n\n```mermaid\narchitecture-beta\n    group api(cloud)[API]\n\n    service db(database)[Database] in api\n    service disk1(disk)[Storage] in api\n    service disk2(disk)[Storage] in api\n    service server(server)[Server] in api\n\n    db:L -- R:server\n    disk1:T -- B:server\n    disk2:T -- B:db\n\n```\n\n## Venn \n\n```mermaid\nvenn-beta\n  title \"Creating a Desktop App\"\n  set Frontend\n  set Backend\n  union Frontend,Backend[\"APIs\"]\n\n  set Interface\n  set Experience\n  union Interface,Experience[\"User\"]\n```\n",
+        "createdAt": "2026-08-14T13:09:56.533Z",
+        "updatedAt": "2026-08-15T05:50:26.098Z",
+        "missingContent": false,
+        "attachments": [],
+        "location": {
+          "type": "inbox"
+        },
+        "relativePath": "Mermaid Test.md",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
+        "id": "1227c94c-2dfe-4d68-b8ec-edde242b7e93",
+        "type": "note",
+        "title": "Test mindmap mermaid.js",
+        "body": "```mermaid\nmindmap\n  root((Central Idea))\n    Origin\n      Topic One\n      Topic Two\n    Research\n      Data A\n      Data B\n```\n\n```mermaid\nmindmap\n  root((mindmap))\n    Origins\n      Long history\n      ::icon(fa fa-book)\n      Popularisation\n        British popular psychology author Tony Buzan\n    Research\n      On effectiveness<br/>and features\n      On Automatic creation\n        Uses\n            Creative techniques\n            Strategic planning\n            Argument mapping\n    Tools\n      Pen and paper\n      Mermaid\n```\n\n```mermaid\ntimeline\n    title Timeline of Industrial Revolution\n    section 17th-20th century\n        Industry 1.0 : Machinery, Water power, Steam <br>power\n        Industry 2.0 : Electricity, Internal combustion engine, Mass production\n        Industry 3.0 : Electronics, Computers, Automation\n    section 21st century\n        Industry 4.0 : Internet, Robotics, Internet of Things\n        Industry 5.0 : Artificial intelligence, Big data, 3D printing\n\n```\n",
+        "createdAt": "2026-08-14T12:44:07.851Z",
+        "updatedAt": "2026-08-14T12:46:40.215Z",
+        "missingContent": false,
+        "attachments": [],
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        },
+        "relativePath": ".kuskus/trash/1227c94c-2dfe-4d68-b8ec-edde242b7e93/Test mindmap mermaid.js.md",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
+        "id": "03cecb78-68e1-4aaf-8d2b-181a964a0a2a",
+        "type": "image",
+        "title": "crest-detail-logo",
+        "createdAt": "2026-08-14T12:16:11.842Z",
+        "updatedAt": "2026-08-14T12:16:11.941Z",
+        "sourceUrl": null,
+        "sourceFilename": "crest-detail-logo.png",
+        "contentFilename": "crest-detail-logo.png",
+        "mediaType": "image/png",
+        "width": 2000,
+        "height": 1500,
+        "note": "",
+        "originalCollectionId": null,
+        "relativePath": ".kuskus/trash/03cecb78-68e1-4aaf-8d2b-181a964a0a2a/crest-detail-logo.png",
+        "referencedAttachment": false,
+        "trashedFrom": "inbox",
+        "trashedFromRelativePath": "crest-detail-logo.png",
+        "missingContent": false,
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        },
+        "attachmentOrigin": null
+      },
+      {
+        "schemaVersion": 2,
+        "id": "c4a611db-f77d-48af-9578-2a9713d3e2b0",
+        "type": "image",
+        "title": "crest-detail-logo",
+        "createdAt": "2026-08-14T12:12:29.289Z",
+        "updatedAt": "2026-08-14T12:12:29.418Z",
+        "sourceUrl": null,
+        "sourceFilename": "crest-detail-logo.png",
+        "contentFilename": "crest-detail-logo.png",
+        "mediaType": "image/png",
+        "width": 2000,
+        "height": 1500,
+        "note": "",
+        "originalCollectionId": null,
+        "relativePath": ".kuskus/trash/c4a611db-f77d-48af-9578-2a9713d3e2b0/crest-detail-logo.png",
+        "referencedAttachment": false,
+        "trashedFrom": "inbox",
+        "trashedFromRelativePath": "crest-detail-logo.png",
+        "missingContent": false,
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        },
+        "attachmentOrigin": null
+      },
+      {
+        "schemaVersion": 2,
+        "id": "de6d2e18-5c5c-4473-9e91-a097c602844e",
+        "type": "image",
+        "title": "card-ui",
+        "createdAt": "2026-08-14T12:06:35.052Z",
+        "updatedAt": "2026-08-14T12:06:35.206Z",
+        "sourceUrl": null,
+        "sourceFilename": "card-ui.png",
+        "contentFilename": "card-ui.png",
+        "mediaType": "image/png",
+        "width": 1534,
+        "height": 611,
+        "note": "",
+        "originalCollectionId": null,
+        "relativePath": "ui/card-ui.png",
+        "referencedAttachment": false,
+        "missingContent": false,
+        "location": {
+          "type": "collection",
+          "collectionId": "3448af25-319c-4ea8-881c-9202981a5091"
+        },
+        "attachmentOrigin": null
+      },
+      {
+        "schemaVersion": 2,
+        "id": "3f0bcc52-8788-454d-a6b9-fdcaf05f0c82",
+        "type": "note",
+        "title": "Solutions for engineering",
+        "body": "---\r\ntitle: \"Solutions for engineering\"\r\nsource: \"https://chatgpt.com/business/ai-for-engineering/\"\r\npublished:\r\ncreated: 2026-08-14\r\ndescription: \"Build faster with ChatGPT. Automate coding tasks, debug errors, and generate documentation—securely and collaboratively with your team.\"\r\n---\r\nChatGPT for engineeri",
+        "createdAt": "2026-08-14T11:57:58.332Z",
+        "updatedAt": "2026-08-14T11:57:58.358Z",
+        "missingContent": false,
+        "attachments": [],
+        "location": {
+          "type": "trash",
+          "trashedFrom": "collection",
+          "originalCollectionId": "868ec016-34a0-447b-ae48-61c0af7f3655"
+        },
+        "relativePath": ".kuskus/trash/3f0bcc52-8788-454d-a6b9-fdcaf05f0c82/Solutions for engineering.md",
+        "referencedAttachment": false
+      },
       {
         "schemaVersion": 2,
         "id": "dcc271a3-a2d7-4350-90d3-2f9ebebb132d",
@@ -48,12 +288,16 @@
         "height": 500,
         "note": "",
         "originalCollectionId": null,
-        "relativePath": "image-2026-08-14-142447.png",
+        "relativePath": ".kuskus/trash/da60b064-f187-4423-ad09-fea6a5fec986/image-2026-08-14-142447.png",
         "referencedAttachment": false,
         "attachmentOrigin": "note-capture",
+        "trashedFrom": "inbox",
+        "trashedFromRelativePath": "image-2026-08-14-142447.png",
         "missingContent": false,
         "location": {
-          "type": "inbox"
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
         }
       },
       {
@@ -78,22 +322,6 @@
         "location": {
           "type": "inbox"
         }
-      },
-      {
-        "schemaVersion": 2,
-        "id": "168efcfb-4b13-448c-8ac1-76020c4f0375",
-        "type": "note",
-        "title": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes (3)",
-        "body": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes.",
-        "createdAt": "2026-08-14T05:18:48.218Z",
-        "updatedAt": "2026-08-14T05:18:48.384Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "inbox"
-        },
-        "relativePath": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes (3).md",
-        "referencedAttachment": false
       },
       {
         "schemaVersion": 2,
@@ -123,9 +351,9 @@
         "id": "e188179a-95b1-42c5-bebe-a5ca35a887df",
         "type": "note",
         "title": "First time install note for Kuskus (Actual dogfood)",
-        "body": "**13 August 2026**\n\n![](./image-2026-08-14-093453.png)\n\n1. Paste-ing an screenshot from clipboard doesn't work\n2. Solarized theme sucks\n3. Toggling back-and-forth for from our current app  should also automatically focuses into the editor (there should be a highlighted line and a blinking cursor)\n4. Vim mode can be good, but does it have the implementation in our prosemirror or milkdown?\n\n***\n\n1. Remote image issue\n   1.  I think we should also be able to render remote image\n2. `<br/>` still rendered randomly thorughout our documents \n   1. In read mode to be precise\n3. Different checkbox design in live/edit mode\n4. App is very slow. Optimization is needed but not desperately\n   1. In-app speed is everything, smooth interaction is what we need\n5. Codeblock sometimes are empty (not rendered?) in existing documents\n6. Apply shortcut to our current zen mode\n7. Mermaid render\n8. Item rails date info is updated, not created\n9. Codeblock background for our math (if inline, we dont have to)\n10. Item title renaming sometimes is not lively rendered (the item rails already updated, but the title in our detail pane isn't)\n11. Image interaction? \n12. Sonner design\n\n***\n\n![](./image-2026-08-14-142406.png)I dont know what should i integrate right now\n\n![](./image-2026-08-14-142453.png)text on image should be smaller and is less 'distracting' than the actual regular text that we have. centering it might be good also\n\n* Make on boarding feature way less boring right now\n",
+        "body": "## 13 August\n\n![](./image-2026-08-14-093453.png)Hello world\n\n1. Paste-ing an screenshot from clipboard doesn't work\n2. Solarized theme sucks\n3. Toggling back-and-forth for from our current app  should also automatically focuses into the editor (there should be a highlighted line and a blinking cursor)\n4. Vim mode can be good, but does it have the implementation in our prosemirror or milkdown?\n\n***\n\n## 14 Agustus 2026\n\n1. Remote image issue\n   1.  I think we should also be able to render remote image\n2. `<br/>` still rendered randomly thorughout our documents \n   1. In read mode to be precise\n3. Different checkbox design in live/edit mode\n4. App is very slow. Optimization is needed but not desperately\n   1. In-app speed is everything, smooth interaction is what we need\n5. Codeblock sometimes are empty (not rendered?) in existing documents\n6. Apply shortcut to our current zen mode\n7. Mermaid render\n8. Item rails date info is updated, not created\n9. Codeblock background for our math (if inline, we dont have to)\n10. Item title renaming sometimes is not lively rendered (the item rails already updated, but the title in our detail pane isn't)\n11. Image interaction? \n12. Sonner design\n\n***\n\n![](./image-2026-08-14-142406.png)I dont know what should i integrate right now\n\n![](./image-2026-08-14-142453.png)\n\n* Make on boarding feature way less boring right now\n",
         "createdAt": "2026-08-13T13:49:34.353Z",
-        "updatedAt": "2026-08-14T05:26:59.548Z",
+        "updatedAt": "2026-08-15T05:06:21.996Z",
         "missingContent": false,
         "attachments": [
           {
@@ -176,9 +404,11 @@
         "missingContent": false,
         "attachments": [],
         "location": {
-          "type": "inbox"
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
         },
-        "relativePath": "Evernote.md",
+        "relativePath": ".kuskus/trash/d5abe914-9663-4a90-b569-83b099da8b01/Evernote.md",
         "referencedAttachment": false
       },
       {
@@ -186,15 +416,16 @@
         "id": "f755b396-ff77-45c4-838a-64b798bde43e",
         "type": "note",
         "title": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration",
-        "body": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the `@inkdropapp/github` migration\nso I can copy-paste it next time.\n\n> **Verify versions first** — these tools move fast, so pin what you check instead of copying\n> from memory.\n>\n> ```sh\n> pnpm view oxlint version    # was 1.68.0\n> pnpm view oxfmt version     # was 0.53.0 (still pre-1.0, intentionally)\n> ```\n\n## Swap the dependencies\n\n```sh\npnpm remove eslint @eslint/js typescript-eslint eslint-config-prettier \\\n            prettier @ianvs/prettier-plugin-sort-imports\npnpm add -D oxlint oxfmt\n```\n\n## Config\n\n```json\n{\n  \"$schema\": \"./node_modules/oxfmt/configuration_schema.json\",\n  \"semi\": false,\n  \"singleQuote\": true,\n  \"trailingComma\": \"none\",\n  \"sortImports\": true,\n  \"sortPackageJson\": true\n}\n```\n\n| option          | Prettier default | oxfmt default | set to   |\n| --------------- | ---------------- | ------------- | -------- |\n| `semi`          | `true`           | `true`        | `false`  |\n| `singleQuote`   | `false`          | `false`       | `true`   |\n| `trailingComma` | `\"all\"`          | `\"all\"`       | `\"none\"` |\n\n`sortImports: true` replaces `@ianvs/prettier-plugin-sort-imports`. Don't set `printWidth`.\n`oxfmt --migrate=prettier` converts an existing config; `oxlint --init` scaffolds\n`.oxlintrc.json`.\n\nFor oxlint, `categories.correctness: \"error\"` is the conservative likely-bugs set and the right\ndefault. Rule names map `@typescript-eslint/foo` → `typescript/foo`; core rules keep their bare\nname. Nothing like `eslint-config-prettier` is needed — oxlint has no formatting rules to\nconflict with.\n\n## Gotchas\n\n* **oxlint reads only the _local_ `.gitignore`.** If `node_modules` isn't in it, a bare `oxlint`\n  lints the entire dependency tree and explodes. Add `\"node_modules/**\"` to `ignorePatterns`.\n  oxfmt skips it natively.\n* **`sortImports` is more opinionated than `@ianvs`.** It groups third-party and internal imports\n  with a blank line between them, so expect a one-time diff.\n* **oxfmt is pre-1.0** — output can shift between minors. Pin it and bump deliberately.\n* A failing `tsc` afterwards is usually a separate tsconfig problem, not oxc's fault. Run the\n  build before declaring victory.\n\n## Verify\n\n```sh\npnpm install\npnpm format    # apply once, then review the import-grouping diff\npnpm lint      # expect exit 0\npnpm typecheck && pnpm build\n```\n",
+        "body": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the `@inkdropapp/github` migration so I can copy-paste it next time.\n\n> **Verify versions first** — these tools move fast, so pin what you check instead of copying\n> from memory.\n>\n> ```sh\n> pnpm view oxlint version    # was 1.68.0\n> pnpm view oxfmt version     # was 0.53.0 (still pre-1.0, intentionally)\n> ```\n\n## Swap the dependencies\n\n```sh\npnpm remove eslint @eslint/js typescript-eslint eslint-config-prettier \\\n            prettier @ianvs/prettier-plugin-sort-imports\npnpm add -D oxlint oxfmt\n```\n\n## Config\n\n```json\n{\n  \"$schema\": \"./node_modules/oxfmt/configuration_schema.json\",\n  \"semi\": false,\n  \"singleQuote\": true,\n  \"trailingComma\": \"none\",\n  \"sortImports\": true,\n  \"sortPackageJson\": true\n}\n```\n\n| option          | Prettier default | oxfmt default | set to   |\n| --------------- | ---------------- | ------------- | -------- |\n| `semi`          | `true`           | `true`        | `false`  |\n| `singleQuote`   | `false`          | `false`       | `true`   |\n| `trailingComma` | `\"all\"`          | `\"all\"`       | `\"none\"` |\n\n`sortImports: true` replaces `@ianvs/prettier-plugin-sort-imports`. Don't set `printWidth`.\n`oxfmt --migrate=prettier` converts an existing config; `oxlint --init` scaffolds\n`.oxlintrc.json`.\n\nFor oxlint, `categories.correctness: \"error\"` is the conservative likely-bugs set and the right\ndefault. Rule names map `@typescript-eslint/foo` → `typescript/foo`; core rules keep their bare\nname. Nothing like `eslint-config-prettier` is needed — oxlint has no formatting rules to\nconflict with.\n\n## Gotchas\n\n* **oxlint reads only the _local_ `.gitignore`.** If `node_modules` isn't in it, a bare `oxlint`\n  lints the entire dependency tree and explodes. Add `\"node_modules/**\"` to `ignorePatterns`.\n  oxfmt skips it natively.\n* **`sortImports` is more opinionated than `@ianvs`.** It groups third-party and internal imports\n  with a blank line between them, so expect a one-time diff.\n* **oxfmt is pre-1.0** — output can shift between minors. Pin it and bump deliberately.\n* A failing `tsc` afterwards is usually a separate tsconfig problem, not oxc's fault. Run the\n  build before declaring victory.\n\n## Verify\n\n```sh\npnpm install\npnpm format    # apply once, then review the import-grouping diff\npnpm lint      # expect exit 0\npnpm typecheck && pnpm build\n```\n",
         "createdAt": "2026-08-12T15:12:42.262Z",
-        "updatedAt": "2026-08-13T12:55:10.743Z",
+        "updatedAt": "2026-08-14T12:59:08.714Z",
         "missingContent": false,
         "attachments": [],
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36"
         },
-        "relativePath": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration.md",
+        "relativePath": "dev/mock/Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration.md",
         "referencedAttachment": false
       },
       {
@@ -208,9 +439,10 @@
         "missingContent": false,
         "attachments": [],
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36"
         },
-        "relativePath": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes.md",
+        "relativePath": "dev/mock/Scrolling the note list stutters badly once a notebook holds more than a few thousand notes.md",
         "referencedAttachment": false
       },
       {
@@ -220,13 +452,14 @@
         "title": "Goal- semantic search over 3k notes, fully offline, no server. The index has to sit next to the",
         "body": "# Goal: semantic search over \\~3k notes, fully offline, no server. The index has to sit next to the\n\nexisting PouchDB database and survive sync.\n\nThis is meant to sit _alongside_ keyword search, not replace it — see\n\n## Candidates\n\n* 👍 [sqlite-vec](https://github.com/asg017/sqlite-vec)\n  * Single C file, no extra process, runs anywhere SQLite already runs\n  * Brute-force KNN only — fine at 3k vectors, questionable at 100k\n* 😕 [hnswlib-node](https://github.com/yoshoku/hnswlib-node)\n  * Fast approximate search, but it's a native addon → ABI-locked to the Electron version\n  * Rebuilding it on every Electron bump is exactly the maintenance I'm trying to avoid\n* 🤔 [LanceDB](https://github.com/lancedb/lancedb)\n  * Embedded, columnar, handles updates well\n  * Ships its own storage format — a second database to back up, migrate, and explain\n\n## Rough sizing\n\n3,000 notes × 384 dimensions × 4 bytes ≈ 4.6 MB of vectors. Small enough that a brute-force scan\nis bound by memory bandwidth rather than algorithm choice, so an approximate index buys nothing\nuntil the corpus is \\~50× bigger.\n\n## Leaning toward sqlite-vec\n\n* [x] Confirm it loads inside a packaged Electron build\n* [x] Measure query latency at 3k and 30k vectors\n* [x] Decide where embeddings get computed — on-device model, or a batch job on save\n* [x] Work out what sync does: are embeddings replicated, or recomputed per device?\n",
         "createdAt": "2026-08-12T15:10:26.608Z",
-        "updatedAt": "2026-08-13T21:47:36.245Z",
+        "updatedAt": "2026-08-15T04:59:59.190Z",
         "missingContent": false,
         "attachments": [],
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36"
         },
-        "relativePath": "Goal- semantic search over 3k notes, fully offline, no server. The index has to sit next to the.md",
+        "relativePath": "dev/mock/Goal- semantic search over 3k notes, fully offline, no server. The index has to sit next to the.md",
         "referencedAttachment": false
       },
       {
@@ -240,9 +473,10 @@
         "missingContent": false,
         "attachments": [],
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36"
         },
-        "relativePath": "How a release goes out.md",
+        "relativePath": "dev/mock/How a release goes out.md",
         "referencedAttachment": false
       },
       {
@@ -256,9 +490,10 @@
         "missingContent": false,
         "attachments": [],
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36"
         },
-        "relativePath": "BM25 for ranking search results.md",
+        "relativePath": "dev/mock/BM25 for ranking search results.md",
         "referencedAttachment": false
       },
       {
@@ -306,9 +541,10 @@
         "missingContent": false,
         "attachments": [],
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36"
         },
-        "relativePath": "The -grill-me Skills.md",
+        "relativePath": "dev/mock/The -grill-me Skills.md",
         "referencedAttachment": false
       },
       {
@@ -316,9 +552,9 @@
         "id": "dfec9e06-ad43-47d9-ad5f-bfdc426c53bf",
         "type": "note",
         "title": "The grill-me Skill",
-        "body": "---\ntitle: \"The grill-me Skill\"\nsource: https://www.aihero.dev/skills-grill-me#grillable-and-ungrillable\npublished: 2026-04-28\ndescription: Get interviewed about a loose idea until it holds decisions.\ncreated: 2026-08-06\n---\n16 / 25AI Skills for Real Engineers · 5 min read\n\nGet interviewed about a loose idea until it holds decisions.\n\nMatt Pocock\n\n[Next page](https://www.aihero.dev/skills-handoff)\n\nInstall this skill\n\n`npx skills@latest add mattpocock/skills --skill=grill-me`\n\nThen type `/grill-me` in your coding agent.\n\nSource\n\n[mattpocock/skills](https://github.com/mattpocock/skills)\n\n## What it does\n\n`grill-me` takes a **loose idea** and interviews you until it has real decisions in it. You do not need a worked-out plan to start — producing one is what the [session](https://www.aihero.dev/ai-coding-dictionary/session) is for. It asks in **rounds**: each round is the whole **frontier** — every question whose prerequisites you have already settled — so you are never asked something that hinges on an answer it hasn't heard yet.\n\nIt is **[stateless](https://www.aihero.dev/ai-coding-dictionary/stateless)**. It writes no files and leaves no workspace behind. The only thing it leaves is a sharper version of the idea, in your own head.\n\n## When to reach for it\n\nYou invoke this by typing `/grill-me` — the [agent](https://www.aihero.dev/ai-coding-dictionary/agent) won't reach for it on its own. Start it in a **fresh conversation**, not on top of a plan you already had an agent write.\n\nReach for it as soon as you have an idea worth taking seriously — a feature, a product direction, a business call, a piece of writing — and long before you have worked out what it involves. Vagueness is not a reason to wait; it is the thing the session eats. If you can already specify the thing precisely, you don't need to grill it.\n\nWhich of the three [grilling](https://www.aihero.dev/ai-coding-dictionary/grilling) skills you want depends on what is in front of you:\n\n- **Anything, anywhere** — `grill-me`. It needs no repo and writes no files, and the subject doesn't have to be code.\n- **A codebase to align against** — [grill-with-docs](https://aihero.dev/skills-grill-with-docs). The same interview, but [stateful](https://www.aihero.dev/ai-coding-dictionary/stateful): it reads your code and keeps what it learns in `CONTEXT.md` and ADRs.\n- **Too big for one session** — [wayfinder](https://aihero.dev/skills-wayfinder). It charts the effort as a map and runs grilling sessions inside it.\n\nLeave [plan mode](https://www.aihero.dev/ai-coding-dictionary/agent-mode) off. [Plan mode](https://www.aihero.dev/ai-coding-dictionary/agent-mode) primes the agent to rush toward producing a plan, which is the opposite of staying in inquiry.\n\n## It's a conversation, not an interview\n\nThe skill asks the questions, but **you** own the scope. That is the part people miss, and it separates a session that turns an idea into decisions from one that produces confident nonsense.\n\nThe failure mode is **passivity** — answering \"agreed, agreed, agreed\" for forty questions and coming out with a plan the agent wrote and you nodded at. It feels productive because it was long. Nothing was actually decided, and the result carries a certainty it hasn't earned.\n\nBeing active means steering. Push back on a question pitched beneath the fidelity you need. Say when the scope is drifting. Answer \"I don't know\" and mean it. This skill is built to aid an engineer, not to replace one: what comes out tracks the quality of your answers, not the number of questions asked.\n\nThe opposite error is real but rarer — staying in the interview so long you never reach code.\n\n## Grillable and ungrillable\n\nSome questions can be answered by talking. Others can't, and no amount of grilling will get you there.\n\n\"One long form or three pages?\" and \"how should this interaction feel?\" are **ungrillable** — they need something to react to. When you hit one, stop grilling. Build the throwaway version with [prototype](https://aihero.dev/skills-prototype), look at it, then come back and answer in one line.\n\nTalking your way through an ungrillable question is where sessions balloon. The agent keeps rephrasing, you keep guessing, and the scope grows to fill the uncertainty.\n\n## It's working if\n\n- You disagree with something. A session with no pushback from you is a session you didn't need.\n- Questions arrive in a few rounds rather than one long drip, and later rounds clearly build on what you said earlier.\n- You end up somewhere you didn't expect, because a question surfaced a decision you had been making implicitly.\n- At the end you could defend each choice to someone who wasn't there.\n\n## Common questions\n\n**How many questions should I expect, and how do I know when it ends?** Count rounds, not questions. Forty-six questions across four rounds is an ordinary session. It ends when the frontier is empty — every branch visited, nothing left silently assumed.\n\n**It asked me two hundred questions. What went wrong?** Usually the scope was too large. Ask the agent to break the work into smaller pieces first, then grill each one. Very long sessions also drift into the **[dumb zone](https://www.aihero.dev/ai-coding-dictionary/smart-zone)**, where the [context window](https://www.aihero.dev/ai-coding-dictionary/context-window) is full enough that the questions get worse.\n\n**Can I go back to one question at a time?** Yes. Add this to your global `CLAUDE.md`:\n\n```txt\nWhen grilling, ask one question at a time.\n```\n\n**What if I genuinely don't know the answer?** Say so. \"I don't know\" is a real answer, and a question you can't answer is usually a sign to prototype rather than to guess.\n\n**Do I start a fresh session before writing the spec?** No. The value of the session is the [context](https://www.aihero.dev/ai-coding-dictionary/context) you just built. Hand the same conversation straight to [to-spec](https://aihero.dev/skills-to-spec).\n\n**Does the model matter?** More than for most skills. Grilling leans on the [model](https://www.aihero.dev/ai-coding-dictionary/model) 's own sense of how systems break, so give it your best one. Implementation mostly follows context and tolerates a cheaper model.\n\n## Where it fits\n\n`grill-me` is a **standalone you can run anywhere, on anything**. Being [stateless](https://www.aihero.dev/ai-coding-dictionary/stateless) is what makes it portable: no repo, no workspace, no setup, and no assumption that the idea is even about software. People point it at business decisions, at writing, at what to do next — anything that won't sit still in their head.\n\nThat portability is the whole difference from [grill-with-docs](https://aihero.dev/skills-grill-with-docs), which runs the same interview but reads a codebase to align against and records what it learns as `CONTEXT.md` and ADRs. Both sit on the [grilling](https://aihero.dev/skills-grilling) primitive; `grill-me` is the user-invoked front door that carries nothing with it.\n\nIf what you grilled does turn out to be software, you can hand the same conversation to [to-spec](https://aihero.dev/skills-to-spec) and carry on into the build flow — an option, not the point of the skill. When you're unsure which flow fits, [ask-matt](https://aihero.dev/skills-ask-matt) routes you.",
+        "body": "---\ntitle: \"The grill-me Skill\"\nsource: https://www.aihero.dev/skills-grill-me#grillable-and-ungrillable\npublished: 2026-04-28\ndescription: Get interviewed about a loose idea until it holds decisions.\ncreated: 2026-08-06\n---\n## What it does\n\n`grill-me` takes a **loose idea** and interviews you until it has real decisions in it. You do not need a worked-out plan to start — producing one is what the [session](https://www.aihero.dev/ai-coding-dictionary/session) is for. It asks in **rounds**: each round is the whole **frontier** — every question whose prerequisites you have already settled — so you are never asked something that hinges on an answer it hasn't heard yet.\n\nIt is **[stateless](https://www.aihero.dev/ai-coding-dictionary/stateless)**. It writes no files and leaves no workspace behind. The only thing it leaves is a sharper version of the idea, in your own head.\n\n## When to reach for it\n\nYou invoke this by typing `/grill-me` — the [agent](https://www.aihero.dev/ai-coding-dictionary/agent) won't reach for it on its own. Start it in a **fresh conversation**, not on top of a plan you already had an agent write.\n\nReach for it as soon as you have an idea worth taking seriously — a feature, a product direction, a business call, a piece of writing — and long before you have worked out what it involves. Vagueness is not a reason to wait; it is the thing the session eats. If you can already specify the thing precisely, you don't need to grill it.\n\nWhich of the three [grilling](https://www.aihero.dev/ai-coding-dictionary/grilling) skills you want depends on what is in front of you:\n\n* **Anything, anywhere** — `grill-me`. It needs no repo and writes no files, and the subject doesn't have to be code.\n* **A codebase to align against** — [grill-with-docs](https://aihero.dev/skills-grill-with-docs). The same interview, but [stateful](https://www.aihero.dev/ai-coding-dictionary/stateful): it reads your code and keeps what it learns in `CONTEXT.md` and ADRs.\n* **Too big for one session** — [wayfinder](https://aihero.dev/skills-wayfinder). It charts the effort as a map and runs grilling sessions inside it.\n\nLeave [plan mode](https://www.aihero.dev/ai-coding-dictionary/agent-mode) off. [Plan mode](https://www.aihero.dev/ai-coding-dictionary/agent-mode) primes the agent to rush toward producing a plan, which is the opposite of staying in inquiry.\n\n## It's a conversation, not an interview\n\nThe skill asks the questions, but **you** own the scope. That is the part people miss, and it separates a session that turns an idea into decisions from one that produces confident nonsense.\n\nThe failure mode is **passivity** — answering \"agreed, agreed, agreed\" for forty questions and coming out with a plan the agent wrote and you nodded at. It feels productive because it was long. Nothing was actually decided, and the result carries a certainty it hasn't earned.\n\nBeing active means steering. Push back on a question pitched beneath the fidelity you need. Say when the scope is drifting. Answer \"I don't know\" and mean it. This skill is built to aid an engineer, not to replace one: what comes out tracks the quality of your answers, not the number of questions asked.\n\nThe opposite error is real but rarer — staying in the interview so long you never reach code.\n\n## Grillable and ungrillable\n\nSome questions can be answered by talking. Others can't, and no amount of grilling will get you there.\n\n\"One long form or three pages?\" and \"how should this interaction feel?\" are **ungrillable** — they need something to react to. When you hit one, stop grilling. Build the throwaway version with [prototype](https://aihero.dev/skills-prototype), look at it, then come back and answer in one line.\n\nTalking your way through an ungrillable question is where sessions balloon. The agent keeps rephrasing, you keep guessing, and the scope grows to fill the uncertainty.\n\n## It's working if\n\n* You disagree with something. A session with no pushback from you is a session you didn't need.\n* Questions arrive in a few rounds rather than one long drip, and later rounds clearly build on what you said earlier.\n* You end up somewhere you didn't expect, because a question surfaced a decision you had been making implicitly.\n* At the end you could defend each choice to someone who wasn't there.\n\n## Common questions\n\n**How many questions should I expect, and how do I know when it ends?** Count rounds, not questions. Forty-six questions across four rounds is an ordinary session. It ends when the frontier is empty — every branch visited, nothing left silently assumed.\n\n**It asked me two hundred questions. What went wrong?** Usually the scope was too large. Ask the agent to break the work into smaller pieces first, then grill each one. Very long sessions also drift into the **[dumb zone](https://www.aihero.dev/ai-coding-dictionary/smart-zone)**, where the [context window](https://www.aihero.dev/ai-coding-dictionary/context-window) is full enough that the questions get worse.\n\n**Can I go back to one question at a time?** Yes. Add this to your global `CLAUDE.md`:\n\n```txt\nWhen grilling, ask one question at a time.\n```\n\n**What if I genuinely don't know the answer?** Say so. \"I don't know\" is a real answer, and a question you can't answer is usually a sign to prototype rather than to guess.\n\n**Do I start a fresh session before writing the spec?** No. The value of the session is the [context](https://www.aihero.dev/ai-coding-dictionary/context) you just built. Hand the same conversation straight to [to-spec](https://aihero.dev/skills-to-spec).\n\n**Does the model matter?** More than for most skills. Grilling leans on the [model](https://www.aihero.dev/ai-coding-dictionary/model) 's own sense of how systems break, so give it your best one. Implementation mostly follows context and tolerates a cheaper model.\n\n## Where it fits\n\n`grill-me` is a **standalone you can run anywhere, on anything**. Being [stateless](https://www.aihero.dev/ai-coding-dictionary/stateless) is what makes it portable: no repo, no workspace, no setup, and no assumption that the idea is even about software. People point it at business decisions, at writing, at what to do next — anything that won't sit still in their head.\n\nThat portability is the whole difference from [grill-with-docs](https://aihero.dev/skills-grill-with-docs), which runs the same interview but reads a codebase to align against and records what it learns as `CONTEXT.md` and ADRs. Both sit on the [grilling](https://aihero.dev/skills-grilling) primitive; `grill-me` is the user-invoked front door that carries nothing with it.\n\nIf what you grilled does turn out to be software, you can hand the same conversation to [to-spec](https://aihero.dev/skills-to-spec) and carry on into the build flow — an option, not the point of the skill. When you're unsure which flow fits, [ask-matt](https://aihero.dev/skills-ask-matt) routes you.\n",
         "createdAt": "2026-08-06T13:09:32.223Z",
-        "updatedAt": "2026-08-14T00:18:19.210Z",
+        "updatedAt": "2026-08-14T12:13:13.294Z",
         "missingContent": false,
         "attachments": [],
         "location": {
@@ -1148,7 +1384,7 @@
           {
             "id": "8c4083fd-9cb9-4f4f-b3ad-5ac414f9cd5e",
             "filename": "Pasted image 20260719155213.png",
-            "relativePath": "./public/Pasted image 20260719155213.png",
+            "relativePath": "../../public/Pasted image 20260719155213.png",
             "sourceFilename": "Pasted image 20260719155213.png",
             "mediaType": "image/png",
             "width": 1022,
@@ -1158,7 +1394,7 @@
           {
             "id": "5045e473-0998-49ca-b118-12a9347bacbc",
             "filename": "Pasted image 20260719163242.png",
-            "relativePath": "./public/Pasted image 20260719163242.png",
+            "relativePath": "../../public/Pasted image 20260719163242.png",
             "sourceFilename": "Pasted image 20260719163242.png",
             "mediaType": "image/png",
             "width": 402,
@@ -1168,7 +1404,7 @@
           {
             "id": "e9a10dc6-da84-4c4c-ad7d-4ad28611d01b",
             "filename": "Pasted image 20260722194328.png",
-            "relativePath": "./public/Pasted image 20260722194328.png",
+            "relativePath": "../../public/Pasted image 20260722194328.png",
             "sourceFilename": "Pasted image 20260722194328.png",
             "mediaType": "image/png",
             "width": 407,
@@ -1178,7 +1414,7 @@
           {
             "id": "f2017b7b-0941-4507-a23c-4c475c8d9fd9",
             "filename": "Pasted image 20260724000222.png",
-            "relativePath": "./public/Pasted image 20260724000222.png",
+            "relativePath": "../../public/Pasted image 20260724000222.png",
             "sourceFilename": "Pasted image 20260724000222.png",
             "mediaType": "image/png",
             "width": 780,
@@ -1188,7 +1424,7 @@
           {
             "id": "2f284b0d-3310-4215-b334-6b52362c97a9",
             "filename": "Pasted image 20260725004930.png",
-            "relativePath": "./public/Pasted image 20260725004930.png",
+            "relativePath": "../../public/Pasted image 20260725004930.png",
             "sourceFilename": "Pasted image 20260725004930.png",
             "mediaType": "image/png",
             "width": 3698,
@@ -1198,7 +1434,7 @@
           {
             "id": "9b78b912-68e3-4a92-ac82-9f6bfcf63264",
             "filename": "Pasted image 20260728220049.png",
-            "relativePath": "./public/Pasted image 20260728220049.png",
+            "relativePath": "../../public/Pasted image 20260728220049.png",
             "sourceFilename": "Pasted image 20260728220049.png",
             "mediaType": "image/png",
             "width": 1397,
@@ -1208,7 +1444,7 @@
           {
             "id": "3ec69013-16e3-4b41-8f39-059f0313d7d9",
             "filename": "Pasted image 20260729042742.png",
-            "relativePath": "./public/Pasted image 20260729042742.png",
+            "relativePath": "../../public/Pasted image 20260729042742.png",
             "sourceFilename": "Pasted image 20260729042742.png",
             "mediaType": "image/png",
             "width": 337,
@@ -1217,9 +1453,10 @@
           }
         ],
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36"
         },
-        "relativePath": "Note for Kuskus Development.md",
+        "relativePath": "dev/mock/Note for Kuskus Development.md",
         "referencedAttachment": false
       },
       {
@@ -2499,7 +2736,7 @@
         "schemaVersion": 2,
         "id": "0cdb7417-7ffc-479c-be57-98a606da575a",
         "name": "areas",
-        "icon": "folder",
+        "icon": "person",
         "createdAt": "2026-08-09T06:43:01.598Z",
         "relativePath": "areas",
         "parentId": null
@@ -2508,7 +2745,7 @@
         "schemaVersion": 2,
         "id": "214a8412-84c1-4aab-b8ec-4a5e417279c0",
         "name": "dev",
-        "icon": "folder",
+        "icon": "code",
         "createdAt": "2026-08-09T06:43:01.605Z",
         "relativePath": "dev",
         "parentId": null
@@ -2526,9 +2763,18 @@
         "schemaVersion": 2,
         "id": "2a8a015a-3645-40ff-8340-b96cdc3c4b55",
         "name": "resources",
-        "icon": "folder",
+        "icon": "bookmark",
         "createdAt": "2026-08-09T06:43:01.654Z",
         "relativePath": "resources",
+        "parentId": null
+      },
+      {
+        "schemaVersion": 2,
+        "id": "3448af25-319c-4ea8-881c-9202981a5091",
+        "name": "ui",
+        "icon": "nature",
+        "createdAt": "2026-08-15T05:43:40.535Z",
+        "relativePath": "ui",
         "parentId": null
       },
       {
@@ -2553,7 +2799,7 @@
         "schemaVersion": 2,
         "id": "e5384d56-122b-4c47-8f7d-0b5f10e0f0ac",
         "name": "journal",
-        "icon": "folder",
+        "icon": "book",
         "createdAt": "2026-08-09T06:43:01.636Z",
         "relativePath": "journal",
         "parentId": null
@@ -2571,7 +2817,7 @@
         "schemaVersion": 2,
         "id": "f8bc858e-238f-45d1-a41f-119210d18abd",
         "name": "public",
-        "icon": "folder",
+        "icon": "camera",
         "createdAt": "2026-08-09T06:43:01.645Z",
         "relativePath": "public",
         "parentId": null
@@ -2589,7 +2835,7 @@
         "schemaVersion": 2,
         "id": "49c50148-7067-48d4-8d05-e5017586746f",
         "name": "ai chats",
-        "icon": "folder",
+        "icon": "notes",
         "createdAt": "2026-08-09T06:43:01.691Z",
         "relativePath": "resources/ai chats",
         "parentId": "2a8a015a-3645-40ff-8340-b96cdc3c4b55"
@@ -2607,7 +2853,7 @@
         "schemaVersion": 2,
         "id": "5b4097c6-d67c-40e2-9d5b-bf506d00221c",
         "name": "workout",
-        "icon": "folder",
+        "icon": "fitness",
         "createdAt": "2026-08-09T06:43:01.709Z",
         "relativePath": "resources/workout",
         "parentId": "2a8a015a-3645-40ff-8340-b96cdc3c4b55"
@@ -2625,7 +2871,7 @@
         "schemaVersion": 2,
         "id": "868ec016-34a0-447b-ae48-61c0af7f3655",
         "name": "clippings",
-        "icon": "folder",
+        "icon": "notes",
         "createdAt": "2026-08-09T06:43:01.701Z",
         "relativePath": "resources/clippings",
         "parentId": "2a8a015a-3645-40ff-8340-b96cdc3c4b55"
@@ -2650,6 +2896,15 @@
       },
       {
         "schemaVersion": 2,
+        "id": "dd977deb-eec0-47d3-867e-b294bf923746",
+        "name": "dogfood",
+        "icon": "flask",
+        "createdAt": "2026-08-14T12:55:12.286Z",
+        "relativePath": "dev/dogfood",
+        "parentId": "214a8412-84c1-4aab-b8ec-4a5e417279c0"
+      },
+      {
+        "schemaVersion": 2,
         "id": "e3ce3add-087d-4328-9fd6-144ea48aca8b",
         "name": "Unknown",
         "icon": "folder",
@@ -2665,6 +2920,15 @@
         "createdAt": "2026-08-09T06:43:01.747Z",
         "relativePath": "_calibre/Oxford University Press",
         "parentId": "96c6f8d9-68f1-43b1-9bc8-41da88768afc"
+      },
+      {
+        "schemaVersion": 2,
+        "id": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36",
+        "name": "mock",
+        "icon": "flask",
+        "createdAt": "2026-08-14T13:00:02.637Z",
+        "relativePath": "dev/mock",
+        "parentId": "214a8412-84c1-4aab-b8ec-4a5e417279c0"
       },
       {
         "schemaVersion": 2,

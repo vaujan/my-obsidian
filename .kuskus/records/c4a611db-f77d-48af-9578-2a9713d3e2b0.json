@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "id": "c4a611db-f77d-48af-9578-2a9713d3e2b0",
+  "relativePath": ".kuskus/trash/c4a611db-f77d-48af-9578-2a9713d3e2b0/crest-detail-logo.png",
+  "fingerprint": "2b2ba3dc8f33cd8b1fcc6e317f282c7eeaece27860827ec359750a96ae66c614",
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "c4a611db-f77d-48af-9578-2a9713d3e2b0",
+    "type": "image",
+    "title": "crest-detail-logo",
+    "createdAt": "2026-08-14T12:12:29.289Z",
+    "updatedAt": "2026-08-14T12:12:29.418Z",
+    "sourceUrl": null,
+    "sourceFilename": "crest-detail-logo.png",
+    "contentFilename": "crest-detail-logo.png",
+    "mediaType": "image/png",
+    "width": 2000,
+    "height": 1500,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": ".kuskus/trash/c4a611db-f77d-48af-9578-2a9713d3e2b0/crest-detail-logo.png",
+    "referencedAttachment": false,
+    "trashedFrom": "inbox",
+    "trashedFromRelativePath": "crest-detail-logo.png"
+  },
+  "recovery": {
+    "lastSeenAt": "2026-08-14T12:12:29.418Z",
+    "missingSince": "2026-08-14T12:13:46.891Z"
+  }
+}

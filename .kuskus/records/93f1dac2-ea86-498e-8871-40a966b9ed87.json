@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "id": "93f1dac2-ea86-498e-8871-40a966b9ed87",
+  "relativePath": "open-in-default-app.png",
+  "fingerprint": "3bf32ec2219ad39a50befa46bc87e02548c0fc31543b8c89b9234e7ee4b7657a",
+  "fileIdentity": "3121943230:9288674232831164",
+  "fileSize": 17896,
+  "modifiedAtMs": 1786793968268.1904,
+  "recovery": {
+    "lastSeenAt": "2026-08-15T11:39:28.330Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "93f1dac2-ea86-498e-8871-40a966b9ed87",
+    "type": "image",
+    "title": "open-in-default-app",
+    "createdAt": "2026-08-15T11:39:28.074Z",
+    "updatedAt": "2026-08-15T11:39:28.268Z",
+    "sourceUrl": null,
+    "sourceFilename": "open-in-default-app.png",
+    "contentFilename": "open-in-default-app.png",
+    "mediaType": "image/png",
+    "width": 1619,
+    "height": 898,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "open-in-default-app.png",
+    "referencedAttachment": false
+  }
+}

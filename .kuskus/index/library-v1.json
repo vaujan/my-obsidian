@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "libraryId": "9eed48f3-1aff-4083-afa6-0049e96c9720",
-  "writtenAt": "2026-08-15T06:09:32.630Z",
+  "writtenAt": "2026-08-15T12:58:07.265Z",
   "library": {
     "schemaVersion": 2,
     "id": "9eed48f3-1aff-4083-afa6-0049e96c9720",
@@ -10,6 +10,210 @@
     "archiveDirectory": "Archive",
     "path": "C:\\Users\\Fauzan\\Documents\\fauzan-obsidian",
     "items": [
+      {
+        "schemaVersion": 2,
+        "id": "a621e759-9ed1-4983-ab4a-a78b129325ea",
+        "type": "file",
+        "title": "Curriculum Vitae AHMAD FAUZAN",
+        "createdAt": "2026-08-15T11:50:09.615Z",
+        "updatedAt": "2026-08-15T11:50:09.721Z",
+        "sourceFilename": "Curriculum Vitae AHMAD FAUZAN.pdf",
+        "contentFilename": "Curriculum Vitae AHMAD FAUZAN.pdf",
+        "mediaType": "application/pdf",
+        "size": 21218,
+        "missingContent": false,
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        },
+        "relativePath": ".kuskus/trash/a621e759-9ed1-4983-ab4a-a78b129325ea/Curriculum Vitae AHMAD FAUZAN.pdf",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
+        "id": "93f1dac2-ea86-498e-8871-40a966b9ed87",
+        "type": "image",
+        "title": "open-in-default-app",
+        "createdAt": "2026-08-15T11:39:28.074Z",
+        "updatedAt": "2026-08-15T11:39:28.268Z",
+        "sourceUrl": null,
+        "sourceFilename": "open-in-default-app.png",
+        "contentFilename": "open-in-default-app.png",
+        "mediaType": "image/png",
+        "width": 1619,
+        "height": 898,
+        "note": "",
+        "originalCollectionId": null,
+        "relativePath": "open-in-default-app.png",
+        "referencedAttachment": false,
+        "missingContent": false,
+        "location": {
+          "type": "inbox"
+        },
+        "attachmentOrigin": null
+      },
+      {
+        "schemaVersion": 2,
+        "id": "2583b9ca-1ab9-4a0b-a516-12a7c93654e5",
+        "type": "image",
+        "title": "image-2026-08-15-184107",
+        "createdAt": "2026-08-15T09:41:07.688Z",
+        "updatedAt": "2026-08-15T09:41:07.690Z",
+        "sourceUrl": null,
+        "sourceFilename": "image-2026-08-15-184107.png",
+        "contentFilename": "image-2026-08-15-184107.png",
+        "mediaType": "image/png",
+        "width": 1919,
+        "height": 551,
+        "note": "",
+        "originalCollectionId": null,
+        "relativePath": "image-2026-08-15-184107.png",
+        "referencedAttachment": true,
+        "attachmentOrigin": "note-capture",
+        "missingContent": false,
+        "location": {
+          "type": "inbox"
+        }
+      },
+      {
+        "schemaVersion": 2,
+        "id": "60128a0a-0073-47a0-a820-65601d2d13ac",
+        "type": "image",
+        "title": "image-2026-08-15-184101",
+        "createdAt": "2026-08-15T09:41:01.558Z",
+        "updatedAt": "2026-08-15T09:41:01.560Z",
+        "sourceUrl": null,
+        "sourceFilename": "image-2026-08-15-184101.png",
+        "contentFilename": "image-2026-08-15-184101.png",
+        "mediaType": "image/png",
+        "width": 1919,
+        "height": 551,
+        "note": "",
+        "originalCollectionId": null,
+        "relativePath": ".kuskus/trash/60128a0a-0073-47a0-a820-65601d2d13ac/image-2026-08-15-184101.png",
+        "referencedAttachment": false,
+        "attachmentOrigin": "note-capture",
+        "trashedFrom": "inbox",
+        "trashedFromRelativePath": "image-2026-08-15-184101.png",
+        "missingContent": false,
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        }
+      },
+      {
+        "schemaVersion": 2,
+        "id": "db193aac-a7c2-422f-a36d-7d4d68f37c1c",
+        "type": "note",
+        "title": "HEllo world",
+        "body": "# HEllo world\n",
+        "createdAt": "2026-08-15T09:40:21.472Z",
+        "updatedAt": "2026-08-15T09:40:21.532Z",
+        "missingContent": false,
+        "attachments": [],
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        },
+        "relativePath": ".kuskus/trash/db193aac-a7c2-422f-a36d-7d4d68f37c1c/HEllo world.md",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
+        "id": "244eaeeb-9b39-4daf-8590-1fc88604e711",
+        "type": "image",
+        "title": "inkdrop-mac",
+        "createdAt": "2026-08-15T09:31:35.911Z",
+        "updatedAt": "2026-08-15T09:31:36.125Z",
+        "sourceUrl": null,
+        "sourceFilename": "inkdrop-mac.png",
+        "contentFilename": "inkdrop-mac.png",
+        "mediaType": "image/png",
+        "width": 1471,
+        "height": 906,
+        "note": "",
+        "originalCollectionId": null,
+        "relativePath": "inkdrop-mac.png",
+        "referencedAttachment": false,
+        "missingContent": false,
+        "location": {
+          "type": "inbox"
+        },
+        "attachmentOrigin": null
+      },
+      {
+        "schemaVersion": 2,
+        "id": "c6f444bb-ce34-4f51-b7d7-e0f81b8ca440",
+        "type": "image",
+        "title": "inkdrop-splitview",
+        "createdAt": "2026-08-15T09:30:23.911Z",
+        "updatedAt": "2026-08-15T09:30:24.205Z",
+        "sourceUrl": null,
+        "sourceFilename": "inkdrop-splitview.png",
+        "contentFilename": "inkdrop-splitview.png",
+        "mediaType": "image/png",
+        "width": 656,
+        "height": 880,
+        "note": "",
+        "originalCollectionId": null,
+        "relativePath": "inkdrop-splitview.png",
+        "referencedAttachment": false,
+        "missingContent": false,
+        "location": {
+          "type": "inbox"
+        },
+        "attachmentOrigin": null
+      },
+      {
+        "schemaVersion": 2,
+        "id": "e81fbe89-bd08-473c-939f-469bcd6eddab",
+        "type": "image",
+        "title": "image-2026-08-15-160118",
+        "createdAt": "2026-08-15T07:01:18.357Z",
+        "updatedAt": "2026-08-15T07:01:18.360Z",
+        "sourceUrl": null,
+        "sourceFilename": "image-2026-08-15-160118.png",
+        "contentFilename": "image-2026-08-15-160118.png",
+        "mediaType": "image/png",
+        "width": 1683,
+        "height": 1020,
+        "note": "",
+        "originalCollectionId": null,
+        "relativePath": "image-2026-08-15-160118.png",
+        "referencedAttachment": true,
+        "attachmentOrigin": "note-capture",
+        "missingContent": false,
+        "location": {
+          "type": "inbox"
+        }
+      },
+      {
+        "schemaVersion": 2,
+        "id": "2b93423e-2fa3-4e45-9f12-088b27b2edf0",
+        "type": "image",
+        "title": "searching-modal",
+        "createdAt": "2026-08-15T06:50:02.036Z",
+        "updatedAt": "2026-08-15T06:50:02.195Z",
+        "sourceUrl": null,
+        "sourceFilename": "searching-modal.png",
+        "contentFilename": "searching-modal.png",
+        "mediaType": "image/png",
+        "width": 3192,
+        "height": 2068,
+        "note": "",
+        "originalCollectionId": null,
+        "relativePath": "ui/searching-modal.png",
+        "referencedAttachment": false,
+        "missingContent": false,
+        "location": {
+          "type": "collection",
+          "collectionId": "3448af25-319c-4ea8-881c-9202981a5091"
+        },
+        "attachmentOrigin": null
+      },
       {
         "schemaVersion": 2,
         "id": "10465260-ab69-40b0-a090-7347f57c4349",
@@ -58,39 +262,12 @@
       },
       {
         "schemaVersion": 2,
-        "id": "af6451d6-107c-43cb-8686-c4782d62cb2d",
-        "type": "image",
-        "title": "image-2026-08-15-141131",
-        "createdAt": "2026-08-15T05:11:31.661Z",
-        "updatedAt": "2026-08-15T05:11:31.663Z",
-        "sourceUrl": null,
-        "sourceFilename": "image-2026-08-15-141131.png",
-        "contentFilename": "image-2026-08-15-141131.png",
-        "mediaType": "image/png",
-        "width": 765,
-        "height": 396,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": ".kuskus/trash/af6451d6-107c-43cb-8686-c4782d62cb2d/image-2026-08-15-141131.png",
-        "referencedAttachment": false,
-        "attachmentOrigin": "note-capture",
-        "trashedFrom": "inbox",
-        "trashedFromRelativePath": "image-2026-08-15-141131.png",
-        "missingContent": false,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        }
-      },
-      {
-        "schemaVersion": 2,
         "id": "539c8153-199f-40b7-b5a6-c6320a1bc868",
         "type": "note",
         "title": "Note After Install 1.0.0",
-        "body": "# Notable Issues\n\n* **Confirm/Check:** We should confirm the existing implementation about the image embedding feature. We should check how image is embedded and how it looks like in the Markdown source\n* **Confirm/Check:** Scrolling through the main item visual rails is 'kind of' heavy. Is it normal because each note item is rendering 'markdown'? It happens in 100 notes, not after 1000\n* Writing down markdown doesn't feel any different from this app to other app? \n* Right-clicking in our index item doesn't open the context menu\n* Cannot access developer tools  via `f12`\n* Zen mode key toggle doesn't works\n* ![](./image-2026-08-15-144635.png)The selected UI indicator should look like this, it should use the 'active' item state without the left border for indicator\n* Date system should also follow created and updated, not only updated. The index item rail keep showing 'Just now' everytime we update or if any changes occur. This doesn't provide a useful information for the user when is the item created (which more important than 'Just now' everytime')\n* Badge redesign for a11y, add a bit border\n* When our notes it scrolled away, toggling from live mode to read mode behaves normally. But from read mode to live mode, we immediately scrolled to the beginning line and is prompted to write from the starting point of the document\n\n# Features For Later Improvement\n\n* ![](./image-2026-08-15-145253.png)The active cursor is at the bottom of the page when we extend a new document further than the height of the pane. It is very 'packed' and need more space/room \n* What is the recommended settings for performance also for aesthetic? The user should also can picked which one suits their needs the best\n* Pin notes? The goal of this feature is to provide user a way to put item on a 'watchlist', that they constantly looking up to or providing updates to\n",
+        "body": "## **Fix** and **Confirm** these issues\n\n# Hello world\n\n* **Confirm/Check:** We should confirm the existing implementation about the image embedding feature. We should check how image is embedded and how it looks like in the Markdown source\n* **Confirm/Check:** Scrolling through the main item visual rails is 'kind of' heavy. Is it normal because each note item is rendering 'markdown'? It happens in 100 notes, not after 1000\n* Writing down markdown doesn't feel any different from this app to other writing app (Obsidian, Evernote)? 95% of the markdown writing part is basically functioning very well  \n* Right-clicking in our index item doesn't open the context menu. Right-clicking item in visual mode works and opens the context menu (but not in index mode)\n* Cannot access developer tools  via `f12`\n* Zen mode key toggle doesn't works\n* ![](./image-2026-08-15-144635.png)The selected UI indicator should look like this, it should use the 'active' item state without the left border for indicator\n* Date system should also follow created and updated, not only updated. The index item rail keep showing 'Just now' every time we update or if any changes occur. This doesn't provide a useful information for the user when is the item created (which more important than 'Just now' every time')\n* Badge redesign for a11y, add a bit border\n* When our notes it scrolled away, toggling from live mode to read mode behaves normally. But from read mode to live mode, we immediately scrolled to the beginning line and is prompted to write from the starting point of the document\n* **Confirm/Check:** Is it true if the user will experience lag or slow downs when they open a big repository/vault for the first time? If yes, is it because the app is creating a new cache for the starter? If yes, the user should be informed via toast/sonner would be good\n* Starting app speed is really good. Also, what happen if we open more than one App window? I tried that, but nothing happened. But what ***should*** happen?\n* **Confirm/Check:** In 'All Items' menu how are the items are loaded? The items are very resource intensive by rendering markdowns for each notes. What is the best way to load them? \n  * Also, is each of these note are rendered all the way through? For instance of the document can show thousands of words of many different heavy elements like code block, images and links. Are these rendered also even if the preview is very small and shows only the small part of the early part of the document? \n* Confirm/Check: Is 'blurring' features performant? For instance blurring the background in the dialog\n* Why was my `%APPDATA%` has 3-4 GB in size? \n* Delay in writings. \n* Is toggling between the translucent activity will affect our performance on the same session?\n  * Meaning, if I already have the translucent activated and use the app normally, I will have better performance than if I turn off the translucent but didn't restart the app. \n* For versioning, is it starting on 0.0.1 or 1.0.0? I think is the former choice\n\n## Features For Later Improvement\n\n* ![](./image-2026-08-15-145253.png) The active cursor is at the bottom of the page when we extend a new document further than the height of the pane. It is very 'packed' and need more space/room \n* What is the recommended settings for performance also for aesthetic? The user should also can picked which one suits their needs the best\n* Pin notes? The goal of this feature is to provide user a way to put item on a 'watchlist', that they constantly looking up to or providing updates to\n* Renaming title via `f2`. Currently there is no quick access to rename the title of the document we're writing in. But we now allow renaming via focusing an instance in our item rails and this is a **very good UX**\n\n![](./image-2026-08-15-160118.png)\n\n* Opening an item navigates us into a detailed view. But the item rails on the left side is not scrolled to the selected item (instead it started from the top)\n\n![](./image-2026-08-15-184107.png)\n\n* Terrible placement for the callout\n* Multi select in item rails is inaccessible via `shift + click`\n* Image insertion through `'/'` command\n  * The user should have the option to upload new image, or find images from their vault\n",
         "createdAt": "2026-08-15T05:06:32.510Z",
-        "updatedAt": "2026-08-15T06:09:09.792Z",
+        "updatedAt": "2026-08-15T12:57:33.803Z",
         "missingContent": false,
         "attachments": [
           {
@@ -112,6 +289,26 @@
             "width": 1266,
             "height": 914,
             "missingContent": false
+          },
+          {
+            "id": "e81fbe89-bd08-473c-939f-469bcd6eddab",
+            "filename": "image-2026-08-15-160118.png",
+            "relativePath": "./image-2026-08-15-160118.png",
+            "sourceFilename": "image-2026-08-15-160118.png",
+            "mediaType": "image/png",
+            "width": 1683,
+            "height": 1020,
+            "missingContent": false
+          },
+          {
+            "id": "2583b9ca-1ab9-4a0b-a516-12a7c93654e5",
+            "filename": "image-2026-08-15-184107.png",
+            "relativePath": "./image-2026-08-15-184107.png",
+            "sourceFilename": "image-2026-08-15-184107.png",
+            "mediaType": "image/png",
+            "width": 1919,
+            "height": 551,
+            "missingContent": false
           }
         ],
         "location": {
@@ -127,7 +324,7 @@
         "title": "Mermaid Test",
         "body": "## Sankey graph \n\n```mermaid\nsankey\n\n%% source,target,value\nElectricity grid,Over generation / exports,104.453\nElectricity grid,Heating and cooling - homes,113.726\nElectricity grid,H2 conversion,27.14\n\n```\n\n## Kanban\n\n```mermaid\n---\nconfig:\n  kanban:\n    ticketBaseUrl: 'https://mermaidchart.atlassian.net/browse/#TICKET#'\n---\nkanban\n  Todo\n    [Create Documentation]\n    docs[Create Blog about the new diagram]\n  [In progress]\n    id6[Create renderer so that it works in all cases. We also add some extra text here for testing purposes. And some more just for the extra flare.]\n  id9[Ready for deploy]\n    id8[Design grammar]@{ assigned: 'knsv' }\n  id10[Ready for test]\n    id4[Create parsing tests]@{ ticket: MC-2038, assigned: 'K.Sveidqvist', priority: 'High' }\n    id66[last item]@{ priority: 'Very Low', assigned: 'knsv' }\n  id11[Done]\n    id5[define getData]\n    id2[Title of diagram is more than 100 chars when user duplicates diagram with 100 char]@{ ticket: MC-2036, priority: 'Very High'}\n    id3[Update DB function]@{ ticket: MC-2037, assigned: knsv, priority: 'High' }\n\n  id12[Can't reproduce]\n    id3[Weird flickering in Firefox]\n\n```\n\n## Architecture\n\n```mermaid\narchitecture-beta\n    group api(cloud)[API]\n\n    service db(database)[Database] in api\n    service disk1(disk)[Storage] in api\n    service disk2(disk)[Storage] in api\n    service server(server)[Server] in api\n\n    db:L -- R:server\n    disk1:T -- B:server\n    disk2:T -- B:db\n\n```\n\n## Venn \n\n```mermaid\nvenn-beta\n  title \"Creating a Desktop App\"\n  set Frontend\n  set Backend\n  union Frontend,Backend[\"APIs\"]\n\n  set Interface\n  set Experience\n  union Interface,Experience[\"User\"]\n```\n",
         "createdAt": "2026-08-14T13:09:56.533Z",
-        "updatedAt": "2026-08-15T05:50:26.098Z",
+        "updatedAt": "2026-08-15T11:17:59.609Z",
         "missingContent": false,
         "attachments": [],
         "location": {
@@ -135,78 +332,6 @@
         },
         "relativePath": "Mermaid Test.md",
         "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "1227c94c-2dfe-4d68-b8ec-edde242b7e93",
-        "type": "note",
-        "title": "Test mindmap mermaid.js",
-        "body": "```mermaid\nmindmap\n  root((Central Idea))\n    Origin\n      Topic One\n      Topic Two\n    Research\n      Data A\n      Data B\n```\n\n```mermaid\nmindmap\n  root((mindmap))\n    Origins\n      Long history\n      ::icon(fa fa-book)\n      Popularisation\n        British popular psychology author Tony Buzan\n    Research\n      On effectiveness<br/>and features\n      On Automatic creation\n        Uses\n            Creative techniques\n            Strategic planning\n            Argument mapping\n    Tools\n      Pen and paper\n      Mermaid\n```\n\n```mermaid\ntimeline\n    title Timeline of Industrial Revolution\n    section 17th-20th century\n        Industry 1.0 : Machinery, Water power, Steam <br>power\n        Industry 2.0 : Electricity, Internal combustion engine, Mass production\n        Industry 3.0 : Electronics, Computers, Automation\n    section 21st century\n        Industry 4.0 : Internet, Robotics, Internet of Things\n        Industry 5.0 : Artificial intelligence, Big data, 3D printing\n\n```\n",
-        "createdAt": "2026-08-14T12:44:07.851Z",
-        "updatedAt": "2026-08-14T12:46:40.215Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/1227c94c-2dfe-4d68-b8ec-edde242b7e93/Test mindmap mermaid.js.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "03cecb78-68e1-4aaf-8d2b-181a964a0a2a",
-        "type": "image",
-        "title": "crest-detail-logo",
-        "createdAt": "2026-08-14T12:16:11.842Z",
-        "updatedAt": "2026-08-14T12:16:11.941Z",
-        "sourceUrl": null,
-        "sourceFilename": "crest-detail-logo.png",
-        "contentFilename": "crest-detail-logo.png",
-        "mediaType": "image/png",
-        "width": 2000,
-        "height": 1500,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": ".kuskus/trash/03cecb78-68e1-4aaf-8d2b-181a964a0a2a/crest-detail-logo.png",
-        "referencedAttachment": false,
-        "trashedFrom": "inbox",
-        "trashedFromRelativePath": "crest-detail-logo.png",
-        "missingContent": false,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "attachmentOrigin": null
-      },
-      {
-        "schemaVersion": 2,
-        "id": "c4a611db-f77d-48af-9578-2a9713d3e2b0",
-        "type": "image",
-        "title": "crest-detail-logo",
-        "createdAt": "2026-08-14T12:12:29.289Z",
-        "updatedAt": "2026-08-14T12:12:29.418Z",
-        "sourceUrl": null,
-        "sourceFilename": "crest-detail-logo.png",
-        "contentFilename": "crest-detail-logo.png",
-        "mediaType": "image/png",
-        "width": 2000,
-        "height": 1500,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": ".kuskus/trash/c4a611db-f77d-48af-9578-2a9713d3e2b0/crest-detail-logo.png",
-        "referencedAttachment": false,
-        "trashedFrom": "inbox",
-        "trashedFromRelativePath": "crest-detail-logo.png",
-        "missingContent": false,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "attachmentOrigin": null
       },
       {
         "schemaVersion": 2,
@@ -234,24 +359,6 @@
       },
       {
         "schemaVersion": 2,
-        "id": "3f0bcc52-8788-454d-a6b9-fdcaf05f0c82",
-        "type": "note",
-        "title": "Solutions for engineering",
-        "body": "---\r\ntitle: \"Solutions for engineering\"\r\nsource: \"https://chatgpt.com/business/ai-for-engineering/\"\r\npublished:\r\ncreated: 2026-08-14\r\ndescription: \"Build faster with ChatGPT. Automate coding tasks, debug errors, and generate documentation—securely and collaboratively with your team.\"\r\n---\r\nChatGPT for engineeri",
-        "createdAt": "2026-08-14T11:57:58.332Z",
-        "updatedAt": "2026-08-14T11:57:58.358Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "collection",
-          "originalCollectionId": "868ec016-34a0-447b-ae48-61c0af7f3655"
-        },
-        "relativePath": ".kuskus/trash/3f0bcc52-8788-454d-a6b9-fdcaf05f0c82/Solutions for engineering.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
         "id": "dcc271a3-a2d7-4350-90d3-2f9ebebb132d",
         "type": "image",
         "title": "image-2026-08-14-142453",
@@ -271,33 +378,6 @@
         "missingContent": false,
         "location": {
           "type": "inbox"
-        }
-      },
-      {
-        "schemaVersion": 2,
-        "id": "da60b064-f187-4423-ad09-fea6a5fec986",
-        "type": "image",
-        "title": "image-2026-08-14-142447",
-        "createdAt": "2026-08-14T05:24:47.136Z",
-        "updatedAt": "2026-08-14T05:24:47.193Z",
-        "sourceUrl": null,
-        "sourceFilename": "image-2026-08-14-142447.png",
-        "contentFilename": "image-2026-08-14-142447.png",
-        "mediaType": "image/png",
-        "width": 843,
-        "height": 500,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": ".kuskus/trash/da60b064-f187-4423-ad09-fea6a5fec986/image-2026-08-14-142447.png",
-        "referencedAttachment": false,
-        "attachmentOrigin": "note-capture",
-        "trashedFrom": "inbox",
-        "trashedFromRelativePath": "image-2026-08-14-142447.png",
-        "missingContent": false,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
         }
       },
       {
@@ -353,7 +433,7 @@
         "title": "First time install note for Kuskus (Actual dogfood)",
         "body": "## 13 August\n\n![](./image-2026-08-14-093453.png)Hello world\n\n1. Paste-ing an screenshot from clipboard doesn't work\n2. Solarized theme sucks\n3. Toggling back-and-forth for from our current app  should also automatically focuses into the editor (there should be a highlighted line and a blinking cursor)\n4. Vim mode can be good, but does it have the implementation in our prosemirror or milkdown?\n\n***\n\n## 14 Agustus 2026\n\n1. Remote image issue\n   1.  I think we should also be able to render remote image\n2. `<br/>` still rendered randomly thorughout our documents \n   1. In read mode to be precise\n3. Different checkbox design in live/edit mode\n4. App is very slow. Optimization is needed but not desperately\n   1. In-app speed is everything, smooth interaction is what we need\n5. Codeblock sometimes are empty (not rendered?) in existing documents\n6. Apply shortcut to our current zen mode\n7. Mermaid render\n8. Item rails date info is updated, not created\n9. Codeblock background for our math (if inline, we dont have to)\n10. Item title renaming sometimes is not lively rendered (the item rails already updated, but the title in our detail pane isn't)\n11. Image interaction? \n12. Sonner design\n\n***\n\n![](./image-2026-08-14-142406.png)I dont know what should i integrate right now\n\n![](./image-2026-08-14-142453.png)\n\n* Make on boarding feature way less boring right now\n",
         "createdAt": "2026-08-13T13:49:34.353Z",
-        "updatedAt": "2026-08-15T05:06:21.996Z",
+        "updatedAt": "2026-08-15T07:08:20.111Z",
         "missingContent": false,
         "attachments": [
           {
@@ -395,30 +475,12 @@
       },
       {
         "schemaVersion": 2,
-        "id": "d5abe914-9663-4a90-b569-83b099da8b01",
-        "type": "note",
-        "title": "Evernote",
-        "body": "# Ciu masuk tas, uang masuk berangkas\n\n* [x] hello world\n* [x] Hell world\n* [x] Hello world\n",
-        "createdAt": "2026-08-13T10:09:25.919Z",
-        "updatedAt": "2026-08-14T00:23:42.251Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/d5abe914-9663-4a90-b569-83b099da8b01/Evernote.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
         "id": "f755b396-ff77-45c4-838a-64b798bde43e",
         "type": "note",
         "title": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration",
-        "body": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the `@inkdropapp/github` migration so I can copy-paste it next time.\n\n> **Verify versions first** — these tools move fast, so pin what you check instead of copying\n> from memory.\n>\n> ```sh\n> pnpm view oxlint version    # was 1.68.0\n> pnpm view oxfmt version     # was 0.53.0 (still pre-1.0, intentionally)\n> ```\n\n## Swap the dependencies\n\n```sh\npnpm remove eslint @eslint/js typescript-eslint eslint-config-prettier \\\n            prettier @ianvs/prettier-plugin-sort-imports\npnpm add -D oxlint oxfmt\n```\n\n## Config\n\n```json\n{\n  \"$schema\": \"./node_modules/oxfmt/configuration_schema.json\",\n  \"semi\": false,\n  \"singleQuote\": true,\n  \"trailingComma\": \"none\",\n  \"sortImports\": true,\n  \"sortPackageJson\": true\n}\n```\n\n| option          | Prettier default | oxfmt default | set to   |\n| --------------- | ---------------- | ------------- | -------- |\n| `semi`          | `true`           | `true`        | `false`  |\n| `singleQuote`   | `false`          | `false`       | `true`   |\n| `trailingComma` | `\"all\"`          | `\"all\"`       | `\"none\"` |\n\n`sortImports: true` replaces `@ianvs/prettier-plugin-sort-imports`. Don't set `printWidth`.\n`oxfmt --migrate=prettier` converts an existing config; `oxlint --init` scaffolds\n`.oxlintrc.json`.\n\nFor oxlint, `categories.correctness: \"error\"` is the conservative likely-bugs set and the right\ndefault. Rule names map `@typescript-eslint/foo` → `typescript/foo`; core rules keep their bare\nname. Nothing like `eslint-config-prettier` is needed — oxlint has no formatting rules to\nconflict with.\n\n## Gotchas\n\n* **oxlint reads only the _local_ `.gitignore`.** If `node_modules` isn't in it, a bare `oxlint`\n  lints the entire dependency tree and explodes. Add `\"node_modules/**\"` to `ignorePatterns`.\n  oxfmt skips it natively.\n* **`sortImports` is more opinionated than `@ianvs`.** It groups third-party and internal imports\n  with a blank line between them, so expect a one-time diff.\n* **oxfmt is pre-1.0** — output can shift between minors. Pin it and bump deliberately.\n* A failing `tsc` afterwards is usually a separate tsconfig problem, not oxc's fault. Run the\n  build before declaring victory.\n\n## Verify\n\n```sh\npnpm install\npnpm format    # apply once, then review the import-grouping diff\npnpm lint      # expect exit 0\npnpm typecheck && pnpm build\n```\n",
+        "body": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the `@inkdropapp/github` migration so I can copy-paste it next time.\n\n> **Verify versions first** — these tools move fast, so pin what you check instead of copying from memory.\n>\n> ```sh\n> pnpm view oxlint version    # was 1.68.0\n> pnpm view oxfmt version     # was 0.53.0 (still pre-1.0, intentionally)\n> ```\n\n## Swap the dependencies\n\n```sh\npnpm remove eslint @eslint/js typescript-eslint eslint-config-prettier \\\n            prettier @ianvs/prettier-plugin-sort-imports\npnpm add -D oxlint oxfmt\n```\n\n## Config\n\n```json\n{\n  \"$schema\": \"./node_modules/oxfmt/configuration_schema.json\",\n  \"semi\": false,\n  \"singleQuote\": true,\n  \"trailingComma\": \"none\",\n  \"sortImports\": true,\n  \"sortPackageJson\": true\n}\n```\n\n| option          | Prettier default | oxfmt default | set to   |\n| --------------- | ---------------- | ------------- | -------- |\n| `semi`          | `true`           | `true`        | `false`  |\n| `singleQuote`   | `false`          | `false`       | `true`   |\n| `trailingComma` | `\"all\"`          | `\"all\"`       | `\"none\"` |\n\n`sortImports: true` replaces `@ianvs/prettier-plugin-sort-imports`. Don't set `printWidth`.\n`oxfmt --migrate=prettier` converts an existing config; `oxlint --init` scaffolds\n`.oxlintrc.json`.\n\nFor oxlint, `categories.correctness: \"error\"` is the conservative likely-bugs set and the right\ndefault. Rule names map `@typescript-eslint/foo` → `typescript/foo`; core rules keep their bare\nname. Nothing like `eslint-config-prettier` is needed — oxlint has no formatting rules to\nconflict with.\n\n## Gotchas\n\n* **oxlint reads only the _local_ `.gitignore`.** If `node_modules` isn't in it, a bare `oxlint`\n  lints the entire dependency tree and explodes. Add `\"node_modules/**\"` to `ignorePatterns`.\n  oxfmt skips it natively.\n* **`sortImports` is more opinionated than `@ianvs`.** It groups third-party and internal imports\n  with a blank line between them, so expect a one-time diff.\n* **oxfmt is pre-1.0** — output can shift between minors. Pin it and bump deliberately.\n* A failing `tsc` afterwards is usually a separate tsconfig problem, not oxc's fault. Run the\n  build before declaring victory.\n\n## Verify\n\n```sh\npnpm install\npnpm format    # apply once, then review the import-grouping diff\npnpm lint      # expect exit 0\npnpm typecheck && pnpm build\n```\n",
         "createdAt": "2026-08-12T15:12:42.262Z",
-        "updatedAt": "2026-08-14T12:59:08.714Z",
+        "updatedAt": "2026-08-15T11:17:13.799Z",
         "missingContent": false,
         "attachments": [],
         "location": {
@@ -518,9 +580,9 @@
         "id": "e23c32b7-d59f-4ff6-8f9a-8c630d1af9b5",
         "type": "note",
         "title": "Checklist Design",
-        "body": "Notification Settings Checklist\n\nWhere users configure exactly which notifications they receive, through which channels, and how frequently.\n\n* [x] Categories — Notification types organised into logical groups e.g. product activity, mentions, billing, security, marketing\n* [ ] Channel selection — Controls for which channel each notification type comes through e.g. in-app, email, push, or SMS\n\n  💡 Not all channels make sense for all notification types — a billing alert via push notification is rarely necessary\n* [ ] Frequency controls — Where applicable, controls for how often notifications arrive e.g. immediately, daily digest, or weekly summary.\n* [x] Global mute — A way to temporarily silence all notifications without having to turn each one off individually\n* [ ] Save confirmation — A clear indication that preference changes have been saved.\n  * 💡 Auto-save works well also, the key thing is ensuring the user is aware the changes are enabled as often they are customising due to preference or annoyance\n",
+        "body": "Notification Settings Checklist\n\nWhere users configure exactly which notifications they receive, through which channels, and how frequently.\n\n* [x] Categories — Notification types organised into logical groups e.g. product activity, mentions, billing, security, marketing\n* [x] Channel selection — Controls for which channel each notification type comes through e.g. in-app, email, push, or SMS\n\n  💡 Not all channels make sense for all notification types — a billing alert via push notification is rarely necessary\n* [x] Frequency controls — Where applicable, controls for how often notifications arrive e.g. immediately, daily digest, or weekly summary.\n* [x] Global mute — A way to temporarily silence all notifications without having to turn each one off individually\n* [ ] Save confirmation — A clear indication that preference changes have been saved.\n  * 💡 Auto-save works well also, the key thing is ensuring the user is aware the changes are enabled as often they are customising due to preference or annoyance\n",
         "createdAt": "2026-08-08T09:45:35.312Z",
-        "updatedAt": "2026-08-14T11:43:41.801Z",
+        "updatedAt": "2026-08-15T11:26:05.301Z",
         "missingContent": false,
         "attachments": [],
         "location": {

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "id": "2b93423e-2fa3-4e45-9f12-088b27b2edf0",
+  "relativePath": "ui/searching-modal.png",
+  "fingerprint": "75db8b021258044b1d7af5c734d9f54fdd3926685ead757bb7ae439035db8b31",
+  "fileIdentity": "3121943230:5348024558182345",
+  "fileSize": 1027906,
+  "modifiedAtMs": 1786776602194.9607,
+  "recovery": {
+    "lastSeenAt": "2026-08-15T07:00:05.885Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "2b93423e-2fa3-4e45-9f12-088b27b2edf0",
+    "type": "image",
+    "title": "searching-modal",
+    "createdAt": "2026-08-15T06:50:02.036Z",
+    "updatedAt": "2026-08-15T06:50:02.195Z",
+    "sourceUrl": null,
+    "sourceFilename": "searching-modal.png",
+    "contentFilename": "searching-modal.png",
+    "mediaType": "image/png",
+    "width": 3192,
+    "height": 2068,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "ui/searching-modal.png",
+    "referencedAttachment": false
+  }
+}

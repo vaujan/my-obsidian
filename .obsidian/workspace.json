@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
-                "mode": "preview",
+                "file": "Note After Install 1.0.0.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain"
+              "title": "Note After Install 1.0.0"
             }
           }
         ]
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
+                "file": "First time install note for Kuskus (Actual dogfood).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.143798828125
+    "width": 404.143798828125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,13 +205,30 @@
   },
   "active": "2f522052a1a3c51d",
   "lastOpenFiles": [
+    "resources/clippings/Product designer and engineer.md",
+    "Note After Install 1.0.0.md.a91c1b68-b826-4033-9d5b-3f633acab21d.previous",
+    "Note After Install 1.0.0.md.0fd8a80c-0457-4d18-8540-6ad7fe8d0e63.previous",
+    "Mermaid Test.md",
+    "Note After Install 1.0.0.md.5962cd6a-c5f9-4903-aa33-95cfe326706f.previous",
+    "Note After Install 1.0.0.md.339235c5-7c11-4423-92a2-b163ef82c420.previous",
+    "Note After Install 1.0.0.md.f534cbdb-f531-46c5-a5a0-ae45f9a3dc30.previous",
+    "Note After Install 1.0.0.md.b1bd8cba-5319-4d27-95db-6c0011b33b69.previous",
+    "Note After Install 1.0.0.md.754b702d-395f-4b84-9e50-97a9b37bd959.previous",
+    "Note After Install 1.0.0.md.75da605e-0a66-4bd2-bdae-5a6e00268201.previous",
+    "Note After Install 1.0.0.md.1c70b3ce-3836-4d2f-9340-c965c86db8ea.previous",
+    "Note After Install 1.0.0.md",
+    "First time install note for Kuskus (Actual dogfood).md",
+    "image-2026-08-15-144635.png",
+    "image-2026-08-15-145253.png",
+    "image-2026-08-14-093453.png",
+    "image-2026-08-14-142406.png",
+    "image-2026-08-14-142453.png",
+    "areas/Dev.md",
+    "searching-modal.png",
+    "Note After Install 1.0.0.md.8b1e56cf-49de-445a-9f9f-1b787dbba3c7.previous",
+    "areas/Writings.md",
+    "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
     "resources/clippings/Solutions for engineering.md",
-    "Evernote.md.2c115c5b-cb78-4b35-a5dd-fc042874701f.previous",
-    "Scroll.md.446771d3-2286-4ee6-96ee-f6583624199e.previous",
-    "Goal- semantic search over 3k notes, fully offline, no server. The index has to sit next to the.md.775e0ad9-7d1e-41bc-a076-a381139977bc.previous",
-    "Goal- semantic search over 3k notes, fully offline, no server. The index has to sit next to the.md.24040709-3f49-477b-bf5d-62724938e7ad.previous",
-    "Scroll.md.0832d0f1-b78a-405e-aa0a-25d51725a0da.previous",
-    "Scroll.md.99775c18-f54e-457c-942b-092c6d1b25fe.previous",
     "Hello world.md",
     "resources/workout/Weekly Training Plan.md",
     "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration.md",
@@ -225,33 +243,16 @@
     "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
     "drafts/Brainrotted gooner mencoba meditasi.md",
     "_archive/Anytype login key.md",
-    "areas/Dev.md",
-    "areas/Writings.md",
     "dev/Animation Vocabulary.md",
     "dev/emilkowalskiskills Skills for Design Engineers.md",
     "dev/Developing Taste.md",
     "dev/Say precisely what you mean.md",
-    "dev/shadcn Improve Skill.md",
-    "dev/Vercel Native SDK.md",
-    "dev/Flagship AI models for coding, business analysis, and copywriting.md",
-    "dev/Low-cost and open-model report, with OpenCode Go coverage.md",
-    "dev/Git Commit Skill.md",
-    "_archive/Excalidraw Kuskus.excalidraw",
-    "resources/clippings/React Bits - Animated UI Components For React.md.ba070b98-f213-4aaf-9e3e-2b17dbc8f6dc.previous",
-    "resources/clippings/React Bits - Animated UI Components For React.md.f575f016-06d9-43bd-93f5-b76a6f648e6d.previous",
-    "resources/clippings/React Bits - Animated UI Components For React.md.bd6c2101-d9e3-4479-9530-76b7e086962d.previous",
     "public/Pasted image 20260729042742.png",
     "drafts/maps/Consistency.canvas",
     "drafts/maps/Build.canvas",
     "public/Pasted image 20260728220049.png",
     "Pasted image 20260728220049.png",
     "public/Pasted image 20260722194328.png",
-    "public/Pasted image 20260725004930.png",
-    "public/Pasted image 20260724000222.png",
-    "public/Pasted image 20260719163242.png",
-    "public/Pasted image 20260719154418.png",
-    "public/Pasted image 20260719155551.png",
-    "public/Pasted image 20260719155213.png",
     "drafts/maps/Meditation.canvas",
     "Untitled.canvas"
   ]

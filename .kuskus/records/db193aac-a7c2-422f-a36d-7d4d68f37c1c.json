@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "id": "db193aac-a7c2-422f-a36d-7d4d68f37c1c",
+  "relativePath": ".kuskus/trash/db193aac-a7c2-422f-a36d-7d4d68f37c1c/HEllo world.md",
+  "fingerprint": "2b0735ec4e13a4365b28731b632475f1add38dad894a9ff7de36458abeffd1ba",
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "db193aac-a7c2-422f-a36d-7d4d68f37c1c",
+    "type": "note",
+    "title": "HEllo world",
+    "createdAt": "2026-08-15T09:40:21.472Z",
+    "updatedAt": "2026-08-15T09:40:21.532Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "HEllo world.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": ".kuskus/trash/db193aac-a7c2-422f-a36d-7d4d68f37c1c/HEllo world.md",
+    "referencedAttachment": false,
+    "trashedFrom": "inbox",
+    "trashedFromRelativePath": "HEllo world.md"
+  },
+  "recovery": {
+    "lastSeenAt": "2026-08-15T09:40:21.532Z",
+    "missingSince": "2026-08-15T09:40:50.772Z"
+  }
+}

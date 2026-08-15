@@ -2,12 +2,12 @@
   "schemaVersion": 2,
   "id": "f755b396-ff77-45c4-838a-64b798bde43e",
   "relativePath": "dev/mock/Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration.md",
-  "fingerprint": "eecc3ac6f68f6609d1a978ea29974a02762aaa1b3c5dcbaa7bce766e261ebfe5",
-  "fileIdentity": "3121943230:41939771529907660",
-  "fileSize": 2374,
-  "modifiedAtMs": 1786712348714.1287,
+  "fingerprint": "bbb9a7000a9874707678c0e2fcfb1bede94a024c5653b0e631ff756897014f1d",
+  "fileIdentity": "3121943230:42784196460039630",
+  "fileSize": 2372,
+  "modifiedAtMs": 1786792633799.008,
   "recovery": {
-    "lastSeenAt": "2026-08-14T13:00:24.390Z",
+    "lastSeenAt": "2026-08-15T11:17:13.841Z",
     "missingSince": null
   },
   "metadata": {
@@ -16,7 +16,7 @@
     "type": "note",
     "title": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration",
     "createdAt": "2026-08-12T15:12:42.262Z",
-    "updatedAt": "2026-08-14T12:59:08.714Z",
+    "updatedAt": "2026-08-15T11:17:13.799Z",
     "sourceUrl": null,
     "sourceFilename": null,
     "contentFilename": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration.md",

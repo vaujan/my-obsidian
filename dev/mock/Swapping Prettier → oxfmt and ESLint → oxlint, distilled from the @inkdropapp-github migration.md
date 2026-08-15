@@ -1,7 +1,6 @@
 Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the `@inkdropapp/github` migration so I can copy-paste it next time.
 
-> **Verify versions first** — these tools move fast, so pin what you check instead of copying
-> from memory.
+> **Verify versions first** — these tools move fast, so pin what you check instead of copying from memory.
 >
 > ```sh
 > pnpm view oxlint version    # was 1.68.0

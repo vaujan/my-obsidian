@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "id": "c6f444bb-ce34-4f51-b7d7-e0f81b8ca440",
+  "relativePath": "inkdrop-splitview.png",
+  "fingerprint": "2cb9a76cd30035ea4451511af1cd98372c2326ec603fcf06166f514e2552db06",
+  "fileIdentity": "3121943230:39687971716347290",
+  "fileSize": 158068,
+  "modifiedAtMs": 1786786224205.2627,
+  "recovery": {
+    "lastSeenAt": "2026-08-15T09:30:24.296Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "c6f444bb-ce34-4f51-b7d7-e0f81b8ca440",
+    "type": "image",
+    "title": "inkdrop-splitview",
+    "createdAt": "2026-08-15T09:30:23.911Z",
+    "updatedAt": "2026-08-15T09:30:24.205Z",
+    "sourceUrl": null,
+    "sourceFilename": "inkdrop-splitview.png",
+    "contentFilename": "inkdrop-splitview.png",
+    "mediaType": "image/png",
+    "width": 656,
+    "height": 880,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "inkdrop-splitview.png",
+    "referencedAttachment": false
+  }
+}

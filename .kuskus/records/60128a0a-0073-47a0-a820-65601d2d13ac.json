@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "id": "60128a0a-0073-47a0-a820-65601d2d13ac",
+  "relativePath": ".kuskus/trash/60128a0a-0073-47a0-a820-65601d2d13ac/image-2026-08-15-184101.png",
+  "fingerprint": "287e8f49ebeee961c3dfb96c07906a97a36d04cc8037db10415d2396f27b1672",
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "60128a0a-0073-47a0-a820-65601d2d13ac",
+    "type": "image",
+    "title": "image-2026-08-15-184101",
+    "createdAt": "2026-08-15T09:41:01.558Z",
+    "updatedAt": "2026-08-15T09:41:01.560Z",
+    "sourceUrl": null,
+    "sourceFilename": "image-2026-08-15-184101.png",
+    "contentFilename": "image-2026-08-15-184101.png",
+    "mediaType": "image/png",
+    "width": 1919,
+    "height": 551,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": ".kuskus/trash/60128a0a-0073-47a0-a820-65601d2d13ac/image-2026-08-15-184101.png",
+    "referencedAttachment": false,
+    "attachmentOrigin": "note-capture",
+    "trashedFrom": "inbox",
+    "trashedFromRelativePath": "image-2026-08-15-184101.png"
+  },
+  "recovery": {
+    "lastSeenAt": "2026-08-15T09:41:01.560Z",
+    "missingSince": "2026-08-15T12:55:19.944Z"
+  }
+}

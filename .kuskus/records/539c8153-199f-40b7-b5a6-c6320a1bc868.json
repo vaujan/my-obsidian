@@ -2,12 +2,12 @@
   "schemaVersion": 2,
   "id": "539c8153-199f-40b7-b5a6-c6320a1bc868",
   "relativePath": "Note After Install 1.0.0.md",
-  "fingerprint": "7d514b336b3818342cc050ddda4f9174a04f7373768763996ef40b20e5541783",
-  "fileIdentity": "3121943230:16044073672678488",
-  "fileSize": 1871,
-  "modifiedAtMs": 1786774149792.0227,
+  "fingerprint": "172d74a691dccc6b95c1bc8c380a30efb299bf6ff2fbad2ee344012aac850e82",
+  "fileIdentity": "3121943230:10696049116315184",
+  "fileSize": 4249,
+  "modifiedAtMs": 1786798653803.3613,
   "recovery": {
-    "lastSeenAt": "2026-08-15T06:09:09.906Z",
+    "lastSeenAt": "2026-08-15T12:57:33.875Z",
     "missingSince": null
   },
   "metadata": {
@@ -16,7 +16,7 @@
     "type": "note",
     "title": "Note After Install 1.0.0",
     "createdAt": "2026-08-15T05:06:32.510Z",
-    "updatedAt": "2026-08-15T06:09:09.792Z",
+    "updatedAt": "2026-08-15T12:57:33.803Z",
     "sourceUrl": null,
     "sourceFilename": null,
     "contentFilename": "Note After Install 1.0.0.md",
@@ -43,6 +43,24 @@
         "mediaType": "image/png",
         "width": 1266,
         "height": 914
+      },
+      {
+        "id": "e81fbe89-bd08-473c-939f-469bcd6eddab",
+        "filename": "image-2026-08-15-160118.png",
+        "relativePath": "./image-2026-08-15-160118.png",
+        "sourceFilename": "image-2026-08-15-160118.png",
+        "mediaType": "image/png",
+        "width": 1683,
+        "height": 1020
+      },
+      {
+        "id": "2583b9ca-1ab9-4a0b-a516-12a7c93654e5",
+        "filename": "image-2026-08-15-184107.png",
+        "relativePath": "./image-2026-08-15-184107.png",
+        "sourceFilename": "image-2026-08-15-184107.png",
+        "mediaType": "image/png",
+        "width": 1919,
+        "height": 551
       }
     ]
   }

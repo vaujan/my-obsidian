@@ -1,7 +1,6 @@
 ---
 title: "The grill-me Skill"
 source: https://www.aihero.dev/skills-grill-me#grillable-and-ungrillable
-published: 2026-04-28
 description: Get interviewed about a loose idea until it holds decisions.
 created: 2026-08-06
 ---

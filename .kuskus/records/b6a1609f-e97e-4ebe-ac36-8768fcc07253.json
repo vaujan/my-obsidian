@@ -1,14 +1,11 @@
 {
   "schemaVersion": 2,
   "id": "b6a1609f-e97e-4ebe-ac36-8768fcc07253",
-  "relativePath": "Mermaid Test.md",
+  "relativePath": ".kuskus/trash/b6a1609f-e97e-4ebe-ac36-8768fcc07253/Mermaid Test.md",
   "fingerprint": "a1a876cc9bb7c2762460302dc1073e7e606d3ffd9b4f9be1857372c35178b6e9",
-  "fileIdentity": "3121943230:27866022694389850",
-  "fileSize": 1661,
-  "modifiedAtMs": 1786792679608.9963,
   "recovery": {
     "lastSeenAt": "2026-08-15T11:17:59.653Z",
-    "missingSince": null
+    "missingSince": "2026-08-15T15:20:29.139Z"
   },
   "metadata": {
     "schemaVersion": 2,
@@ -22,8 +19,10 @@
     "contentFilename": "Mermaid Test.md",
     "note": "",
     "originalCollectionId": null,
-    "relativePath": "Mermaid Test.md",
+    "relativePath": ".kuskus/trash/b6a1609f-e97e-4ebe-ac36-8768fcc07253/Mermaid Test.md",
     "referencedAttachment": false,
-    "titleSource": "custom"
+    "titleSource": "custom",
+    "trashedFrom": "inbox",
+    "trashedFromRelativePath": "Mermaid Test.md"
   }
 }

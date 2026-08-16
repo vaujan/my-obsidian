@@ -1,23 +1,114 @@
 {
   "schemaVersion": 1,
   "libraryId": "9eed48f3-1aff-4083-afa6-0049e96c9720",
-  "writtenAt": "2026-08-15T13:36:35.909Z",
+  "writtenAt": "2026-08-16T14:32:54.876Z",
   "library": {
     "schemaVersion": 2,
     "id": "9eed48f3-1aff-4083-afa6-0049e96c9720",
     "name": "fauzan-obsidian",
     "createdAt": "2026-08-09T06:43:01.560Z",
     "archiveDirectory": "Archive",
+    "pinnedItemIds": [
+      "539c8153-199f-40b7-b5a6-c6320a1bc868"
+    ],
     "path": "C:\\Users\\Fauzan\\Documents\\fauzan-obsidian",
     "items": [
+      {
+        "schemaVersion": 2,
+        "id": "75d179db-9915-4924-8cde-26e578081c2d",
+        "type": "note",
+        "title": "There is a layout-rendering bug that only occurs in read mode. The same document renders correctly in live-edit mode",
+        "body": "There is a layout/rendering bug that only occurs in **read mode**. The same document renders correctly in live/edit mode.\n\n### Current behavior\n\nIn read mode, some paragraphs are incorrectly laid out horizontally into multiple narrow fragments/columns instead of flowing as one continuous block of text.\n\nFor example, a paragraph that should render normally as:\n\n> Renaming `F2`. Currently there is no quick access to rename the title of the document we're writing in. It should be renamed inline in our detail pane title header...\n\nis visually split into several side-by-side text regions. Some words wrap into extremely narrow columns, causing sentences to appear vertically stacked or pushed sideways.\n\nThe underlying document content appears correct because the problem does not occur in live/edit mode.\n\n### Expected behavior\n\nRead mode should preserve normal document flow:\n\n* Each paragraph should occupy the available content width.\n* Text should wrap naturally within a single block.\n* Inline elements such as keyboard shortcuts, bold text, links, or other formatting should remain inline without changing the paragraph's overall layout.\n* A long paragraph should never create independent horizontal columns unless the document explicitly contains a multi-column layout.\n* Read mode should visually match the text flow of live/edit mode as closely as possible.\n\n### Suspected area\n\nPlease compare the DOM structure and CSS used by read mode against live/edit mode.\n\nIn particular, inspect whether the read-mode renderer is accidentally applying layout properties such as:\n\n* `display: flex`\n* `display: grid`\n* `inline-flex`\n* grid column definitions\n* `width: min-content`\n* `width: fit-content`\n* inappropriate `flex: 1`\n* `flex-wrap`\n* `float`\n* absolute positioning\n* inherited width/max-width constraints\n\nto paragraph nodes or their inline children.\n\nAlso check rendered rich-text nodes such as:\n\n* paragraphs\n* text spans\n* keyboard shortcut / `<kbd>` elements\n* strong/bold nodes\n* links\n* inline code\n* custom rich-text components\n\nAn inline node should not cause neighboring text spans to become separate flex/grid children with independently calculated widths.\n\nDo not solve this with fixed widths or manual per-element offsets. The goal is to restore normal block/inline text-flow semantics in the read-mode renderer.\n",
+        "createdAt": "2026-08-16T13:24:48.868Z",
+        "updatedAt": "2026-08-16T13:24:48.939Z",
+        "missingContent": false,
+        "attachments": [],
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        },
+        "relativePath": ".kuskus/trash/75d179db-9915-4924-8cde-26e578081c2d/There is a layout-rendering bug that only occurs in read mode. The same document renders correctly in live-edit mode.md",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
+        "id": "6ac71909-7c0e-4784-a52c-6a0941181360",
+        "type": "note",
+        "title": "https----native-sdk.dev-",
+        "body": "https\\://native-sdk.dev/\n",
+        "createdAt": "2026-08-15T15:22:20.792Z",
+        "updatedAt": "2026-08-15T15:22:20.855Z",
+        "missingContent": false,
+        "attachments": [],
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        },
+        "relativePath": ".kuskus/trash/6ac71909-7c0e-4784-a52c-6a0941181360/https----native-sdk.dev-.md",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
+        "id": "c9da3540-6f53-430c-8a2e-0605d8650475",
+        "type": "note",
+        "title": "https----native-sdk.dev-docs-cli",
+        "body": "https\\://native-sdk.dev/docs/cli\n",
+        "createdAt": "2026-08-15T15:21:38.046Z",
+        "updatedAt": "2026-08-15T15:21:38.113Z",
+        "missingContent": false,
+        "attachments": [],
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        },
+        "relativePath": ".kuskus/trash/c9da3540-6f53-430c-8a2e-0605d8650475/https----native-sdk.dev-docs-cli.md",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
+        "id": "a5fbe669-7da9-4451-9ee9-f90b414c53e9",
+        "type": "note",
+        "title": "https----native-sdk.dev-",
+        "body": "https\\://native-sdk.dev/\n",
+        "createdAt": "2026-08-15T15:20:36.275Z",
+        "updatedAt": "2026-08-15T15:20:36.441Z",
+        "missingContent": false,
+        "attachments": [],
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        },
+        "relativePath": ".kuskus/trash/a5fbe669-7da9-4451-9ee9-f90b414c53e9/https----native-sdk.dev-.md",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
+        "id": "efcba7a8-f259-47fa-9686-0d6ada0c7932",
+        "type": "note",
+        "title": "Mermaid Test",
+        "body": "---\n\n---\n## Sankey graph \n\n```mermaid\nsankey\n\n%% source,target,value\nElectricity grid,Over generation / exports,104.453\nElectricity grid,Heating and cooling - homes,113.726\nElectricity grid,H2 conversion,27.14\n\n```\n\n## Kanban\n\n```mermaid\n---\nconfig:\n  kanban:\n    ticketBaseUrl: 'https://mermaidchart.atlassian.net/browse/#TICKET#'\n---\nkanban\n  Todo\n    [Create Documentation]\n    docs[Create Blog about the new diagram]\n  [In progress]\n    id6[Create renderer so that it works in all cases. We also add some extra text here for testing purposes. And some more just for the extra flare.]\n  id9[Ready for deploy]\n    id8[Design grammar]@{ assigned: 'knsv' }\n  id10[Ready for test]\n    id4[Create parsing tests]@{ ticket: MC-2038, assigned: 'K.Sveidqvist', priority: 'High' }\n    id66[last item]@{ priority: 'Very Low', assigned: 'knsv' }\n  id11[Done]\n    id5[define getData]\n    id2[Title of diagram is more than 100 chars when user duplicates diagram with 100 char]@{ ticket: MC-2036, priority: 'Very High'}\n    id3[Update DB function]@{ ticket: MC-2037, assigned: knsv, priority: 'High' }\n\n  id12[Can't reproduce]\n    id3[Weird flickering in Firefox]\n\n```\n\n## Architecture\n\n```mermaid\narchitecture-beta\n    group api(cloud)[API]\n\n    service db(database)[Database] in api\n    service disk1(disk)[Storage] in api\n    service disk2(disk)[Storage] in api\n    service server(server)[Server] in api\n\n    db:L -- R:server\n    disk1:T -- B:server\n    disk2:T -- B:db\n\n```\n\n## Venn \n\n```mermaid\nvenn-beta\n  title \"Creating a Desktop App\"\n  set Frontend\n  set Backend\n  union Frontend,Backend[\"APIs\"]\n\n  set Interface\n  set Experience\n  union Interface,Experience[\"User\"]\n```\n",
+        "createdAt": "2026-08-15T14:48:33.029Z",
+        "updatedAt": "2026-08-15T14:48:55.798Z",
+        "missingContent": false,
+        "attachments": [],
+        "location": {
+          "type": "inbox"
+        },
+        "relativePath": "Mermaid Test.md",
+        "referencedAttachment": false
+      },
       {
         "schemaVersion": 2,
         "id": "5e5f9510-6159-4d2d-8e73-1350ddd967a4",
         "type": "note",
         "title": "Product designer and engineer",
-        "body": "---\r\ntitle: \"Product designer and engineer\"\r\nsource: \"https://www.romanshamin.me/\"\r\npublished:\r\ncreated: 2026-08-15\r\ndescription:\r\n---\r\n## Hi! I'm Roman Shamin. A product designer and engineer. I had the privilege of leading the design for Google Ventures, eBay, Tines, Ghost Security, and YC alumni. Specialty coffee lover.\r\n\r\n## Passion projects\r\n\r\n### OKLCH Color Picker\r\n\r\nCo-author • Idea & vision • Product design • Product Hunt launch\r\n\r\n![Ghost Security UI](https://www.romanshamin.me/images/oklch-com.png)\r\n- [UI color palette starterCodePen demo](https://codepen.io/romanshamin/full/WbNxqPp)\r\n- [Martian GroteskOpen source typeface](https://evilmartians.com/products/martian-grotesk)\r\n- [Martian MonoOpen source typeface](https://fonts.google.com/specimen/Martian+Mono)\r\n- [Polychrom, APCA contrast checker#2 product of the month on Product Hunt](https://www.producthunt.com/products/polychrom-apca-contrast-checker)\r\n- [Harmony, accessible UI color palette#3 product of the week on Product Hunt](https://www.producthunt.com/products/harmony-accessible-ui-color-palette)\r\n- [Recipe Scaler, iOS appApp Store](https://apps.apple.com/pt/app/recipe-scaler-app/id1483478067?l=en-GB)\r\n- [Evil Icons#2 product of the week on Product Hunt](https://www.producthunt.com/products/evil-icons)\r\n- [OKLCH Color BlenderCodePen demo](https://codepen.io/romanshamin/full/wvypQgB)\r\n- [Color NameFigma Community](https://www.figma.com/community/plugin/880101729425135325/color-name)\r\n\r\n## Public talks\r\n\r\n- [Mastering dynamic UI theming for designersLayers, Portugal](https://youtu.be/vpQtaTthaTA?si=WtKrJeeivTaFxIek)\r\n- [Mastering dynamic UI theming for designersBites and Bytes, Portugal](https://evilmartians.com/events/mastering-dynamic-ui-theming-for-designers-bites-and-bytes-lisbon)\r\n- [Resolving text accessibility dilemmas in UIsLayers Meetup, Portugal](https://evilmartians.com/events/layers-meetup-resolving-text-accessibility-dilemmas-in-uis)",
+        "body": "---\ntitle: \"Product designer and engineer\"\nsource: \"https://www.romanshamin.me/\"\npublished:\ncreated: 2026-08-15\ndescription:\n---\n## Hi! I'm Roman Shamin. A product designer and engineer. I had the privilege of leading the design for Google Ventures, eBay, Tines, Ghost Security, and YC alumni. Specialty coffee lover.\n\n## Passion projects\n\n### OKLCH Color Picker\n\nCo-author • Idea & vision • Product design • Product Hunt launch\n\n![Ghost Security UI](https://www.romanshamin.me/images/oklch-com.png)\n- [UI color palette starterCodePen demo](https://codepen.io/romanshamin/full/WbNxqPp)\n- [Martian GroteskOpen source typeface](https://evilmartians.com/products/martian-grotesk)\n- [Martian MonoOpen source typeface](https://fonts.google.com/specimen/Martian+Mono)\n- [Polychrom, APCA contrast checker#2 product of the month on Product Hunt](https://www.producthunt.com/products/polychrom-apca-contrast-checker)\n- [Harmony, accessible UI color palette#3 product of the week on Product Hunt](https://www.producthunt.com/products/harmony-accessible-ui-color-palette)\n- [Recipe Scaler, iOS appApp Store](https://apps.apple.com/pt/app/recipe-scaler-app/id1483478067?l=en-GB)\n- [Evil Icons#2 product of the week on Product Hunt](https://www.producthunt.com/products/evil-icons)\n- [OKLCH Color BlenderCodePen demo](https://codepen.io/romanshamin/full/wvypQgB)\n- [Color NameFigma Community](https://www.figma.com/community/plugin/880101729425135325/color-name)\n\n## Public talks\n\n- [Mastering dynamic UI theming for designersLayers, Portugal](https://youtu.be/vpQtaTthaTA?si=WtKrJeeivTaFxIek)\n- [Mastering dynamic UI theming for designersBites and Bytes, Portugal](https://evilmartians.com/events/mastering-dynamic-ui-theming-for-designers-bites-and-bytes-lisbon)\n- [Resolving text accessibility dilemmas in UIsLayers Meetup, Portugal](https://evilmartians.com/events/layers-meetup-resolving-text-accessibility-dilemmas-in-uis)",
         "createdAt": "2026-08-15T13:03:22.481Z",
-        "updatedAt": "2026-08-15T13:03:22.493Z",
+        "updatedAt": "2026-08-15T22:00:24.202Z",
         "missingContent": false,
         "attachments": [],
         "location": {
@@ -282,9 +373,9 @@
         "id": "539c8153-199f-40b7-b5a6-c6320a1bc868",
         "type": "note",
         "title": "Note After Install 1.0.0",
-        "body": "## **Fix** and **Confirm** these issues\n\n<br />\n\n* **Confirm/Check:** We should confirm the existing implementation about the image embedding feature. We should check how image is embedded and how it looks like in the Markdown source\n* **Confirm/Check:** Scrolling through the main item visual rails is 'kind of' heavy. Is it normal because each note item is rendering 'markdown'? It happens in 100 notes, not after 1000\n* Writing down markdown doesn't feel any different from this app to other writing app (Obsidian, Evernote)? 95% of the markdown writing part is basically functioning very well  \n* Right-clicking in our index item doesn't open the context menu. Right-clicking item in visual mode works and opens the context menu (but not in index mode)\n* Cannot access developer tools  via `f12`\n* Zen mode key toggle doesn't works\n* ![](./image-2026-08-15-144635.png)The selected UI indicator should look like this, it should use the 'active' item state without the left border for indicator\n* Date system should also follow created and updated, not only updated. The index item rail keep showing 'Just now' every time we update or if any changes occur. This doesn't provide a useful information for the user when is the item created (which more important than 'Just now' every time')\n* Badge redesign for a11y, add a bit border\n* When our notes it scrolled away, toggling from live mode to read mode behaves normally. But from read mode to live mode, we immediately scrolled to the beginning line and is prompted to write from the starting point of the document\n* **Confirm/Check:** Is it true if the user will experience lag or slow downs when they open a big repository/vault for the first time? If yes, is it because the app is creating a new cache for the starter? If yes, the user should be informed via toast/sonner would be good\n* Starting app speed is really good. Also, what happen if we open more than one App window? I tried that, but nothing happened. But what ***should*** happen?\n* **Confirm/Check:** In 'All Items' menu how are the items are loaded? The items are very resource intensive by rendering markdowns for each notes. What is the best way to load them? \n  * Also, is each of these note are rendered all the way through? For instance of the document can show thousands of words of many different heavy elements like code block, images and links. Are these rendered also even if the preview is very small and shows only the small part of the early part of the document? \n* Confirm/Check: Is 'blurring' features performant? For instance blurring the background in the dialog\n* Why was my `%APPDATA%` has 3-4 GB in size? \n* Delay in writings. \n* Is toggling between the translucent activity will affect our performance on the same session?\n  * Meaning, if I already have the translucent activated and use the app normally, I will have better performance than if I turn off the translucent but didn't restart the app. \n* For versioning, is it starting on 0.0.1 or 1.0.0? I think is the former choice\n\n## Features For Later Improvement\n\n* ![](./image-2026-08-15-145253.png) The active cursor is at the bottom of the page when we extend a new document further than the height of the pane. It is very 'packed' and need more space/room \n* What is the recommended settings for performance also for aesthetic? The user should also can picked which one suits their needs the best\n* Pin notes? The goal of this feature is to provide user a way to put item on a 'watchlist', that they constantly looking up to or providing updates to\n* Renaming title via `f2`. Currently there is no quick access to rename the title of the document we're writing in. But we now allow renaming via focusing an instance in our item rails and this is a **very good UX**\n\n![](./image-2026-08-15-160118.png)\n\n* Opening an item navigates us into a detailed view. But the item rails on the left side is not scrolled to the selected item (instead it started from the top)\n\n![700](./image-2026-08-15-184107.png)\n\n* Terrible placement for the callout\n* Multi select in item rails is inaccessible via `shift + click`\n* Image insertion through `'/'` command\n  * The user should have the option to upload new image, or find images from their vault\n",
+        "body": "## **Fix** and **Confirm** these issues\n\n* **Confirm/Check:** We should confirm the existing implementation about the image embedding feature. We should check how image is embedded and how it looks like in the Markdown source\n\n* **Confirm/Check:** Scrolling through the main item visual rails is 'kind of' heavy. Is it normal because each note item is rendering 'markdown'? It happens in 100 notes, not after 1000\n\n* Writing down markdown doesn't feel any different from this app to other writing app (Obsidian, Evernote)? 95% of the markdown writing part is basically functioning very well\n\n***\n\n* [ ] Integrate a performance measurement to understand how performant the current implementation is \n\n- [x] Right-clicking in our index item doesn't open the context menu. Right-clicking item in visual mode works and opens the context menu (but not in index mode)\n- [x] Our checkbox is placement is has a bit offset to the top. Maybe shift it to the bottom by 1px\n- [x] Cannot access developer tools  via `f12`\n- [x] Zen mode key toggle doesn't works\n\n* ![The selected UI indicator should look like this, it should use the 'active' item state without the left border for indicator](./image-2026-08-15-144635.png)\n* [x] Date system should also follow created and updated, not only updated. The index item rail keep showing 'Just now' every time we update or if any changes occur. This doesn't provide a useful information for the user when is the item created (which more important than 'Just now' every time')\n\n- [ ] Badge redesign for a11y, add a bit border (the badges are \"Note\", \"Link\", etc.). The badge should also in colours that is complement to our primary colour\n- [x] `Ctrl + F` or find and replace functionality doesn't work in live and read mode. For Read mode, it should only Find (without the replace)\n- [ ] When our notes it scrolled away, toggling from live mode to read mode behaves normally. But from read mode to live mode, we immediately scrolled to the beginning line and is prompted to write from the starting point of the document\n- [ ] **Confirm/Check:** Is it true if the user will experience lag or slow downs when they open a big repository/vault for the first time? If yes, is it because the app is creating a new cache for the starter? If yes, the user should be informed via toast/Sonner would be good\n- [x] Starting app speed is really good. Also, what happen if we open more than one App window? I tried that, but nothing happened. But what ***should*** happen\n- [ ] **Confirm/Check:** In 'All Items' menu how are the items are loaded? The items are very resource intensive by rendering markdowns for each notes. What is the best way to load them?\n\n* Also, is each of these note are rendered all the way through? For instance of the document can show thousands of words of many different heavy elements like code block, images and links. Are these rendered also even if the preview is very small and shows only the small part of the early part of the document? \n\n- Confirm/Check: Is 'blurring' features performant? For instance blurring the background in the dialog\n- Why was my `%APPDATA%` has 3-4 GB in size? \n- Delay in writings. \n- Is toggling between the translucent activity will affect our performance on the same session?\n  * Meaning, if I already have the translucent activated and use the app normally, I will have better performance than if I turn off the translucent but didn't restart the app. \n- For versioning, is it starting on 0.0.1 or 1.0.0? I think is the former choice\n- Link detection can be flawed. For instance copy this to the quick composer `https://native-sdk.dev/` it won't be saved as a link. Instead it added a new note\n\n* [x] There is some flickering in the code block that is rendered in the item rails. It flicker for every keystroke or mouse clicks. The code block flicker from empty code block, then the content appear for every event keyboard or mouse. We haven't confirmed it this only happens to code block or not\n\n## Features For Later Improvement\n\n* ![Hello world](./image-2026-08-15-145253.png)\n\n* [x] When the active cursor is at the bottom of the page when we continue write the document further than the height of the pane. It is very 'packed'  and is at the bottom of our screen need more space/room \n\n- [ ] What is the recommended settings for performance also for aesthetic? The user should also can picked which one suits their needs the best\n- [x] Please integrate a feature for pin items? The goal of this feature is to provide user a way to put item on a 'watchlist', that they constantly looking up to or providing updates to\n- [x] Renaming title for the focused detailed pane document via `f2`. Currently there is no quick access to rename the title of the document we're writing in. It should renaming should be in inline in our detail pane title header. But we now allow renaming via focusing an instance in our item rails and this is a **very good UX**\n\n![](./image-2026-08-15-160118.png)\n\n* [x] Opening an item navigates us into a detailed view. But the item rails on the left side is not scrolled to the selected item (instead it started from the top)\n\n![700](./image-2026-08-15-184107.png)\n\n* [x] Terrible placement for the callout (\"Unable to Complete Action. These items are already in Trash\"). This should be in a Sonner \n\n- [x] Multi select in item rails is inaccessible via `shift + click`\n",
         "createdAt": "2026-08-15T05:06:32.510Z",
-        "updatedAt": "2026-08-15T13:32:57.478Z",
+        "updatedAt": "2026-08-16T14:09:54.633Z",
         "missingContent": false,
         "attachments": [
           {
@@ -339,15 +430,17 @@
         "id": "b6a1609f-e97e-4ebe-ac36-8768fcc07253",
         "type": "note",
         "title": "Mermaid Test",
-        "body": "## Sankey graph \n\n```mermaid\nsankey\n\n%% source,target,value\nElectricity grid,Over generation / exports,104.453\nElectricity grid,Heating and cooling - homes,113.726\nElectricity grid,H2 conversion,27.14\n\n```\n\n## Kanban\n\n```mermaid\n---\nconfig:\n  kanban:\n    ticketBaseUrl: 'https://mermaidchart.atlassian.net/browse/#TICKET#'\n---\nkanban\n  Todo\n    [Create Documentation]\n    docs[Create Blog about the new diagram]\n  [In progress]\n    id6[Create renderer so that it works in all cases. We also add some extra text here for testing purposes. And some more just for the extra flare.]\n  id9[Ready for deploy]\n    id8[Design grammar]@{ assigned: 'knsv' }\n  id10[Ready for test]\n    id4[Create parsing tests]@{ ticket: MC-2038, assigned: 'K.Sveidqvist', priority: 'High' }\n    id66[last item]@{ priority: 'Very Low', assigned: 'knsv' }\n  id11[Done]\n    id5[define getData]\n    id2[Title of diagram is more than 100 chars when user duplicates diagram with 100 char]@{ ticket: MC-2036, priority: 'Very High'}\n    id3[Update DB function]@{ ticket: MC-2037, assigned: knsv, priority: 'High' }\n\n  id12[Can't reproduce]\n    id3[Weird flickering in Firefox]\n\n```\n\n## Architecture\n\n```mermaid\narchitecture-beta\n    group api(cloud)[API]\n\n    service db(database)[Database] in api\n    service disk1(disk)[Storage] in api\n    service disk2(disk)[Storage] in api\n    service server(server)[Server] in api\n\n    db:L -- R:server\n    disk1:T -- B:server\n    disk2:T -- B:db\n\n```\n\n## Venn \n\n```mermaid\nvenn-beta\n  title \"Creating a Desktop App\"\n  set Frontend\n  set Backend\n  union Frontend,Backend[\"APIs\"]\n\n  set Interface\n  set Experience\n  union Interface,Experience[\"User\"]\n```\n",
+        "body": "",
         "createdAt": "2026-08-14T13:09:56.533Z",
         "updatedAt": "2026-08-15T11:17:59.609Z",
-        "missingContent": false,
+        "missingContent": true,
         "attachments": [],
         "location": {
-          "type": "inbox"
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
         },
-        "relativePath": "Mermaid Test.md",
+        "relativePath": ".kuskus/trash/b6a1609f-e97e-4ebe-ac36-8768fcc07253/Mermaid Test.md",
         "referencedAttachment": false
       },
       {
@@ -390,7 +483,7 @@
         "note": "",
         "originalCollectionId": null,
         "relativePath": "image-2026-08-14-142453.png",
-        "referencedAttachment": true,
+        "referencedAttachment": false,
         "attachmentOrigin": "note-capture",
         "missingContent": false,
         "location": {
@@ -413,7 +506,7 @@
         "note": "",
         "originalCollectionId": null,
         "relativePath": "image-2026-08-14-142406.png",
-        "referencedAttachment": true,
+        "referencedAttachment": false,
         "attachmentOrigin": "note-capture",
         "missingContent": false,
         "location": {
@@ -436,7 +529,7 @@
         "note": "",
         "originalCollectionId": null,
         "relativePath": "image-2026-08-14-093453.png",
-        "referencedAttachment": true,
+        "referencedAttachment": false,
         "attachmentOrigin": "note-capture",
         "missingContent": false,
         "location": {
@@ -448,15 +541,15 @@
         "id": "e188179a-95b1-42c5-bebe-a5ca35a887df",
         "type": "note",
         "title": "First time install note for Kuskus (Actual dogfood)",
-        "body": "## 13 August\n\n![](./image-2026-08-14-093453.png)Hello world\n\n1. Paste-ing an screenshot from clipboard doesn't work\n2. Solarized theme sucks\n3. Toggling back-and-forth for from our current app  should also automatically focuses into the editor (there should be a highlighted line and a blinking cursor)\n4. Vim mode can be good, but does it have the implementation in our prosemirror or milkdown?\n\n***\n\n## 14 Agustus 2026\n\n1. Remote image issue\n   1.  I think we should also be able to render remote image\n2. `<br/>` still rendered randomly thorughout our documents \n   1. In read mode to be precise\n3. Different checkbox design in live/edit mode\n4. App is very slow. Optimization is needed but not desperately\n   1. In-app speed is everything, smooth interaction is what we need\n5. Codeblock sometimes are empty (not rendered?) in existing documents\n6. Apply shortcut to our current zen mode\n7. Mermaid render\n8. Item rails date info is updated, not created\n9. Codeblock background for our math (if inline, we dont have to)\n10. Item title renaming sometimes is not lively rendered (the item rails already updated, but the title in our detail pane isn't)\n11. Image interaction? \n12. Sonner design\n\n***\n\n![](./image-2026-08-14-142406.png)I dont know what should i integrate right now\n\n![](./image-2026-08-14-142453.png)\n\n* Make on boarding feature way less boring right now\n",
+        "body": "## 13 August\n\n![](../../../image-2026-08-14-093453.png)Hello world\n\n1. Paste-ing an screenshot from clipboard doesn't work\n2. Solarized theme sucks\n3. Toggling back-and-forth for from our current app  should also automatically focuses into the editor (there should be a highlighted line and a blinking cursor)\n4. Vim mode can be good, but does it have the implementation in our prosemirror or milkdown?\n\n***\n\n## 14 Agustus 2026\n\n1. Remote image issue\n   1.  I think we should also be able to render remote image\n2. `<br/>` still rendered randomly thorughout our documents \n   1. In read mode to be precise\n3. Different checkbox design in live/edit mode\n4. App is very slow. Optimization is needed but not desperately\n   1. In-app speed is everything, smooth interaction is what we need\n5. Codeblock sometimes are empty (not rendered?) in existing documents\n6. Apply shortcut to our current zen mode\n7. Mermaid render\n8. Item rails date info is updated, not created\n9. Codeblock background for our math (if inline, we dont have to)\n10. Item title renaming sometimes is not lively rendered (the item rails already updated, but the title in our detail pane isn't)\n11. Image interaction? \n12. Sonner design\n\n***\n\n![](../../../image-2026-08-14-142406.png)I dont know what should i integrate right now\n\n![](../../../image-2026-08-14-142453.png)\n\n* Make on boarding feature way less boring right now\n",
         "createdAt": "2026-08-13T13:49:34.353Z",
-        "updatedAt": "2026-08-15T07:08:20.111Z",
+        "updatedAt": "2026-08-16T13:25:34.077Z",
         "missingContent": false,
         "attachments": [
           {
             "id": "99aa1cd8-7d6a-4e20-aab8-1801c7ac5e7c",
             "filename": "image-2026-08-14-093453.png",
-            "relativePath": "./image-2026-08-14-093453.png",
+            "relativePath": "../../../image-2026-08-14-093453.png",
             "sourceFilename": "image-2026-08-14-093453.png",
             "mediaType": "image/png",
             "width": 1919,
@@ -466,7 +559,7 @@
           {
             "id": "05e6d82f-9fb5-4949-a1b6-832df57933da",
             "filename": "image-2026-08-14-142406.png",
-            "relativePath": "./image-2026-08-14-142406.png",
+            "relativePath": "../../../image-2026-08-14-142406.png",
             "sourceFilename": "image-2026-08-14-142406.png",
             "mediaType": "image/png",
             "width": 1308,
@@ -476,7 +569,7 @@
           {
             "id": "dcc271a3-a2d7-4350-90d3-2f9ebebb132d",
             "filename": "image-2026-08-14-142453.png",
-            "relativePath": "./image-2026-08-14-142453.png",
+            "relativePath": "../../../image-2026-08-14-142453.png",
             "sourceFilename": "image-2026-08-14-142453.png",
             "mediaType": "image/png",
             "width": 843,
@@ -485,9 +578,11 @@
           }
         ],
         "location": {
-          "type": "inbox"
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
         },
-        "relativePath": "First time install note for Kuskus (Actual dogfood).md",
+        "relativePath": ".kuskus/trash/e188179a-95b1-42c5-bebe-a5ca35a887df/First time install note for Kuskus (Actual dogfood).md",
         "referencedAttachment": false
       },
       {
@@ -512,9 +607,9 @@
         "id": "22ad198c-6872-4272-b82e-9b1b11a24049",
         "type": "note",
         "title": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes",
-        "body": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes.\nReproduced on my own database (3,040 notes) — the FPS meter drops to \\~20 while dragging the scrollbar.\n\n***\n\n## Profile first\n\n* [Analyze runtime performance | Chrome DevTools](https://developer.chrome.com/docs/devtools/performance/)\n\nRecorded a 4-second scroll:\n\n```\nScripting   2,140 ms\nRendering     680 ms\nPainting      210 ms\nIdle           95 ms\n```\n\nSo it's scripting-bound, not paint-bound. 🤔\n\n## ✅ Every row re-renders on scroll\n\n`NoteListItem` isn't memoized, so a scroll-position change re-renders all 3,040 of them.\n\n```tsx\nexport const NoteListItem = memo(function NoteListItem({ note, active }: Props) {\n  // ...\n})\n```\n\n* [`memo` – React](https://react.dev/reference/react/memo)\n\nScripting drops to 380 ms. Good enough to ship, but the whole list is still mounted.\n\n## 🤔 Windowing the list\n\n* [react-window](https://github.com/bvaughn/react-window)\n\nRendering $n$ rows costs roughly $c \\cdot n$, and windowing replaces $n$ with the $v$ rows\nactually on screen. At $n = 3040$ and $v = 24$:\n\n$$\n\\frac{n}{v} \\approx 127\n$$\n\n...two orders of magnitude fewer mounted rows. Blocked on the sticky pinned-notes header, which\nassumes every row is in the DOM.\n\n## Next\n\n* [x] Memoize `NoteListItem`\n* [x] Verify against a 10k-note database\n* [ ] Windowed list behind a config flag ✅ 2026-08-13\n* [ ] Re-test on the iPad app ✅ 2026-08-13\n",
+        "body": "---\n{}\n---\nScrolling the note list stutters badly once a notebook holds more than a few thousand notes.\nReproduced on my own database (3,040 notes) — the FPS meter drops to \\~20 while dragging the scrollbar.\n\n***\n\n## Profile first\n\n* [Analyze runtime performance | Chrome DevTools](https://developer.chrome.com/docs/devtools/performance/)\n\nRecorded a 4-second scroll:\n\n```\nScripting   2,140 ms\nRendering     680 ms\nPainting      210 ms\nIdle           95 ms\n```\n\nSo it's scripting-bound, not paint-bound. 🤔\n\n## ✅ Every row re-renders on scroll\n\n`NoteListItem` isn't memoized, so a scroll-position change re-renders all 3,040 of them.\n\n```tsx\nexport const NoteListItem = memo(function NoteListItem({ note, active }: Props) {\n  // ...\n})\n```\n\n* [`memo` – React](https://react.dev/reference/react/memo)\n\nScripting drops to 380 ms. Good enough to ship, but the whole list is still mounted.\n\n## 🤔 Windowing the list\n\n* [react-window](https://github.com/bvaughn/react-window)\n\nRendering $n$ rows costs roughly $c \\cdot n$, and windowing replaces $n$ with the $v$ rows\nactually on screen. At $n = 3040$ and $v = 24$:\n\n$$\n\\frac{n}{v} \\approx 127\n$$\n\n...two orders of magnitude fewer mounted rows. Blocked on the sticky pinned-notes header, which\nassumes every row is in the DOM.\n\n## Next\n\n* [x] Memoize `NoteListItem`\n* [x] Verify against a 10k-note database\n* [ ] Windowed list behind a config flag\n* [ ] Re-test on the iPad app\n",
         "createdAt": "2026-08-12T15:12:24.539Z",
-        "updatedAt": "2026-08-14T00:33:05.175Z",
+        "updatedAt": "2026-08-16T13:24:15.615Z",
         "missingContent": false,
         "attachments": [],
         "location": {
@@ -631,9 +726,9 @@
         "id": "dfec9e06-ad43-47d9-ad5f-bfdc426c53bf",
         "type": "note",
         "title": "The grill-me Skill",
-        "body": "---\ntitle: \"The grill-me Skill\"\nsource: https://www.aihero.dev/skills-grill-me#grillable-and-ungrillable\npublished: 2026-04-28\ndescription: Get interviewed about a loose idea until it holds decisions.\ncreated: 2026-08-06\n---\n## What it does\n\n`grill-me` takes a **loose idea** and interviews you until it has real decisions in it. You do not need a worked-out plan to start — producing one is what the [session](https://www.aihero.dev/ai-coding-dictionary/session) is for. It asks in **rounds**: each round is the whole **frontier** — every question whose prerequisites you have already settled — so you are never asked something that hinges on an answer it hasn't heard yet.\n\nIt is **[stateless](https://www.aihero.dev/ai-coding-dictionary/stateless)**. It writes no files and leaves no workspace behind. The only thing it leaves is a sharper version of the idea, in your own head.\n\n## When to reach for it\n\nYou invoke this by typing `/grill-me` — the [agent](https://www.aihero.dev/ai-coding-dictionary/agent) won't reach for it on its own. Start it in a **fresh conversation**, not on top of a plan you already had an agent write.\n\nReach for it as soon as you have an idea worth taking seriously — a feature, a product direction, a business call, a piece of writing — and long before you have worked out what it involves. Vagueness is not a reason to wait; it is the thing the session eats. If you can already specify the thing precisely, you don't need to grill it.\n\nWhich of the three [grilling](https://www.aihero.dev/ai-coding-dictionary/grilling) skills you want depends on what is in front of you:\n\n* **Anything, anywhere** — `grill-me`. It needs no repo and writes no files, and the subject doesn't have to be code.\n* **A codebase to align against** — [grill-with-docs](https://aihero.dev/skills-grill-with-docs). The same interview, but [stateful](https://www.aihero.dev/ai-coding-dictionary/stateful): it reads your code and keeps what it learns in `CONTEXT.md` and ADRs.\n* **Too big for one session** — [wayfinder](https://aihero.dev/skills-wayfinder). It charts the effort as a map and runs grilling sessions inside it.\n\nLeave [plan mode](https://www.aihero.dev/ai-coding-dictionary/agent-mode) off. [Plan mode](https://www.aihero.dev/ai-coding-dictionary/agent-mode) primes the agent to rush toward producing a plan, which is the opposite of staying in inquiry.\n\n## It's a conversation, not an interview\n\nThe skill asks the questions, but **you** own the scope. That is the part people miss, and it separates a session that turns an idea into decisions from one that produces confident nonsense.\n\nThe failure mode is **passivity** — answering \"agreed, agreed, agreed\" for forty questions and coming out with a plan the agent wrote and you nodded at. It feels productive because it was long. Nothing was actually decided, and the result carries a certainty it hasn't earned.\n\nBeing active means steering. Push back on a question pitched beneath the fidelity you need. Say when the scope is drifting. Answer \"I don't know\" and mean it. This skill is built to aid an engineer, not to replace one: what comes out tracks the quality of your answers, not the number of questions asked.\n\nThe opposite error is real but rarer — staying in the interview so long you never reach code.\n\n## Grillable and ungrillable\n\nSome questions can be answered by talking. Others can't, and no amount of grilling will get you there.\n\n\"One long form or three pages?\" and \"how should this interaction feel?\" are **ungrillable** — they need something to react to. When you hit one, stop grilling. Build the throwaway version with [prototype](https://aihero.dev/skills-prototype), look at it, then come back and answer in one line.\n\nTalking your way through an ungrillable question is where sessions balloon. The agent keeps rephrasing, you keep guessing, and the scope grows to fill the uncertainty.\n\n## It's working if\n\n* You disagree with something. A session with no pushback from you is a session you didn't need.\n* Questions arrive in a few rounds rather than one long drip, and later rounds clearly build on what you said earlier.\n* You end up somewhere you didn't expect, because a question surfaced a decision you had been making implicitly.\n* At the end you could defend each choice to someone who wasn't there.\n\n## Common questions\n\n**How many questions should I expect, and how do I know when it ends?** Count rounds, not questions. Forty-six questions across four rounds is an ordinary session. It ends when the frontier is empty — every branch visited, nothing left silently assumed.\n\n**It asked me two hundred questions. What went wrong?** Usually the scope was too large. Ask the agent to break the work into smaller pieces first, then grill each one. Very long sessions also drift into the **[dumb zone](https://www.aihero.dev/ai-coding-dictionary/smart-zone)**, where the [context window](https://www.aihero.dev/ai-coding-dictionary/context-window) is full enough that the questions get worse.\n\n**Can I go back to one question at a time?** Yes. Add this to your global `CLAUDE.md`:\n\n```txt\nWhen grilling, ask one question at a time.\n```\n\n**What if I genuinely don't know the answer?** Say so. \"I don't know\" is a real answer, and a question you can't answer is usually a sign to prototype rather than to guess.\n\n**Do I start a fresh session before writing the spec?** No. The value of the session is the [context](https://www.aihero.dev/ai-coding-dictionary/context) you just built. Hand the same conversation straight to [to-spec](https://aihero.dev/skills-to-spec).\n\n**Does the model matter?** More than for most skills. Grilling leans on the [model](https://www.aihero.dev/ai-coding-dictionary/model) 's own sense of how systems break, so give it your best one. Implementation mostly follows context and tolerates a cheaper model.\n\n## Where it fits\n\n`grill-me` is a **standalone you can run anywhere, on anything**. Being [stateless](https://www.aihero.dev/ai-coding-dictionary/stateless) is what makes it portable: no repo, no workspace, no setup, and no assumption that the idea is even about software. People point it at business decisions, at writing, at what to do next — anything that won't sit still in their head.\n\nThat portability is the whole difference from [grill-with-docs](https://aihero.dev/skills-grill-with-docs), which runs the same interview but reads a codebase to align against and records what it learns as `CONTEXT.md` and ADRs. Both sit on the [grilling](https://aihero.dev/skills-grilling) primitive; `grill-me` is the user-invoked front door that carries nothing with it.\n\nIf what you grilled does turn out to be software, you can hand the same conversation to [to-spec](https://aihero.dev/skills-to-spec) and carry on into the build flow — an option, not the point of the skill. When you're unsure which flow fits, [ask-matt](https://aihero.dev/skills-ask-matt) routes you.\n",
+        "body": "---\ntitle: \"The grill-me Skill\"\nsource: https://www.aihero.dev/skills-grill-me#grillable-and-ungrillable\ndescription: Get interviewed about a loose idea until it holds decisions.\ncreated: 2026-08-06\n---\n## What it does\n\n`grill-me` takes a **loose idea** and interviews you until it has real decisions in it. You do not need a worked-out plan to start — producing one is what the [session](https://www.aihero.dev/ai-coding-dictionary/session) is for. It asks in **rounds**: each round is the whole **frontier** — every question whose prerequisites you have already settled — so you are never asked something that hinges on an answer it hasn't heard yet.\n\nIt is **[stateless](https://www.aihero.dev/ai-coding-dictionary/stateless)**. It writes no files and leaves no workspace behind. The only thing it leaves is a sharper version of the idea, in your own head.\n\n## When to reach for it\n\nYou invoke this by typing `/grill-me` — the [agent](https://www.aihero.dev/ai-coding-dictionary/agent) won't reach for it on its own. Start it in a **fresh conversation**, not on top of a plan you already had an agent write.\n\nReach for it as soon as you have an idea worth taking seriously — a feature, a product direction, a business call, a piece of writing — and long before you have worked out what it involves. Vagueness is not a reason to wait; it is the thing the session eats. If you can already specify the thing precisely, you don't need to grill it.\n\nWhich of the three [grilling](https://www.aihero.dev/ai-coding-dictionary/grilling) skills you want depends on what is in front of you:\n\n* **Anything, anywhere** — `grill-me`. It needs no repo and writes no files, and the subject doesn't have to be code.\n* **A codebase to align against** — [grill-with-docs](https://aihero.dev/skills-grill-with-docs). The same interview, but [stateful](https://www.aihero.dev/ai-coding-dictionary/stateful): it reads your code and keeps what it learns in `CONTEXT.md` and ADRs.\n* **Too big for one session** — [wayfinder](https://aihero.dev/skills-wayfinder). It charts the effort as a map and runs grilling sessions inside it.\n\nLeave [plan mode](https://www.aihero.dev/ai-coding-dictionary/agent-mode) off. [Plan mode](https://www.aihero.dev/ai-coding-dictionary/agent-mode) primes the agent to rush toward producing a plan, which is the opposite of staying in inquiry.\n\n## It's a conversation, not an interview\n\nThe skill asks the questions, but **you** own the scope. That is the part people miss, and it separates a session that turns an idea into decisions from one that produces confident nonsense.\n\nThe failure mode is **passivity** — answering \"agreed, agreed, agreed\" for forty questions and coming out with a plan the agent wrote and you nodded at. It feels productive because it was long. Nothing was actually decided, and the result carries a certainty it hasn't earned.\n\nBeing active means steering. Push back on a question pitched beneath the fidelity you need. Say when the scope is drifting. Answer \"I don't know\" and mean it. This skill is built to aid an engineer, not to replace one: what comes out tracks the quality of your answers, not the number of questions asked.\n\nThe opposite error is real but rarer — staying in the interview so long you never reach code.\n\n## Grillable and ungrillable\n\nSome questions can be answered by talking. Others can't, and no amount of grilling will get you there.\n\n\"One long form or three pages?\" and \"how should this interaction feel?\" are **ungrillable** — they need something to react to. When you hit one, stop grilling. Build the throwaway version with [prototype](https://aihero.dev/skills-prototype), look at it, then come back and answer in one line.\n\nTalking your way through an ungrillable question is where sessions balloon. The agent keeps rephrasing, you keep guessing, and the scope grows to fill the uncertainty.\n\n## It's working if\n\n* You disagree with something. A session with no pushback from you is a session you didn't need.\n* Questions arrive in a few rounds rather than one long drip, and later rounds clearly build on what you said earlier.\n* You end up somewhere you didn't expect, because a question surfaced a decision you had been making implicitly.\n* At the end you could defend each choice to someone who wasn't there.\n\n## Common questions\n\n**How many questions should I expect, and how do I know when it ends?** Count rounds, not questions. Forty-six questions across four rounds is an ordinary session. It ends when the frontier is empty — every branch visited, nothing left silently assumed.\n\n**It asked me two hundred questions. What went wrong?** Usually the scope was too large. Ask the agent to break the work into smaller pieces first, then grill each one. Very long sessions also drift into the **[dumb zone](https://www.aihero.dev/ai-coding-dictionary/smart-zone)**, where the [context window](https://www.aihero.dev/ai-coding-dictionary/context-window) is full enough that the questions get worse.\n\n**Can I go back to one question at a time?** Yes. Add this to your global `CLAUDE.md`:\n\n```txt\nWhen grilling, ask one question at a time.\n```\n\n**What if I genuinely don't know the answer?** Say so. \"I don't know\" is a real answer, and a question you can't answer is usually a sign to prototype rather than to guess.\n\n**Do I start a fresh session before writing the spec?** No. The value of the session is the [context](https://www.aihero.dev/ai-coding-dictionary/context) you just built. Hand the same conversation straight to [to-spec](https://aihero.dev/skills-to-spec).\n\n**Does the model matter?** More than for most skills. Grilling leans on the [model](https://www.aihero.dev/ai-coding-dictionary/model) 's own sense of how systems break, so give it your best one. Implementation mostly follows context and tolerates a cheaper model.\n\n## Where it fits\n\n`grill-me` is a **standalone you can run anywhere, on anything**. Being [stateless](https://www.aihero.dev/ai-coding-dictionary/stateless) is what makes it portable: no repo, no workspace, no setup, and no assumption that the idea is even about software. People point it at business decisions, at writing, at what to do next — anything that won't sit still in their head.\n\nThat portability is the whole difference from [grill-with-docs](https://aihero.dev/skills-grill-with-docs), which runs the same interview but reads a codebase to align against and records what it learns as `CONTEXT.md` and ADRs. Both sit on the [grilling](https://aihero.dev/skills-grilling) primitive; `grill-me` is the user-invoked front door that carries nothing with it.\n\nIf what you grilled does turn out to be software, you can hand the same conversation to [to-spec](https://aihero.dev/skills-to-spec) and carry on into the build flow — an option, not the point of the skill. When you're unsure which flow fits, [ask-matt](https://aihero.dev/skills-ask-matt) routes you.\n",
         "createdAt": "2026-08-06T13:09:32.223Z",
-        "updatedAt": "2026-08-14T12:13:13.294Z",
+        "updatedAt": "2026-08-16T13:23:34.773Z",
         "missingContent": false,
         "attachments": [],
         "location": {

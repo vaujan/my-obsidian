@@ -1,6 +1,6 @@
 ## 13 August
 
-![](./image-2026-08-14-093453.png)Hello world
+![](../../../image-2026-08-14-093453.png)Hello world
 
 1. Paste-ing an screenshot from clipboard doesn't work
 2. Solarized theme sucks
@@ -29,8 +29,8 @@
 
 ***
 
-![](./image-2026-08-14-142406.png)I dont know what should i integrate right now
+![](../../../image-2026-08-14-142406.png)I dont know what should i integrate right now
 
-![](./image-2026-08-14-142453.png)
+![](../../../image-2026-08-14-142453.png)
 
 * Make on boarding feature way less boring right now

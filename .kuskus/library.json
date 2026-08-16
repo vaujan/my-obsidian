@@ -3,5 +3,8 @@
   "id": "9eed48f3-1aff-4083-afa6-0049e96c9720",
   "name": "fauzan-obsidian",
   "createdAt": "2026-08-09T06:43:01.560Z",
-  "archiveDirectory": "Archive"
+  "archiveDirectory": "Archive",
+  "pinnedItemIds": [
+    "539c8153-199f-40b7-b5a6-c6320a1bc868"
+  ]
 }

@@ -11,15 +11,10 @@
             "id": "2f522052a1a3c51d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note After Install 1.0.0.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Note After Install 1.0.0"
+              "title": "New tab"
             }
           }
         ]
@@ -92,7 +87,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,20 +201,21 @@
   },
   "active": "2f522052a1a3c51d",
   "lastOpenFiles": [
-    "Note After Install 1.0.0.md.27be3abc-7329-4278-9ec7-3113ae5bb739.previous",
-    "Note After Install 1.0.0.md.06a2b1c6-a378-4023-b676-19e070c36e00.previous",
-    "resources/clippings/Product designer and engineer.md",
-    "Note After Install 1.0.0.md.a91c1b68-b826-4033-9d5b-3f633acab21d.previous",
-    "Note After Install 1.0.0.md.0fd8a80c-0457-4d18-8540-6ad7fe8d0e63.previous",
+    "Note After Install 1.0.0.md.e5f036cb-3258-4a19-a68a-f78774b5aaf9.previous",
+    "Note After Install 1.0.0.md.938a2887-262a-446d-bc62-2af2ca4548c0.previous",
+    "Note After Install 1.0.0.md.b2a82798-4162-47e2-bfd7-a567f55f4152.previous",
+    "Note After Install 1.0.0.md.53d14ee8-5a8d-41da-b53c-5ed898a61123.previous",
+    "Note After Install 1.0.0.md.e3291926-23ec-4aeb-b225-42e7896f1e43.previous",
+    "Note After Install 1.0.0.md.16ce4366-4ed6-4b8a-af84-5392daff1efc.previous",
+    "Note After Install 1.0.0.md.d48664f3-1177-4e9c-b014-b8c1245bd33f.previous",
+    "Note After Install 1.0.0.md.012bf331-9164-45a5-bc8f-567464781da2.previous",
+    "Note After Install 1.0.0.md.c729ec54-6ba3-4b6f-8ce3-18a63e41749b.previous",
+    "Note After Install 1.0.0.md.9a958b7e-03cf-4f57-9b27-c395f4d9a226.previous",
+    "Note After Install 1.0.0.md.50ae149e-bade-40f7-9df7-7665898c3752.previous",
+    "open-in-default-app.png",
     "Mermaid Test.md",
-    "Note After Install 1.0.0.md.5962cd6a-c5f9-4903-aa33-95cfe326706f.previous",
-    "Note After Install 1.0.0.md.339235c5-7c11-4423-92a2-b163ef82c420.previous",
-    "Note After Install 1.0.0.md.f534cbdb-f531-46c5-a5a0-ae45f9a3dc30.previous",
-    "Note After Install 1.0.0.md.b1bd8cba-5319-4d27-95db-6c0011b33b69.previous",
-    "Note After Install 1.0.0.md.754b702d-395f-4b84-9e50-97a9b37bd959.previous",
-    "Note After Install 1.0.0.md.75da605e-0a66-4bd2-bdae-5a6e00268201.previous",
-    "Note After Install 1.0.0.md.1c70b3ce-3836-4d2f-9340-c965c86db8ea.previous",
     "Note After Install 1.0.0.md",
+    "resources/clippings/Product designer and engineer.md",
     "First time install note for Kuskus (Actual dogfood).md",
     "image-2026-08-15-144635.png",
     "image-2026-08-15-145253.png",
@@ -252,7 +249,6 @@
     "drafts/maps/Build.canvas",
     "public/Pasted image 20260728220049.png",
     "Pasted image 20260728220049.png",
-    "public/Pasted image 20260722194328.png",
     "drafts/maps/Meditation.canvas",
     "Untitled.canvas"
   ]

@@ -1,28 +1,28 @@
 {
   "schemaVersion": 2,
   "id": "539c8153-199f-40b7-b5a6-c6320a1bc868",
-  "relativePath": "Note After Install 1.0.0.md",
-  "fingerprint": "de7a0fdc38844aa66a7cc2b0a9cf649cc90eeee12d23b901fafed66449d901c1",
-  "fileIdentity": "3121943230:17451448556455280",
-  "fileSize": 5395,
-  "modifiedAtMs": 1786891467800.9414,
+  "relativePath": "Note After Install 0.0.2.md",
+  "fingerprint": "0c3a43bdabc9bc4a96fd63fb8dd4b3ad57dfd5ae8145972a0e1c715b1eff2f72",
+  "fileIdentity": "3121943230:53198770598465820",
+  "fileSize": 7250,
+  "modifiedAtMs": 1786965879667.9934,
   "recovery": {
-    "lastSeenAt": "2026-08-16T14:44:27.886Z",
+    "lastSeenAt": "2026-08-17T11:24:40.022Z",
     "missingSince": null
   },
   "metadata": {
     "schemaVersion": 2,
     "id": "539c8153-199f-40b7-b5a6-c6320a1bc868",
     "type": "note",
-    "title": "Note After Install 1.0.0",
+    "title": "Note After Install 0.0.2",
     "createdAt": "2026-08-15T05:06:32.510Z",
-    "updatedAt": "2026-08-16T14:44:27.801Z",
+    "updatedAt": "2026-08-17T11:24:39.668Z",
     "sourceUrl": null,
     "sourceFilename": null,
-    "contentFilename": "Note After Install 1.0.0.md",
+    "contentFilename": "Note After Install 0.0.2.md",
     "note": "",
     "originalCollectionId": null,
-    "relativePath": "Note After Install 1.0.0.md",
+    "relativePath": "Note After Install 0.0.2.md",
     "referencedAttachment": false,
     "titleSource": "custom",
     "attachments": [
@@ -34,15 +34,6 @@
         "mediaType": "image/png",
         "width": 1489,
         "height": 1020
-      },
-      {
-        "id": "10465260-ab69-40b0-a090-7347f57c4349",
-        "filename": "image-2026-08-15-145253.png",
-        "relativePath": "./image-2026-08-15-145253.png",
-        "sourceFilename": "image-2026-08-15-145253.png",
-        "mediaType": "image/png",
-        "width": 1266,
-        "height": 914
       },
       {
         "id": "e81fbe89-bd08-473c-939f-469bcd6eddab",

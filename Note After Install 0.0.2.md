@@ -1,14 +1,16 @@
-## **Fix** and **Confirm** these issues
+# 13 August
 
-* **Confirm/Check:** We should confirm the existing implementation about the image embedding feature. We should check how image is embedded and how it looks like in the Markdown source
+* [ ] **Confirm/Check:** We should confirm the existing implementation about the image embedding feature. We should check how image is embedded and how it looks like in the Markdown source
 
-* **Confirm/Check:** Scrolling through the main item visual rails is 'kind of' heavy. Is it normal because each note item is rendering 'markdown'? It happens in 100 notes, not after 1000
+* [x] **Confirm/Check:** Scrolling through the main item visual rails is 'kind of' heavy. Is it normal because each note item is rendering 'markdown'? It happens in 100 notes, not after 1000
 
-* Writing down markdown doesn't feel any different from this app to other writing app (Obsidian, Evernote)? 95% of the markdown writing part is basically functioning very well
+* [ ] Writing down markdown doesn't feel any different from this app to other writing app (Obsidian, Evernote)? 95% of the markdown writing part is basically functioning very well
 
 ***
 
-* [ ] Integrate a performance measurement to understand how performant the current implementation is 
+# 14 August
+
+* [ ] Integrate a performance measurement to understand how performant the current implementation is
 
 - [x] Right-clicking in our index item doesn't open the context menu. Right-clicking item in visual mode works and opens the context menu (but not in index mode)
 - [x] Our checkbox is placement is has a bit offset to the top. Maybe shift it to the bottom by 1px
@@ -25,7 +27,7 @@
 - [x] Starting app speed is really good. Also, what happen if we open more than one App window? I tried that, but nothing happened. But what ***should*** happen
 - [ ] **Confirm/Check:** In 'All Items' menu how are the items are loaded? The items are very resource intensive by rendering markdowns for each notes. What is the best way to load them?
 
-* Also, is each of these note are rendered all the way through? For instance of the document can show thousands of words of many different heavy elements like code block, images and links. Are these rendered also even if the preview is very small and shows only the small part of the early part of the document? 
+* Also, is each of these note are rendered all the way through? For instance of the document can show thousands of lines of many different heavy elements like code block, images and links. Are these fully rendered also? Even if the preview is very small and shows only the early small part of the document (that is visible to the rail preview card)? 
 
 - Confirm/Check: Is 'blurring' features performant? For instance blurring the background in the dialog
 - Why was my `%APPDATA%` has 3-4 GB in size? 
@@ -37,9 +39,7 @@
 
 * [x] There is some flickering in the code block that is rendered in the item rails. It flicker for every keystroke or mouse clicks. The code block flicker from empty code block, then the content appear for every event keyboard or mouse. We haven't confirmed it this only happens to code block or not
 
-## Features For Later Improvement
-
-* ![Hello world](./image-2026-08-15-145253.png)
+# 15 August
 
 * [x] When the active cursor is at the bottom of the page when we continue write the document further than the height of the pane. It is very 'packed'  and is at the bottom of our screen need more space/room 
 
@@ -56,3 +56,19 @@
 * [x] Terrible placement for the callout ("Unable to Complete Action. These items are already in Trash"). This should be in a Sonner 
 
 - [x] Multi select in item rails is inaccessible via `shift + click`
+
+# 17 August
+
+## Note After Installing 0.0.2
+
+* [ ] **Fix:** Sidebar collapse shortcut doesn't work properly when detailed pane is opened
+* [ ] **Fix:** Theme for better contrast and a11y. Also for the markdown render theme
+  * Code block background; checkbox background and border are very hard to visually distinct 
+* [ ] **Polish**: Markdown render on the split node has a small-delay. Not to a point where it can be a constraint for the user, but just doesn't show attention to detail. It should be instantly rendered for every keystroke (like the original Codemirror implementation)
+* [ ] **Polish**:  Markdown source theme is not very good, there should be a 'syntax highlighting' and is
+* [ ] **Fix:** Checkbox clicking responsivity is different in live mode and read mode. Read mode takes a little bit delay. Live mode is instant. 
+  * The instant responsivity also apply to `markdown source` and `split mode`
+* [ ] **Confirm**: How is pressing tab in writing down notes should behave? The current behaviour is the it shifting focus elements next to it (and for `shift + tab`, it changes to element previous to it). I believe this interaction is flawed and shouldn't be the 'right' behaviour
+* [ ] **Polish:** What is the background that we are using in when note is opened in a new tab? Our current default background for zen mode should be this one (the one when we opened a note in separate tab)
+* [ ] **Confirm:** Current the note in the rails are rendered item normal format (just regular text format, not markdown like previous implementation). Q: Why? How expensive it is to our performance if we bring back the markdown render? Also is it already 'optimized' by not rendering the full contents (and just render the earlier part of the document that is visible in the note card)? 
+* [ ] **Confirm:** Is it possible to test a mac build app in our current device (windows)?

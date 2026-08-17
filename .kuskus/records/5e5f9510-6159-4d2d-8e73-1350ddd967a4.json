@@ -2,12 +2,12 @@
   "schemaVersion": 2,
   "id": "5e5f9510-6159-4d2d-8e73-1350ddd967a4",
   "relativePath": "resources/clippings/Product designer and engineer.md",
-  "fingerprint": "99d67b2d9ff214deb18bb364cfb4583edce4c6499f21ff4bce543f7fee647cef",
-  "fileIdentity": "3121943230:18295873486363784",
-  "fileSize": 1933,
-  "modifiedAtMs": 1786831224202.3955,
+  "fingerprint": "6e02d94a813d28f55d1c0e2b9fa75232e57f359e4243764d17bc181d8594f9be",
+  "fileIdentity": "3121943230:36310271995685140",
+  "fileSize": 1935,
+  "modifiedAtMs": 1786955345797.6797,
   "recovery": {
-    "lastSeenAt": "2026-08-15T22:00:24.265Z",
+    "lastSeenAt": "2026-08-17T08:29:06.124Z",
     "missingSince": null
   },
   "metadata": {
@@ -16,7 +16,7 @@
     "type": "note",
     "title": "Product designer and engineer",
     "createdAt": "2026-08-15T13:03:22.481Z",
-    "updatedAt": "2026-08-15T22:00:24.202Z",
+    "updatedAt": "2026-08-17T08:29:05.798Z",
     "sourceUrl": null,
     "sourceFilename": null,
     "contentFilename": "Product designer and engineer.md",

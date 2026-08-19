@@ -25,7 +25,7 @@ Co-author • Idea & vision • Product design • Product Hunt laun
 * [OKLCH Color BlenderCodePen demo](https://codepen.io/romanshamin/full/wvypQgB)
 * [Color NameFigma Community](https://www.figma.com/community/plugin/880101729425135325/color-name)
 
-## Public talks
+## Public Talks
 
 * [Mastering dynamic UI theming for designersLayers, Portugal](https://youtu.be/vpQtaTthaTA?si=WtKrJeeivTaFxIek)
 * [Mastering dynamic UI theming for designersBites and Bytes, Portugal](https://evilmartians.com/events/mastering-dynamic-ui-theming-for-designers-bites-and-bytes-lisbon)

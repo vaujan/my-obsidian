@@ -2,12 +2,12 @@
   "schemaVersion": 2,
   "id": "e23c32b7-d59f-4ff6-8f9a-8c630d1af9b5",
   "relativePath": "resources/clippings/Checklist Design.md",
-  "fingerprint": "a68619f058ce56c52bbc4cd3bf85ef0e4dccae72d5fd519c24e4b868fbc1103d",
-  "fileIdentity": "3121943230:14355223812318902",
-  "fileSize": 1037,
-  "modifiedAtMs": 1786793165300.9092,
+  "fingerprint": "49f1c0b56b96425f38232ff3913a530740ec3654af198b72ca24154aca402f07",
+  "fileIdentity": "3121943230:16888498602714806",
+  "fileSize": 1038,
+  "modifiedAtMs": 1787070116733.3828,
   "recovery": {
-    "lastSeenAt": "2026-08-15T11:26:05.353Z",
+    "lastSeenAt": "2026-08-18T16:21:57.081Z",
     "missingSince": null
   },
   "metadata": {
@@ -16,7 +16,7 @@
     "type": "note",
     "title": "Checklist Design",
     "createdAt": "2026-08-08T09:45:35.312Z",
-    "updatedAt": "2026-08-15T11:26:05.301Z",
+    "updatedAt": "2026-08-18T16:21:56.733Z",
     "sourceUrl": null,
     "sourceFilename": null,
     "contentFilename": "Checklist Design.md",

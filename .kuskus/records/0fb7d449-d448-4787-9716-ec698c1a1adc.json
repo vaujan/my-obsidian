@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "0fb7d449-d448-4787-9716-ec698c1a1adc",
+  "relativePath": "Note for settings modal.md",
+  "fingerprint": "bc0149acc626dc90dff89f751ad91ab0a5a06aeaee8d31fb8a8ca9edc7864ce5",
+  "fileIdentity": "3121943230:23080948090322680",
+  "fileSize": 127,
+  "modifiedAtMs": 1787107765622.0034,
+  "recovery": {
+    "lastSeenAt": "2026-08-19T02:49:25.985Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "0fb7d449-d448-4787-9716-ec698c1a1adc",
+    "type": "note",
+    "title": "Note for settings modal",
+    "createdAt": "2026-08-17T12:20:16.439Z",
+    "updatedAt": "2026-08-19T02:49:25.622Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "Note for settings modal.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "Note for settings modal.md",
+    "referencedAttachment": false
+  }
+}

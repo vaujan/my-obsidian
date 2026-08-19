@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "af09e843-6be2-42c6-93eb-eb96c6525938",
+  "relativePath": "resources/clippings/One place for your ideas, references, and inspiration.md",
+  "fingerprint": "28fcb7b075118df1076c634ecee1b0ee8dd7d77e1a9d836ae86d69e814a03c03",
+  "fileIdentity": "3121943230:16607023626083532",
+  "fileSize": 2682,
+  "modifiedAtMs": 1786977217879.9634,
+  "recovery": {
+    "lastSeenAt": "2026-08-17T17:32:24.739Z",
+    "missingSince": null
+  },
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "af09e843-6be2-42c6-93eb-eb96c6525938",
+    "type": "note",
+    "title": "One place for your ideas, references, and inspiration",
+    "createdAt": "2026-08-17T14:33:37.861Z",
+    "updatedAt": "2026-08-17T14:33:37.880Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": "resources/clippings/One place for your ideas, references, and inspiration.md",
+    "referencedAttachment": false
+  }
+}

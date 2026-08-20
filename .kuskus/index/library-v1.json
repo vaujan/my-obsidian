@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "libraryId": "9eed48f3-1aff-4083-afa6-0049e96c9720",
-  "writtenAt": "2026-08-19T03:20:25.963Z",
+  "writtenAt": "2026-08-20T06:02:31.171Z",
   "library": {
     "schemaVersion": 2,
     "id": "9eed48f3-1aff-4083-afa6-0049e96c9720",
@@ -28,12 +28,13 @@
         "height": 541,
         "note": "",
         "originalCollectionId": null,
-        "relativePath": "image-2026-08-18-214948.png",
+        "relativePath": "dev/mock/image-2026-08-18-214948.png",
         "referencedAttachment": true,
         "attachmentOrigin": "note-capture",
         "missingContent": false,
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36"
         }
       },
       {
@@ -58,15 +59,17 @@
         "id": "0fb7d449-d448-4787-9716-ec698c1a1adc",
         "type": "note",
         "title": "Note for settings modal",
-        "body": "## Note for settings modal \n\n1. Font switcher: for interface or mono\n2. Theme switcher: color theme, or flavors\n\nHell oworld\n\n",
+        "body": "## Note for settings modal \n\n1. Font switcher: for interface or mono\n2. Theme switcher: color theme, or flavors\n",
         "createdAt": "2026-08-17T12:20:16.439Z",
-        "updatedAt": "2026-08-19T02:49:25.622Z",
+        "updatedAt": "2026-08-19T03:39:26.140Z",
         "missingContent": false,
         "attachments": [],
         "location": {
-          "type": "inbox"
+          "type": "trash",
+          "trashedFrom": "collection",
+          "originalCollectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36"
         },
-        "relativePath": "Note for settings modal.md",
+        "relativePath": ".kuskus/trash/0fb7d449-d448-4787-9716-ec698c1a1adc/Note for settings modal.md",
         "referencedAttachment": false
       },
       {
@@ -146,15 +149,16 @@
         "id": "efcba7a8-f259-47fa-9686-0d6ada0c7932",
         "type": "note",
         "title": "Mermaid Test",
-        "body": "---\n\n---\n## Sankey graph \n\n```mermaid\nsankey\n\n%% source,target,value\nElectricity grid,Over generation / exports,104.453\nElectricity grid,Heating and cooling - homes,113.726\nElectricity grid,H2 conversion,27.14\n\n```\n\n## Kanban\n\n```mermaid\n---\nconfig:\n  kanban:\n    ticketBaseUrl: 'https://mermaidchart.atlassian.net/browse/#TICKET#'\n---\nkanban\n  Todo\n    [Create Documentation]\n    docs[Create Blog about the new diagram]\n  [In progress]\n    id6[Create renderer so that it works in all cases. We also add some extra text here for testing purposes. And some more just for the extra flare.]\n  id9[Ready for deploy]\n    id8[Design grammar]@{ assigned: 'knsv' }\n  id10[Ready for test]\n    id4[Create parsing tests]@{ ticket: MC-2038, assigned: 'K.Sveidqvist', priority: 'High' }\n    id66[last item]@{ priority: 'Very Low', assigned: 'knsv' }\n  id11[Done]\n    id5[define getData]\n    id2[Title of diagram is more than 100 chars when user duplicates diagram with 100 char]@{ ticket: MC-2036, priority: 'Very High'}\n    id3[Update DB function]@{ ticket: MC-2037, assigned: knsv, priority: 'High' }\n\n  id12[Can't reproduce]\n    id3[Weird flickering in Firefox]\n\n```\n\n## Architecture\n\n```mermaid\narchitecture-beta\n    group api(cloud)[API]\n\n    service db(database)[Database] in api\n    service disk1(disk)[Storage] in api\n    service disk2(disk)[Storage] in api\n    service server(server)[Server] in api\n\n    db:L -- R:server\n    disk1:T -- B:server\n    disk2:T -- B:db\n\n```\n\n## Venn \n\n```mermaid\nvenn-beta\n  title \"Creating a Desktop App\"\n  set Frontend\n  set Backend\n  union Frontend,Backend[\"APIs\"]\n\n  set Interface\n  set Experience\n  union Interface,Experience[\"User\"]\n```\n",
+        "body": "---\ntitle: \"Mermaid test for markdown rendering\"\ntags: - hello_world\n---\n## Sankey graph \n\n```mermaid\nsankey\n\n%% source,target,value\nElectricity grid,Over generation / exports,104.453\nElectricity grid,Heating and cooling - homes,113.726\nElectricity grid,H2 conversion,27.14\n\n```\n\n## Kanban\n\n```mermaid\n---\nconfig:\n  kanban:\n    ticketBaseUrl: 'https://mermaidchart.atlassian.net/browse/#TICKET#'\n---\nkanban\n  Todo\n    [Create Documentation]\n    docs[Create Blog about the new diagram]\n  [In progress]\n    id6[Create renderer so that it works in all cases. We also add some extra text here for testing purposes. And some more just for the extra flare.]\n  id9[Ready for deploy]\n    id8[Design grammar]@{ assigned: 'knsv' }\n  id10[Ready for test]\n    id4[Create parsing tests]@{ ticket: MC-2038, assigned: 'K.Sveidqvist', priority: 'High' }\n    id66[last item]@{ priority: 'Very Low', assigned: 'knsv' }\n  id11[Done]\n    id5[define getData]\n    id2[Title of diagram is more than 100 chars when user duplicates diagram with 100 char]@{ ticket: MC-2036, priority: 'Very High'}\n    id3[Update DB function]@{ ticket: MC-2037, assigned: knsv, priority: 'High' }\n\n  id12[Can't reproduce]\n    id3[Weird flickering in Firefox]\n\n```\n\n## Architecture\n\n```mermaid\narchitecture-beta\n    group api(cloud)[API]\n    service db(database)[Database] in api\n    service disk1(disk)[Storage] in api\n    service disk2(disk)[Storage] in api\n    service server(server)[Server] in api\n\n    db:L -- R:server\n    disk1:T -- B:server\n    disk2:T -- B:db\n\n```\n\n## Venn \n\n```mermaid\nvenn-beta\n  title \"Creating a Desktop App\"\n  set Frontend\n  set Backend\n  union Frontend,Backend[\"APIs\"]\n\n  set Interface\n  set Experience\n  union Interface,Experience[\"User\"]\n```\n",
         "createdAt": "2026-08-15T14:48:33.029Z",
-        "updatedAt": "2026-08-15T14:48:55.798Z",
+        "updatedAt": "2026-08-19T11:50:42.550Z",
         "missingContent": false,
         "attachments": [],
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36"
         },
-        "relativePath": "Mermaid Test.md",
+        "relativePath": "dev/mock/Mermaid Test.md",
         "referencedAttachment": false
       },
       {
@@ -209,11 +213,12 @@
         "height": 898,
         "note": "",
         "originalCollectionId": null,
-        "relativePath": "open-in-default-app.png",
+        "relativePath": "public/design references/open-in-default-app.png",
         "referencedAttachment": false,
         "missingContent": false,
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "21d1ddef-d6ed-446c-8b15-886c9398791d"
         },
         "attachmentOrigin": null
       },
@@ -232,12 +237,13 @@
         "height": 551,
         "note": "",
         "originalCollectionId": null,
-        "relativePath": "image-2026-08-15-184107.png",
+        "relativePath": "dev/mock/image-2026-08-15-184107.png",
         "referencedAttachment": true,
         "attachmentOrigin": "note-capture",
         "missingContent": false,
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36"
         }
       },
       {
@@ -300,11 +306,12 @@
         "height": 906,
         "note": "",
         "originalCollectionId": null,
-        "relativePath": "inkdrop-mac.png",
+        "relativePath": "public/design references/inkdrop-mac.png",
         "referencedAttachment": false,
         "missingContent": false,
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "21d1ddef-d6ed-446c-8b15-886c9398791d"
         },
         "attachmentOrigin": null
       },
@@ -323,11 +330,12 @@
         "height": 880,
         "note": "",
         "originalCollectionId": null,
-        "relativePath": "inkdrop-splitview.png",
+        "relativePath": "public/design references/inkdrop-splitview.png",
         "referencedAttachment": false,
         "missingContent": false,
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "21d1ddef-d6ed-446c-8b15-886c9398791d"
         },
         "attachmentOrigin": null
       },
@@ -346,12 +354,13 @@
         "height": 1020,
         "note": "",
         "originalCollectionId": null,
-        "relativePath": "image-2026-08-15-160118.png",
+        "relativePath": "dev/mock/image-2026-08-15-160118.png",
         "referencedAttachment": true,
         "attachmentOrigin": "note-capture",
         "missingContent": false,
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36"
         }
       },
       {
@@ -393,12 +402,13 @@
         "height": 914,
         "note": "",
         "originalCollectionId": null,
-        "relativePath": "image-2026-08-15-145253.png",
+        "relativePath": "public/design references/image-2026-08-15-145253.png",
         "referencedAttachment": false,
         "attachmentOrigin": "note-capture",
         "missingContent": false,
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "21d1ddef-d6ed-446c-8b15-886c9398791d"
         }
       },
       {
@@ -416,12 +426,13 @@
         "height": 1020,
         "note": "",
         "originalCollectionId": null,
-        "relativePath": "image-2026-08-15-144635.png",
+        "relativePath": "dev/mock/image-2026-08-15-144635.png",
         "referencedAttachment": true,
         "attachmentOrigin": "note-capture",
         "missingContent": false,
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36"
         }
       },
       {
@@ -429,9 +440,9 @@
         "id": "539c8153-199f-40b7-b5a6-c6320a1bc868",
         "type": "note",
         "title": "Note After Install 0.0.2",
-        "body": "# 13 August\n\n* [ ] **Confirm/Check:** We should confirm the existing implementation about the image embedding feature. We should check how image is embedded and how it looks like in the Markdown source\n\n- [x] **Confirm/Check:** Scrolling through the main item visual rails is 'kind of' heavy. Is it normal because each note item is rendering 'markdown'? It happens in 100 notes, not after 1000\n\n- [x] Writing down markdown doesn't feel any different from this app to other writing app (Obsidian, Evernote)? 95% of the markdown writing part is basically functioning very well\n\n***\n\n# 14 August\n\n* [ ] Integrate a performance measurement to understand how performant the current implementation is\n\n- [x] Right-clicking in our index item doesn't open the context menu. Right-clicking item in visual mode works and opens the context menu (but not in index mode)\n- [x] Our checkbox is placement is has a bit offset to the top. Maybe shift it to the bottom by 1px\n- [x] Cannot access developer tools  via `f12`\n- [x] Zen mode key toggle doesn't works\n\n* ![The selected UI indicator should look like this, it should use the 'active' item state without the left border for indicator](./image-2026-08-15-144635.png)\n\n  Hello world\n\n* [x] Date system should also follow created and updated, not only updated. The index item rail keep showing 'Just now' every time we update or if any changes occur. This doesn't provide a useful information for the user when is the item created (which more important than 'Just now' every time')\n\n- [x] Badge redesign for a11y, add a bit border (the badges are \"Note\", \"Link\", etc.). The badge should also in colours that is complement to our primary colour\n- [x] `Ctrl + F` or find and replace functionality doesn't work in live and read mode. For Read mode, it should only Find (without the replace)\n- [x] When our notes it scrolled away, toggling from live mode to read mode behaves normally. But from read mode to live mode, we immediately scrolled to the beginning line and is prompted to write from the starting point of the document\n- [x] **Confirm/Check:** Is it true if the user will experience lag or slow downs when they open a big repository/vault for the first time? If yes, is it because the app is creating a new cache for the starter? If yes, the user should be informed via toast/Sonner would be good\n- [x] Starting app speed is really good. Also, what happen if we open more than one App window? I tried that, but nothing happened. But what ***should*** happen\n- [x] **Confirm/Check:** In 'All Items' menu how are the items are loaded? The items are very resource intensive by rendering markdowns for each notes. What is the best way to load them?\n\n* Also, is each of these note are rendered all the way through? For instance of the document can show thousands of lines of many different heavy elements like code block, images and links. Are these fully rendered also? Even if the preview is very small and shows only the early small part of the document (that is visible to the rail preview card)? \n\n- Confirm/Check: Is 'blurring' features performant? For instance blurring the background in the dialog\n- Why was my `%APPDATA%` has 3-4 GB in size? \n- Delay in writings. \n- Is toggling between the translucent activity will affect our performance on the same session?\n  * Meaning, if I already have the translucent activated and use the app normally, I will have better performance than if I turn off the translucent but didn't restart the app. \n- For versioning, is it starting on 0.0.1 or 1.0.0? I think is the former choice\n- Link detection can be flawed. For instance copy this to the quick composer `https://native-sdk.dev/` it won't be saved as a link. Instead it added a new note\n\n* [x] There is some flickering in the code block that is rendered in the item rails. It flicker for every keystroke or mouse clicks. The code block flicker from empty code block, then the content appear for every event keyboard or mouse. We haven't confirmed it this only happens to code block or not\n\n# 15 August\n\n* [x] When the active cursor is at the bottom of the page when we continue write the document further than the height of the pane. It is very 'packed'  and is at the bottom of our screen need more space/room \n\n- [ ] What is the recommended settings for performance also for aesthetic? The user should also can picked which one suits their needs the best\n- [x] Please integrate a feature for pin items? The goal of this feature is to provide user a way to put item on a 'watchlist', that they constantly looking up to or providing updates to\n- [x] Renaming title for the focused detailed pane document via `f2`. Currently there is no quick access to rename the title of the document we're writing in. It should renaming should be in inline in our detail pane title header. But we now allow renaming via focusing an instance in our item rails and this is a **very good UX**\n\n![](./image-2026-08-15-160118.png)\n\n* [x] Opening an item navigates us into a detailed view. But the item rails on the left side is not scrolled to the selected item (instead it started from the top)\n\n![700](./image-2026-08-15-184107.png)\n\n* [x] Terrible placement for the callout (\"Unable to Complete Action. These items are already in Trash\"). This should be in a Sonner \n\n- [x] Multi select in item rails is inaccessible via `shift + click`\n\n# 17 August\n\n## Note After Installing 0.0.2\n\n* [ ] **Fix:** Sidebar collapse shortcut doesn't work properly when detailed pane is opened\n* [ ] **Fix:** Theme for better contrast and a11y. Also for the markdown render theme\n  * For instance, code block background; checkbox background and border are very hard to visually distinct \n* [x] **Polish**: Markdown render on the split node has a small-delay. Not to a point where it can be a constraint for the user, but just doesn't show attention to detail. It should be instantly rendered for every keystroke (like the original Codemirror implementation)\n* [x] **Polish:** In read mode, we need a `selection -> Copy` interaction \n* [x] **Polish:** For the text selection, it should be coloured that aligns with our primary theme\n* [x] **Polish**:  Markdown source theme is not very good, there should be a 'syntax highlighting' to improve the writing experiences\n* [x] **Fix:** Checkbox clicking responsivity is different in live mode and read mode. Read mode takes a little bit delay. Live mode is instant. \n  * The instant responsivity also apply to `markdown source` and `split mode`\n* [ ] **Confirm**: How is pressing tab in writing down notes should behave? The current behaviour is the it shifting focus elements next to it (and for `shift + tab`, it changes to element previous to it). I believe this interaction is flawed and shouldn't be the 'right' behaviour\n* [x] **Polish:** What is the background that we are using in when note is opened in a new tab? Our current default background for zen mode should be this one (the one when we opened a note in separate tab)\n* [x] **Confirm:** Current the note in the rails are rendered item normal format (just regular text format, not markdown like previous implementation). Q: Why? How expensive it is to our performance if we bring back the markdown render? Also is it already 'optimized' by not rendering the full contents (and just render the earlier part of the document that is visible in the note card)? \n* [x] **Confirm:** Is it possible to test a mac build app in our current device (windows)?\n* [ ] **Polish:** Text strikethrough and de-contrast for the completed tasks item\n* [ ] **Confirm:** If our current task element is way too scrolled to the bottom, in a long note for instance, toggling the task's checkbox result in shifted scrolled position. This interaction doesn't exist in live mode. \n* [ ] **Confirm:** When we're scrolled in the middle of a long note, toggling `ctrl +e` results in 'layout shift', like a shifted up-and-down as we toggle the note control back-and-forth from read to live (and to read again). The layout shift ONLY occur when we go from read to live, nothing is shifted from live to read. Please check this issue and integrate a fix\n\n***\n\n## 18 August\n\n* [ ] The current checkbox render in item rails is not looking good, the indentation problem and the component that it's using\n\n### Vim Problems\n\n* [ ] The live mode and the source mode vim should be the 'same' in terms of the implementation. \n  * [ ] Try to have as minimum of 'custom implementation' that we built from scratch as possible. Use available solution like ProseMirror vim package\n\n- The text selection doesn't in source mode doesn't look the same as the other modes\n- YAML view in source mode shouldn't be highlighted as much as now (it is currently has bigger text sizes\n- The cursor in source mode is not visible (the insert mode). It is basically black (even if we're in a dark mode which make it almost invisible)\n- The Live mode cursor is not the same, it should use the same colour as the source mode (so it is more visible on top of the active line background)\n- Toggling Ctrl + E from source or split mode should into\n- Hell oworld\n- How the text is selecting in source mode seems weird, it doesn't follow the actual text (the left side margin that is not part of the texts are also selected) ![View error in selecting](./image-2026-08-18-214948.png)\n\n***\n\n## 19 August\n\n* <br />\n",
+        "body": "# 20 August\n\n- Current vim mode status is very good and is positioned in the status bar\n  - Maybe every `:` or `/` event should use a 'new input' that is positioned on the centre-top area of our current writing canvas (inspired by Neovim mode in VSCode and Vim mode in Zed)\n- live mode and read mode has different scroll position.\n  - If we're in a X scroll position in live mode, then we switch to read mode, it moves use to the new scroll position (Y).\n  - And switching back to live mode will our scroll position to X (and switching to read mode will return us back again to Y scroll position)\n- For indented instances in our bullet points, the new line is not indented and is wrapped like a normal text\n  - Also show in the 'syntax highlighting' for our list hierarchy\n    > Q: Is his our current syntax highlighting implementation is a custom or there's a convention from CodeMirror? How customizable is it?\n  - This also occur in our other elements like tasks\n    > Q: is CodeMirror has their own plugin or convention for handling this?\n  - What's the line height? is this handled separately with our current `typeset.css`?\n- There's a case that Vim mode is already activated but changing it to markdown source mode and  the editor isn't recognizing it.\n  - Switching back the Vim mode again in the markdown source, then will trigger the Vim mode to be activated\n- Managing attachments should be in a dropdown-like UI and interaction\n- Findings: restarting the app while in split mode with vim mode activated, is mounted without the Vim activated. It should explicitly be re-toggled for the Vim to work again\n- Improve the settings interface (make it feel better). Add font changes in settings\n\n## Features\n\n- [x] feature implementation: wrapped heading for better note organizations\n\n# 19 August\n\n- When using `/` command to  apply formatting, navigating with up and down arrow doesn't scroll the formatting options\n- In source mode, how is our task and bullet points represented in  `*[ ]` and `*` instead of `- [ ]` and `-`\n- Update the table design, add distinctive column borders and make the outer border for the table rounded\n- Vim mode indicator should not be placed at the header, brainstorm with me on this one. Where conventionally it should be put?\n- Move vim toggling to our settings, it shouldn't be that accessible to toggle from on and off\n\n## For later\n\n- Header toggling\n- Currenlty, live writing mode should be considered as a immature feature since it is not yet ready for production\n  - Code mirror implemenation for markdown writing should be our main functionality. Live mode should be put into a `beta` feature since it is very hard to integrate a 'good enough' user experience\n- Redesign the search input bar for Vim implementation\n- Check how the CodeMirror (source mode) vim design is implemented, and try to match that with our ProseMirror/Milkdown implementation (live mode)\n\n# 13 August\n\n- [ ] **Confirm/Check:** We should confirm the existing implementation about the image embedding feature. We should check how image is embedded and how it looks like in the Markdown source\n- [x] **Confirm/Check:** Scrolling through the main item visual rails is 'kind of' heavy. Is it normal because each note item is rendering 'markdown'? It happens in 100 notes, not after 1000\n- [x] Writing down markdown doesn't feel any different from this app to other writing app (Obsidian, Evernote)? 95% of the markdown writing part is basically functioning very well\n\n# 14 August\n\n- [x] Integrate a performance measurement to understand how performant the current implementation is\n- [x] Right-clicking in our index item doesn't open the context menu. Right-clicking item in visual mode works and opens the context menu (but not in index mode)\n- [x] Our checkbox is placement is has a bit offset to the top. Maybe shift it to the bottom by 1px\n- [x] Cannot access developer tools  via `f12`\n- [x] Zen mode key toggle doesn't works\n- ![The selected UI indicator should look like this, it should use the 'active' item state without the left border for indicator](./image-2026-08-15-144635.png)\n- [x] Date system should also follow created and updated, not only updated. The index item rail keep showing 'Just now' every time we update or if any changes occur. This doesn't provide a useful information for the user when is the item created (which more important than 'Just now' every time')\n\n* [x] Badge redesign for a11y, add a bit border (the badges are \"Note\", \"Link\", etc.). The badge should also in colours that is complement to our primary colour\n* [x] `Ctrl + F` or find and replace functionality doesn't work in live and read mode. For Read mode, it should only Find (without the replace)\n* [x] When our notes it scrolled away, toggling from live mode to read mode behaves normally. But from read mode to live mode, we immediately scrolled to the beginning line and is prompted to write from the starting point of the document\n* [x] **Confirm/Check:** Is it true if the user will experience lag or slow downs when they open a big repository/vault for the first time? If yes, is it because the app is creating a new cache for the starter? If yes, the user should be informed via toast/Sonner would be good\n* [x] Starting app speed is really good. Also, what happen if we open more than one App window? I tried that, but nothing happened. But what ***should*** happen\n* [x] **Confirm/Check:** In 'All Items' menu how are the items are loaded? The items are very resource intensive by rendering markdowns for each notes. What is the best way to load them?\n\n- Also, is each of these note are rendered all the way through? For instance of the document can show thousands of lines of many different heavy elements like code block, images and links. Are these fully rendered also? Even if the preview is very small and shows only the early small part of the document (that is visible to the rail preview card)? \n\n- Confirm/Check: Is 'blurring' features performant? For instance blurring the background in the dialog\n\n- Why was my `%APPDATA%` has 3-4 GB in size? \n\n- Delay in writings. \n\n- Is toggling between the translucent activity will affect our performance on the same session?\n  - Meaning, if I already have the translucent activated and use the app normally, I will have better performance than if I turn off the translucent but didn't restart the app. \n\n- For versioning, is it starting on 0.0.1 or 1.0.0? I think is the former choice\n\n- Link detection can be flawed. For instance copy this to the quick composer `https://native-sdk.dev/` it won't be saved as a link. Instead it added a new note\n\n- [x] There is some flickering in the code block that is rendered in the item rails. It flicker for every keystroke or mouse clicks. The code block flicker from empty code block, then the content appear for every event keyboard or mouse. We haven't confirmed it this only happens to code block or not\n\n# 15 August\n\n- [x] When the active cursor is at the bottom of the page when we continue write the document further than the height of the pane. It is very 'packed'  and is at the bottom of our screen need more space/room \n- [ ] What is the recommended settings for performance also for aesthetic? The user should also can picked which one suits their needs the best\n- [x] Please integrate a feature for pin items? The goal of this feature is to provide user a way to put item on a 'watchlist', that they constantly looking up to or providing updates to\n- [x] Renaming title for the focused detailed pane document via `f2`. Currently there is no quick access to rename the title of the document we're writing in. It should renaming should be in inline in our detail pane title header. But we now allow renaming via focusing an instance in our item rails and this is a **very good UX**\n\n![](./image-2026-08-15-160118.png)\n\n- [x] Opening an item navigates us into a detailed view. But the item rails on the left side is not scrolled to the selected item (instead it started from the top)\n  ![700](./image-2026-08-15-184107.png)\n\n- [x] Terrible placement for the callout (\"Unable to Complete Action. These items are already in Trash\"). This should be in a Sonner \n\n- [x] Multi select in item rails is inaccessible via `shift + click`\n\n# 17 August\n\n## Note After Installing 0.0.2\n\n- [ ] **Fix:** Sidebar collapse shortcut doesn't work properly when detailed pane is opened\n- [x] **Fix:** Theme for better contrast and a11y. Also for the markdown render theme\n  - For instance, code block background; checkbox background and border are very hard to visually distinct \n- [x] **Polish**: Markdown render on the split node has a small-delay. Not to a point where it can be a constraint for the user, but just doesn't show attention to detail. It should be instantly rendered for every keystroke (like the original Codemirror implementation)\n- [x] **Polish:** In read mode, we need a `selection -> Copy` interaction \n- [x] **Polish:** For the text selection, it should be coloured that aligns with our primary theme\n- [x] **Polish**:  Markdown source theme is not very good, there should be a 'syntax highlighting' to improve the writing experiences\n- [x] **Fix:** Checkbox clicking responsivity is different in live mode and read mode. Read mode takes a little bit delay. Live mode is instant. \n  - The instant responsivity also apply to `markdown source` and `split mode`\n- [x] **Confirm**: How is pressing tab in writing down notes should behave? The current behaviour is the it shifting focus elements next to it (and for `shift + tab`, it changes to element previous to it). I believe this interaction is flawed and shouldn't be the 'right' behaviour\n- [x] **Polish:** What is the background that we are using in when note is opened in a new tab? Our current default background for zen mode should be this one (the one when we opened a note in separate tab)\n- [x] **Confirm:** Current the note in the rails are rendered item normal format (just regular text format, not markdown like previous implementation). Q: Why? How expensive it is to our performance if we bring back the markdown render? Also is it already 'optimized' by not rendering the full contents (and just render the earlier part of the document that is visible in the note card)? \n- [x] **Confirm:** Is it possible to test a mac build app in our current device (windows)?\n- [x] **Polish:** Text strikethrough and de-contrast for the completed tasks item\n- [ ] **Confirm:** If our current task element is way too scrolled to the bottom, in a long note for instance, toggling the task's checkbox result in shifted scrolled position. This interaction doesn't exist in live mode. \n- [x] **Confirm:** When we're scrolled in the middle of a long note, toggling `ctrl +e` results in 'layout shift', like a shifted up-and-down as we toggle the note control back-and-forth from read to live (and to read again). The layout shift ONLY occur when we go from read to live, nothing is shifted from live to read. Please check this issue and integrate a fix\n\n# 18 August\n\n- [ ] The current checkbox render in item rails is not looking good, the indentation problem and the component that it's using\n\n## Vim Problems\n\n- The live mode and the source mode vim should be the 'same' in terms of the implementation. \n- Try to have as minimum of 'custom implementation' that we built from scratch as possible. Use available solution like ProseMirror vim package\n- The text selection doesn't in source mode doesn't look the same as the other modes\n- YAML view in source mode shouldn't be highlighted as much as now (it is currently has bigger text sizes\n- The cursor in source mode is not visible (the insert mode). It is basically black (even if we're in a dark mode which make it almost invisible)\n- The Live mode cursor is not the same, it should use the same colour as the source mode (so it is more visible on top of the active line background)\n- Toggling Ctrl + E from source or split mode should into\n- How the text is selecting in source mode seems weird, it doesn't follow the actual text (the left side margin that is not part of the texts are also selected) ![View error in selecting](./image-2026-08-18-214948.png)\n",
         "createdAt": "2026-08-15T05:06:32.510Z",
-        "updatedAt": "2026-08-19T03:18:10.079Z",
+        "updatedAt": "2026-08-20T05:54:05.768Z",
         "missingContent": false,
         "attachments": [
           {
@@ -476,9 +487,10 @@
           }
         ],
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36"
         },
-        "relativePath": "Note After Install 0.0.2.md",
+        "relativePath": "dev/mock/Note After Install 0.0.2.md",
         "referencedAttachment": false
       },
       {
@@ -538,12 +550,13 @@
         "height": 500,
         "note": "",
         "originalCollectionId": null,
-        "relativePath": "image-2026-08-14-142453.png",
+        "relativePath": "public/design references/image-2026-08-14-142453.png",
         "referencedAttachment": false,
         "attachmentOrigin": "note-capture",
         "missingContent": false,
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "21d1ddef-d6ed-446c-8b15-886c9398791d"
         }
       },
       {
@@ -561,12 +574,13 @@
         "height": 975,
         "note": "",
         "originalCollectionId": null,
-        "relativePath": "image-2026-08-14-142406.png",
+        "relativePath": "public/design references/image-2026-08-14-142406.png",
         "referencedAttachment": false,
         "attachmentOrigin": "note-capture",
         "missingContent": false,
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "21d1ddef-d6ed-446c-8b15-886c9398791d"
         }
       },
       {
@@ -584,12 +598,13 @@
         "height": 1012,
         "note": "",
         "originalCollectionId": null,
-        "relativePath": "image-2026-08-14-093453.png",
+        "relativePath": "public/design references/image-2026-08-14-093453.png",
         "referencedAttachment": false,
         "attachmentOrigin": "note-capture",
         "missingContent": false,
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "21d1ddef-d6ed-446c-8b15-886c9398791d"
         }
       },
       {
@@ -597,7 +612,7 @@
         "id": "e188179a-95b1-42c5-bebe-a5ca35a887df",
         "type": "note",
         "title": "First time install note for Kuskus (Actual dogfood)",
-        "body": "## 13 August\n\n![](../../../image-2026-08-14-093453.png)Hello world\n\n1. Paste-ing an screenshot from clipboard doesn't work\n2. Solarized theme sucks\n3. Toggling back-and-forth for from our current app  should also automatically focuses into the editor (there should be a highlighted line and a blinking cursor)\n4. Vim mode can be good, but does it have the implementation in our prosemirror or milkdown?\n\n***\n\n## 14 Agustus 2026\n\n1. Remote image issue\n   1.  I think we should also be able to render remote image\n2. `<br/>` still rendered randomly thorughout our documents \n   1. In read mode to be precise\n3. Different checkbox design in live/edit mode\n4. App is very slow. Optimization is needed but not desperately\n   1. In-app speed is everything, smooth interaction is what we need\n5. Codeblock sometimes are empty (not rendered?) in existing documents\n6. Apply shortcut to our current zen mode\n7. Mermaid render\n8. Item rails date info is updated, not created\n9. Codeblock background for our math (if inline, we dont have to)\n10. Item title renaming sometimes is not lively rendered (the item rails already updated, but the title in our detail pane isn't)\n11. Image interaction? \n12. Sonner design\n\n***\n\n![](../../../image-2026-08-14-142406.png)I dont know what should i integrate right now\n\n![](../../../image-2026-08-14-142453.png)\n\n* Make on boarding feature way less boring right now\n",
+        "body": "## 13 August\n\n![](../../../public/design%20references/image-2026-08-14-093453.png)Hello world\n\n1. Paste-ing an screenshot from clipboard doesn't work\n2. Solarized theme sucks\n3. Toggling back-and-forth for from our current app  should also automatically focuses into the editor (there should be a highlighted line and a blinking cursor)\n4. Vim mode can be good, but does it have the implementation in our prosemirror or milkdown?\n\n***\n\n## 14 Agustus 2026\n\n1. Remote image issue\n   1.  I think we should also be able to render remote image\n2. `<br/>` still rendered randomly thorughout our documents \n   1. In read mode to be precise\n3. Different checkbox design in live/edit mode\n4. App is very slow. Optimization is needed but not desperately\n   1. In-app speed is everything, smooth interaction is what we need\n5. Codeblock sometimes are empty (not rendered?) in existing documents\n6. Apply shortcut to our current zen mode\n7. Mermaid render\n8. Item rails date info is updated, not created\n9. Codeblock background for our math (if inline, we dont have to)\n10. Item title renaming sometimes is not lively rendered (the item rails already updated, but the title in our detail pane isn't)\n11. Image interaction? \n12. Sonner design\n\n***\n\n![](../../../public/design%20references/image-2026-08-14-142406.png)I dont know what should i integrate right now\n\n![](../../../public/design%20references/image-2026-08-14-142453.png)\n\n* Make on boarding feature way less boring right now\n",
         "createdAt": "2026-08-13T13:49:34.353Z",
         "updatedAt": "2026-08-16T13:25:34.077Z",
         "missingContent": false,
@@ -605,7 +620,7 @@
           {
             "id": "99aa1cd8-7d6a-4e20-aab8-1801c7ac5e7c",
             "filename": "image-2026-08-14-093453.png",
-            "relativePath": "../../../image-2026-08-14-093453.png",
+            "relativePath": "../../../public/design references/image-2026-08-14-093453.png",
             "sourceFilename": "image-2026-08-14-093453.png",
             "mediaType": "image/png",
             "width": 1919,
@@ -615,7 +630,7 @@
           {
             "id": "05e6d82f-9fb5-4949-a1b6-832df57933da",
             "filename": "image-2026-08-14-142406.png",
-            "relativePath": "../../../image-2026-08-14-142406.png",
+            "relativePath": "../../../public/design references/image-2026-08-14-142406.png",
             "sourceFilename": "image-2026-08-14-142406.png",
             "mediaType": "image/png",
             "width": 1308,
@@ -625,7 +640,7 @@
           {
             "id": "dcc271a3-a2d7-4350-90d3-2f9ebebb132d",
             "filename": "image-2026-08-14-142453.png",
-            "relativePath": "../../../image-2026-08-14-142453.png",
+            "relativePath": "../../../public/design references/image-2026-08-14-142453.png",
             "sourceFilename": "image-2026-08-14-142453.png",
             "mediaType": "image/png",
             "width": 843,
@@ -714,9 +729,9 @@
         "id": "b03691f7-f05d-409a-a713-7ebe472d3a94",
         "type": "note",
         "title": "BM25 for ranking search results",
-        "body": "# BM25 for ranking search results \n\nReading up on ranking before I touch the search index. Results are currently sorted by\n`updatedAt`, which is fine for a handful of hits and useless past a few hundred.\n\n- [Okapi BM25 - Wikipedia](https://en.wikipedia.org/wiki/Okapi_BM25)\n\n## The score\n\nFor a query $q$ with terms $q_1 \\dots q_n$ against a note $D$:\n\n```math\n\\text{score}(D, q) = \\sum_{i=1}^{n} \\text{IDF}(q_i) \\cdot \\frac{f(q_i, D) \\cdot (k_1 + 1)}{f(q_i, D) + k_1 \\cdot \\left(1 - b + b \\cdot \\frac{|D|}{\\text{avgdl}}\\right)}\n```\n\nwhere $f(q_i, D)$ is the term frequency, $|D|$ the note length in words, and $\\text{avgdl}$ the\naverage note length across the notebook.\n\nThe interesting knob is $b$ — how hard a long note gets penalized. At $b = 0$ length is ignored\nentirely, at $b = 1$ it's fully normalized. Common defaults: $k_1 \\in [1.2, 2.0]$, $b = 0.75$.\n\n## Why it matters here\n\nMy own notes are wildly uneven — a 40-word \"tmux italics not working\" sitting next to a\n4,000-word project log. Plain term frequency ranks the long one higher just because it repeats\nthe word more often, which is exactly what the $\\frac{|D|}{\\text{avgdl}}$ term corrects for.\n\n## Next\n\n- Check what PouchDB's search plugin already does — this might be free\n- $\\text{avgdl}$ has to be maintained incrementally; recomputing it per query means a full scan\n\nKeyword ranking only. The semantic side is a separate question, tracked in\n[Pick a local vector store for semantic search](inkdrop://note/Ew1tGx9Z).\n",
+        "body": "# BM25 for ranking search results\n\nReading up on ranking before I touch the search index. Results are currently sorted by\n`updatedAt`, which is fine for a handful of hits and useless past a few hundred.\n\n- [Okapi BM25 - Wikipedia](https://en.wikipedia.org/wiki/Okapi_BM25)\n\n## The score\n\nFor a query $q$ with terms $q_1 \\dots q_n$ against a note $D$:\n\n```math\n\\text{score}(D, q) = \\sum_{i=1}^{n} \\text{IDF}(q_i) \\cdot \\frac{f(q_i, D) \\cdot (k_1 + 1)}{f(q_i, D) + k_1 \\cdot \\left(1 - b + b \\cdot \\frac{|D|}{\\text{avgdl}}\\right)}\n```\n\nwhere $f(q_i, D)$ is the term frequency, $|D|$ the note length in words, and $\\text{avgdl}$ the\naverage note length across the notebook.\n\nThe interesting knob is $b$ — how hard a long note gets penalized. At $b = 0$ length is ignored\nentirely, at $b = 1$ it's fully normalized. Common defaults: $k_1 \\in [1.2, 2.0]$, $b = 0.75$.\n\n## Why it matters here\n\nMy own notes are wildly uneven — a 40-word \"tmux italics not working\" sitting next to a\n4,000-word project log. Plain term frequency ranks the long one higher just because it repeats\nthe word more often, which is exactly what the $\\frac{|D|}{\\text{avgdl}}$ term corrects for.\n\n## Next\n\n- Check what PouchDB's search plugin already does — this might be free\n- $\\text{avgdl}$ has to be maintained incrementally; recomputing it per query means a full scan\n\nKeyword ranking only. The semantic side is a separate question, tracked in\n[Pick a local vector store for semantic search](inkdrop://note/Ew1tGx9Z).\n",
         "createdAt": "2026-08-12T15:09:16.134Z",
-        "updatedAt": "2026-08-13T05:31:06.423Z",
+        "updatedAt": "2026-08-20T04:34:35.537Z",
         "missingContent": false,
         "attachments": [],
         "location": {
@@ -3051,6 +3066,15 @@
         "createdAt": "2026-08-09T06:43:01.645Z",
         "relativePath": "public",
         "parentId": null
+      },
+      {
+        "schemaVersion": 2,
+        "id": "21d1ddef-d6ed-446c-8b15-886c9398791d",
+        "name": "design references",
+        "icon": "palette",
+        "createdAt": "2026-08-19T11:51:39.888Z",
+        "relativePath": "public/design references",
+        "parentId": "f8bc858e-238f-45d1-a41f-119210d18abd"
       },
       {
         "schemaVersion": 2,

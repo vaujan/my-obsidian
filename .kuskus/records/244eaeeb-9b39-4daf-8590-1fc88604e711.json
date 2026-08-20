@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "id": "244eaeeb-9b39-4daf-8590-1fc88604e711",
-  "relativePath": "inkdrop-mac.png",
+  "relativePath": "public/design references/inkdrop-mac.png",
   "fingerprint": "9fc7f2dfd586ad21ddba1802cf460bef5632cc4a483844e7ea742740cb53a3a2",
   "fileIdentity": "3121943230:21392098230161852",
   "fileSize": 297933,
   "modifiedAtMs": 1786786296124.6118,
   "recovery": {
-    "lastSeenAt": "2026-08-15T09:31:36.194Z",
+    "lastSeenAt": "2026-08-19T11:51:49.647Z",
     "missingSince": null
   },
   "metadata": {
@@ -25,7 +25,7 @@
     "height": 906,
     "note": "",
     "originalCollectionId": null,
-    "relativePath": "inkdrop-mac.png",
+    "relativePath": "public/design references/inkdrop-mac.png",
     "referencedAttachment": false
   }
 }

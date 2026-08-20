@@ -11,15 +11,10 @@
             "id": "2f522052a1a3c51d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note After Install 0.0.2.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Note After Install 0.0.2"
+              "title": "New tab"
             }
           }
         ]
@@ -205,17 +200,18 @@
   },
   "active": "2f522052a1a3c51d",
   "lastOpenFiles": [
+    "Note for settings modal.md.663fbb3f-6eb8-485f-8097-08b556452af8.previous",
+    "Note for settings modal.md.aff8e494-cd9e-4002-a3cf-f703323fd4ce.previous",
+    "Note for settings modal.md.7fd00cec-d750-412e-b6dd-a42d9e4d625d.previous",
+    "Note for settings modal.md.77479bd2-ad1a-4921-b6a3-dffa5b396f9d.previous",
+    "Note for settings modal.md.a95d1276-15f7-4506-ab32-472cdb38eae6.previous",
+    "Note for settings modal.md.75216133-301c-4dab-b9c8-246534fa372c.previous",
     "resources/clippings/One place for your ideas, references, and inspiration.md",
     "Note After Install 0.0.2.md.44cf3159-bbe8-4478-979e-d8e2f6505fe3.previous",
     "Note After Install 0.0.2.md.91ec25c9-534b-433c-af3b-a6a3f32e541e.previous",
     "Note After Install 0.0.2.md.71b3292c-6b02-4386-98bb-682fc06ca084.previous",
     "Note After Install 0.0.2.md.7eb729ab-fcd8-4341-9e41-91112a53f739.previous",
     "Note After Install 0.0.2.md.e5e31482-869f-4bea-a65a-d8a7251933db.previous",
-    "Note After Install 0.0.2.md.690f8550-23bf-494f-ac80-2239219936f7.previous",
-    "Note After Install 0.0.2.md.a8595c3f-2dae-4622-8f61-db5b2eebdb4e.previous",
-    "Note After Install 0.0.2.md.b8183073-888d-4fb2-96a0-8c267585fc5a.previous",
-    "Note After Install 0.0.2.md.ab3f3a34-e3ad-47bc-963d-0349d846773e.previous",
-    "Note After Install 0.0.2.md.d98019a9-658f-4504-8aeb-a24bb4c61192.previous",
     "open-in-default-app.png",
     "Mermaid Test.md",
     "Note After Install 1.0.0.md",
@@ -247,7 +243,6 @@
     "_archive/Anytype login key.md",
     "dev/Animation Vocabulary.md",
     "dev/emilkowalskiskills Skills for Design Engineers.md",
-    "dev/Developing Taste.md",
     "public/Pasted image 20260729042742.png",
     "drafts/maps/Consistency.canvas",
     "drafts/maps/Build.canvas",

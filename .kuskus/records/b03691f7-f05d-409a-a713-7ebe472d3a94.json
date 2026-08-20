@@ -2,12 +2,12 @@
   "schemaVersion": 2,
   "id": "b03691f7-f05d-409a-a713-7ebe472d3a94",
   "relativePath": "dev/mock/BM25 for ranking search results.md",
-  "fingerprint": "234fb2892e9e5befd30a2604bf12de46e54884c07bbed491b353895554883214",
-  "fileIdentity": "3121943230:2814749767115856",
-  "fileSize": 1497,
-  "modifiedAtMs": 1786599066422.8096,
+  "fingerprint": "16644aae37444730679d74b043d82d004fb28c4f1d113b13324ab0d9eb06510b",
+  "fileIdentity": "3121943230:3659174697247824",
+  "fileSize": 1496,
+  "modifiedAtMs": 1787200475537.0022,
   "recovery": {
-    "lastSeenAt": "2026-08-14T13:00:24.434Z",
+    "lastSeenAt": "2026-08-20T04:34:35.949Z",
     "missingSince": null
   },
   "metadata": {
@@ -16,7 +16,7 @@
     "type": "note",
     "title": "BM25 for ranking search results",
     "createdAt": "2026-08-12T15:09:16.134Z",
-    "updatedAt": "2026-08-13T05:31:06.423Z",
+    "updatedAt": "2026-08-20T04:34:35.537Z",
     "sourceUrl": null,
     "sourceFilename": null,
     "contentFilename": "BM25 for ranking search results.md",

@@ -1,4 +1,4 @@
-# BM25 for ranking search results 
+# BM25 for ranking search results
 
 Reading up on ranking before I touch the search index. Results are currently sorted by
 `updatedAt`, which is fine for a handful of hits and useless past a few hundred.

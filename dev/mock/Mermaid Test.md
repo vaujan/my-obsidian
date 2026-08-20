@@ -1,5 +1,6 @@
 ---
-
+title: "Mermaid test for markdown rendering"
+tags: - hello_world
 ---
 ## Sankey graph 
 
@@ -47,7 +48,6 @@ kanban
 ```mermaid
 architecture-beta
     group api(cloud)[API]
-
     service db(database)[Database] in api
     service disk1(disk)[Storage] in api
     service disk2(disk)[Storage] in api

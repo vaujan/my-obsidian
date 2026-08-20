@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "id": "539c8153-199f-40b7-b5a6-c6320a1bc868",
-  "relativePath": "Note After Install 0.0.2.md",
-  "fingerprint": "13ebab6dfe1454c5b243be00b80b866c17c6c2989eefd31afb9ae0436441d5b3",
-  "fileIdentity": "3121943230:24488322973993864",
-  "fileSize": 9385,
-  "modifiedAtMs": 1787109490078.7644,
+  "relativePath": "dev/mock/Note After Install 0.0.2.md",
+  "fingerprint": "cf13143513ada8f6ddec9a7f44bbf93af74baaba5e0fd4b09f282bdb59490705",
+  "fileIdentity": "3121943230:20547673300044336",
+  "fileSize": 12220,
+  "modifiedAtMs": 1787205245767.6157,
   "recovery": {
-    "lastSeenAt": "2026-08-19T03:18:10.491Z",
+    "lastSeenAt": "2026-08-20T05:54:06.095Z",
     "missingSince": null
   },
   "metadata": {
@@ -16,13 +16,13 @@
     "type": "note",
     "title": "Note After Install 0.0.2",
     "createdAt": "2026-08-15T05:06:32.510Z",
-    "updatedAt": "2026-08-19T03:18:10.079Z",
+    "updatedAt": "2026-08-20T05:54:05.768Z",
     "sourceUrl": null,
     "sourceFilename": null,
     "contentFilename": "Note After Install 0.0.2.md",
     "note": "",
     "originalCollectionId": null,
-    "relativePath": "Note After Install 0.0.2.md",
+    "relativePath": "dev/mock/Note After Install 0.0.2.md",
     "referencedAttachment": false,
     "titleSource": "custom",
     "attachments": [

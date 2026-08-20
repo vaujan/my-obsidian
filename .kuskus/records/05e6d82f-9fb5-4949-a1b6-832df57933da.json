@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "id": "05e6d82f-9fb5-4949-a1b6-832df57933da",
-  "relativePath": "image-2026-08-14-142406.png",
+  "relativePath": "public/design references/image-2026-08-14-142406.png",
   "fingerprint": "a3c177d73218e2a095992da597319531e0da5efffc9e22e95e672027fe749be5",
   "fileIdentity": "3121943230:10977524091886472",
   "fileSize": 277494,
   "modifiedAtMs": 1786685046655.6409,
   "recovery": {
-    "lastSeenAt": "2026-08-14T05:24:06.995Z",
+    "lastSeenAt": "2026-08-19T11:51:49.647Z",
     "missingSince": null
   },
   "metadata": {
@@ -25,7 +25,7 @@
     "height": 975,
     "note": "",
     "originalCollectionId": null,
-    "relativePath": "image-2026-08-14-142406.png",
+    "relativePath": "public/design references/image-2026-08-14-142406.png",
     "referencedAttachment": false,
     "attachmentOrigin": "note-capture"
   }

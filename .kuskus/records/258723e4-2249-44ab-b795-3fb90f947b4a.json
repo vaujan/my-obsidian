@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "id": "258723e4-2249-44ab-b795-3fb90f947b4a",
+  "relativePath": ".kuskus/trash/258723e4-2249-44ab-b795-3fb90f947b4a/Claude.url",
+  "fingerprint": "25dd53e4ed77daf75a7c999c047c1201fe715f090dff4dc5ed4ee813676af7e0",
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "258723e4-2249-44ab-b795-3fb90f947b4a",
+    "type": "url",
+    "title": "Claude",
+    "createdAt": "2026-08-20T18:56:14.356Z",
+    "updatedAt": "2026-08-20T18:56:14.429Z",
+    "sourceUrl": "https://claude.com/",
+    "sourceFilename": null,
+    "contentFilename": null,
+    "domain": "claude.com",
+    "description": "Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.",
+    "faviconUrl": "https://cdn.sanity.io/images/4zrzovbb/claude-com/369b14e80ac643cc09dccd581ccb91f82b559190-32x32.png",
+    "previewImageUrl": "https://cdn.sanity.io/images/4zrzovbb/claude-com/6c36adaaf60ecdde313a93ad255eef573ea4de97-1200x630.jpg?w=1200&h=630&fit=crop",
+    "siteName": "Claude",
+    "contentKind": "webpage",
+    "metadataVersion": 2,
+    "metadataStatus": "ready",
+    "metadataError": null,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": ".kuskus/trash/258723e4-2249-44ab-b795-3fb90f947b4a/Claude.url",
+    "referencedAttachment": false,
+    "trashedFrom": "inbox",
+    "trashedFromRelativePath": "Claude.url"
+  },
+  "recovery": {
+    "lastSeenAt": "2026-08-20T18:56:14.429Z",
+    "missingSince": "2026-08-20T19:04:08.001Z"
+  }
+}

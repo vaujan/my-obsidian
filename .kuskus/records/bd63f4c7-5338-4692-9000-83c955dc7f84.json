@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "id": "bd63f4c7-5338-4692-9000-83c955dc7f84",
+  "relativePath": ".kuskus/trash/bd63f4c7-5338-4692-9000-83c955dc7f84/Google Maps (2).url",
+  "fingerprint": "a85252f677a2ab10fb55e31ab434863aff986a78535b361965b2fa928ad0860d",
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "bd63f4c7-5338-4692-9000-83c955dc7f84",
+    "type": "url",
+    "title": "Google Maps (2)",
+    "createdAt": "2026-08-20T18:57:09.261Z",
+    "updatedAt": "2026-08-20T18:57:09.318Z",
+    "sourceUrl": "https://www.google.com/maps/place/DAENG+VAPE+SORONG/@-0.8898193,131.2941429,19.5z/data=!4m6!3m5!1s0x2d59554aaf785c17:0xa87de17a624a5f74!8m2!3d-0.8893848!4d131.2938034!16s%2Fg%2F11w8qgkn7g?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+    "sourceFilename": null,
+    "contentFilename": null,
+    "domain": "www.google.com",
+    "description": "Mencari bisnis lokal, melihat peta, dan melihat rute di Google Maps.",
+    "faviconUrl": "https://www.google.com/images/branding/product/ico/web_maps_icon_32dp.ico",
+    "previewImageUrl": "https://maps.google.com/maps/api/staticmap?center=-0.8898193%2C131.2941429&zoom=19&size=900x900&language=en&sensor=false&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0&signature=FasnFzBKdaWd9xbSJw6-bfQsKZk",
+    "siteName": "Google Maps",
+    "contentKind": "webpage",
+    "metadataVersion": 2,
+    "metadataStatus": "ready",
+    "metadataError": null,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": ".kuskus/trash/bd63f4c7-5338-4692-9000-83c955dc7f84/Google Maps (2).url",
+    "referencedAttachment": false,
+    "trashedFrom": "inbox",
+    "trashedFromRelativePath": "Google Maps (2).url"
+  },
+  "recovery": {
+    "lastSeenAt": "2026-08-20T18:57:09.318Z",
+    "missingSince": "2026-08-20T19:04:08.001Z"
+  }
+}

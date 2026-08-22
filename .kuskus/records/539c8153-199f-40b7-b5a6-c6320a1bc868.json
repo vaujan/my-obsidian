@@ -2,12 +2,12 @@
   "schemaVersion": 2,
   "id": "539c8153-199f-40b7-b5a6-c6320a1bc868",
   "relativePath": "dev/mock/Note After Install 0.0.2.md",
-  "fingerprint": "cf13143513ada8f6ddec9a7f44bbf93af74baaba5e0fd4b09f282bdb59490705",
-  "fileIdentity": "3121943230:20547673300044336",
-  "fileSize": 12220,
-  "modifiedAtMs": 1787205245767.6157,
+  "fingerprint": "af1fe6939b42a5be20da5af25d155497fcdc1acac09f06417920a9481e60b75d",
+  "fileIdentity": "3121943230:32651097298437316",
+  "fileSize": 12113,
+  "modifiedAtMs": 1787384020702.663,
   "recovery": {
-    "lastSeenAt": "2026-08-20T05:54:06.095Z",
+    "lastSeenAt": "2026-08-22T07:33:41.069Z",
     "missingSince": null
   },
   "metadata": {
@@ -16,7 +16,7 @@
     "type": "note",
     "title": "Note After Install 0.0.2",
     "createdAt": "2026-08-15T05:06:32.510Z",
-    "updatedAt": "2026-08-20T05:54:05.768Z",
+    "updatedAt": "2026-08-22T07:33:40.703Z",
     "sourceUrl": null,
     "sourceFilename": null,
     "contentFilename": "Note After Install 0.0.2.md",
@@ -27,13 +27,13 @@
     "titleSource": "custom",
     "attachments": [
       {
-        "id": "e3300b4f-9aa2-45e6-8061-f71312acde90",
-        "filename": "image-2026-08-15-144635.png",
-        "relativePath": "./image-2026-08-15-144635.png",
-        "sourceFilename": "image-2026-08-15-144635.png",
+        "id": "fc43883d-d694-4b1c-9028-49db5f3c3aa0",
+        "filename": "image-2026-08-18-214948.png",
+        "relativePath": "./image-2026-08-18-214948.png",
+        "sourceFilename": "image-2026-08-18-214948.png",
         "mediaType": "image/png",
-        "width": 1489,
-        "height": 1020
+        "width": 935,
+        "height": 541
       },
       {
         "id": "e81fbe89-bd08-473c-939f-469bcd6eddab",
@@ -54,13 +54,13 @@
         "height": 551
       },
       {
-        "id": "fc43883d-d694-4b1c-9028-49db5f3c3aa0",
-        "filename": "image-2026-08-18-214948.png",
-        "relativePath": "./image-2026-08-18-214948.png",
-        "sourceFilename": "image-2026-08-18-214948.png",
+        "id": "e3300b4f-9aa2-45e6-8061-f71312acde90",
+        "filename": "image-2026-08-15-144635.png",
+        "relativePath": "./image-2026-08-15-144635.png",
+        "sourceFilename": "image-2026-08-15-144635.png",
         "mediaType": "image/png",
-        "width": 935,
-        "height": 541
+        "width": 1489,
+        "height": 1020
       }
     ]
   }

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "id": "2b2a9392-63ed-425d-ae5d-00791a2f0a27",
+  "relativePath": ".kuskus/trash/2b2a9392-63ed-425d-ae5d-00791a2f0a27/Google.url",
+  "fingerprint": "f192bf9df682f223187aa51143c55035db54cc31cba15742aa5cd4b450b452c2",
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "2b2a9392-63ed-425d-ae5d-00791a2f0a27",
+    "type": "url",
+    "title": "Google",
+    "createdAt": "2026-08-20T18:58:54.917Z",
+    "updatedAt": "2026-08-20T18:58:54.977Z",
+    "sourceUrl": "https://www.google.com/",
+    "sourceFilename": null,
+    "contentFilename": null,
+    "domain": "www.google.com",
+    "description": null,
+    "faviconUrl": "https://www.google.com/favicon.ico",
+    "previewImageUrl": null,
+    "siteName": null,
+    "contentKind": "webpage",
+    "metadataVersion": 2,
+    "metadataStatus": "ready",
+    "metadataError": null,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": ".kuskus/trash/2b2a9392-63ed-425d-ae5d-00791a2f0a27/Google.url",
+    "referencedAttachment": false,
+    "trashedFrom": "inbox",
+    "trashedFromRelativePath": "Google.url"
+  },
+  "recovery": {
+    "lastSeenAt": "2026-08-20T18:58:54.977Z",
+    "missingSince": "2026-08-20T19:04:08.001Z"
+  }
+}

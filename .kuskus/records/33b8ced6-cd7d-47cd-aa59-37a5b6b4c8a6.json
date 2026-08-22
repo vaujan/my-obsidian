@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "id": "33b8ced6-cd7d-47cd-aa59-37a5b6b4c8a6",
+  "relativePath": ".kuskus/trash/33b8ced6-cd7d-47cd-aa59-37a5b6b4c8a6/Google Maps (3).url",
+  "fingerprint": "26dde5116361024375e986de4444b49ef08dc7422be1c71d3780220f0b872669",
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "33b8ced6-cd7d-47cd-aa59-37a5b6b4c8a6",
+    "type": "url",
+    "title": "Google Maps (3)",
+    "createdAt": "2026-08-20T18:57:21.550Z",
+    "updatedAt": "2026-08-20T18:57:21.608Z",
+    "sourceUrl": "https://maps.app.goo.gl/gLtAotAaVVWGjcHm9",
+    "sourceFilename": null,
+    "contentFilename": null,
+    "domain": "maps.app.goo.gl",
+    "description": "Mencari bisnis lokal, melihat peta, dan melihat rute di Google Maps.",
+    "faviconUrl": "https://www.google.com/images/branding/product/ico/web_maps_icon_32dp.ico",
+    "previewImageUrl": "https://maps.google.com/maps/api/staticmap?center=-0.8896525%2C131.2938617&zoom=20&size=900x900&language=en&sensor=false&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0&signature=R17rtqmAU--HqSN7d75DXvATHxs",
+    "siteName": "Google Maps",
+    "contentKind": "webpage",
+    "metadataVersion": 2,
+    "metadataStatus": "ready",
+    "metadataError": null,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": ".kuskus/trash/33b8ced6-cd7d-47cd-aa59-37a5b6b4c8a6/Google Maps (3).url",
+    "referencedAttachment": false,
+    "trashedFrom": "inbox",
+    "trashedFromRelativePath": "Google Maps (3).url"
+  },
+  "recovery": {
+    "lastSeenAt": "2026-08-20T18:57:21.608Z",
+    "missingSince": "2026-08-20T19:04:08.001Z"
+  }
+}

@@ -5,7 +5,6 @@ published:
 created: 2026-08-17
 description: "Save notes, links, images, documents, and anything worth keeping. Then find it when you need it. Native for Mac, iPhone, and iPad with private iCloud sync."
 ---
-Download
 
 ## One place for your ideas, references, and inspiration.
 

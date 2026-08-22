@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "libraryId": "9eed48f3-1aff-4083-afa6-0049e96c9720",
-  "writtenAt": "2026-08-20T06:02:31.171Z",
+  "writtenAt": "2026-08-22T08:57:05.868Z",
   "library": {
     "schemaVersion": 2,
     "id": "9eed48f3-1aff-4083-afa6-0049e96c9720",
@@ -13,6 +13,206 @@
     ],
     "path": "C:\\Users\\Fauzan\\Documents\\fauzan-obsidian",
     "items": [
+      {
+        "schemaVersion": 2,
+        "id": "cfd1e508-0bcf-4795-b7ee-e35d9e68dd6c",
+        "type": "url",
+        "title": "Bryan Johnson (@bryan_johnson) on X (2)",
+        "createdAt": "2026-08-20T18:59:19.835Z",
+        "updatedAt": "2026-08-20T18:59:19.903Z",
+        "sourceUrl": "https://x.com/bryan_johnson",
+        "domain": "x.com",
+        "description": "Conquering death will be humanity’s greatest achievement.",
+        "siteName": "X (formerly Twitter)",
+        "contentKind": "webpage",
+        "metadataVersion": 2,
+        "hasFavicon": true,
+        "hasPreviewImage": true,
+        "metadataStatus": "ready",
+        "metadataError": null,
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        },
+        "relativePath": ".kuskus/trash/cfd1e508-0bcf-4795-b7ee-e35d9e68dd6c/Bryan Johnson (@bryan_johnson) on X (2).url",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
+        "id": "681b4517-72c9-40db-9473-c2d98fdd56ee",
+        "type": "url",
+        "title": "Bryan Johnson (@bryan_johnson) on X",
+        "createdAt": "2026-08-20T18:59:13.103Z",
+        "updatedAt": "2026-08-20T18:59:13.165Z",
+        "sourceUrl": "https://x.com/bryan_johnson/status/2090503911493022007",
+        "domain": "x.com",
+        "description": "I got a dog. Dog owners have about a 24% lower risk of dying early. What should I do now?",
+        "siteName": "X (formerly Twitter)",
+        "contentKind": "webpage",
+        "metadataVersion": 2,
+        "hasFavicon": true,
+        "hasPreviewImage": true,
+        "metadataStatus": "ready",
+        "metadataError": null,
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        },
+        "relativePath": ".kuskus/trash/681b4517-72c9-40db-9473-c2d98fdd56ee/Bryan Johnson (@bryan_johnson) on X.url",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
+        "id": "2b2a9392-63ed-425d-ae5d-00791a2f0a27",
+        "type": "url",
+        "title": "Google",
+        "createdAt": "2026-08-20T18:58:54.917Z",
+        "updatedAt": "2026-08-20T18:58:54.977Z",
+        "sourceUrl": "https://www.google.com/",
+        "domain": "www.google.com",
+        "description": null,
+        "siteName": "www.google.com",
+        "contentKind": "webpage",
+        "metadataVersion": 2,
+        "hasFavicon": true,
+        "hasPreviewImage": false,
+        "metadataStatus": "ready",
+        "metadataError": null,
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        },
+        "relativePath": ".kuskus/trash/2b2a9392-63ed-425d-ae5d-00791a2f0a27/Google.url",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
+        "id": "5527ba06-7f34-4513-a513-97ce504a387d",
+        "type": "url",
+        "title": "Google Maps (4)",
+        "createdAt": "2026-08-20T18:58:44.373Z",
+        "updatedAt": "2026-08-20T18:58:44.472Z",
+        "sourceUrl": "https://maps.app.goo.gl/gLtAotAaVVWGjcHm9",
+        "domain": "maps.app.goo.gl",
+        "description": "Mencari bisnis lokal, melihat peta, dan melihat rute di Google Maps.",
+        "siteName": "Google Maps",
+        "contentKind": "webpage",
+        "metadataVersion": 2,
+        "hasFavicon": true,
+        "hasPreviewImage": true,
+        "metadataStatus": "ready",
+        "metadataError": null,
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        },
+        "relativePath": ".kuskus/trash/5527ba06-7f34-4513-a513-97ce504a387d/Google Maps (4).url",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
+        "id": "33b8ced6-cd7d-47cd-aa59-37a5b6b4c8a6",
+        "type": "url",
+        "title": "Google Maps (3)",
+        "createdAt": "2026-08-20T18:57:21.550Z",
+        "updatedAt": "2026-08-20T18:57:21.608Z",
+        "sourceUrl": "https://maps.app.goo.gl/gLtAotAaVVWGjcHm9",
+        "domain": "maps.app.goo.gl",
+        "description": "Mencari bisnis lokal, melihat peta, dan melihat rute di Google Maps.",
+        "siteName": "Google Maps",
+        "contentKind": "webpage",
+        "metadataVersion": 2,
+        "hasFavicon": true,
+        "hasPreviewImage": true,
+        "metadataStatus": "ready",
+        "metadataError": null,
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        },
+        "relativePath": ".kuskus/trash/33b8ced6-cd7d-47cd-aa59-37a5b6b4c8a6/Google Maps (3).url",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
+        "id": "bd63f4c7-5338-4692-9000-83c955dc7f84",
+        "type": "url",
+        "title": "Google Maps (2)",
+        "createdAt": "2026-08-20T18:57:09.261Z",
+        "updatedAt": "2026-08-20T18:57:09.318Z",
+        "sourceUrl": "https://www.google.com/maps/place/DAENG+VAPE+SORONG/@-0.8898193,131.2941429,19.5z/data=!4m6!3m5!1s0x2d59554aaf785c17:0xa87de17a624a5f74!8m2!3d-0.8893848!4d131.2938034!16s%2Fg%2F11w8qgkn7g?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+        "domain": "www.google.com",
+        "description": "Mencari bisnis lokal, melihat peta, dan melihat rute di Google Maps.",
+        "siteName": "Google Maps",
+        "contentKind": "webpage",
+        "metadataVersion": 2,
+        "hasFavicon": true,
+        "hasPreviewImage": true,
+        "metadataStatus": "ready",
+        "metadataError": null,
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        },
+        "relativePath": ".kuskus/trash/bd63f4c7-5338-4692-9000-83c955dc7f84/Google Maps (2).url",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
+        "id": "901a2b9c-153f-48af-b24b-b00e9f8835c2",
+        "type": "url",
+        "title": "Google Maps",
+        "createdAt": "2026-08-20T18:56:38.843Z",
+        "updatedAt": "2026-08-20T18:56:38.899Z",
+        "sourceUrl": "https://www.google.com/maps/place/REFLEKSI+MASTER+JETLI+SORONG/@-0.8896848,131.2940737,20.25z/data=!4m6!3m5!1s0x2d59558a0028c55b:0x6e76e03fabef9b00!8m2!3d-0.8894112!4d131.2978208!16s%2Fg%2F11gh9p3_zm?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+        "domain": "www.google.com",
+        "description": "Mencari bisnis lokal, melihat peta, dan melihat rute di Google Maps.",
+        "siteName": "Google Maps",
+        "contentKind": "webpage",
+        "metadataVersion": 2,
+        "hasFavicon": true,
+        "hasPreviewImage": true,
+        "metadataStatus": "ready",
+        "metadataError": null,
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        },
+        "relativePath": ".kuskus/trash/901a2b9c-153f-48af-b24b-b00e9f8835c2/Google Maps.url",
+        "referencedAttachment": false
+      },
+      {
+        "schemaVersion": 2,
+        "id": "258723e4-2249-44ab-b795-3fb90f947b4a",
+        "type": "url",
+        "title": "Claude",
+        "createdAt": "2026-08-20T18:56:14.356Z",
+        "updatedAt": "2026-08-20T18:56:14.429Z",
+        "sourceUrl": "https://claude.com/",
+        "domain": "claude.com",
+        "description": "Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.",
+        "siteName": "Claude",
+        "contentKind": "webpage",
+        "metadataVersion": 2,
+        "hasFavicon": true,
+        "hasPreviewImage": true,
+        "metadataStatus": "ready",
+        "metadataError": null,
+        "location": {
+          "type": "trash",
+          "trashedFrom": "inbox",
+          "originalCollectionId": null
+        },
+        "relativePath": ".kuskus/trash/258723e4-2249-44ab-b795-3fb90f947b4a/Claude.url",
+        "referencedAttachment": false
+      },
       {
         "schemaVersion": 2,
         "id": "fc43883d-d694-4b1c-9028-49db5f3c3aa0",
@@ -42,9 +242,9 @@
         "id": "af09e843-6be2-42c6-93eb-eb96c6525938",
         "type": "note",
         "title": "One place for your ideas, references, and inspiration",
-        "body": "---\r\ntitle: \"One place for your ideas, references, and inspiration\"\r\nsource: \"https://resurf.so/\"\r\npublished:\r\ncreated: 2026-08-17\r\ndescription: \"Save notes, links, images, documents, and anything worth keeping. Then find it when you need it. Native for Mac, iPhone, and iPad with private iCloud sync.\"\r\n---\r\nDownload\r\n\r\n## One place for your ideas, references, and inspiration.\r\n\r\nSave notes, links, images, documents, and anything worth keeping. Then find it when you need it.\r\n\r\n![Resurf library view with AI assistant](https://resurf.so/library-hero.png)\r\n\r\n## A library that gets more useful every time you save.\r\n\r\nLocal-first. Private by default. Designed to stay out of your way.\r\n\r\n### Quick Capture\r\n\r\nCapture without switching context.\r\n\r\n### Inbox First\r\n\r\nSave now, organize later.\r\n\r\n### Spaces & Tags\r\n\r\nOrganize around projects, research, and ideas.\r\n\r\n### Visual Library\r\n\r\nBrowse what you saved the way you remember it.\r\n\r\n### From Any App\r\n\r\nCapture from Mac, Chrome, and iPhone into one library.\r\n\r\n### Instant Search\r\n\r\nFind notes, links, PDFs, images, and files fast.\r\n\r\n### Voice Memos\r\n\r\nRecord thoughts before they disappear.\r\n\r\n### Highlight & Annotate\r\n\r\nKeep your thoughts beside the source.\r\n\r\n### AI Summaries\r\n\r\nOpt-in\r\n\r\nRevisit articles, links, and PDFs faster.\r\n\r\n### Bring Your Own AI\r\n\r\nOpt-in\r\n\r\nRuns on OpenAI with your own key. More models will return over time.\r\n\r\n### Ask Your Library\r\n\r\nOpt-in\r\n\r\nAsk questions across the context you saved.\r\n\r\n### Local-first\r\n\r\nYour data stays on your Mac. Works offline. No account required.\r\n\r\n## Five surfaces, one library.\r\n\r\nA quick tour through capture, organize, view, write, and ask. The five places you'll actually spend your time in Resurf.\r\n\r\n![Resurf library grid view](https://resurf.so/screenshot-library.png)\r\n\r\nNotes, links, PDFs, images, audio, and video. Every capture lives in one searchable place.\r\n\r\n### Capture anything\r\n\r\nArticles, PDFs, images, audio, video, code, and more — every format renders natively.\r\n\r\nArticles\r\n\r\nImages\r\n\r\nVideo\r\n\r\nTweets\r\n\r\nGitHub\r\n\r\nArticles\r\n\r\nImages\r\n\r\nVideo\r\n\r\nTweets\r\n\r\nGitHub\r\n\r\nPDFs\r\n\r\nAudio\r\n\r\nYouTube\r\n\r\nCode\r\n\r\nNotes\r\n\r\nPDFs\r\n\r\nAudio\r\n\r\nYouTube\r\n\r\nCode\r\n\r\nNotes\r\n\r\n## Native on every device.\r\n\r\nWritten entirely in native Swift for Mac, iPhone, and iPad. Your library lives on-device and syncs privately through your own iCloud. No servers, no accounts.\r\n\r\n100% native SwiftLocal-firstPrivate iCloud sync\r\n\r\n![Resurf running natively on Mac, iPhone, and iPad with the same library](https://resurf.so/devices.png)\r\n\r\n## Start building your personal context library\r\n\r\nFree to try · macOS 14.3+ (Apple Silicon & Intel) · Free on iPhone & iPad",
+        "body": "---\ntitle: \"One place for your ideas, references, and inspiration\"\nsource: \"https://resurf.so/\"\npublished:\ncreated: 2026-08-17\ndescription: \"Save notes, links, images, documents, and anything worth keeping. Then find it when you need it. Native for Mac, iPhone, and iPad with private iCloud sync.\"\n---\n\n## One place for your ideas, references, and inspiration.\n\nSave notes, links, images, documents, and anything worth keeping. Then find it when you need it.\n\n![Resurf library view with AI assistant](https://resurf.so/library-hero.png)\n\n## A library that gets more useful every time you save.\n\nLocal-first. Private by default. Designed to stay out of your way.\n\n### Quick Capture\n\nCapture without switching context.\n\n### Inbox First\n\nSave now, organize later.\n\n### Spaces & Tags\n\nOrganize around projects, research, and ideas.\n\n### Visual Library\n\nBrowse what you saved the way you remember it.\n\n### From Any App\n\nCapture from Mac, Chrome, and iPhone into one library.\n\n### Instant Search\n\nFind notes, links, PDFs, images, and files fast.\n\n### Voice Memos\n\nRecord thoughts before they disappear.\n\n### Highlight & Annotate\n\nKeep your thoughts beside the source.\n\n### AI Summaries\n\nOpt-in\n\nRevisit articles, links, and PDFs faster.\n\n### Bring Your Own AI\n\nOpt-in\n\nRuns on OpenAI with your own key. More models will return over time.\n\n### Ask Your Library\n\nOpt-in\n\nAsk questions across the context you saved.\n\n### Local-first\n\nYour data stays on your Mac. Works offline. No account required.\n\n## Five surfaces, one library.\n\nA quick tour through capture, organize, view, write, and ask. The five places you'll actually spend your time in Resurf.\n\n![Resurf library grid view](https://resurf.so/screenshot-library.png)\n\nNotes, links, PDFs, images, audio, and video. Every capture lives in one searchable place.\n\n### Capture anything\n\nArticles, PDFs, images, audio, video, code, and more — every format renders natively.\n\nArticles\n\nImages\n\nVideo\n\nTweets\n\nGitHub\n\nArticles\n\nImages\n\nVideo\n\nTweets\n\nGitHub\n\nPDFs\n\nAudio\n\nYouTube\n\nCode\n\nNotes\n\nPDFs\n\nAudio\n\nYouTube\n\nCode\n\nNotes\n\n## Native on every device.\n\nWritten entirely in native Swift for Mac, iPhone, and iPad. Your library lives on-device and syncs privately through your own iCloud. No servers, no accounts.\n\n100% native SwiftLocal-firstPrivate iCloud sync\n\n![Resurf running natively on Mac, iPhone, and iPad with the same library](https://resurf.so/devices.png)\n\n## Start building your personal context library\n\nFree to try · macOS 14.3+ (Apple Silicon & Intel) · Free on iPhone & iPad",
         "createdAt": "2026-08-17T14:33:37.861Z",
-        "updatedAt": "2026-08-17T14:33:37.880Z",
+        "updatedAt": "2026-08-22T08:43:46.881Z",
         "missingContent": false,
         "attachments": [],
         "location": {
@@ -52,96 +252,6 @@
           "collectionId": "868ec016-34a0-447b-ae48-61c0af7f3655"
         },
         "relativePath": "resources/clippings/One place for your ideas, references, and inspiration.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "0fb7d449-d448-4787-9716-ec698c1a1adc",
-        "type": "note",
-        "title": "Note for settings modal",
-        "body": "## Note for settings modal \n\n1. Font switcher: for interface or mono\n2. Theme switcher: color theme, or flavors\n",
-        "createdAt": "2026-08-17T12:20:16.439Z",
-        "updatedAt": "2026-08-19T03:39:26.140Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "collection",
-          "originalCollectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36"
-        },
-        "relativePath": ".kuskus/trash/0fb7d449-d448-4787-9716-ec698c1a1adc/Note for settings modal.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "75d179db-9915-4924-8cde-26e578081c2d",
-        "type": "note",
-        "title": "There is a layout-rendering bug that only occurs in read mode. The same document renders correctly in live-edit mode",
-        "body": "There is a layout/rendering bug that only occurs in **read mode**. The same document renders correctly in live/edit mode.\n\n### Current behavior\n\nIn read mode, some paragraphs are incorrectly laid out horizontally into multiple narrow fragments/columns instead of flowing as one continuous block of text.\n\nFor example, a paragraph that should render normally as:\n\n> Renaming `F2`. Currently there is no quick access to rename the title of the document we're writing in. It should be renamed inline in our detail pane title header...\n\nis visually split into several side-by-side text regions. Some words wrap into extremely narrow columns, causing sentences to appear vertically stacked or pushed sideways.\n\nThe underlying document content appears correct because the problem does not occur in live/edit mode.\n\n### Expected behavior\n\nRead mode should preserve normal document flow:\n\n* Each paragraph should occupy the available content width.\n* Text should wrap naturally within a single block.\n* Inline elements such as keyboard shortcuts, bold text, links, or other formatting should remain inline without changing the paragraph's overall layout.\n* A long paragraph should never create independent horizontal columns unless the document explicitly contains a multi-column layout.\n* Read mode should visually match the text flow of live/edit mode as closely as possible.\n\n### Suspected area\n\nPlease compare the DOM structure and CSS used by read mode against live/edit mode.\n\nIn particular, inspect whether the read-mode renderer is accidentally applying layout properties such as:\n\n* `display: flex`\n* `display: grid`\n* `inline-flex`\n* grid column definitions\n* `width: min-content`\n* `width: fit-content`\n* inappropriate `flex: 1`\n* `flex-wrap`\n* `float`\n* absolute positioning\n* inherited width/max-width constraints\n\nto paragraph nodes or their inline children.\n\nAlso check rendered rich-text nodes such as:\n\n* paragraphs\n* text spans\n* keyboard shortcut / `<kbd>` elements\n* strong/bold nodes\n* links\n* inline code\n* custom rich-text components\n\nAn inline node should not cause neighboring text spans to become separate flex/grid children with independently calculated widths.\n\nDo not solve this with fixed widths or manual per-element offsets. The goal is to restore normal block/inline text-flow semantics in the read-mode renderer.\n",
-        "createdAt": "2026-08-16T13:24:48.868Z",
-        "updatedAt": "2026-08-16T13:24:48.939Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/75d179db-9915-4924-8cde-26e578081c2d/There is a layout-rendering bug that only occurs in read mode. The same document renders correctly in live-edit mode.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "6ac71909-7c0e-4784-a52c-6a0941181360",
-        "type": "note",
-        "title": "https----native-sdk.dev-",
-        "body": "https\\://native-sdk.dev/\n",
-        "createdAt": "2026-08-15T15:22:20.792Z",
-        "updatedAt": "2026-08-15T15:22:20.855Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/6ac71909-7c0e-4784-a52c-6a0941181360/https----native-sdk.dev-.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "c9da3540-6f53-430c-8a2e-0605d8650475",
-        "type": "note",
-        "title": "https----native-sdk.dev-docs-cli",
-        "body": "https\\://native-sdk.dev/docs/cli\n",
-        "createdAt": "2026-08-15T15:21:38.046Z",
-        "updatedAt": "2026-08-15T15:21:38.113Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/c9da3540-6f53-430c-8a2e-0605d8650475/https----native-sdk.dev-docs-cli.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "a5fbe669-7da9-4451-9ee9-f90b414c53e9",
-        "type": "note",
-        "title": "https----native-sdk.dev-",
-        "body": "https\\://native-sdk.dev/\n",
-        "createdAt": "2026-08-15T15:20:36.275Z",
-        "updatedAt": "2026-08-15T15:20:36.441Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/a5fbe669-7da9-4451-9ee9-f90b414c53e9/https----native-sdk.dev-.md",
         "referencedAttachment": false
       },
       {
@@ -176,26 +286,6 @@
           "collectionId": "868ec016-34a0-447b-ae48-61c0af7f3655"
         },
         "relativePath": "resources/clippings/Product designer and engineer.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "a621e759-9ed1-4983-ab4a-a78b129325ea",
-        "type": "file",
-        "title": "Curriculum Vitae AHMAD FAUZAN",
-        "createdAt": "2026-08-15T11:50:09.615Z",
-        "updatedAt": "2026-08-15T11:50:09.721Z",
-        "sourceFilename": "Curriculum Vitae AHMAD FAUZAN.pdf",
-        "contentFilename": "Curriculum Vitae AHMAD FAUZAN.pdf",
-        "mediaType": "application/pdf",
-        "size": 21218,
-        "missingContent": false,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/a621e759-9ed1-4983-ab4a-a78b129325ea/Curriculum Vitae AHMAD FAUZAN.pdf",
         "referencedAttachment": false
       },
       {
@@ -245,51 +335,6 @@
           "type": "collection",
           "collectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36"
         }
-      },
-      {
-        "schemaVersion": 2,
-        "id": "60128a0a-0073-47a0-a820-65601d2d13ac",
-        "type": "image",
-        "title": "image-2026-08-15-184101",
-        "createdAt": "2026-08-15T09:41:01.558Z",
-        "updatedAt": "2026-08-15T09:41:01.560Z",
-        "sourceUrl": null,
-        "sourceFilename": "image-2026-08-15-184101.png",
-        "contentFilename": "image-2026-08-15-184101.png",
-        "mediaType": "image/png",
-        "width": 1919,
-        "height": 551,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": ".kuskus/trash/60128a0a-0073-47a0-a820-65601d2d13ac/image-2026-08-15-184101.png",
-        "referencedAttachment": false,
-        "attachmentOrigin": "note-capture",
-        "trashedFrom": "inbox",
-        "trashedFromRelativePath": "image-2026-08-15-184101.png",
-        "missingContent": false,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        }
-      },
-      {
-        "schemaVersion": 2,
-        "id": "db193aac-a7c2-422f-a36d-7d4d68f37c1c",
-        "type": "note",
-        "title": "HEllo world",
-        "body": "# HEllo world\n",
-        "createdAt": "2026-08-15T09:40:21.472Z",
-        "updatedAt": "2026-08-15T09:40:21.532Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/db193aac-a7c2-422f-a36d-7d4d68f37c1c/HEllo world.md",
-        "referencedAttachment": false
       },
       {
         "schemaVersion": 2,
@@ -440,19 +485,19 @@
         "id": "539c8153-199f-40b7-b5a6-c6320a1bc868",
         "type": "note",
         "title": "Note After Install 0.0.2",
-        "body": "# 20 August\n\n- Current vim mode status is very good and is positioned in the status bar\n  - Maybe every `:` or `/` event should use a 'new input' that is positioned on the centre-top area of our current writing canvas (inspired by Neovim mode in VSCode and Vim mode in Zed)\n- live mode and read mode has different scroll position.\n  - If we're in a X scroll position in live mode, then we switch to read mode, it moves use to the new scroll position (Y).\n  - And switching back to live mode will our scroll position to X (and switching to read mode will return us back again to Y scroll position)\n- For indented instances in our bullet points, the new line is not indented and is wrapped like a normal text\n  - Also show in the 'syntax highlighting' for our list hierarchy\n    > Q: Is his our current syntax highlighting implementation is a custom or there's a convention from CodeMirror? How customizable is it?\n  - This also occur in our other elements like tasks\n    > Q: is CodeMirror has their own plugin or convention for handling this?\n  - What's the line height? is this handled separately with our current `typeset.css`?\n- There's a case that Vim mode is already activated but changing it to markdown source mode and  the editor isn't recognizing it.\n  - Switching back the Vim mode again in the markdown source, then will trigger the Vim mode to be activated\n- Managing attachments should be in a dropdown-like UI and interaction\n- Findings: restarting the app while in split mode with vim mode activated, is mounted without the Vim activated. It should explicitly be re-toggled for the Vim to work again\n- Improve the settings interface (make it feel better). Add font changes in settings\n\n## Features\n\n- [x] feature implementation: wrapped heading for better note organizations\n\n# 19 August\n\n- When using `/` command to  apply formatting, navigating with up and down arrow doesn't scroll the formatting options\n- In source mode, how is our task and bullet points represented in  `*[ ]` and `*` instead of `- [ ]` and `-`\n- Update the table design, add distinctive column borders and make the outer border for the table rounded\n- Vim mode indicator should not be placed at the header, brainstorm with me on this one. Where conventionally it should be put?\n- Move vim toggling to our settings, it shouldn't be that accessible to toggle from on and off\n\n## For later\n\n- Header toggling\n- Currenlty, live writing mode should be considered as a immature feature since it is not yet ready for production\n  - Code mirror implemenation for markdown writing should be our main functionality. Live mode should be put into a `beta` feature since it is very hard to integrate a 'good enough' user experience\n- Redesign the search input bar for Vim implementation\n- Check how the CodeMirror (source mode) vim design is implemented, and try to match that with our ProseMirror/Milkdown implementation (live mode)\n\n# 13 August\n\n- [ ] **Confirm/Check:** We should confirm the existing implementation about the image embedding feature. We should check how image is embedded and how it looks like in the Markdown source\n- [x] **Confirm/Check:** Scrolling through the main item visual rails is 'kind of' heavy. Is it normal because each note item is rendering 'markdown'? It happens in 100 notes, not after 1000\n- [x] Writing down markdown doesn't feel any different from this app to other writing app (Obsidian, Evernote)? 95% of the markdown writing part is basically functioning very well\n\n# 14 August\n\n- [x] Integrate a performance measurement to understand how performant the current implementation is\n- [x] Right-clicking in our index item doesn't open the context menu. Right-clicking item in visual mode works and opens the context menu (but not in index mode)\n- [x] Our checkbox is placement is has a bit offset to the top. Maybe shift it to the bottom by 1px\n- [x] Cannot access developer tools  via `f12`\n- [x] Zen mode key toggle doesn't works\n- ![The selected UI indicator should look like this, it should use the 'active' item state without the left border for indicator](./image-2026-08-15-144635.png)\n- [x] Date system should also follow created and updated, not only updated. The index item rail keep showing 'Just now' every time we update or if any changes occur. This doesn't provide a useful information for the user when is the item created (which more important than 'Just now' every time')\n\n* [x] Badge redesign for a11y, add a bit border (the badges are \"Note\", \"Link\", etc.). The badge should also in colours that is complement to our primary colour\n* [x] `Ctrl + F` or find and replace functionality doesn't work in live and read mode. For Read mode, it should only Find (without the replace)\n* [x] When our notes it scrolled away, toggling from live mode to read mode behaves normally. But from read mode to live mode, we immediately scrolled to the beginning line and is prompted to write from the starting point of the document\n* [x] **Confirm/Check:** Is it true if the user will experience lag or slow downs when they open a big repository/vault for the first time? If yes, is it because the app is creating a new cache for the starter? If yes, the user should be informed via toast/Sonner would be good\n* [x] Starting app speed is really good. Also, what happen if we open more than one App window? I tried that, but nothing happened. But what ***should*** happen\n* [x] **Confirm/Check:** In 'All Items' menu how are the items are loaded? The items are very resource intensive by rendering markdowns for each notes. What is the best way to load them?\n\n- Also, is each of these note are rendered all the way through? For instance of the document can show thousands of lines of many different heavy elements like code block, images and links. Are these fully rendered also? Even if the preview is very small and shows only the early small part of the document (that is visible to the rail preview card)? \n\n- Confirm/Check: Is 'blurring' features performant? For instance blurring the background in the dialog\n\n- Why was my `%APPDATA%` has 3-4 GB in size? \n\n- Delay in writings. \n\n- Is toggling between the translucent activity will affect our performance on the same session?\n  - Meaning, if I already have the translucent activated and use the app normally, I will have better performance than if I turn off the translucent but didn't restart the app. \n\n- For versioning, is it starting on 0.0.1 or 1.0.0? I think is the former choice\n\n- Link detection can be flawed. For instance copy this to the quick composer `https://native-sdk.dev/` it won't be saved as a link. Instead it added a new note\n\n- [x] There is some flickering in the code block that is rendered in the item rails. It flicker for every keystroke or mouse clicks. The code block flicker from empty code block, then the content appear for every event keyboard or mouse. We haven't confirmed it this only happens to code block or not\n\n# 15 August\n\n- [x] When the active cursor is at the bottom of the page when we continue write the document further than the height of the pane. It is very 'packed'  and is at the bottom of our screen need more space/room \n- [ ] What is the recommended settings for performance also for aesthetic? The user should also can picked which one suits their needs the best\n- [x] Please integrate a feature for pin items? The goal of this feature is to provide user a way to put item on a 'watchlist', that they constantly looking up to or providing updates to\n- [x] Renaming title for the focused detailed pane document via `f2`. Currently there is no quick access to rename the title of the document we're writing in. It should renaming should be in inline in our detail pane title header. But we now allow renaming via focusing an instance in our item rails and this is a **very good UX**\n\n![](./image-2026-08-15-160118.png)\n\n- [x] Opening an item navigates us into a detailed view. But the item rails on the left side is not scrolled to the selected item (instead it started from the top)\n  ![700](./image-2026-08-15-184107.png)\n\n- [x] Terrible placement for the callout (\"Unable to Complete Action. These items are already in Trash\"). This should be in a Sonner \n\n- [x] Multi select in item rails is inaccessible via `shift + click`\n\n# 17 August\n\n## Note After Installing 0.0.2\n\n- [ ] **Fix:** Sidebar collapse shortcut doesn't work properly when detailed pane is opened\n- [x] **Fix:** Theme for better contrast and a11y. Also for the markdown render theme\n  - For instance, code block background; checkbox background and border are very hard to visually distinct \n- [x] **Polish**: Markdown render on the split node has a small-delay. Not to a point where it can be a constraint for the user, but just doesn't show attention to detail. It should be instantly rendered for every keystroke (like the original Codemirror implementation)\n- [x] **Polish:** In read mode, we need a `selection -> Copy` interaction \n- [x] **Polish:** For the text selection, it should be coloured that aligns with our primary theme\n- [x] **Polish**:  Markdown source theme is not very good, there should be a 'syntax highlighting' to improve the writing experiences\n- [x] **Fix:** Checkbox clicking responsivity is different in live mode and read mode. Read mode takes a little bit delay. Live mode is instant. \n  - The instant responsivity also apply to `markdown source` and `split mode`\n- [x] **Confirm**: How is pressing tab in writing down notes should behave? The current behaviour is the it shifting focus elements next to it (and for `shift + tab`, it changes to element previous to it). I believe this interaction is flawed and shouldn't be the 'right' behaviour\n- [x] **Polish:** What is the background that we are using in when note is opened in a new tab? Our current default background for zen mode should be this one (the one when we opened a note in separate tab)\n- [x] **Confirm:** Current the note in the rails are rendered item normal format (just regular text format, not markdown like previous implementation). Q: Why? How expensive it is to our performance if we bring back the markdown render? Also is it already 'optimized' by not rendering the full contents (and just render the earlier part of the document that is visible in the note card)? \n- [x] **Confirm:** Is it possible to test a mac build app in our current device (windows)?\n- [x] **Polish:** Text strikethrough and de-contrast for the completed tasks item\n- [ ] **Confirm:** If our current task element is way too scrolled to the bottom, in a long note for instance, toggling the task's checkbox result in shifted scrolled position. This interaction doesn't exist in live mode. \n- [x] **Confirm:** When we're scrolled in the middle of a long note, toggling `ctrl +e` results in 'layout shift', like a shifted up-and-down as we toggle the note control back-and-forth from read to live (and to read again). The layout shift ONLY occur when we go from read to live, nothing is shifted from live to read. Please check this issue and integrate a fix\n\n# 18 August\n\n- [ ] The current checkbox render in item rails is not looking good, the indentation problem and the component that it's using\n\n## Vim Problems\n\n- The live mode and the source mode vim should be the 'same' in terms of the implementation. \n- Try to have as minimum of 'custom implementation' that we built from scratch as possible. Use available solution like ProseMirror vim package\n- The text selection doesn't in source mode doesn't look the same as the other modes\n- YAML view in source mode shouldn't be highlighted as much as now (it is currently has bigger text sizes\n- The cursor in source mode is not visible (the insert mode). It is basically black (even if we're in a dark mode which make it almost invisible)\n- The Live mode cursor is not the same, it should use the same colour as the source mode (so it is more visible on top of the active line background)\n- Toggling Ctrl + E from source or split mode should into\n- How the text is selecting in source mode seems weird, it doesn't follow the actual text (the left side margin that is not part of the texts are also selected) ![View error in selecting](./image-2026-08-18-214948.png)\n",
+        "body": "# 20 August\n\n- Current vim mode status is very good and is positioned in the status bar\n- Maybe every `:` or `/` event should use a 'new input' that is positioned on the centre-top area of our current writing canvas (inspired by Neovim mode in VSCode and Vim mode in Zed)\n- Live mode and read mode has different scroll position\n- If we're in a X scroll position in live mode, then we switch to read mode, it moves use to the new scroll position (Y).\n  - And switching back to live mode will our scroll position to X (and switching to read mode will return us back again to Y scroll position)\n- Copy path for the current item (Note)\n- For indented instances in our bullet points, the new line is not indented and is wrapped like a normal text\n- Also show in the 'syntax highlighting' for our list hierarchy\n  - Q: Is his our current syntax highlighting implementation is a custom or there's a convention from CodeMirror? How customizable is it?\n- This also occur in our other elements like tasks\n  - Q: is CodeMirror has their own plugin or convention for handling this?\n  - What's the line height? is this handled separately with our current `typeset.css`?\n- There's a case that Vim mode is already activated but changing it to markdown source mode and  the editor isn't recognizing it.\n  - Switching back the Vim mode again in the markdown source, then will trigger the Vim mode to be activated\n- Managing attachments should be in a dropdown-like UI and interaction\n- Findings: restarting the app while in split mode with vim mode activated, is mounted without the Vim activated. It should explicitly be re-toggled for the Vim to work again\n\n## Features\n\n- [x] feature implementation: wrapped heading for better note organizations\n\n# 19 August\n\n- When using `/` command to  apply formatting, navigating with up and down arrow doesn't scroll the formatting options\n- In source mode, how is our task and bullet points represented in  `*[ ]` and `*` instead of `- [ ]` and `-`\n- Update the table design, add distinctive column borders and make the outer border for the table rounded\n- Vim mode indicator should not be placed at the header, brainstorm with me on this one. Where conventionally it should be put?\n- Move vim toggling to our settings, it shouldn't be that accessible to toggle from on and off\n\n## For later\n\n- Header toggling\n- Currenlty, live writing mode should be considered as a immature feature since it is not yet ready for production\n  - Code mirror implemenation for markdown writing should be our main functionality. Live mode should be put into a `beta` feature since it is very hard to integrate a 'good enough' user experience\n- Redesign the search input bar for Vim implementation\n- Check how the CodeMirror (source mode) vim design is implemented, and try to match that with our ProseMirror/Milkdown implementation (live mode)\n\n# 18 August\n\n- [ ] The current checkbox render in item rails is not looking good, the indentation problem and the component that it's using\n\n## Vim Problems\n\n- The live mode and the source mode vim should be the 'same' in terms of the implementation.\n- Try to have as minimum of 'custom implementation' that we built from scratch as possible. Use available solution like ProseMirror vim package\n- The text selection doesn't in source mode doesn't look the same as the other modes\n- YAML view in source mode shouldn't be highlighted as much as now (it is currently has bigger text sizes\n- The cursor in source mode is not visible (the insert mode). It is basically black (even if we're in a dark mode which make it almost invisible)\n- The Live mode cursor is not the same, it should use the same colour as the source mode (so it is more visible on top of the active line background)\n- Toggling Ctrl + E from source or split mode should into\n- How the text is selecting in source mode seems weird, it doesn't follow the actual text (the left side margin that is not part of the texts are also selected) ![View error in selecting](./image-2026-08-18-214948.png)\n\n# 17 August\n\n## Note After Installing 0.0.2\n\n- [ ] **Fix:** Sidebar collapse shortcut doesn't work properly when detailed pane is opened\n- [x] **Fix:** Theme for better contrast and a11y. Also for the markdown render theme\n  - For instance, code block background; checkbox background and border are very hard to visually distinct\n- [x] **Polish**: Markdown render on the split node has a small-delay. Not to a point where it can be a constraint for the user, but just doesn't show attention to detail. It should be instantly rendered for every keystroke (like the original Codemirror implementation)\n- [x] **Polish:** In read mode, we need a `selection -> Copy` interaction\n- [x] **Polish:** For the text selection, it should be coloured that aligns with our primary theme\n- [x] **Polish**:  Markdown source theme is not very good, there should be a 'syntax highlighting' to improve the writing experiences\n- [x] **Fix:** Checkbox clicking responsivity is different in live mode and read mode. Read mode takes a little bit delay. Live mode is instant.\n  - The instant responsivity also apply to `markdown source` and `split mode`\n- [x] **Confirm**: How is pressing tab in writing down notes should behave? The current behaviour is the it shifting focus elements next to it (and for `shift + tab`, it changes to element previous to it). I believe this interaction is flawed and shouldn't be the 'right' behaviour\n- [x] **Polish:** What is the background that we are using in when note is opened in a new tab? Our current default background for zen mode should be this one (the one when we opened a note in separate tab)\n- [x] **Confirm:** Current the note in the rails are rendered item normal format (just regular text format, not markdown like previous implementation). Q: Why? How expensive it is to our performance if we bring back the markdown render? Also is it already 'optimized' by not rendering the full contents (and just render the earlier part of the document that is visible in the note card)?\n- [x] **Confirm:** Is it possible to test a mac build app in our current device (windows)?\n- [x] **Polish:** Text strikethrough and de-contrast for the completed tasks item\n- [ ] **Confirm:** If our current task element is way too scrolled to the bottom, in a long note for instance, toggling the task's checkbox result in shifted scrolled position. This interaction doesn't exist in live mode.\n- [x] **Confirm:** When we're scrolled in the middle of a long note, toggling `ctrl +e` results in 'layout shift', like a shifted up-and-down as we toggle the note control back-and-forth from read to live (and to read again). The layout shift ONLY occur when we go from read to live, nothing is shifted from live to read. Please check this issue and integrate a fix\n\n# 15 August\n\n- [x] When the active cursor is at the bottom of the page when we continue write the document further than the height of the pane. It is very 'packed'  and is at the bottom of our screen need more space/room\n- [ ] What is the recommended settings for performance also for aesthetic? The user should also can picked which one suits their needs the best\n- [x] Please integrate a feature for pin items? The goal of this feature is to provide user a way to put item on a 'watchlist', that they constantly looking up to or providing updates to\n- [x] Renaming title for the focused detailed pane document via `f2`. Currently there is no quick access to rename the title of the document we're writing in. It should renaming should be in inline in our detail pane title header. But we now allow renaming via focusing an instance in our item rails and this is a **very good UX**\n\n![](./image-2026-08-15-160118.png)\n\n- [x] Opening an item navigates us into a detailed view. But the item rails on the left side is not scrolled to the selected item (instead it started from the top)\n  ![700](./image-2026-08-15-184107.png)\n\n  - [x] Terrible placement for the callout (\"Unable to Complete Action. These items are already in Trash\"). This should be in a Sonner\n\n- [x] Multi select in item rails is inaccessible via `shift + click`\n\n# 14 August\n\n- [x] Integrate a performance measurement to understand how performant the current implementation is\n- [x] Right-clicking in our index item doesn't open the context menu. Right-clicking item in visual mode works and opens the context menu (but not in index mode)\n- [x] Our checkbox is placement is has a bit offset to the top. Maybe shift it to the bottom by 1px\n- [x] Cannot access developer tools  via `f12`\n- [x] Zen mode key toggle doesn't works\n- ![The selected UI indicator should look like this, it should use the 'active' item state without the left border for indicator](./image-2026-08-15-144635.png)\n- [x] Date system should also follow created and updated, not only updated. The index item rail keep showing 'Just now' every time we update or if any changes occur. This doesn't provide a useful information for the user when is the item created (which more important than 'Just now' every time')\n\n* [x] Badge redesign for a11y, add a bit border (the badges are \"Note\", \"Link\", etc.). The badge should also in colours that is complement to our primary colour\n* [x] `Ctrl + F` or find and replace functionality doesn't work in live and read mode. For Read mode, it should only Find (without the replace)\n* [x] When our notes it scrolled away, toggling from live mode to read mode behaves normally. But from read mode to live mode, we immediately scrolled to the beginning line and is prompted to write from the starting point of the document\n* [x] **Confirm/Check:** Is it true if the user will experience lag or slow downs when they open a big repository/vault for the first time? If yes, is it because the app is creating a new cache for the starter? If yes, the user should be informed via toast/Sonner would be good\n* [x] Starting app speed is really good. Also, what happen if we open more than one App window? I tried that, but nothing happened. But what ***should*** happen\n* [x] **Confirm/Check:** In 'All Items' menu how are the items are loaded? The items are very resource intensive by rendering markdowns for each notes. What is the best way to load them?\n\n- Also, is each of these note are rendered all the way through? For instance of the document can show thousands of lines of many different heavy elements like code block, images and links. Are these fully rendered also? Even if the preview is very small and shows only the early small part of the document (that is visible to the rail preview card)?\n- Confirm/Check: Is 'blurring' features performant? For instance blurring the background in the dialog\n- Why was my `%APPDATA%` has 3-4 GB in size?\n- Delay in writings.\n- Is toggling between the translucent activity will affect our performance on the same session?\n  - Meaning, if I already have the translucent activated and use the app normally, I will have better performance than if I turn off the translucent but didn't restart the app.\n- For versioning, is it starting on 0.0.1 or 1.0.0? I think is the former choice\n- Link detection can be flawed. For instance copy this to the quick composer `https://native-sdk.dev/` it won't be saved as a link. Instead it added a new note\n- [x] There is some flickering in the code block that is rendered in the item rails. It flicker for every keystroke or mouse clicks. The code block flicker from empty code block, then the content appear for every event keyboard or mouse. We haven't confirmed it this only happens to code block or not\n\n# 13 August\n\n- [x] **Confirm/Check:** We should confirm the existing implementation about the image embedding feature. We should check how image is embedded and how it looks like in the Markdown source\n- [x] **Confirm/Check:** Scrolling through the main item visual rails is 'kind of' heavy. Is it normal because each note item is rendering 'markdown'? It happens in 100 notes, not after 1000\n- [x] Writing down markdown doesn't feel any different from this app to other writing app (Obsidian, Evernote)? 95% of the markdown writing part is basically functioning very well\n",
         "createdAt": "2026-08-15T05:06:32.510Z",
-        "updatedAt": "2026-08-20T05:54:05.768Z",
+        "updatedAt": "2026-08-22T07:33:40.703Z",
         "missingContent": false,
         "attachments": [
           {
-            "id": "e3300b4f-9aa2-45e6-8061-f71312acde90",
-            "filename": "image-2026-08-15-144635.png",
-            "relativePath": "./image-2026-08-15-144635.png",
-            "sourceFilename": "image-2026-08-15-144635.png",
+            "id": "fc43883d-d694-4b1c-9028-49db5f3c3aa0",
+            "filename": "image-2026-08-18-214948.png",
+            "relativePath": "./image-2026-08-18-214948.png",
+            "sourceFilename": "image-2026-08-18-214948.png",
             "mediaType": "image/png",
-            "width": 1489,
-            "height": 1020,
+            "width": 935,
+            "height": 541,
             "missingContent": false
           },
           {
@@ -476,13 +521,13 @@
             "missingContent": false
           },
           {
-            "id": "fc43883d-d694-4b1c-9028-49db5f3c3aa0",
-            "filename": "image-2026-08-18-214948.png",
-            "relativePath": "./image-2026-08-18-214948.png",
-            "sourceFilename": "image-2026-08-18-214948.png",
+            "id": "e3300b4f-9aa2-45e6-8061-f71312acde90",
+            "filename": "image-2026-08-15-144635.png",
+            "relativePath": "./image-2026-08-15-144635.png",
+            "sourceFilename": "image-2026-08-15-144635.png",
             "mediaType": "image/png",
-            "width": 935,
-            "height": 541,
+            "width": 1489,
+            "height": 1020,
             "missingContent": false
           }
         ],
@@ -491,24 +536,6 @@
           "collectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36"
         },
         "relativePath": "dev/mock/Note After Install 0.0.2.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "b6a1609f-e97e-4ebe-ac36-8768fcc07253",
-        "type": "note",
-        "title": "Mermaid Test",
-        "body": "",
-        "createdAt": "2026-08-14T13:09:56.533Z",
-        "updatedAt": "2026-08-15T11:17:59.609Z",
-        "missingContent": true,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/b6a1609f-e97e-4ebe-ac36-8768fcc07253/Mermaid Test.md",
         "referencedAttachment": false
       },
       {
@@ -534,127 +561,6 @@
           "collectionId": "3448af25-319c-4ea8-881c-9202981a5091"
         },
         "attachmentOrigin": null
-      },
-      {
-        "schemaVersion": 2,
-        "id": "dcc271a3-a2d7-4350-90d3-2f9ebebb132d",
-        "type": "image",
-        "title": "image-2026-08-14-142453",
-        "createdAt": "2026-08-14T05:24:53.391Z",
-        "updatedAt": "2026-08-14T05:24:53.443Z",
-        "sourceUrl": null,
-        "sourceFilename": "image-2026-08-14-142453.png",
-        "contentFilename": "image-2026-08-14-142453.png",
-        "mediaType": "image/png",
-        "width": 843,
-        "height": 500,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": "public/design references/image-2026-08-14-142453.png",
-        "referencedAttachment": false,
-        "attachmentOrigin": "note-capture",
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "21d1ddef-d6ed-446c-8b15-886c9398791d"
-        }
-      },
-      {
-        "schemaVersion": 2,
-        "id": "05e6d82f-9fb5-4949-a1b6-832df57933da",
-        "type": "image",
-        "title": "image-2026-08-14-142406",
-        "createdAt": "2026-08-14T05:24:06.614Z",
-        "updatedAt": "2026-08-14T05:24:06.656Z",
-        "sourceUrl": null,
-        "sourceFilename": "image-2026-08-14-142406.png",
-        "contentFilename": "image-2026-08-14-142406.png",
-        "mediaType": "image/png",
-        "width": 1308,
-        "height": 975,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": "public/design references/image-2026-08-14-142406.png",
-        "referencedAttachment": false,
-        "attachmentOrigin": "note-capture",
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "21d1ddef-d6ed-446c-8b15-886c9398791d"
-        }
-      },
-      {
-        "schemaVersion": 2,
-        "id": "99aa1cd8-7d6a-4e20-aab8-1801c7ac5e7c",
-        "type": "image",
-        "title": "image-2026-08-14-093453",
-        "createdAt": "2026-08-14T00:34:53.176Z",
-        "updatedAt": "2026-08-14T00:34:53.223Z",
-        "sourceUrl": null,
-        "sourceFilename": "image-2026-08-14-093453.png",
-        "contentFilename": "image-2026-08-14-093453.png",
-        "mediaType": "image/png",
-        "width": 1919,
-        "height": 1012,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": "public/design references/image-2026-08-14-093453.png",
-        "referencedAttachment": false,
-        "attachmentOrigin": "note-capture",
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "21d1ddef-d6ed-446c-8b15-886c9398791d"
-        }
-      },
-      {
-        "schemaVersion": 2,
-        "id": "e188179a-95b1-42c5-bebe-a5ca35a887df",
-        "type": "note",
-        "title": "First time install note for Kuskus (Actual dogfood)",
-        "body": "## 13 August\n\n![](../../../public/design%20references/image-2026-08-14-093453.png)Hello world\n\n1. Paste-ing an screenshot from clipboard doesn't work\n2. Solarized theme sucks\n3. Toggling back-and-forth for from our current app  should also automatically focuses into the editor (there should be a highlighted line and a blinking cursor)\n4. Vim mode can be good, but does it have the implementation in our prosemirror or milkdown?\n\n***\n\n## 14 Agustus 2026\n\n1. Remote image issue\n   1.  I think we should also be able to render remote image\n2. `<br/>` still rendered randomly thorughout our documents \n   1. In read mode to be precise\n3. Different checkbox design in live/edit mode\n4. App is very slow. Optimization is needed but not desperately\n   1. In-app speed is everything, smooth interaction is what we need\n5. Codeblock sometimes are empty (not rendered?) in existing documents\n6. Apply shortcut to our current zen mode\n7. Mermaid render\n8. Item rails date info is updated, not created\n9. Codeblock background for our math (if inline, we dont have to)\n10. Item title renaming sometimes is not lively rendered (the item rails already updated, but the title in our detail pane isn't)\n11. Image interaction? \n12. Sonner design\n\n***\n\n![](../../../public/design%20references/image-2026-08-14-142406.png)I dont know what should i integrate right now\n\n![](../../../public/design%20references/image-2026-08-14-142453.png)\n\n* Make on boarding feature way less boring right now\n",
-        "createdAt": "2026-08-13T13:49:34.353Z",
-        "updatedAt": "2026-08-16T13:25:34.077Z",
-        "missingContent": false,
-        "attachments": [
-          {
-            "id": "99aa1cd8-7d6a-4e20-aab8-1801c7ac5e7c",
-            "filename": "image-2026-08-14-093453.png",
-            "relativePath": "../../../public/design references/image-2026-08-14-093453.png",
-            "sourceFilename": "image-2026-08-14-093453.png",
-            "mediaType": "image/png",
-            "width": 1919,
-            "height": 1012,
-            "missingContent": false
-          },
-          {
-            "id": "05e6d82f-9fb5-4949-a1b6-832df57933da",
-            "filename": "image-2026-08-14-142406.png",
-            "relativePath": "../../../public/design references/image-2026-08-14-142406.png",
-            "sourceFilename": "image-2026-08-14-142406.png",
-            "mediaType": "image/png",
-            "width": 1308,
-            "height": 975,
-            "missingContent": false
-          },
-          {
-            "id": "dcc271a3-a2d7-4350-90d3-2f9ebebb132d",
-            "filename": "image-2026-08-14-142453.png",
-            "relativePath": "../../../public/design references/image-2026-08-14-142453.png",
-            "sourceFilename": "image-2026-08-14-142453.png",
-            "mediaType": "image/png",
-            "width": 843,
-            "height": 500,
-            "missingContent": false
-          }
-        ],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/e188179a-95b1-42c5-bebe-a5ca35a887df/First time install note for Kuskus (Actual dogfood).md",
-        "referencedAttachment": false
       },
       {
         "schemaVersion": 2,
@@ -1113,101 +1019,6 @@
           "collectionId": "f8bc858e-238f-45d1-a41f-119210d18abd"
         },
         "attachmentOrigin": null
-      },
-      {
-        "schemaVersion": 2,
-        "id": "a94b5b03-d734-4dfd-9413-c1d9197b4570",
-        "type": "file",
-        "title": "metadata",
-        "createdAt": "2026-07-22T04:01:02.354Z",
-        "updatedAt": "2026-07-22T04:01:02.355Z",
-        "sourceFilename": "metadata.opf",
-        "contentFilename": "metadata.opf",
-        "mediaType": "application/octet-stream",
-        "size": 1014,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "dadc882c-61e7-4ad1-91dc-515447e8ebda"
-        },
-        "relativePath": "_calibre/Unknown/My Clippings (15)/metadata.opf",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "0295c74e-7b3b-4e08-9dca-b017a918a132",
-        "type": "file",
-        "title": "metadata",
-        "createdAt": "2026-07-22T04:01:00.130Z",
-        "updatedAt": "2026-07-22T04:01:00.131Z",
-        "sourceFilename": "metadata.opf",
-        "contentFilename": "metadata.opf",
-        "mediaType": "application/octet-stream",
-        "size": 1236,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "46113401-00b3-4944-bca9-31b8f49e9087"
-        },
-        "relativePath": "_calibre/Unknown/Oxford Dictionary of English (5)/metadata.opf",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "c0724392-887f-48f0-af02-17d101080efe",
-        "type": "file",
-        "title": "metadata",
-        "createdAt": "2026-07-22T04:00:55.707Z",
-        "updatedAt": "2026-07-22T04:00:55.707Z",
-        "sourceFilename": "metadata.opf",
-        "contentFilename": "metadata.opf",
-        "mediaType": "application/octet-stream",
-        "size": 1003,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "e8f97548-97c4-462e-98e6-822ff63484d6"
-        },
-        "relativePath": "_calibre/Unknown/Mydict (12)/metadata.opf",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "7711e256-a789-4a0f-9767-87b95511ccff",
-        "type": "file",
-        "title": "metadata",
-        "createdAt": "2026-07-22T04:00:53.486Z",
-        "updatedAt": "2026-07-22T04:00:53.499Z",
-        "sourceFilename": "metadata.opf",
-        "contentFilename": "metadata.opf",
-        "mediaType": "application/octet-stream",
-        "size": 1202,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "99bb7603-fcf2-4a9b-a07e-bb43150e4ca3"
-        },
-        "relativePath": "_calibre/Oxford University Press/Oxford Spanish - English Dictionary (7)/metadata.opf",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "47740f4b-3d82-4a33-b69a-cbe2eb451869",
-        "type": "file",
-        "title": "metadata",
-        "createdAt": "2026-07-22T04:00:51.265Z",
-        "updatedAt": "2026-07-23T13:46:31.635Z",
-        "sourceFilename": "metadata.opf",
-        "contentFilename": "metadata.opf",
-        "mediaType": "application/octet-stream",
-        "size": 2863,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "08a7c571-b06c-486d-9f32-01ce97d348b3"
-        },
-        "relativePath": "_calibre/Warren Farrell/The Boy Crisis_ Why Our Boys Are Str (8)/metadata.opf",
-        "referencedAttachment": false
       },
       {
         "schemaVersion": 2,

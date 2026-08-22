@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "id": "901a2b9c-153f-48af-b24b-b00e9f8835c2",
+  "relativePath": ".kuskus/trash/901a2b9c-153f-48af-b24b-b00e9f8835c2/Google Maps.url",
+  "fingerprint": "b22d4750b2f310eb6043a25d6c4454487f023da1d55cd0273a106a413ad510be",
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "901a2b9c-153f-48af-b24b-b00e9f8835c2",
+    "type": "url",
+    "title": "Google Maps",
+    "createdAt": "2026-08-20T18:56:38.843Z",
+    "updatedAt": "2026-08-20T18:56:38.899Z",
+    "sourceUrl": "https://www.google.com/maps/place/REFLEKSI+MASTER+JETLI+SORONG/@-0.8896848,131.2940737,20.25z/data=!4m6!3m5!1s0x2d59558a0028c55b:0x6e76e03fabef9b00!8m2!3d-0.8894112!4d131.2978208!16s%2Fg%2F11gh9p3_zm?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+    "sourceFilename": null,
+    "contentFilename": null,
+    "domain": "www.google.com",
+    "description": "Mencari bisnis lokal, melihat peta, dan melihat rute di Google Maps.",
+    "faviconUrl": "https://www.google.com/images/branding/product/ico/web_maps_icon_32dp.ico",
+    "previewImageUrl": "https://maps.google.com/maps/api/staticmap?center=-0.8896848%2C131.2940737&zoom=20&size=900x900&language=en&sensor=false&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0&signature=I8ElSD7wPIU0Q48PP3WZKVE6zYU",
+    "siteName": "Google Maps",
+    "contentKind": "webpage",
+    "metadataVersion": 2,
+    "metadataStatus": "ready",
+    "metadataError": null,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": ".kuskus/trash/901a2b9c-153f-48af-b24b-b00e9f8835c2/Google Maps.url",
+    "referencedAttachment": false,
+    "trashedFrom": "inbox",
+    "trashedFromRelativePath": "Google Maps.url"
+  },
+  "recovery": {
+    "lastSeenAt": "2026-08-20T18:56:38.899Z",
+    "missingSince": "2026-08-20T19:04:08.001Z"
+  }
+}

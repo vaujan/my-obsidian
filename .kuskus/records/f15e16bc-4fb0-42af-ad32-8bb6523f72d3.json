@@ -2,12 +2,12 @@
   "schemaVersion": 2,
   "id": "f15e16bc-4fb0-42af-ad32-8bb6523f72d3",
   "relativePath": "dev/mock/The -grill-me Skills.md",
-  "fingerprint": "3674a03c96fa124682f0cfc1df292f50d61516a4ef2ba2cd5d3d3e1eb7702761",
-  "fileIdentity": "3121943230:76842668642024380",
-  "fileSize": 5673,
-  "modifiedAtMs": 1786605800430.9683,
+  "fingerprint": "ea6e4d96eb381c04d5b090a25097d02549bfda459b875ad2fd7143f1f10bd659",
+  "fileIdentity": "3121943230:27584547717804720",
+  "fileSize": 5711,
+  "modifiedAtMs": 1788324556683.873,
   "recovery": {
-    "lastSeenAt": "2026-08-14T13:00:24.434Z",
+    "lastSeenAt": "2026-09-02T04:49:17.104Z",
     "missingSince": null
   },
   "metadata": {
@@ -16,7 +16,7 @@
     "type": "note",
     "title": "The -grill-me Skills",
     "createdAt": "2026-08-06T13:12:08.321Z",
-    "updatedAt": "2026-08-13T07:23:20.431Z",
+    "updatedAt": "2026-09-02T04:49:16.684Z",
     "sourceUrl": null,
     "sourceFilename": null,
     "contentFilename": "The -grill-me Skills.md",

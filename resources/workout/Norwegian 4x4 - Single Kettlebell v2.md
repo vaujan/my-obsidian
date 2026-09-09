@@ -1,6 +1,8 @@
-2026-07-05 16:28
+---
+date: 2026-07-05 16:28
 links: https://www.youtube.com/watch?v=3MAp398Ef6Y
 tags: #workout
+---
 
 # Workout Protocol
 > Protocol: 4 Blocks | 4 Mins Work | 3 Mins Rest. Aim for 85–95% HRmax (Zone 4/5).

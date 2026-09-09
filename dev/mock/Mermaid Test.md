@@ -1,6 +1,5 @@
 ---
 title: "Mermaid test for markdown rendering"
-tags: - hello_world
 ---
 ## Sankey graph 
 

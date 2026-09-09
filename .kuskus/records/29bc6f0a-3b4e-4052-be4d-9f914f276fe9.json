@@ -1,28 +1,29 @@
 {
   "schemaVersion": 2,
   "id": "29bc6f0a-3b4e-4052-be4d-9f914f276fe9",
-  "relativePath": "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
-  "fingerprint": "a689ef89e7f9bdcf2353bf236597f805660db1a63fbffee979fac208422ec10e",
-  "fileIdentity": "3121943230:5348024558247066",
-  "fileSize": 1053,
-  "modifiedAtMs": 1785265505643.2979,
+  "relativePath": "drafts/2026-07-09 17-56.md",
+  "fingerprint": "fb0c5c23c0c83bc06bfbb9723eeefbd4753326e2956a768a7bd6e0d1ca6af0ee",
+  "fileIdentity": "3121943230:13510798882124320",
+  "fileSize": 1054,
+  "modifiedAtMs": 1788959052689.6035,
   "recovery": {
-    "lastSeenAt": "2026-08-09T06:43:04.210Z",
+    "lastSeenAt": "2026-09-09T13:04:17.653Z",
     "missingSince": null
   },
   "metadata": {
     "schemaVersion": 2,
     "id": "29bc6f0a-3b4e-4052-be4d-9f914f276fe9",
     "type": "note",
-    "title": "Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain",
+    "title": "2026-07-09 17-56",
     "createdAt": "2026-07-09T08:54:20.183Z",
-    "updatedAt": "2026-07-28T19:05:05.643Z",
+    "updatedAt": "2026-09-09T13:04:12.690Z",
     "sourceUrl": null,
     "sourceFilename": null,
-    "contentFilename": "note.md",
+    "contentFilename": "2026-07-09 17-56.md",
     "note": "",
     "originalCollectionId": null,
-    "relativePath": "drafts/Tujuan meditasi adalah adalah untuk berhenti memisahkan bermeditasi dengan aktivitas harian lain.md",
-    "referencedAttachment": false
+    "relativePath": "drafts/2026-07-09 17-56.md",
+    "referencedAttachment": false,
+    "titleSource": "custom"
   }
 }

@@ -1,0 +1,16 @@
+- Horizontal scrollbar in notes still visible and only switched the app in a very little. The scrollbar positions in overview should be hidden
+- Persistent caret positions when switching between modes
+- Pressing `Ctrl + B` for in vim mode in note editing/writing for **bolding** texts when we 
+- Remove unnecessary elements
+    - Border in our status bar in notes 
+    - Border/separator between rails and detail pane
+    - Background differences between detail pane's header and its body
+- Floating sidebar design adjustment:
+    - Instead of creating a UI switch, can we make it **floating**, where it levitates on top of the other contents 
+- Library search adjustment:
+    - We should integrate a more translucency *vibe*, like how context menu or dropdown menu work with it. 
+- a11y issue: 
+    - Sidebar item's active state in window material mode activated
+- Bring back slash menu `/` 
+- Inline formatting when selecting texts
+- Unfolding lines and trailing lines that shows our 

@@ -2,12 +2,12 @@
   "schemaVersion": 2,
   "id": "c7b9a8ef-dab5-4a7c-b28a-1257dc1c745b",
   "relativePath": "essays/20 Perintah untuk Penulis Amatir.md",
-  "fingerprint": "7795ce928f44ebafc3c8b562622bd6dc5ce092ae29fcf1f11964de36c6efb4dc",
-  "fileIdentity": "3121943230:5348024558247075",
-  "fileSize": 1763,
-  "modifiedAtMs": 1785265505662.4673,
+  "fingerprint": "f40e5a7eab76ce3aff3d3c2dfb818f62e4bf9cadabc8e2a00deaad7109645293",
+  "fileIdentity": "3121943230:16325548649227600",
+  "fileSize": 1755,
+  "modifiedAtMs": 1788958551178.6602,
   "recovery": {
-    "lastSeenAt": "2026-08-09T06:43:04.210Z",
+    "lastSeenAt": "2026-09-09T12:55:51.530Z",
     "missingSince": null
   },
   "metadata": {
@@ -16,13 +16,14 @@
     "type": "note",
     "title": "20 Perintah untuk Penulis Amatir",
     "createdAt": "2026-07-03T01:56:17.179Z",
-    "updatedAt": "2026-07-28T19:05:05.662Z",
+    "updatedAt": "2026-09-09T12:55:51.179Z",
     "sourceUrl": null,
     "sourceFilename": null,
-    "contentFilename": "note.md",
+    "contentFilename": "20 Perintah untuk Penulis Amatir.md",
     "note": "",
     "originalCollectionId": null,
     "relativePath": "essays/20 Perintah untuk Penulis Amatir.md",
-    "referencedAttachment": false
+    "referencedAttachment": false,
+    "titleSource": "derived"
   }
 }

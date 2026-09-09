@@ -9,5 +9,5 @@ Where users configure exactly which notifications they receive, through which ch
 
 - [x] Frequency controls — Where applicable, controls for how often notifications arrive e.g. immediately, daily digest, or weekly summary.
 - [x] Global mute — A way to temporarily silence all notifications without having to turn each one off individually
-- [ ] Save confirmation — A clear indication that preference changes have been saved.
+- [x] Save confirmation — A clear indication that preference changes have been saved.
   * 💡 Auto-save works well also, the key thing is ensuring the user is aware the changes are enabled as often they are customising due to preference or annoyance

@@ -3,7 +3,8 @@
 - Current vim mode status is very good and is positioned in the status bar
 - Maybe every `:` or `/` event should use a 'new input' that is positioned on the centre-top area of our current writing canvas (inspired by Neovim mode in VSCode and Vim mode in Zed)
 - Live mode and read mode has different scroll position
-- If we're in a X scroll position in live mode, then we switch to read mode, it moves use to the new scroll position (Y).
+- If we're in a X scroll position in live mode, then we switch to read mode, it moves use to the new scroll 
+position (Y).
   - And switching back to live mode will our scroll position to X (and switching to read mode will return us back again to Y scroll position)
 - Copy path for the current item (Note)
 - For indented instances in our bullet points, the new line is not indented and is wrapped like a normal text
@@ -19,7 +20,7 @@
 
 ## Features
 
-- [x] feature implementation: wrapped heading for better note organizations
+- [ ] feature implementation: wrapped heading for better note organizations
 
 # 19 August
 
@@ -27,7 +28,7 @@
 - In source mode, how is our task and bullet points represented in  `*[ ]` and `*` instead of `- [ ]` and `-`
 - Update the table design, add distinctive column borders and make the outer border for the table rounded
 - Vim mode indicator should not be placed at the header, brainstorm with me on this one. Where conventionally it should be put?
-- Move vim toggling to our settings, it shouldn't be that accessible to toggle from on and off
+  - Move vim toggling to our settings, it shouldn't be that accessible to toggle from on and off
 
 ## For later
 

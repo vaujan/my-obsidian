@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "libraryId": "9eed48f3-1aff-4083-afa6-0049e96c9720",
-  "writtenAt": "2026-09-10T12:50:12.079Z",
+  "writtenAt": "2026-09-10T22:52:08.616Z",
   "library": {
     "schemaVersion": 2,
     "id": "9eed48f3-1aff-4083-afa6-0049e96c9720",
@@ -10,7 +10,8 @@
     "archiveDirectory": "Archive",
     "pinnedItemIds": [
       "3cf54086-c15c-4f1a-b7f0-7c273e3c9136",
-      "ca4c8c5e-f1fc-4dab-91c5-8a8d87613a4f"
+      "ca4c8c5e-f1fc-4dab-91c5-8a8d87613a4f",
+      "63245429-3794-460e-917a-83f475671451"
     ],
     "path": "C:\\Users\\Fauzan\\Documents\\fauzan-obsidian",
     "items": [
@@ -20,15 +21,16 @@
         "type": "note",
         "title": "Usability Test",
         "titleSource": "custom",
-        "body": "- The floating sidebar should only occur in the smallest breakpoint\n- Languages support: \n    - Vocabulary support in the to check typos\n- For our current zen mode, always show the 'quit zen mode' button\n- Setting still sucks, it should be integrated as a separate window like how obsidian does it",
+        "body": "## findings\n- The main app's layout (overview) looks sucks. The action buttons is not highlighted, there is not true workflow that can be done only via keyboard\n    - But we have two different main actions: `Add item` and `Add note`\n    - For \"**Add Note**\" Maybe it's this: `ctrl + n` -> `Type a content` -> `Done`\n- The floating sidebar should only occur in the smallest breakpoint\n- In the narrowest breakpoint, it works flawlessly. But the chevron icon button should be changed to a hamburger buttons (stacked horizontal lines)\n- Languages support: \n    - Vocabulary support in the to check typos\n    - User should able to pick which languages that their content supports\n- Separated font system for Note content. This one should be separated from the UI font and the code font (which is obvious)\n    - Some user may prefer to have their content presented in serif font, while keeping the rest of the app the way it is (code still use the dedicated code font)\n- For our current zen mode, always show the 'quit zen mode' button\n- Setting still sucks, it should be integrated as a separate window like how obsidian does it\n- The slash menu still doesn't open, here's I found it\n    - I'm in live mode, then I press `/`. Nothing happened. Is this expected?  \n- The horizontal scrollbar in code block, still appears in the rails and overview card (we don't open in and is not in detail pane)\n- Sidebar toggle doesn't works in when detail pane is opened\n\n#### 11/09/2026\n- The icon buttons (sort and filter button, new note button, and new item button) should be improved to show the 'lifted' state better\n    - For instance, our filter button shows a \n\n## need to be grilled\n- Table and images editing/writing experiences in live mode should be improved. The user should able to write table and images content expecting anything to break \n- Inline formatting when selecting texts using cursor\n    - Why I need to explicitly says 'using cursor', because selecting it via Vim's visual mode doesn't seem to be *intuitive*\n- Unfolding lines and trailing lines that shows our the indentation levels\n    - The trailing lines features for nested content appear in our current source mode\n    - We just want it in our current live mode\n- In vim mode, should pressing `Ctrl + B` in note editing/writing bold the text? How should we work with other inline formatting while in Vim mode? How's obsidian implementing it? \n- Persistent caret positions when switching between modes\n    - Let say we're in live mode and we select multiple lines, switching to read mode and then back to live mode, we should the previous selected texts. This interaction appears in Obsidian and it's good",
         "createdAt": "2026-09-10T12:21:18.032Z",
-        "updatedAt": "2026-09-10T12:49:59.944Z",
+        "updatedAt": "2026-09-10T16:59:52.713Z",
         "missingContent": false,
         "attachments": [],
         "location": {
-          "type": "inbox"
+          "type": "collection",
+          "collectionId": "214a8412-84c1-4aab-b8ec-4a5e417279c0"
         },
-        "relativePath": "Usability Test.md",
+        "relativePath": "dev/Usability Test.md",
         "referencedAttachment": false
       },
       {
@@ -160,15 +162,16 @@
         "type": "note",
         "title": "Improvement for Current App",
         "titleSource": "custom",
-        "body": "# 10/09/2026 \n\n- Horizontal scrollbar in notes still visible and it only scroll the app horizontally very little. The scrollbar positions in overview should be hidden\n- Persistent caret positions when switching between modes\n    - Let say we're in live mode and we select multiple lines, switching to read mode and then back to live mode, we should the previous selected texts. This interaction appears in Obsidian and it's good\n- Remove unnecessary elements:\n    - Border/separator between rails and detail pane\n    - Background differences between detail pane's header and its body should be unified\n        - We should use the darker background variant for the detail pane, so we can se the content more clearly\n        - When opening item other than a note, the distinctive side pane that contains all of our links and images information and metadata is quite out of place\n-  Floating sidebar design adjustment:\n    - Instead of creating a UI switch, can we make it **floating**, where it levitates on top of the other contents \n- **a11y** issue: \n    - Sidebar item's active state in window material mode activated looks different than if we don't have the window material option activated\n- Bring back slash menu `/` \n- Simplify our search functionality\n    - We should integrate a more translucency *vibe*, like how context menu or dropdown menu work with it\n    - For the right pane, lets remove the header \n    - For the left pane, remove leading big icon that indicates the type\n    - Discuss with me the cost of implementing these redesign points, and propose fix\n---\n- Inline formatting when selecting texts\n- Discuss with me the cost of implementing these redesign points, and propose fix\n- Unfolding lines and trailing lines that shows our the indentation levels\n    - The trailing lines features for nested content appear in our current source mode\n    - We just want it in our current live mode\n- In vim mode, should pressing `Ctrl + B` in note editing/writing bold the text? How should we work with other inline formatting while in Vim mode? How's obsidian implementing it? \n",
+        "body": "# 10/09/2026 \n\n- Horizontal scrollbar in notes still visible and it only scroll the app horizontally very little. The scrollbar positions in overview should be hidden\n- Remove unnecessary elements:\n    - Border/separator between rails and detail pane\n    - Background differences between detail pane's header and its body should be unified\n        - We should use the darker background variant for the detail pane, so we can se the content more clearly\n        - When opening item other than a note, the distinctive side pane that contains all of our links and images information and metadata is quite out of place\n-  Floating sidebar design adjustment:\n    - Instead of creating a UI switch, can we make it **floating**, where it levitates on top of the other contents \n- **a11y** issue: \n    - Sidebar item's active state in window material mode activated looks different than if we don't have the window material option activated\n- Bring back slash menu `/` \n- Simplify our search functionality\n    - We should integrate a more translucency *vibe*, like how context menu or dropdown menu work with it\n    - For the right pane, lets remove the header \n    - For the left pane, remove leading big icon that indicates the type\n    - Discuss with me the cost of implementing these redesign points, and propose fix\n---\n\n- Inline formatting when selecting texts\n- Discuss with me the cost of implementing these redesign points, and propose fix\n- Unfolding lines and trailing lines that shows our the indentation levels\n    - The trailing lines features for nested content appear in our current source mode\n    - We just want it in our current live mode\n- In vim mode, should pressing `Ctrl + B` in note editing/writing bold the text? How should we work with other inline formatting while in Vim mode? How's obsidian implementing it? \n",
         "createdAt": "2026-09-09T12:47:42.588Z",
-        "updatedAt": "2026-09-10T11:41:02.475Z",
+        "updatedAt": "2026-09-10T12:58:51.928Z",
         "missingContent": false,
         "attachments": [],
         "location": {
-          "type": "inbox"
+          "type": "archive",
+          "originalCollectionId": null
         },
-        "relativePath": "Improvement for Current App.md",
+        "relativePath": "Archive/Improvement for Current App.md",
         "referencedAttachment": false
       },
       {

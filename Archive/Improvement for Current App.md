@@ -1,8 +1,6 @@
 # 10/09/2026 
 
 - Horizontal scrollbar in notes still visible and it only scroll the app horizontally very little. The scrollbar positions in overview should be hidden
-- Persistent caret positions when switching between modes
-    - Let say we're in live mode and we select multiple lines, switching to read mode and then back to live mode, we should the previous selected texts. This interaction appears in Obsidian and it's good
 - Remove unnecessary elements:
     - Border/separator between rails and detail pane
     - Background differences between detail pane's header and its body should be unified
@@ -19,6 +17,7 @@
     - For the left pane, remove leading big icon that indicates the type
     - Discuss with me the cost of implementing these redesign points, and propose fix
 ---
+
 - Inline formatting when selecting texts
 - Discuss with me the cost of implementing these redesign points, and propose fix
 - Unfolding lines and trailing lines that shows our the indentation levels

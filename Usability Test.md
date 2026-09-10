@@ -1,0 +1,5 @@
+- The floating sidebar should only occur in the smallest breakpoint
+- Languages support: 
+    - Vocabulary support in the to check typos
+- For our current zen mode, always show the 'quit zen mode' button
+- Setting still sucks, it should be integrated as a separate window like how obsidian does it

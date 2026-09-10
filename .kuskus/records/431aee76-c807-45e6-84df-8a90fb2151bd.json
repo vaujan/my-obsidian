@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "id": "431aee76-c807-45e6-84df-8a90fb2151bd",
+  "relativePath": ".kuskus/trash/431aee76-c807-45e6-84df-8a90fb2151bd/Gustave Dore - The Inferno Canto XII.jpg",
+  "fingerprint": "4f39fca9cc22328114da0f8eef3b9804b25446ec2016b3d110a1ab556af7fba3",
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "431aee76-c807-45e6-84df-8a90fb2151bd",
+    "type": "image",
+    "title": "Gustave Dore - The Inferno Canto XII",
+    "createdAt": "2026-09-10T05:23:22.807Z",
+    "updatedAt": "2026-09-10T05:23:22.902Z",
+    "sourceUrl": null,
+    "sourceFilename": "Gustave Dore - The Inferno Canto XII.jpg",
+    "contentFilename": "Gustave Dore - The Inferno Canto XII.jpg",
+    "mediaType": "image/jpeg",
+    "width": 2249,
+    "height": 1771,
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": ".kuskus/trash/431aee76-c807-45e6-84df-8a90fb2151bd/Gustave Dore - The Inferno Canto XII.jpg",
+    "referencedAttachment": false,
+    "titleSource": "custom",
+    "trashedFrom": "inbox",
+    "trashedFromRelativePath": "Gustave Dore - The Inferno Canto XII.jpg"
+  },
+  "recovery": {
+    "lastSeenAt": "2026-09-10T05:23:22.902Z",
+    "missingSince": "2026-09-10T11:52:57.963Z"
+  }
+}

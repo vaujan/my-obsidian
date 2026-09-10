@@ -1,28 +1,29 @@
 {
   "schemaVersion": 2,
   "id": "a81baa0f-f7ef-4df1-bd01-6bf638196371",
-  "relativePath": "resources/clippings/improve-codebase-architecture — mattpocockskills.md",
+  "relativePath": "resources/clippings/improve-codebase-architecture.md",
   "fingerprint": "c6135e3cf65fe3c4c164c6cebb105239882fd5c57db6499d908dcc7b54da2fb8",
-  "fileIdentity": "3121943230:6192449487652354",
+  "fileIdentity": "3121943230:11258999068444412",
   "fileSize": 2731,
-  "modifiedAtMs": 1787598967772.5046,
+  "modifiedAtMs": 1788961624640.5354,
   "recovery": {
-    "lastSeenAt": "2026-08-24T19:16:08.085Z",
+    "lastSeenAt": "2026-09-09T13:47:05.005Z",
     "missingSince": null
   },
   "metadata": {
     "schemaVersion": 2,
     "id": "a81baa0f-f7ef-4df1-bd01-6bf638196371",
     "type": "note",
-    "title": "improve-codebase-architecture — mattpocockskills",
+    "title": "improve-codebase-architecture",
     "createdAt": "2026-08-22T12:07:58.541Z",
-    "updatedAt": "2026-08-24T19:16:07.773Z",
+    "updatedAt": "2026-09-09T13:47:04.641Z",
     "sourceUrl": null,
     "sourceFilename": null,
-    "contentFilename": "improve-codebase-architecture — mattpocockskills.md",
+    "contentFilename": "improve-codebase-architecture.md",
     "note": "",
     "originalCollectionId": null,
-    "relativePath": "resources/clippings/improve-codebase-architecture — mattpocockskills.md",
-    "referencedAttachment": false
+    "relativePath": "resources/clippings/improve-codebase-architecture.md",
+    "referencedAttachment": false,
+    "titleSource": "derived"
   }
 }

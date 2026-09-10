@@ -1,28 +1,29 @@
 {
   "schemaVersion": 2,
   "id": "88c42b22-07ae-4dc1-a9b2-c229be9d1e8a",
-  "relativePath": "drafts/Brainrotted gooner mencoba meditasi.md",
-  "fingerprint": "616e28deb5c0c659246c9de6404cc003b3085be799c88a01f1df5852f2e6d187",
-  "fileIdentity": "3121943230:6473924465089647",
-  "fileSize": 3324,
-  "modifiedAtMs": 1785265505611.1846,
+  "relativePath": "drafts/2026-07-03 15-05 (2).md",
+  "fingerprint": "be1defbac889b2a3339bacbf93df6b70a64732821e014bda71c67959d8956f74",
+  "fileIdentity": "3121943230:1407374883906882",
+  "fileSize": 3323,
+  "modifiedAtMs": 1788963733884.3752,
   "recovery": {
-    "lastSeenAt": "2026-08-09T06:43:04.198Z",
+    "lastSeenAt": "2026-09-09T14:22:14.307Z",
     "missingSince": null
   },
   "metadata": {
     "schemaVersion": 2,
     "id": "88c42b22-07ae-4dc1-a9b2-c229be9d1e8a",
     "type": "note",
-    "title": "Brainrotted gooner mencoba meditasi",
+    "title": "2026-07-03 15-05 (2)",
     "createdAt": "2026-07-03T10:24:03.216Z",
-    "updatedAt": "2026-07-28T19:05:05.611Z",
+    "updatedAt": "2026-09-09T14:22:13.884Z",
     "sourceUrl": null,
     "sourceFilename": null,
-    "contentFilename": "note.md",
+    "contentFilename": "2026-07-03 15-05 (2).md",
     "note": "",
     "originalCollectionId": null,
-    "relativePath": "drafts/Brainrotted gooner mencoba meditasi.md",
-    "referencedAttachment": false
+    "relativePath": "drafts/2026-07-03 15-05 (2).md",
+    "referencedAttachment": false,
+    "titleSource": "derived"
   }
 }

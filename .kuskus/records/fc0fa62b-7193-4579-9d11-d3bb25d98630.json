@@ -1,28 +1,28 @@
 {
   "schemaVersion": 2,
   "id": "fc0fa62b-7193-4579-9d11-d3bb25d98630",
-  "relativePath": "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
-  "fingerprint": "eca3aa10779e7268f736fd3a8c26cab31e14487bc7d992c8913acd958bbccd24",
-  "fileIdentity": "3121943230:5629499534957719",
-  "fileSize": 9922,
-  "modifiedAtMs": 1785265505635.7695,
+  "relativePath": "drafts/Study Case- Multiformat Saver for Archiving the Web.md",
+  "fingerprint": "a1c52c1c0d4603a513092e852c433a1843e3b6fae3ad5929b715d37568239117",
+  "fileIdentity": "3121943230:8725724278189302",
+  "fileSize": 9970,
+  "modifiedAtMs": 1789041258005.9507,
   "recovery": {
-    "lastSeenAt": "2026-08-09T06:43:04.209Z",
+    "lastSeenAt": "2026-09-10T11:54:18.053Z",
     "missingSince": null
   },
   "metadata": {
     "schemaVersion": 2,
     "id": "fc0fa62b-7193-4579-9d11-d3bb25d98630",
     "type": "note",
-    "title": "Study Case - looking for multiformat saver with desktop and local storage support",
+    "title": "Study Case- Multiformat Saver for Archiving the Web",
     "createdAt": "2026-07-04T06:11:02.107Z",
-    "updatedAt": "2026-07-28T19:05:05.636Z",
+    "updatedAt": "2026-09-10T11:54:18.006Z",
     "sourceUrl": null,
     "sourceFilename": null,
-    "contentFilename": "note.md",
+    "contentFilename": "Study Case- Multiformat Saver for Archiving the Web.md",
     "note": "",
     "originalCollectionId": null,
-    "relativePath": "drafts/Study Case - looking for multiformat saver with desktop and local storage support.md",
+    "relativePath": "drafts/Study Case- Multiformat Saver for Archiving the Web.md",
     "referencedAttachment": false,
     "attachments": [
       {
@@ -88,6 +88,7 @@
         "width": 1451,
         "height": 430
       }
-    ]
+    ],
+    "titleSource": "custom"
   }
 }

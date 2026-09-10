@@ -1,28 +1,29 @@
 {
   "schemaVersion": 2,
   "id": "f755b396-ff77-45c4-838a-64b798bde43e",
-  "relativePath": "dev/mock/Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration.md",
-  "fingerprint": "8d66a78f792d82de078fb1259ace991e095a80d82f99133f307d6d1c335d13e6",
-  "fileIdentity": "3121943230:37436171902519950",
-  "fileSize": 2440,
-  "modifiedAtMs": 1788116305213.3384,
+  "relativePath": "dev/mock/Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration so I can copy-paste it ne (2).md",
+  "fingerprint": "da3c1e8c0650515f313cef8ed34d441fe04be152b37bcddb70a54ff2a2ca565f",
+  "fileIdentity": "3121943230:32369622321729204",
+  "fileSize": 2320,
+  "modifiedAtMs": 1789040878496.9097,
   "recovery": {
-    "lastSeenAt": "2026-08-30T18:58:25.565Z",
+    "lastSeenAt": "2026-09-10T11:47:58.861Z",
     "missingSince": null
   },
   "metadata": {
     "schemaVersion": 2,
     "id": "f755b396-ff77-45c4-838a-64b798bde43e",
     "type": "note",
-    "title": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration",
+    "title": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration so I can copy-paste it ne (2)",
     "createdAt": "2026-08-12T15:12:42.262Z",
-    "updatedAt": "2026-08-30T18:58:25.213Z",
+    "updatedAt": "2026-09-10T11:47:58.497Z",
     "sourceUrl": null,
     "sourceFilename": null,
-    "contentFilename": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration.md",
+    "contentFilename": "Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration so I can copy-paste it ne (2).md",
     "note": "",
     "originalCollectionId": null,
-    "relativePath": "dev/mock/Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration.md",
-    "referencedAttachment": false
+    "relativePath": "dev/mock/Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration so I can copy-paste it ne (2).md",
+    "referencedAttachment": false,
+    "titleSource": "derived"
   }
 }

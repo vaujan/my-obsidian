@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "id": "06ae01b2-d29b-4fe4-a23c-159519618210",
-  "relativePath": "_archive/Excalidraw Kuskus.excalidraw",
+  "relativePath": "Archive/Excalidraw Kuskus.excalidraw",
   "fingerprint": "b69f48fdea0493d0a25f07c0ef4ca35714272ef4da4a4b4bc00649bec9bd01d7",
   "fileIdentity": "3121943230:8444249301467243",
   "fileSize": 4076923,
   "modifiedAtMs": 1784444446224.488,
   "recovery": {
-    "lastSeenAt": "2026-08-09T06:43:04.259Z",
+    "lastSeenAt": "2026-09-09T14:16:11.845Z",
     "missingSince": null
   },
   "metadata": {
@@ -23,8 +23,8 @@
     "mediaType": "application/octet-stream",
     "size": 4076923,
     "note": "",
-    "originalCollectionId": null,
-    "relativePath": "_archive/Excalidraw Kuskus.excalidraw",
+    "originalCollectionId": "e9ad878c-65d4-4be2-819c-316f7a268f44",
+    "relativePath": "Archive/Excalidraw Kuskus.excalidraw",
     "referencedAttachment": false
   }
 }

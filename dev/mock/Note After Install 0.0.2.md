@@ -1,5 +1,4 @@
 # 20 August
-
 - Current vim mode status is very good and is positioned in the status bar
 - Maybe every `:` or `/` event should use a 'new input' that is positioned on the centre-top area of our current writing canvas (inspired by Neovim mode in VSCode and Vim mode in Zed)
 - Live mode and read mode has different scroll position
@@ -19,8 +18,7 @@ position (Y).
 - Findings: restarting the app while in split mode with vim mode activated, is mounted without the Vim activated. It should explicitly be re-toggled for the Vim to work again
 
 ## Features
-
-- [ ] feature implementation: wrapped heading for better note organizations
+- [x] feature implementation: wrapped heading for better note organizations
 
 # 19 August
 

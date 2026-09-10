@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "8586292e-de13-4f9c-9cb3-3d9cd8bf5f09",
+  "relativePath": ".kuskus/trash/8586292e-de13-4f9c-9cb3-3d9cd8bf5f09/Hello world testing.md",
+  "fingerprint": "ca77eba167a71bfb147aa1065214eedad8c5a53afaf5970b725442b5a0da6b96",
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "8586292e-de13-4f9c-9cb3-3d9cd8bf5f09",
+    "type": "note",
+    "title": "Hello world testing",
+    "titleSource": "derived",
+    "createdAt": "2026-09-10T05:03:04.078Z",
+    "updatedAt": "2026-09-10T05:03:04.137Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "Hello world testing.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": ".kuskus/trash/8586292e-de13-4f9c-9cb3-3d9cd8bf5f09/Hello world testing.md",
+    "referencedAttachment": false,
+    "trashedFrom": "inbox",
+    "trashedFromRelativePath": "Hello world testing.md"
+  },
+  "recovery": {
+    "lastSeenAt": "2026-09-10T05:03:04.137Z",
+    "missingSince": "2026-09-10T05:03:14.488Z"
+  }
+}

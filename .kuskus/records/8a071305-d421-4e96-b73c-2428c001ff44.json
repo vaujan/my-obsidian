@@ -1,28 +1,29 @@
 {
   "schemaVersion": 2,
   "id": "8a071305-d421-4e96-b73c-2428c001ff44",
-  "relativePath": "resources/clippings/Eloquent JavaScript4th edition (2024).md",
-  "fingerprint": "02e6877ff25bc306cd4bb707bd593782cddfce0adbed844fb4183a3818c2085b",
-  "fileIdentity": "3121943230:1970324836977078",
-  "fileSize": 2517,
-  "modifiedAtMs": 1788025512680.4797,
+  "relativePath": "resources/clippings/Eloquent JavaScript 4th edition (2024).md",
+  "fingerprint": "578a0db53f77ee7f9a32422e30fadd2be4f42ed15addf467eca24dee256c3e86",
+  "fileIdentity": "3121943230:7318349394509297",
+  "fileSize": 2518,
+  "modifiedAtMs": 1789091911065.3738,
   "recovery": {
-    "lastSeenAt": "2026-08-29T17:45:13.028Z",
+    "lastSeenAt": "2026-09-11T01:58:31.538Z",
     "missingSince": null
   },
   "metadata": {
     "schemaVersion": 2,
     "id": "8a071305-d421-4e96-b73c-2428c001ff44",
     "type": "note",
-    "title": "Eloquent JavaScript4th edition (2024)",
+    "title": "Eloquent JavaScript 4th edition (2024)",
     "createdAt": "2026-08-22T12:02:40.184Z",
-    "updatedAt": "2026-08-29T17:45:12.680Z",
+    "updatedAt": "2026-09-11T01:58:31.065Z",
     "sourceUrl": null,
     "sourceFilename": null,
-    "contentFilename": "Eloquent JavaScript4th edition (2024).md",
+    "contentFilename": "Eloquent JavaScript 4th edition (2024).md",
     "note": "",
     "originalCollectionId": null,
-    "relativePath": "resources/clippings/Eloquent JavaScript4th edition (2024).md",
-    "referencedAttachment": false
+    "relativePath": "resources/clippings/Eloquent JavaScript 4th edition (2024).md",
+    "referencedAttachment": false,
+    "titleSource": "custom"
   }
 }

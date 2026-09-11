@@ -2,12 +2,12 @@
   "schemaVersion": 2,
   "id": "22ad198c-6872-4272-b82e-9b1b11a24049",
   "relativePath": "dev/mock/Scrolling the note list stutters badly once a notebook holds more than a few thousand notes.md",
-  "fingerprint": "4aa01bb7e3238a03c891afa8d68c01fb7f86e9848a5d7dbf4253aee615af11cd",
-  "fileIdentity": "3121943230:31806672368451350",
-  "fileSize": 1433,
-  "modifiedAtMs": 1786886655615.1501,
+  "fingerprint": "df7265e587cb901bb7efb3dc9b37c22d993062c20319b2ed09d3631c3ce58a05",
+  "fileIdentity": "3121943230:7036874417820604",
+  "fileSize": 1217,
+  "modifiedAtMs": 1789090983995.0813,
   "recovery": {
-    "lastSeenAt": "2026-08-16T13:24:15.665Z",
+    "lastSeenAt": "2026-09-11T01:43:04.342Z",
     "missingSince": null
   },
   "metadata": {
@@ -16,7 +16,7 @@
     "type": "note",
     "title": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes",
     "createdAt": "2026-08-12T15:12:24.539Z",
-    "updatedAt": "2026-08-16T13:24:15.615Z",
+    "updatedAt": "2026-09-11T01:43:03.995Z",
     "sourceUrl": null,
     "sourceFilename": null,
     "contentFilename": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes.md",

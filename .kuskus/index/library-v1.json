@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "libraryId": "9eed48f3-1aff-4083-afa6-0049e96c9720",
-  "writtenAt": "2026-09-10T22:52:08.616Z",
+  "writtenAt": "2026-09-11T06:44:34.520Z",
   "library": {
     "schemaVersion": 2,
     "id": "9eed48f3-1aff-4083-afa6-0049e96c9720",
@@ -11,19 +11,38 @@
     "pinnedItemIds": [
       "3cf54086-c15c-4f1a-b7f0-7c273e3c9136",
       "ca4c8c5e-f1fc-4dab-91c5-8a8d87613a4f",
-      "63245429-3794-460e-917a-83f475671451"
+      "63245429-3794-460e-917a-83f475671451",
+      "539c8153-199f-40b7-b5a6-c6320a1bc868"
     ],
     "path": "C:\\Users\\Fauzan\\Documents\\fauzan-obsidian",
     "items": [
+      {
+        "schemaVersion": 2,
+        "id": "13ceb2de-434e-452b-ae5f-dbfdb5face24",
+        "type": "note",
+        "title": "Fauzan Olympic Lifting Guide",
+        "titleSource": "custom",
+        "body": "---\nmodel: 5.6 - sol\ndate: 2026-09-11 15:36\nlinks: https://chatgpt.com/c/6aa3485b-124c-83ec-9757-8b494d5a7189\n---\n\n# Olympic Lifting Hybrid Program — 8 Week Block\n\n## Athlete profile\n\n- Front squat e1RM: **~103 kg**\n- Back squat e1RM: **~110 kg**\n- Deadlift capacity: **~110 kg** (rarely trained)\n- Barbell RDL capacity: **~100 kg**\n- Strict press e1RM: **~57 kg**\n- Bench press e1RM: **~82 kg**\n- Comfortable clean: **~50 kg**\n- Current ugly clean max: **~55 kg**\n- Historical snatch: **~40 kg**\n- Training availability: **2–3 gym sessions/week**\n- Current BJJ: **none**\n- Mobility limitations: **none notable**\n- Gym: rotating Olympic bars, bumper plates, platform, rack, overhead clearance\n- Constraint: **no intentional bar slamming / dropping**\n\n## Main diagnosis\n\nYour strength base is ahead of your Olympic-lifting skill. The short-term bottleneck is therefore not raw strength but bar path, timing, speed under the bar, receiving mechanics, and jerk footwork.\n\nThe first target is not simply **clean 60 kg**. It is:\n\n> **Make 50 kg look boring.**\n\n## Technique scoring\n\nScore each Olympic-lift rep:\n\n- **3 — Clean:** balanced, fast, repeatable.\n- **2 — Acceptable:** small error but fundamentally sound.\n- **1 — Ugly:** meaningful technical breakdown.\n- **0 — Miss.**\n\n**Rule:** two consecutive score-1 reps = reduce the load by **5–10%**.\n\nTrack **technical maxes** separately from absolute maxes. A technical max is the heaviest rep that is still good enough to reinforce the movement you actually want to own.\n\n## No-drop constraint\n\nControlled lowering adds fatigue that competitive weightlifters normally avoid by dropping bumper-loaded bars. Therefore:\n\n- keep snatch, clean, and jerk mostly submaximal;\n- use pulls and squats for heavier loading;\n- do not max the jerk if getting the bar down becomes awkward or unsafe;\n- guide cleans from front rack to thighs, absorb with hips/knees, then lower;\n- guide snatches from overhead to hip level, absorb, then lower;\n- do not use normal plyo boxes as lifting blocks unless designed for bar impacts.\n\n# Weekly program\n\n## Day A — Snatch + Front Squat\n\n**Snatch warm-up complex — 2–3 rounds**\n- snatch-grip RDL × 5\n- muscle snatch × 5\n- overhead squat × 5\n- snatch balance × 3\n- hang power snatch × 3\n\n**Hang Power Snatch — 5×2 @ 25–30 kg**  \nProgress toward 30–35 kg only while crisp.\n\n**Full Snatch — 6×1 @ ~30–35 kg**  \nRepeatable singles. Avoid routine maxing.\n\n**Snatch Pull — 4×3 @ 45–50 kg**  \nProgress gradually toward 50–60+ kg.\n\n**Front Squat — 4×3 @ 70–75 kg**  \nAdd ~2.5 kg when bar speed remains good. No grinders.\n\n**Pull-ups — 3×5–8**\n\n## Day B — Clean + Split Jerk\n\n**Clean warm-up complex — 2–3 rounds**\n- clean RDL × 5\n- clean high pull × 3\n- muscle clean × 3\n- front squat × 3\n- tall clean × 3\n\n**Hang Clean — 5×2 @ 35–40 kg**\n\n**Full Clean — 5–6×1 @ 40–45 kg**  \nTouch 47.5–50 kg only when earlier reps are clean.\n\n**Split-Jerk Footwork — 3×5**\n\n**Split Jerk From Rack — 5×2 @ ~30–40 kg**\n\n**Clean Pull — 4×3 @ 60–65 kg**  \nProgress gradually toward 70–80+ kg.\n\n**Bench Press — 3×5 @ ~60–67.5 kg**  \nMaintenance / slow progression.\n\n## Day C — Integration\n\n**Power Snatch — 4×2 @ 25–32.5 kg**\n\n**Power Clean + Split Jerk — 5×(1+1) @ 35–40 kg**\n\n**Full Clean — 4×1 @ 40–47.5 kg**\n\n**Back Squat — 3×5 @ 75–85 kg**\n\n**RDL — 3×5 @ 70–80 kg**\n\n**Row — 3×6–10**\n\n# Scheduling\n\n## Preferred: 3 days/week\n\n- Day A\n- Day B\n- Day C\n\nKeep at least one recovery day between the harder sessions when practical.\n\n## If training 2 days/week\n\nRotate continuously:\n\n- Week 1: A / B\n- Week 2: C / A\n- Week 3: B / C\n- repeat\n\nDo not permanently remove Day C.\n\n# 8-week progression\n\n## Weeks 1–3 — Skill acquisition\n\nWeek 1:\n- snatch ~25–35 kg\n- clean ~35–45 kg\n- jerk ~20–35 kg\n\nWeek 2:\n- repeat the same structure;\n- add 2.5 kg only where technique remains crisp.\n\nWeek 3:\n- snatch ~30–37.5 kg\n- clean ~40–47.5 kg\n- jerk ~30–40 kg\n\n## Week 4 — Technical-max checkpoint\n\nWork upward to the heaviest rep that remains technically strong.\n\nRecord:\n- technical snatch max;\n- technical clean max;\n- technical clean & jerk max;\n- technical split jerk max.\n\n## Weeks 5–7 — Build from technical max\n\nUse Week-4 technical maxes as anchors:\n\n- Week 5: mostly 70–80%\n- Week 6: mostly 75–85%\n- Week 7: mostly 80–90%, low rep counts\n\nMisses should stay rare.\n\n## Week 8 — Taper + technical-max test\n\nReduce volume, then retest technical maxes.\n\nThe block succeeds if the same weights move faster, stay closer to the body, are received more confidently, require less conscious effort, and produce fewer ugly reps.\n\n# Jerk strategy\n\nUse the **split jerk as the primary heavy jerk** because it gives more recovery tolerance and a larger stable base.\n\nKeep the **squat jerk as a secondary technical variation** if you enjoy it. It is legitimate but considerably less forgiving.\n\n# Conditioning\n\nDuring the initial learning block, prioritize movement quality over hard conditioning.\n\nPrefer:\n- walking;\n- easy running;\n- Zone 2.\n\nKeep hard HIIT modest, particularly near important Olympic-lifting sessions.\n\n# What to log\n\nFor every Olympic-lift working set, record:\n\n- date;\n- week;\n- session;\n- exercise;\n- load;\n- reps;\n- technique score;\n- RPE;\n- made/missed;\n- technical issue;\n- cue or note.\n\nUseful issue labels include:\n\n- bar forward;\n- early arm bend;\n- hips rise too fast;\n- jumping forward;\n- slow turnover;\n- bar crash;\n- unstable catch;\n- press-out;\n- incomplete extension;\n- jerk dip forward;\n- short/unstable split.\n\nThe accompanying Excel workbook includes a session log, technical-max tracker, 8-week progression, your current strength baselines, and an auto-updating dashboard.\n\n# First milestone\n\n> **50 kg clean becomes technically boring.**\n\nOnce that happens, 55 kg can move from “ugly max” toward normal training weight, and 60+ kg becomes a much more sensible next target.\n",
+        "createdAt": "2026-09-11T06:33:31.689Z",
+        "updatedAt": "2026-09-11T06:36:34.428Z",
+        "missingContent": false,
+        "attachments": [],
+        "location": {
+          "type": "collection",
+          "collectionId": "5b4097c6-d67c-40e2-9d5b-bf506d00221c"
+        },
+        "relativePath": "resources/workout/Fauzan Olympic Lifting Guide.md",
+        "referencedAttachment": false
+      },
       {
         "schemaVersion": 2,
         "id": "63245429-3794-460e-917a-83f475671451",
         "type": "note",
         "title": "Usability Test",
         "titleSource": "custom",
-        "body": "## findings\n- The main app's layout (overview) looks sucks. The action buttons is not highlighted, there is not true workflow that can be done only via keyboard\n    - But we have two different main actions: `Add item` and `Add note`\n    - For \"**Add Note**\" Maybe it's this: `ctrl + n` -> `Type a content` -> `Done`\n- The floating sidebar should only occur in the smallest breakpoint\n- In the narrowest breakpoint, it works flawlessly. But the chevron icon button should be changed to a hamburger buttons (stacked horizontal lines)\n- Languages support: \n    - Vocabulary support in the to check typos\n    - User should able to pick which languages that their content supports\n- Separated font system for Note content. This one should be separated from the UI font and the code font (which is obvious)\n    - Some user may prefer to have their content presented in serif font, while keeping the rest of the app the way it is (code still use the dedicated code font)\n- For our current zen mode, always show the 'quit zen mode' button\n- Setting still sucks, it should be integrated as a separate window like how obsidian does it\n- The slash menu still doesn't open, here's I found it\n    - I'm in live mode, then I press `/`. Nothing happened. Is this expected?  \n- The horizontal scrollbar in code block, still appears in the rails and overview card (we don't open in and is not in detail pane)\n- Sidebar toggle doesn't works in when detail pane is opened\n\n#### 11/09/2026\n- The icon buttons (sort and filter button, new note button, and new item button) should be improved to show the 'lifted' state better\n    - For instance, our filter button shows a \n\n## need to be grilled\n- Table and images editing/writing experiences in live mode should be improved. The user should able to write table and images content expecting anything to break \n- Inline formatting when selecting texts using cursor\n    - Why I need to explicitly says 'using cursor', because selecting it via Vim's visual mode doesn't seem to be *intuitive*\n- Unfolding lines and trailing lines that shows our the indentation levels\n    - The trailing lines features for nested content appear in our current source mode\n    - We just want it in our current live mode\n- In vim mode, should pressing `Ctrl + B` in note editing/writing bold the text? How should we work with other inline formatting while in Vim mode? How's obsidian implementing it? \n- Persistent caret positions when switching between modes\n    - Let say we're in live mode and we select multiple lines, switching to read mode and then back to live mode, we should the previous selected texts. This interaction appears in Obsidian and it's good",
+        "body": "## findings\n\n### 11/09/2026\n- The icon buttons (sort and filter button, new note button, and new item button) should be improved to show the 'lifted' state better\n    - For instance, filter button shows a floating number on top of the icon, indicating the filter button state is 'lifted'\n    - But showing the number on top of it interfere with out icon's visibility\n- The 'External changes has been merge' notification occur, even though we're not changing anything externally. What happened?\n- These things doesn't seem to show properly in live mode: \n    - Remote images\n        - The images when examined/clicked in read mode, opened the page for us and turns our current app into a browser (and basically 'kill' the app, we opened a page and has no browser interactivity like back. This interaction also is unexpected)\n    - Mermaid renderer. Live mode only shows the code\n        - For mermaid, can we integrate a theme-based color?   \n    - Math block or Katex also shows the code\n- For the Vim's block caret should be in primary color instead of foreground \n- How is our current app is eating our resources (RAM)? How it works when we're using it or when idle? \n    - Can we benchmark it? The desired goal is \n- Opening a markdown file (.md) should upload the content immediately\n\n### 10/09/2026\n- The main app's layout (overview) looks sucks. The action buttons is not highlighted, there is not true workflow that can be done only via keyboard\n    - But we have two different main actions: `Add item` and `Add note`\n    - For \"**Add Note**\" Maybe it's this: `ctrl + n` -> `Type a content` -> `Done`\n- The floating sidebar should only occur in the smallest breakpoint\n- In the narrowest breakpoint, it works flawlessly. But the chevron icon button should be changed to a hamburger buttons (stacked horizontal lines)\n- Languages support: \n    - Vocabulary support in the to check typos\n    - User should able to pick which languages that their content supports\n- Separated font system for Note content. This one should be separated from the UI font and the code font (which is obvious)\n    - Some user may prefer to have their content presented in serif font, while keeping the rest of the app the way it is (code still use the dedicated code font)\n- For our current zen mode, always show the 'quit zen mode' button\n- Setting still sucks, it should be integrated as a separate window like how obsidian does it\n- The slash menu still doesn't open, here's I found it\n    - I'm in live mode, then I press `/`. Nothing happened. Is this expected?  \n- The horizontal scrollbar in code block, still appears in the rails and overview card (we don't open in and is not in detail pane)\n- Sidebar toggle doesn't works in when detail pane is opened\n\n## need to be grilled\n- How should links be integrated in our app? \n    - Should links that is written in the YAML content provide a 'go to' interaction? \n        - What about live mode? \n- Table and images editing/writing experiences in live mode should be improved. The user should able to write table and images content expecting anything to break \n- Inline formatting when selecting texts *using cursor*\n    - Why I need to explicitly says 'using cursor', because selecting it via Vim's visual mode to inline format doesn't seem to be *intuitive*\n- Unfolding lines and trailing lines that shows our the indentation levels\n    - The trailing lines features for nested content appear in our current source mode\n    - We just want it in our current live mode\n- In vim mode, should pressing `Ctrl + B` in note editing/writing bold the text? How should we work with other inline formatting while in Vim mode? How's obsidian implementing it? \n- Persistent caret positions when switching between modes\n    - Let say we're in live mode and we select multiple lines, switching to read mode and then back to live mode, we should the previous selected texts. This interaction appears in Obsidian and it's good\n---\n\n### worth to think about\n- Split notes: dissect notes based on heading or hierarchy\n        - For example, I have three big points separated in three different headings. `Split notes` will split the content into three different notes\n- Merge notes: more than 1 notes and merge it into a single notes. Basically the reverse feature of split notes\n- Tasks counter: how many tasks (checkboxes) that we have in a single note and how many of them are done\n- Outline navigations:\n    - A clickable outline that helps us see the overview of our notes and directly navigates us towards it",
         "createdAt": "2026-09-10T12:21:18.032Z",
-        "updatedAt": "2026-09-10T16:59:52.713Z",
+        "updatedAt": "2026-09-11T06:43:30.035Z",
         "missingContent": false,
         "attachments": [],
         "location": {
@@ -31,129 +50,6 @@
           "collectionId": "214a8412-84c1-4aab-b8ec-4a5e417279c0"
         },
         "relativePath": "dev/Usability Test.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "0b6d7ec0-ccc1-4ed8-9df5-228f275c6aed",
-        "type": "note",
-        "title": "Hello world (2)",
-        "titleSource": "derived",
-        "body": "# Hello world",
-        "createdAt": "2026-09-10T11:48:57.504Z",
-        "updatedAt": "2026-09-10T11:48:57.526Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/0b6d7ec0-ccc1-4ed8-9df5-228f275c6aed/Hello world (2).md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "380485c4-d7b9-4737-a042-a98d43267bed",
-        "type": "note",
-        "title": "Hello world",
-        "titleSource": "derived",
-        "body": "# Hello world\n\n- [ ] hello world\n- [ ] hello world\n- [ ] Hello world\n- [ ] Hello world",
-        "createdAt": "2026-09-10T11:42:45.840Z",
-        "updatedAt": "2026-09-10T11:52:20.704Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/380485c4-d7b9-4737-a042-a98d43267bed/Hello world.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "9abc0ea0-0609-4a70-8746-faafb56ab037",
-        "type": "note",
-        "title": "Hello world",
-        "titleSource": "derived",
-        "body": "# Hello world\n\n1. Testing my\n\n\n\n\n",
-        "createdAt": "2026-09-10T07:19:31.462Z",
-        "updatedAt": "2026-09-10T11:40:19.099Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "collection",
-          "originalCollectionId": "e9ad878c-65d4-4be2-819c-316f7a268f44"
-        },
-        "relativePath": ".kuskus/trash/9abc0ea0-0609-4a70-8746-faafb56ab037/Hello world.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "431aee76-c807-45e6-84df-8a90fb2151bd",
-        "type": "image",
-        "title": "Gustave Dore - The Inferno Canto XII",
-        "createdAt": "2026-09-10T05:23:22.807Z",
-        "updatedAt": "2026-09-10T05:23:22.902Z",
-        "sourceUrl": null,
-        "sourceFilename": "Gustave Dore - The Inferno Canto XII.jpg",
-        "contentFilename": "Gustave Dore - The Inferno Canto XII.jpg",
-        "mediaType": "image/jpeg",
-        "width": 2249,
-        "height": 1771,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": ".kuskus/trash/431aee76-c807-45e6-84df-8a90fb2151bd/Gustave Dore - The Inferno Canto XII.jpg",
-        "referencedAttachment": false,
-        "titleSource": "custom",
-        "trashedFrom": "inbox",
-        "trashedFromRelativePath": "Gustave Dore - The Inferno Canto XII.jpg",
-        "missingContent": false,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "attachmentOrigin": null
-      },
-      {
-        "schemaVersion": 2,
-        "id": "ca4c8c5e-f1fc-4dab-91c5-8a8d87613a4f",
-        "type": "note",
-        "title": "Hello world",
-        "titleSource": "derived",
-        "body": "1. Hello world\n2. Testing my\n3. App here\n4. What is there to find right now?\n5. hello world\n6. Teh",
-        "createdAt": "2026-09-10T05:10:17.198Z",
-        "updatedAt": "2026-09-10T07:05:18.454Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/ca4c8c5e-f1fc-4dab-91c5-8a8d87613a4f/Hello world.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "8586292e-de13-4f9c-9cb3-3d9cd8bf5f09",
-        "type": "note",
-        "title": "Hello world testing",
-        "titleSource": "derived",
-        "body": "# Hello world testing\n",
-        "createdAt": "2026-09-10T05:03:04.078Z",
-        "updatedAt": "2026-09-10T05:03:04.137Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/8586292e-de13-4f9c-9cb3-3d9cd8bf5f09/Hello world testing.md",
         "referencedAttachment": false
       },
       {
@@ -176,159 +72,13 @@
       },
       {
         "schemaVersion": 2,
-        "id": "d586ab75-4b88-426f-b74e-51ebe8a438a7",
-        "type": "image",
-        "title": "image-2026-09-05-151457",
-        "createdAt": "2026-09-05T06:14:57.702Z",
-        "updatedAt": "2026-09-05T06:14:57.705Z",
-        "sourceUrl": null,
-        "sourceFilename": "image-2026-09-05-151457.png",
-        "contentFilename": "image-2026-09-05-151457.png",
-        "mediaType": "image/png",
-        "width": 972,
-        "height": 195,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": ".kuskus/trash/d586ab75-4b88-426f-b74e-51ebe8a438a7/image-2026-09-05-151457.png",
-        "referencedAttachment": false,
-        "attachmentOrigin": "note-capture",
-        "trashedFrom": "inbox",
-        "trashedFromRelativePath": "image-2026-09-05-151457.png",
-        "missingContent": false,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        }
-      },
-      {
-        "schemaVersion": 2,
-        "id": "4abcca82-a404-40ee-8096-3ef4d86980c7",
-        "type": "image",
-        "title": "image-2026-09-05-151447",
-        "createdAt": "2026-09-05T06:14:47.997Z",
-        "updatedAt": "2026-09-05T06:14:47.999Z",
-        "sourceUrl": null,
-        "sourceFilename": "image-2026-09-05-151447.png",
-        "contentFilename": "image-2026-09-05-151447.png",
-        "mediaType": "image/png",
-        "width": 830,
-        "height": 205,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": ".kuskus/trash/4abcca82-a404-40ee-8096-3ef4d86980c7/image-2026-09-05-151447.png",
-        "referencedAttachment": false,
-        "attachmentOrigin": "note-capture",
-        "trashedFrom": "inbox",
-        "trashedFromRelativePath": "image-2026-09-05-151447.png",
-        "missingContent": false,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        }
-      },
-      {
-        "schemaVersion": 2,
-        "id": "39476861-02d8-494d-8b30-9400ac790120",
-        "type": "image",
-        "title": "image-2026-09-05-151430",
-        "createdAt": "2026-09-05T06:14:30.646Z",
-        "updatedAt": "2026-09-05T06:14:30.648Z",
-        "sourceUrl": null,
-        "sourceFilename": "image-2026-09-05-151430.png",
-        "contentFilename": "image-2026-09-05-151430.png",
-        "mediaType": "image/png",
-        "width": 972,
-        "height": 195,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": ".kuskus/trash/39476861-02d8-494d-8b30-9400ac790120/image-2026-09-05-151430.png",
-        "referencedAttachment": false,
-        "attachmentOrigin": "note-capture",
-        "trashedFrom": "inbox",
-        "trashedFromRelativePath": "image-2026-09-05-151430.png",
-        "missingContent": false,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        }
-      },
-      {
-        "schemaVersion": 2,
-        "id": "3cf54086-c15c-4f1a-b7f0-7c273e3c9136",
-        "type": "note",
-        "title": "Note for improvement",
-        "titleSource": "custom",
-        "body": "1. Try removing icon for our current toast\n2. Please check, in numbered list, why is middle number (let say number 5) don't reorder the list automatically? The remaining list go with (1, 2, 3, 4, 6, ..)\n3. For our detail pane, please bring back the bordered and rounded top-left like our previous implementations\n4. Command palette implementations\n5. Maybe align our current UI to match with obsidian's. There are reasons why their UI is built that way\n6. Bring back the `/` menu\n7. Change the current badge with Shadcn badge\n8. The differences in our number 1\n Table and images functionalities\n9. For a newer line (when it's empty), why is our caret's size is very small? Compared to when type a text there\n10. Refine Katex implementations",
-        "createdAt": "2026-09-05T05:16:06.052Z",
-        "updatedAt": "2026-09-09T13:33:05.252Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/3cf54086-c15c-4f1a-b7f0-7c273e3c9136/Note for improvement.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "6e3492a8-237f-4896-b71e-ac7efc7243c0",
-        "type": "image",
-        "title": "image-2026-09-05-141520",
-        "createdAt": "2026-09-05T05:16:06.052Z",
-        "updatedAt": "2026-09-05T05:16:06.274Z",
-        "sourceUrl": null,
-        "sourceFilename": "image-2026-09-05-141520.png",
-        "contentFilename": "image-2026-09-05-141520.png",
-        "mediaType": "image/png",
-        "width": 297,
-        "height": 347,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": ".kuskus/trash/6e3492a8-237f-4896-b71e-ac7efc7243c0/image-2026-09-05-141520.png",
-        "referencedAttachment": false,
-        "attachmentOrigin": "note-capture",
-        "trashedFrom": "inbox",
-        "trashedFromRelativePath": "image-2026-09-05-141520.png",
-        "missingContent": false,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        }
-      },
-      {
-        "schemaVersion": 2,
-        "id": "f085b54a-07b6-4533-ba1b-3d3a904e3993",
-        "type": "note",
-        "title": "Hello world",
-        "titleSource": "derived",
-        "body": "Hello world\n```ts\nimport { helloWorld } from \"helloWorld.ts\";\nconst name = \"Fauzan\";\n\nhelloWorld(name)\n```\n\n```ts\nconsole.log(\"hello world\")\n```",
-        "createdAt": "2026-08-29T17:52:48.571Z",
-        "updatedAt": "2026-09-09T13:41:26.891Z",
-        "missingContent": false,
-        "attachments": [],
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/f085b54a-07b6-4533-ba1b-3d3a904e3993/Hello world.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
         "id": "a81baa0f-f7ef-4df1-bd01-6bf638196371",
         "type": "note",
         "title": "improve-codebase-architecture",
         "titleSource": "derived",
-        "body": "---\ntitle: \"improve-codebase-architecture — mattpocock/skills\"\nsource: \"https://www.skills.sh/mattpocock/skills/improve-codebase-architecture\"\npublished:\ncreated: 2026-08-22\ndescription: \"Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick.\"\n---\n## improve-codebase-architecture\n\nInstallation\n\nSummary\n\n**Analyze codebases for architectural friction and propose module-deepening refactors as testability improvements.**\n\n- Explores codebases organically to surface shallow modules, tightly-coupled components, and untested seams rather than following rigid heuristics\n- Applies John Ousterhout's \"deep module\" principle: small interfaces hiding large implementations for better testability and AI navigability\n- Generates multiple radically different interface designs (minimalist, flexible, caller-optimized, ports & adapters) via parallel sub-agents, then recommends the strongest approach\n- Creates GitHub issue RFCs documenting the problem space, design trade-offs, and refactoring rationale\n\nSKILL.md\n\n## Improve Codebase Architecture\n\nSurface architectural friction and propose **deepening opportunities**: refactors that turn shallow modules into deep ones. The aim is testability and AI-navigability.\n\nThis command is *informed* by the project's domain model and built on a shared design vocabulary:\n\n- Call the Skill tool with \"codebase-design\" for the architecture vocabulary (**module**, **interface**, **depth**, **seam**, **adapter**, **leverage**, **locality**) and its principles (the deletion test, \"the interface is the test surface\", \"one adapter = hypothetical seam, two = real\"). Use these terms exactly in every suggestion, and don't drift into \"component,\" \"service,\" \"API,\" or \"boundary.\"\n- The domain language in `CONTEXT.md` gives names to good seams; ADRs in `docs/adr/` record decisions this command should not re-litigate.\n\n## Process\n\n### Explore\n\n**Scope before you scan: YAGNI.** Deepening a module pays off by making future changes to it easier, so put extra weight on the parts of the codebase that have recently changed. Decide *where* to look before you look:\n\n- If the user named a direction (a module, a subsystem, a pain point), take it, and skip the inference below.\n- Otherwise, walk back a good stretch of the commit history (`git log --oneline`) to find the codebase's hot spots, the files and areas that keep coming up, and let those paths pull your attention first. If the changes are scattered with no clear hot spot, widen the net.\n\nRead the project's domain glossary (`CONTEXT.md`) and any ADRs in the area you're touching first.\n\n[mattpocock/skills](https://github.com/mattpocock/skills \"mattpocock/skills\")\n",
+        "body": "---\ntitle: \"improve-codebase-architecture — mattpocock/skills\"\nsource: \"https://www.skills.sh/mattpocock/skills/improve-codebase-architecture\"\npublished:\ncreated: 2026-08-22\ndescription: \"Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick.\"\n---\n\n## improve-codebase-architecture\n\nInstallation\n\nSummary\n\n**Analyze codebases for architectural friction and propose module-deepening refactors as testability improvements.**\n\n- Explores codebases organically to surface shallow modules, tightly-coupled components, and untested seams rather than following rigid heuristics\n- Applies John Ousterhout's \"deep module\" principle: small interfaces hiding large implementations for better testability and AI navigability\n- Generates multiple radically different interface designs (minimalist, flexible, caller-optimized, ports & adapters) via parallel sub-agents, then recommends the strongest approach\n- Creates GitHub issue RFCs documenting the problem space, design trade-offs, and refactoring rationale\n\nSKILL.md\n\n## Improve Codebase Architecture\n\nSurface architectural friction and propose **deepening opportunities**: refactors that turn shallow modules into deep ones. The aim is testability and AI-navigability.\n\nThis command is *informed* by the project's domain model and built on a shared design vocabulary:\n\n- Call the Skill tool with \"codebase-design\" for the architecture vocabulary (**module**, **interface**, **depth**, **seam**, **adapter**, **leverage**, **locality**) and its principles (the deletion test, \"the interface is the test surface\", \"one adapter = hypothetical seam, two = real\"). Use these terms exactly in every suggestion, and don't drift into \"component,\" \"service,\" \"API,\" or \"boundary.\"\n- The domain language in `CONTEXT.md` gives names to good seams; ADRs in `docs/adr/` record decisions this command should not re-litigate.\n\n## Process\n\n### Explore\n\n**Scope before you scan: YAGNI.** Deepening a module pays off by making future changes to it easier, so put extra weight on the parts of the codebase that have recently changed. Decide *where* to look before you look:\n\n- If the user named a direction (a module, a subsystem, a pain point), take it, and skip the inference below.\n- Otherwise, walk back a good stretch of the commit history (`git log --oneline`) to find the codebase's hot spots, the files and areas that keep coming up, and let those paths pull your attention first. If the changes are scattered with no clear hot spot, widen the net.\n\nRead the project's domain glossary (`CONTEXT.md`) and any ADRs in the area you're touching first.\n\n[mattpocock/skills](https://github.com/mattpocock/skills \"mattpocock/skills\")\n",
         "createdAt": "2026-08-22T12:07:58.541Z",
-        "updatedAt": "2026-09-09T13:47:04.641Z",
+        "updatedAt": "2026-09-11T04:07:17.542Z",
         "missingContent": false,
         "attachments": [],
         "location": {
@@ -342,218 +92,18 @@
         "schemaVersion": 2,
         "id": "8a071305-d421-4e96-b73c-2428c001ff44",
         "type": "note",
-        "title": "Eloquent JavaScript4th edition (2024)",
-        "titleSource": "derived",
-        "body": "---\ntitle: \"Eloquent JavaScript4th edition (2024)\"\nsource: \"https://eloquentjavascript.net/\"\npublished:\ncreated: 2026-08-22\ndescription:\n---\n[![Cover image](https://eloquentjavascript.net/img/cover.jpg)](https://nostarch.com/eloquent-javascript-4th-edition)\n\nThis is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or buy your own [paperback copy](https://nostarch.com/eloquent-javascript-4th-edition).\n\nWritten by Marijn Haverbeke.\n\nLicensed under a [Creative Commons attribution-noncommercial license](https://creativecommons.org/licenses/by-nc/3.0/). All code in this book may also be considered licensed under an [MIT license](https://eloquentjavascript.net/code/LICENSE).\n\nIllustrations by various artists: Cover by [Péchane Sumi-e](http://www.pechane.com/). Chapter illustrations by [Madalina Tantareanu](http://madalinatantareanu.com/). Pixel art in Chapters 7 and 16 by Antonio Perdomo Pastor. Regular expression diagrams in Chapter 9 generated with [regexper.com](https://regexper.com/) by Jeff Avallone. Game concept for Chapter 16 by [Thomas Palef](http://lessmilk.com/).\n\n## Contents\n\nA paper version of Eloquent JavaScript, including an additional chapter, is being brought out by [No Starch Press](https://nostarch.com/eloquent-javascript-4th-edition).\n\n## Other pages\n\n- [Code sandbox and exercise solutions](https://eloquentjavascript.net/code)\n- [Errata for the paper book](https://eloquentjavascript.net/errata.html)\n- [This book as a single PDF file](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) (& [small version for mobile](https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf))\n- [This book as an EPUB file](https://eloquentjavascript.net/Eloquent_JavaScript.epub)\n- [This book as a MOBI (Kindle) file](https://eloquentjavascript.net/Eloquent_JavaScript.mobi)\n- [The first edition of the book](https://eloquentjavascript.net/1st_edition)\n- [The second edition of the book](https://eloquentjavascript.net/2nd_edition)\n- [The third edition of the book](https://eloquentjavascript.net/3rd_edition)\n\n## Translations\n\n### Fourth Edition\n\n- [Español (Spanish)](https://eloquent-javascript-es.vercel.app/)\n\n### Third Edition\n\n- [عَرَبِيّ (Arabic)](https://academy.hsoub.com/files/27-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A8%D9%84%D8%BA%D8%A9-%D8%AC%D8%A7%D9%81%D8%A7%D8%B3%D9%83%D8%B1%D8%A8%D8%AA/)\n- [فارسی (Persian)](http://eloquentjs.ir/)\n- [Español (Spanish, partial)](https://eloquentjs-es.thedojo.mx/)",
+        "title": "Eloquent JavaScript 4th edition (2024)",
+        "titleSource": "custom",
+        "body": "---\ntitle: \"Eloquent JavaScript 4th edition (2024)\"\nsource: \"https://eloquentjavascript.net/\"\npublished:\ncreated: 2026-08-22\ndescription:\n---\n[![Cover image](https://eloquentjavascript.net/img/cover.jpg)](https://nostarch.com/eloquent-javascript-4th-edition)\n\nThis is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or buy your own [paperback copy](https://nostarch.com/eloquent-javascript-4th-edition).\n\nWritten by Marijn Haverbeke.\n\nLicensed under a [Creative Commons attribution-noncommercial license](https://creativecommons.org/licenses/by-nc/3.0/). All code in this book may also be considered licensed under an [MIT license](https://eloquentjavascript.net/code/LICENSE).\n\nIllustrations by various artists: Cover by [Péchane Sumi-e](http://www.pechane.com/). Chapter illustrations by [Madalina Tantareanu](http://madalinatantareanu.com/). Pixel art in Chapters 7 and 16 by Antonio Perdomo Pastor. Regular expression diagrams in Chapter 9 generated with [regexper.com](https://regexper.com/) by Jeff Avallone. Game concept for Chapter 16 by [Thomas Palef](http://lessmilk.com/).\n\n## Contents\n\nA paper version of Eloquent JavaScript, including an additional chapter, is being brought out by [No Starch Press](https://nostarch.com/eloquent-javascript-4th-edition).\n\n## Other pages\n\n- [Code sandbox and exercise solutions](https://eloquentjavascript.net/code)\n- [Errata for the paper book](https://eloquentjavascript.net/errata.html)\n- [This book as a single PDF file](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) (& [small version for mobile](https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf))\n- [This book as an EPUB file](https://eloquentjavascript.net/Eloquent_JavaScript.epub)\n- [This book as a MOBI (Kindle) file](https://eloquentjavascript.net/Eloquent_JavaScript.mobi)\n- [The first edition of the book](https://eloquentjavascript.net/1st_edition)\n- [The second edition of the book](https://eloquentjavascript.net/2nd_edition)\n- [The third edition of the book](https://eloquentjavascript.net/3rd_edition)\n\n## Translations\n\n### Fourth Edition\n\n- [Español (Spanish)](https://eloquent-javascript-es.vercel.app/)\n\n### Third Edition\n\n- [عَرَبِيّ (Arabic)](https://academy.hsoub.com/files/27-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A8%D9%84%D8%BA%D8%A9-%D8%AC%D8%A7%D9%81%D8%A7%D8%B3%D9%83%D8%B1%D8%A8%D8%AA/)\n- [فارسی (Persian)](http://eloquentjs.ir/)\n- [Español (Spanish, partial)](https://eloquentjs-es.thedojo.mx/)",
         "createdAt": "2026-08-22T12:02:40.184Z",
-        "updatedAt": "2026-08-29T17:45:12.680Z",
+        "updatedAt": "2026-09-11T01:58:31.065Z",
         "missingContent": false,
         "attachments": [],
         "location": {
           "type": "collection",
           "collectionId": "868ec016-34a0-447b-ae48-61c0af7f3655"
         },
-        "relativePath": "resources/clippings/Eloquent JavaScript4th edition (2024).md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "cfd1e508-0bcf-4795-b7ee-e35d9e68dd6c",
-        "type": "url",
-        "title": "Bryan Johnson (@bryan_johnson) on X (2)",
-        "createdAt": "2026-08-20T18:59:19.835Z",
-        "updatedAt": "2026-08-20T18:59:19.903Z",
-        "sourceUrl": "https://x.com/bryan_johnson",
-        "domain": "x.com",
-        "description": "Conquering death will be humanity’s greatest achievement.",
-        "siteName": "X (formerly Twitter)",
-        "contentKind": "webpage",
-        "metadataVersion": 2,
-        "hasFavicon": true,
-        "hasPreviewImage": true,
-        "metadataStatus": "ready",
-        "metadataError": null,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/cfd1e508-0bcf-4795-b7ee-e35d9e68dd6c/Bryan Johnson (@bryan_johnson) on X (2).url",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "681b4517-72c9-40db-9473-c2d98fdd56ee",
-        "type": "url",
-        "title": "Bryan Johnson (@bryan_johnson) on X",
-        "createdAt": "2026-08-20T18:59:13.103Z",
-        "updatedAt": "2026-08-20T18:59:13.165Z",
-        "sourceUrl": "https://x.com/bryan_johnson/status/2090503911493022007",
-        "domain": "x.com",
-        "description": "I got a dog. Dog owners have about a 24% lower risk of dying early. What should I do now?",
-        "siteName": "X (formerly Twitter)",
-        "contentKind": "webpage",
-        "metadataVersion": 2,
-        "hasFavicon": true,
-        "hasPreviewImage": true,
-        "metadataStatus": "ready",
-        "metadataError": null,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/681b4517-72c9-40db-9473-c2d98fdd56ee/Bryan Johnson (@bryan_johnson) on X.url",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "2b2a9392-63ed-425d-ae5d-00791a2f0a27",
-        "type": "url",
-        "title": "Google",
-        "createdAt": "2026-08-20T18:58:54.917Z",
-        "updatedAt": "2026-08-20T18:58:54.977Z",
-        "sourceUrl": "https://www.google.com/",
-        "domain": "www.google.com",
-        "description": null,
-        "siteName": "www.google.com",
-        "contentKind": "webpage",
-        "metadataVersion": 2,
-        "hasFavicon": true,
-        "hasPreviewImage": false,
-        "metadataStatus": "ready",
-        "metadataError": null,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/2b2a9392-63ed-425d-ae5d-00791a2f0a27/Google.url",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "5527ba06-7f34-4513-a513-97ce504a387d",
-        "type": "url",
-        "title": "Google Maps (4)",
-        "createdAt": "2026-08-20T18:58:44.373Z",
-        "updatedAt": "2026-08-20T18:58:44.472Z",
-        "sourceUrl": "https://maps.app.goo.gl/gLtAotAaVVWGjcHm9",
-        "domain": "maps.app.goo.gl",
-        "description": "Mencari bisnis lokal, melihat peta, dan melihat rute di Google Maps.",
-        "siteName": "Google Maps",
-        "contentKind": "webpage",
-        "metadataVersion": 2,
-        "hasFavicon": true,
-        "hasPreviewImage": true,
-        "metadataStatus": "ready",
-        "metadataError": null,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/5527ba06-7f34-4513-a513-97ce504a387d/Google Maps (4).url",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "33b8ced6-cd7d-47cd-aa59-37a5b6b4c8a6",
-        "type": "url",
-        "title": "Google Maps (3)",
-        "createdAt": "2026-08-20T18:57:21.550Z",
-        "updatedAt": "2026-08-20T18:57:21.608Z",
-        "sourceUrl": "https://maps.app.goo.gl/gLtAotAaVVWGjcHm9",
-        "domain": "maps.app.goo.gl",
-        "description": "Mencari bisnis lokal, melihat peta, dan melihat rute di Google Maps.",
-        "siteName": "Google Maps",
-        "contentKind": "webpage",
-        "metadataVersion": 2,
-        "hasFavicon": true,
-        "hasPreviewImage": true,
-        "metadataStatus": "ready",
-        "metadataError": null,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/33b8ced6-cd7d-47cd-aa59-37a5b6b4c8a6/Google Maps (3).url",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "bd63f4c7-5338-4692-9000-83c955dc7f84",
-        "type": "url",
-        "title": "Google Maps (2)",
-        "createdAt": "2026-08-20T18:57:09.261Z",
-        "updatedAt": "2026-08-20T18:57:09.318Z",
-        "sourceUrl": "https://www.google.com/maps/place/DAENG+VAPE+SORONG/@-0.8898193,131.2941429,19.5z/data=!4m6!3m5!1s0x2d59554aaf785c17:0xa87de17a624a5f74!8m2!3d-0.8893848!4d131.2938034!16s%2Fg%2F11w8qgkn7g?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
-        "domain": "www.google.com",
-        "description": "Mencari bisnis lokal, melihat peta, dan melihat rute di Google Maps.",
-        "siteName": "Google Maps",
-        "contentKind": "webpage",
-        "metadataVersion": 2,
-        "hasFavicon": true,
-        "hasPreviewImage": true,
-        "metadataStatus": "ready",
-        "metadataError": null,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/bd63f4c7-5338-4692-9000-83c955dc7f84/Google Maps (2).url",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "901a2b9c-153f-48af-b24b-b00e9f8835c2",
-        "type": "url",
-        "title": "Google Maps",
-        "createdAt": "2026-08-20T18:56:38.843Z",
-        "updatedAt": "2026-08-20T18:56:38.899Z",
-        "sourceUrl": "https://www.google.com/maps/place/REFLEKSI+MASTER+JETLI+SORONG/@-0.8896848,131.2940737,20.25z/data=!4m6!3m5!1s0x2d59558a0028c55b:0x6e76e03fabef9b00!8m2!3d-0.8894112!4d131.2978208!16s%2Fg%2F11gh9p3_zm?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
-        "domain": "www.google.com",
-        "description": "Mencari bisnis lokal, melihat peta, dan melihat rute di Google Maps.",
-        "siteName": "Google Maps",
-        "contentKind": "webpage",
-        "metadataVersion": 2,
-        "hasFavicon": true,
-        "hasPreviewImage": true,
-        "metadataStatus": "ready",
-        "metadataError": null,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/901a2b9c-153f-48af-b24b-b00e9f8835c2/Google Maps.url",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "258723e4-2249-44ab-b795-3fb90f947b4a",
-        "type": "url",
-        "title": "Claude",
-        "createdAt": "2026-08-20T18:56:14.356Z",
-        "updatedAt": "2026-08-20T18:56:14.429Z",
-        "sourceUrl": "https://claude.com/",
-        "domain": "claude.com",
-        "description": "Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.",
-        "siteName": "Claude",
-        "contentKind": "webpage",
-        "metadataVersion": 2,
-        "hasFavicon": true,
-        "hasPreviewImage": true,
-        "metadataStatus": "ready",
-        "metadataError": null,
-        "location": {
-          "type": "trash",
-          "trashedFrom": "inbox",
-          "originalCollectionId": null
-        },
-        "relativePath": ".kuskus/trash/258723e4-2249-44ab-b795-3fb90f947b4a/Claude.url",
+        "relativePath": "resources/clippings/Eloquent JavaScript 4th edition (2024).md",
         "referencedAttachment": false
       },
       {
@@ -604,9 +154,9 @@
         "type": "note",
         "title": "Mermaid Test",
         "titleSource": "custom",
-        "body": "---\ntitle: \"Mermaid test for markdown rendering\"\n---\n## Sankey graph \n\n```mermaid\nsankey\n\n%% source,target,value\nElectricity grid,Over generation / exports,104.453\nElectricity grid,Heating and cooling - homes,113.726\nElectricity grid,H2 conversion,27.14\n\n```\n\n## Kanban\n\n```mermaid\n---\nconfig:\n  kanban:\n    ticketBaseUrl: 'https://mermaidchart.atlassian.net/browse/#TICKET#'\n---\nkanban\n  Todo\n    [Create Documentation]\n    docs[Create Blog about the new diagram]\n  [In progress]\n    id6[Create renderer so that it works in all cases. We also add some extra text here for testing purposes. And some more just for the extra flare.]\n  id9[Ready for deploy]\n    id8[Design grammar]@{ assigned: 'knsv' }\n  id10[Ready for test]\n    id4[Create parsing tests]@{ ticket: MC-2038, assigned: 'K.Sveidqvist', priority: 'High' }\n    id66[last item]@{ priority: 'Very Low', assigned: 'knsv' }\n  id11[Done]\n    id5[define getData]\n    id2[Title of diagram is more than 100 chars when user duplicates diagram with 100 char]@{ ticket: MC-2036, priority: 'Very High'}\n    id3[Update DB function]@{ ticket: MC-2037, assigned: knsv, priority: 'High' }\n\n  id12[Can't reproduce]\n    id3[Weird flickering in Firefox]\n\n```\n\n## Architecture\n\n```mermaid\narchitecture-beta\n    group api(cloud)[API]\n    service db(database)[Database] in api\n    service disk1(disk)[Storage] in api\n    service disk2(disk)[Storage] in api\n    service server(server)[Server] in api\n\n    db:L -- R:server\n    disk1:T -- B:server\n    disk2:T -- B:db\n\n```\n\n## Venn \n\n```mermaid\nvenn-beta\n  title \"Creating a Desktop App\"\n  set Frontend\n  set Backend\n  union Frontend,Backend[\"APIs\"]\n\n  set Interface\n  set Experience\n  union Interface,Experience[\"User\"]\n```\n",
+        "body": "---\ntitle: \"Mermaid test for markdown rendering\"\n---\n\n## Sankey graph \n\n```mermaid\nsankey\n\n%% source,target,value\nElectricity grid,Over generation / exports,104.453\nElectricity grid,Heating and cooling - homes,113.726\nElectricity grid,H2 conversion,27.14\n\n```\n\n## Kanban\n\n```mermaid\n---\nconfig:\n  kanban:\n    ticketBaseUrl: 'https://mermaidchart.atlassian.net/browse/#TICKET#'\n---\nkanban\n  Todo\n    [Create Documentation]\n    docs[Create Blog about the new diagram]\n  [In progress]\n    id6[Create renderer so that it works in all cases. We also add some extra text here for testing purposes. And some more just for the extra flare.]\n  id9[Ready for deploy]\n    id8[Design grammar]@{ assigned: 'knsv' }\n  id10[Ready for test]\n    id4[Create parsing tests]@{ ticket: MC-2038, assigned: 'K.Sveidqvist', priority: 'High' }\n    id66[last item]@{ priority: 'Very Low', assigned: 'knsv' }\n  id11[Done]\n    id5[define getData]\n    id2[Title of diagram is more than 100 chars when user duplicates diagram with 100 char]@{ ticket: MC-2036, priority: 'Very High'}\n    id3[Update DB function]@{ ticket: MC-2037, assigned: knsv, priority: 'High' }\n\n  id12[Can't reproduce]\n    id3[Weird flickering in Firefox]\n\n```\n\n## Architecture\n\n```mermaid\narchitecture-beta\n    group api(cloud)[API]\n    service db(database)[Database] in api\n    service disk1(disk)[Storage] in api\n    service disk2(disk)[Storage] in api\n    service server(server)[Server] in api\n\n    db:L -- R:server\n    disk1:T -- B:server\n    disk2:T -- B:db\n\n```\n\n## Venn \n\n```mermaid\nvenn-beta\n  title \"Creating a Desktop App\"\n  set Frontend\n  set Backend\n  union Frontend,Backend[\"APIs\"]\n\n  set Interface\n  set Experience\n  union Interface,Experience[\"User\"]\n```\n",
         "createdAt": "2026-08-15T14:48:33.029Z",
-        "updatedAt": "2026-08-22T12:05:03.589Z",
+        "updatedAt": "2026-09-11T01:39:59.914Z",
         "missingContent": false,
         "attachments": [],
         "location": {
@@ -933,9 +483,9 @@
         "type": "note",
         "title": "Scrolling the note list stutters badly once a notebook holds more than a few thousand notes",
         "titleSource": "custom",
-        "body": "---\n{}\n---\nScrolling the note list stutters badly once a notebook holds more than a few thousand notes.\nReproduced on my own database (3,040 notes) — the FPS meter drops to \\~20 while dragging the scrollbar.\n\n***\n\n## Profile first\n\n* [Analyze runtime performance | Chrome DevTools](https://developer.chrome.com/docs/devtools/performance/)\n\nRecorded a 4-second scroll:\n\n```\nScripting   2,140 ms\nRendering     680 ms\nPainting      210 ms\nIdle           95 ms\n```\n\nSo it's scripting-bound, not paint-bound. 🤔\n\n## ✅ Every row re-renders on scroll\n\n`NoteListItem` isn't memoized, so a scroll-position change re-renders all 3,040 of them.\n\n```tsx\nexport const NoteListItem = memo(function NoteListItem({ note, active }: Props) {\n  // ...\n})\n```\n\n* [`memo` – React](https://react.dev/reference/react/memo)\n\nScripting drops to 380 ms. Good enough to ship, but the whole list is still mounted.\n\n## 🤔 Windowing the list\n\n* [react-window](https://github.com/bvaughn/react-window)\n\nRendering $n$ rows costs roughly $c \\cdot n$, and windowing replaces $n$ with the $v$ rows\nactually on screen. At $n = 3040$ and $v = 24$:\n\n$$\n\\frac{n}{v} \\approx 127\n$$\n\n...two orders of magnitude fewer mounted rows. Blocked on the sticky pinned-notes header, which\nassumes every row is in the DOM.\n\n## Next\n\n* [x] Memoize `NoteListItem`\n* [x] Verify against a 10k-note database\n* [ ] Windowed list behind a config flag\n* [ ] Re-test on the iPad app\n",
+        "body": "## Profile first\n\n* [Analyze runtime performance | Chrome DevTools](https://developer.chrome.com/docs/devtools/performance/)\n\nRecorded a 4-second scroll:\n\n```\nScripting   2,140 ms\nRendering     680 ms\nPainting      210 ms\nIdle           95 ms\n```\n\nSo it's scripting-bound, not paint-bound. 🤔\n\n## ✅ Every row re-renders on scroll\n\n`NoteListItem` isn't memoized, so a scroll-position change re-renders all 3,040 of them.\n\n```tsx\nexport const NoteListItem = memo(function NoteListItem({ note, active }: Props) {\n  // ...\n})\n```\n\n* [`memo` – React](https://react.dev/reference/react/memo)\n\nScripting drops to 380 ms. Good enough to ship, but the whole list is still mounted.\n\n## 🤔 Windowing the list\n\n* [react-window](https://github.com/bvaughn/react-window)\n\nRendering $n$ rows costs roughly $c \\cdot n$, and windowing replaces $n$ with the $v$ rows\nactually on screen. At $n = 3040$ and $v = 24$:\n\n$$\n\\frac{n}{v} \\approx 127\n$$\n\n...two orders of magnitude fewer mounted rows. Blocked on the sticky pinned-notes header, which\nassumes every row is in the DOM.\n\n## Next\n\n* [x] Memoize `NoteListItem`\n* [x] Verify against a 10k-note database\n* [ ] Windowed list behind a config flag\n* [ ] Re-test on the iPad app\n",
         "createdAt": "2026-08-12T15:12:24.539Z",
-        "updatedAt": "2026-08-16T13:24:15.615Z",
+        "updatedAt": "2026-09-11T01:43:03.995Z",
         "missingContent": false,
         "attachments": [],
         "location": {
@@ -1115,25 +665,6 @@
       },
       {
         "schemaVersion": 2,
-        "id": "008ba392-697f-4a9a-b6bd-cf48d865c061",
-        "type": "file",
-        "title": "Courage Is Calling Fortune Favo - Unknown",
-        "createdAt": "2026-07-28T15:35:11.817Z",
-        "updatedAt": "2026-07-28T15:35:11.821Z",
-        "sourceFilename": "Courage Is Calling Fortune Favo - Unknown.kfx",
-        "contentFilename": "Courage Is Calling Fortune Favo - Unknown.kfx",
-        "mediaType": "application/octet-stream",
-        "size": 2046927,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "76640d88-ba79-4171-81b7-0db9a197bc78"
-        },
-        "relativePath": "_calibre/Unknown/Courage Is Calling Fortune Favors th (19)/Courage Is Calling Fortune Favo - Unknown.kfx",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
         "id": "9b78b912-68e3-4a92-ac82-9f6bfcf63264",
         "type": "image",
         "title": "Pasted image 20260728220049",
@@ -1191,87 +722,6 @@
         },
         "relativePath": "resources/clippings/Rebound Health Trauma Therapy.md",
         "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "a53d3b97-c28f-4d26-a7dc-a61b732b87f9",
-        "type": "file",
-        "title": "The Inferno - Dante Alighieri",
-        "createdAt": "2026-07-25T17:47:06.052Z",
-        "updatedAt": "2026-07-25T17:47:06.053Z",
-        "sourceFilename": "The Inferno - Dante Alighieri.mobi",
-        "contentFilename": "The Inferno - Dante Alighieri.mobi",
-        "mediaType": "application/octet-stream",
-        "size": 761628,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "8fba7b02-200d-4f18-ac89-a4854c77c088"
-        },
-        "relativePath": "_calibre/Dante Alighieri/The Inferno (17)/The Inferno - Dante Alighieri.mobi",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "3da03144-5a68-4616-a06d-4dfea59d9e0b",
-        "type": "file",
-        "title": "The Inferno - Dante Alighieri",
-        "createdAt": "2026-07-25T17:45:46.549Z",
-        "updatedAt": "2026-07-25T17:45:46.558Z",
-        "sourceFilename": "The Inferno - Dante Alighieri.epub",
-        "contentFilename": "The Inferno - Dante Alighieri.epub",
-        "mediaType": "application/octet-stream",
-        "size": 2255455,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "8fba7b02-200d-4f18-ac89-a4854c77c088"
-        },
-        "relativePath": "_calibre/Dante Alighieri/The Inferno (17)/The Inferno - Dante Alighieri.epub",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "89408d0f-66cd-4e65-9153-1ac88be9934d",
-        "type": "file",
-        "title": "metadata",
-        "createdAt": "2026-07-25T17:44:24.323Z",
-        "updatedAt": "2026-07-25T17:45:50.425Z",
-        "sourceFilename": "metadata.opf",
-        "contentFilename": "metadata.opf",
-        "mediaType": "application/octet-stream",
-        "size": 2762,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "8fba7b02-200d-4f18-ac89-a4854c77c088"
-        },
-        "relativePath": "_calibre/Dante Alighieri/The Inferno (17)/metadata.opf",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "f922a013-e29a-46c9-9448-4dd5ae267ced",
-        "type": "image",
-        "title": "cover",
-        "createdAt": "2026-07-25T17:44:23.085Z",
-        "updatedAt": "2026-07-25T17:45:10.843Z",
-        "sourceUrl": null,
-        "sourceFilename": "cover.jpg",
-        "contentFilename": "cover.jpg",
-        "mediaType": "image/jpeg",
-        "width": 375,
-        "height": 500,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": "_calibre/Dante Alighieri/The Inferno (17)/cover.jpg",
-        "referencedAttachment": false,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "8fba7b02-200d-4f18-ac89-a4854c77c088"
-        },
-        "attachmentOrigin": null
       },
       {
         "schemaVersion": 2,
@@ -1378,235 +828,6 @@
         "location": {
           "type": "collection",
           "collectionId": "f8bc858e-238f-45d1-a41f-119210d18abd"
-        },
-        "attachmentOrigin": null
-      },
-      {
-        "schemaVersion": 2,
-        "id": "12e1b722-dab0-4aaa-a8db-ee554e06b4eb",
-        "type": "file",
-        "title": "My Clippings - Unknown",
-        "createdAt": "2026-07-22T04:00:50.810Z",
-        "updatedAt": "2026-07-22T04:00:50.816Z",
-        "sourceFilename": "My Clippings - Unknown.txt",
-        "contentFilename": "My Clippings - Unknown.txt",
-        "mediaType": "application/octet-stream",
-        "size": 4685122,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "dadc882c-61e7-4ad1-91dc-515447e8ebda"
-        },
-        "relativePath": "_calibre/Unknown/My Clippings (15)/My Clippings - Unknown.txt",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "5ba727f9-9f10-4a05-99a8-62c73f12fdbc",
-        "type": "file",
-        "title": "Mydict - Unknown",
-        "createdAt": "2026-07-22T04:00:47.366Z",
-        "updatedAt": "2026-07-22T04:00:47.370Z",
-        "sourceFilename": "Mydict - Unknown.mobi",
-        "contentFilename": "Mydict - Unknown.mobi",
-        "mediaType": "application/octet-stream",
-        "size": 1274660,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "e8f97548-97c4-462e-98e6-822ff63484d6"
-        },
-        "relativePath": "_calibre/Unknown/Mydict (12)/Mydict - Unknown.mobi",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "9403957e-d74c-4d2c-afe7-ea380c54eb1c",
-        "type": "file",
-        "title": "The Boy Crisis_ Why Our Boys Ar - Warren Farrell",
-        "createdAt": "2026-07-22T04:00:46.726Z",
-        "updatedAt": "2026-07-22T04:00:46.836Z",
-        "sourceFilename": "The Boy Crisis_ Why Our Boys Ar - Warren Farrell.azw3",
-        "contentFilename": "The Boy Crisis_ Why Our Boys Ar - Warren Farrell.azw3",
-        "mediaType": "application/octet-stream",
-        "size": 54577068,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "08a7c571-b06c-486d-9f32-01ce97d348b3"
-        },
-        "relativePath": "_calibre/Warren Farrell/The Boy Crisis_ Why Our Boys Are Str (8)/The Boy Crisis_ Why Our Boys Ar - Warren Farrell.azw3",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "7b94cc09-8774-4fd8-81d2-8c31170868a1",
-        "type": "file",
-        "title": "metadata",
-        "createdAt": "2026-07-22T04:00:46.719Z",
-        "updatedAt": "2026-07-22T04:00:46.720Z",
-        "sourceFilename": "metadata.opf",
-        "contentFilename": "metadata.opf",
-        "mediaType": "application/octet-stream",
-        "size": 1132,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "048462cb-ba6b-47a8-b2a7-75da280acf4e"
-        },
-        "relativePath": "_calibre/Unknown/The New Oxford American Dictionary (6)/metadata.opf",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "d4e52566-97b0-4e08-9501-9ef3fd7b32f2",
-        "type": "image",
-        "title": "cover",
-        "createdAt": "2026-07-22T04:00:46.695Z",
-        "updatedAt": "2026-07-22T04:00:46.695Z",
-        "sourceUrl": null,
-        "sourceFilename": "cover.jpg",
-        "contentFilename": "cover.jpg",
-        "mediaType": "image/jpeg",
-        "width": 600,
-        "height": 800,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": "_calibre/Warren Farrell/The Boy Crisis_ Why Our Boys Are Str (8)/cover.jpg",
-        "referencedAttachment": false,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "08a7c571-b06c-486d-9f32-01ce97d348b3"
-        },
-        "attachmentOrigin": null
-      },
-      {
-        "schemaVersion": 2,
-        "id": "e3877808-3e39-4692-8501-762f305bde8d",
-        "type": "file",
-        "title": "Oxford Spanish - English Dictio - Oxford University Press",
-        "createdAt": "2026-07-22T04:00:46.554Z",
-        "updatedAt": "2026-07-22T04:00:46.579Z",
-        "sourceFilename": "Oxford Spanish - English Dictio - Oxford University Press.azw",
-        "contentFilename": "Oxford Spanish - English Dictio - Oxford University Press.azw",
-        "mediaType": "application/octet-stream",
-        "size": 12639672,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "99bb7603-fcf2-4a9b-a07e-bb43150e4ca3"
-        },
-        "relativePath": "_calibre/Oxford University Press/Oxford Spanish - English Dictionary (7)/Oxford Spanish - English Dictio - Oxford University Press.azw",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "f6044626-2f6b-4f3d-a3f8-2fb7330373c5",
-        "type": "image",
-        "title": "cover",
-        "createdAt": "2026-07-22T04:00:46.524Z",
-        "updatedAt": "2026-07-22T04:00:46.525Z",
-        "sourceUrl": null,
-        "sourceFilename": "cover.jpg",
-        "contentFilename": "cover.jpg",
-        "mediaType": "image/jpeg",
-        "width": 1165,
-        "height": 1620,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": "_calibre/Oxford University Press/Oxford Spanish - English Dictionary (7)/cover.jpg",
-        "referencedAttachment": false,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "99bb7603-fcf2-4a9b-a07e-bb43150e4ca3"
-        },
-        "attachmentOrigin": null
-      },
-      {
-        "schemaVersion": 2,
-        "id": "4ad7fc2a-3319-4bba-a46f-2b04bb8fa357",
-        "type": "file",
-        "title": "The New Oxford American Diction - Unknown",
-        "createdAt": "2026-07-22T04:00:46.264Z",
-        "updatedAt": "2026-07-22T04:00:46.412Z",
-        "sourceFilename": "The New Oxford American Diction - Unknown.azw",
-        "contentFilename": "The New Oxford American Diction - Unknown.azw",
-        "mediaType": "application/octet-stream",
-        "size": 71114360,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "048462cb-ba6b-47a8-b2a7-75da280acf4e"
-        },
-        "relativePath": "_calibre/Unknown/The New Oxford American Dictionary (6)/The New Oxford American Diction - Unknown.azw",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "97cce9e0-d802-4405-9392-22cc142d0229",
-        "type": "image",
-        "title": "cover",
-        "createdAt": "2026-07-22T04:00:46.246Z",
-        "updatedAt": "2026-07-22T04:00:46.247Z",
-        "sourceUrl": null,
-        "sourceFilename": "cover.jpg",
-        "contentFilename": "cover.jpg",
-        "mediaType": "image/jpeg",
-        "width": 800,
-        "height": 1200,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": "_calibre/Unknown/The New Oxford American Dictionary (6)/cover.jpg",
-        "referencedAttachment": false,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "048462cb-ba6b-47a8-b2a7-75da280acf4e"
-        },
-        "attachmentOrigin": null
-      },
-      {
-        "schemaVersion": 2,
-        "id": "086e0f3b-d176-4f07-af9e-be803bbff7e1",
-        "type": "file",
-        "title": "Oxford Dictionary of English - Unknown",
-        "createdAt": "2026-07-22T04:00:46.001Z",
-        "updatedAt": "2026-07-22T04:00:46.098Z",
-        "sourceFilename": "Oxford Dictionary of English - Unknown.azw",
-        "contentFilename": "Oxford Dictionary of English - Unknown.azw",
-        "mediaType": "application/octet-stream",
-        "size": 49335612,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "46113401-00b3-4944-bca9-31b8f49e9087"
-        },
-        "relativePath": "_calibre/Unknown/Oxford Dictionary of English (5)/Oxford Dictionary of English - Unknown.azw",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "d0324be6-d618-4c71-96b2-7a82960d3d18",
-        "type": "image",
-        "title": "cover",
-        "createdAt": "2026-07-22T04:00:45.974Z",
-        "updatedAt": "2026-07-22T04:00:45.974Z",
-        "sourceUrl": null,
-        "sourceFilename": "cover.jpg",
-        "contentFilename": "cover.jpg",
-        "mediaType": "image/jpeg",
-        "width": 800,
-        "height": 1200,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": "_calibre/Unknown/Oxford Dictionary of English (5)/cover.jpg",
-        "referencedAttachment": false,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "46113401-00b3-4944-bca9-31b8f49e9087"
         },
         "attachmentOrigin": null
       },
@@ -1846,24 +1067,6 @@
       },
       {
         "schemaVersion": 2,
-        "id": "b20699ff-7dad-4139-89be-16fa51cb6008",
-        "type": "file",
-        "title": "desktop",
-        "createdAt": "2026-07-18T04:04:39.599Z",
-        "updatedAt": "2026-07-18T04:04:40.076Z",
-        "sourceFilename": "desktop.ini",
-        "contentFilename": "desktop.ini",
-        "mediaType": "application/octet-stream",
-        "size": 144,
-        "missingContent": false,
-        "location": {
-          "type": "inbox"
-        },
-        "relativePath": "desktop.ini",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
         "id": "e041e896-1741-4d0a-8b17-c3884f116788",
         "type": "note",
         "title": "Personalised Training Plan",
@@ -2022,44 +1225,6 @@
           "collectionId": "214a8412-84c1-4aab-b8ec-4a5e417279c0"
         },
         "relativePath": "dev/Say precisely what you mean.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "a65a7f05-5e50-4d23-a110-d04108bf048b",
-        "type": "file",
-        "title": "The Body Keeps the Score_ Brain - Bessel van der Kolk MD",
-        "createdAt": "2026-07-13T14:53:03.800Z",
-        "updatedAt": "2026-07-13T14:53:11.807Z",
-        "sourceFilename": "The Body Keeps the Score_ Brain - Bessel van der Kolk MD.mobi",
-        "contentFilename": "The Body Keeps the Score_ Brain - Bessel van der Kolk MD.mobi",
-        "mediaType": "application/octet-stream",
-        "size": 4410609,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "4f9187e7-4f7d-4a70-8630-8c704aa5aa8f"
-        },
-        "relativePath": "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/The Body Keeps the Score_ Brain - Bessel van der Kolk MD.mobi",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "b535662b-ec24-4927-9817-fc130b31e308",
-        "type": "file",
-        "title": "Pimp_ The Story of My Life - Iceberg Slim",
-        "createdAt": "2026-07-13T14:52:58.801Z",
-        "updatedAt": "2026-07-13T14:53:07.804Z",
-        "sourceFilename": "Pimp_ The Story of My Life - Iceberg Slim.mobi",
-        "contentFilename": "Pimp_ The Story of My Life - Iceberg Slim.mobi",
-        "mediaType": "application/octet-stream",
-        "size": 1990488,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "005aa956-1137-40b0-853d-c0d296288f45"
-        },
-        "relativePath": "_calibre/Iceberg Slim/Pimp_ The Story of My Life (3)/Pimp_ The Story of My Life - Iceberg Slim.mobi",
         "referencedAttachment": false
       },
       {
@@ -2396,25 +1561,6 @@
       },
       {
         "schemaVersion": 2,
-        "id": "7da08fd7-7269-4e9d-99e2-c495dd9f8557",
-        "type": "file",
-        "title": "The Body Keeps the Score_ Brain - Bessel van der Kolk MD",
-        "createdAt": "2026-07-11T02:05:24.412Z",
-        "updatedAt": "2026-07-11T02:05:24.430Z",
-        "sourceFilename": "The Body Keeps the Score_ Brain - Bessel van der Kolk MD.epub",
-        "contentFilename": "The Body Keeps the Score_ Brain - Bessel van der Kolk MD.epub",
-        "mediaType": "application/octet-stream",
-        "size": 3707155,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "4f9187e7-4f7d-4a70-8630-8c704aa5aa8f"
-        },
-        "relativePath": "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/The Body Keeps the Score_ Brain - Bessel van der Kolk MD.epub",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
         "id": "834555ea-0bb2-4a44-9d01-0252ecabb146",
         "type": "image",
         "title": "quality-over-quantity",
@@ -2540,68 +1686,6 @@
       },
       {
         "schemaVersion": 2,
-        "id": "0e23df77-e9c3-45e3-b74b-9fc27294d6a6",
-        "type": "file",
-        "title": "Pimp_ The Story of My Life - Iceberg Slim",
-        "createdAt": "2026-07-08T09:56:24.224Z",
-        "updatedAt": "2026-07-08T09:56:24.269Z",
-        "sourceFilename": "Pimp_ The Story of My Life - Iceberg Slim.epub",
-        "contentFilename": "Pimp_ The Story of My Life - Iceberg Slim.epub",
-        "mediaType": "application/octet-stream",
-        "size": 2740775,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "005aa956-1137-40b0-853d-c0d296288f45"
-        },
-        "relativePath": "_calibre/Iceberg Slim/Pimp_ The Story of My Life (3)/Pimp_ The Story of My Life - Iceberg Slim.epub",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "2eb42daf-4179-4086-a72e-d0324ed453ff",
-        "type": "file",
-        "title": "metadata",
-        "createdAt": "2026-07-08T09:27:06.000Z",
-        "updatedAt": "2026-07-08T09:56:26.665Z",
-        "sourceFilename": "metadata.opf",
-        "contentFilename": "metadata.opf",
-        "mediaType": "application/octet-stream",
-        "size": 1889,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "005aa956-1137-40b0-853d-c0d296288f45"
-        },
-        "relativePath": "_calibre/Iceberg Slim/Pimp_ The Story of My Life (3)/metadata.opf",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "618e1e7b-4a63-476d-be44-9d27beb3309d",
-        "type": "image",
-        "title": "cover",
-        "createdAt": "2026-07-08T09:27:05.208Z",
-        "updatedAt": "2026-07-08T09:27:05.209Z",
-        "sourceUrl": null,
-        "sourceFilename": "cover.jpg",
-        "contentFilename": "cover.jpg",
-        "mediaType": "image/jpeg",
-        "width": 905,
-        "height": 1400,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": "_calibre/Iceberg Slim/Pimp_ The Story of My Life (3)/cover.jpg",
-        "referencedAttachment": false,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "005aa956-1137-40b0-853d-c0d296288f45"
-        },
-        "attachmentOrigin": null
-      },
-      {
-        "schemaVersion": 2,
         "id": "f4a29114-a03f-45ec-ae8c-05ccd03b713d",
         "type": "image",
         "title": "Pasted image 20260707140514",
@@ -2652,18 +1736,18 @@
         "schemaVersion": 2,
         "id": "7d877892-f34b-492d-b08c-8d681fd8d6f9",
         "type": "note",
-        "title": "Notion Is Where Productivity Goes to Die  I Like Kill Nerds",
+        "title": "Notion is not a productivity tool. Notion is a tool for feeling productive while accomplishing nothing. It is a creativi",
         "titleSource": "derived",
-        "body": "---\ntitle: \"Notion Is Where Productivity Goes to Die | I Like Kill Nerds\"\nsource: \"https://ilikekillnerds.com/2026/01/20/notion-is-where-productivity-goes-to-die/\"\npublished: 2026-01-20\ncreated: 2026-07-07\ndescription: \"Notion is not a productivity tool. Notion is a tool for feeling productive while accomplishing nothing. It is a creativity sink disguised as a workspace. It is …\"\n---\nNotion is not a productivity tool. Notion is a tool for feeling productive while accomplishing nothing. It is a creativity sink disguised as a workspace. It is where work goes to become content about work.\n\nI have watched people spend more time building their Notion setup than actually doing the tasks the setup was meant to track. I have done it myself. This is not productivity. This is procrastination with better aesthetics.\n\n## You are building a system, not doing work\n\nC:\\\\Users\\\\Fauzan\\\\Documents\\\\fauzan-obsidian\\\\dev\\\\shadcn Skills.md\n\nThe Notion trap works like this. You decide to get organised. You open Notion. You create a database for your tasks. But wait, tasks have projects, so you need a projects database. And projects have areas, so you need an areas database. And you should link them with relations. And you need different views. And maybe a dashboard that shows everything. And some templates so you can create things faster.\n\nThree hours later you have built an elaborate system. You have not done any actual work, but you feel accomplished because the system looks impressive. You share it on Twitter. People ask for the template. You are now a productivity influencer.\n\nThe tasks remain undone. But the system is beautiful.\n\n## Notion enables infinite customisation, which is the problem\n\nA tool that can be anything is a tool that invites endless tinkering. Notion lets you build whatever you want, which means you will spend forever building instead of using.\n\nA simple todo list does not have this problem. You write tasks. You check them off. There is nothing to customise because the tool has already made the decisions for you. You cannot procrastinate by reorganising because there is nothing to reorganise.\n\nNotion outsources every decision to you. How should tasks be organised? Your choice. What fields should they have? Your choice. How should they be displayed? Your choice. Every choice is an opportunity to stop working and start designing. Most people take that opportunity.\n\nThe tool is too flexible for its own good. The flexibility is the feature and the failure.\n\n## Second brain people are not getting things done\n\nThere is a whole community of people who use Notion to build second brain systems. They have databases for notes, projects, areas, resources, archives. They have complex tagging systems. They have daily templates and weekly reviews and quarterly planning rituals. They have turned note-taking into a lifestyle.\n\nI am not convinced these people are more productive than someone with a paper notebook. They spend enormous effort on capture and organisation. The output is often the system itself. Look at my dashboard. Look at my linked databases. Look at how everything connects.\n\nGreat. What have you shipped? What have you created? What exists in the world because of all this organisation?\n\nThe goal of a productivity system is to produce things. If the system is the thing you produce, you have missed the point.\n\n## The template economy\n\nNotion templates are a whole market now. People sell them. People buy them. Premium templates for writers, entrepreneurs, students, developers. Each one promises to transform your productivity.\n\nThey do not. What actually happens is you import the template, poke around, realise it does not quite fit your workflow, and either abandon it or spend hours customising it. Then you find another template that looks better. Repeat forever.\n\nThe template economy exists because Notion is too hard to set up from scratch. This should be a warning sign, not a business opportunity. If a productivity tool requires purchasing third-party templates to be useful, the tool has failed at being simple enough to use.\n\n## What I actually use\n\nI use a text file for tasks. Sometimes I use pen and paper. When I tried Notion, I spent a week building systems and accomplished nothing. When I switched to a text file, I started finishing things.\n\nThis is not a productivity hack. It is the opposite. It is admitting that the fancy tool was making things worse, not better. The features that seemed valuable were actually distractions. The customisation that felt empowering was actually paralysing.\n\nThe best productivity system is the one you actually use to produce things. For most people, that is the simplest system they can tolerate. Not the most powerful. Not the most flexible. The simplest.\n\n## Notion is great for some things\n\nI am not saying Notion is useless. It is good for wikis. It is good for documentation. It is good for shared knowledge bases where multiple people need to contribute and the structure genuinely matters.\n\nIt is bad for personal productivity. It is bad for todo lists. It is bad for anything where the goal is doing things rather than organising things. The same flexibility that makes it great for collaborative docs makes it terrible for getting work done.\n\nIf you are using Notion for tasks and feeling unproductive, it might not be you. It might be the tool. Try something simpler. See what happens.\n\nYour productivity system should be boring. It should be invisible. It should fade into the background while you do actual work. If your system is interesting, if you enjoy tinkering with it, if you ever think about sharing it on social media, you have built the wrong thing.\n\nNotion is interesting. That is why it fails.\n",
+        "body": "---\ntitle: \"Notion Is Where Productivity Goes to Die | I Like Kill Nerds\"\nsource: \"https://ilikekillnerds.com/2026/01/20/notion-is-where-productivity-goes-to-die/\"\npublished: 2026-01-20\ncreated: 2026-07-07\ndescription: \"Notion is not a productivity tool. Notion is a tool for feeling productive while accomplishing nothing. It is a creativity sink disguised as a workspace. It is …\"\n---\nNotion is not a productivity tool. Notion is a tool for feeling productive while accomplishing nothing. It is a creativity sink disguised as a workspace. It is where work goes to become content about work.\n\nI have watched people spend more time building their Notion setup than actually doing the tasks the setup was meant to track. I have done it myself. This is not productivity. This is procrastination with better aesthetics.\n\n## You are building a system, not doing work\n\nThe Notion trap works like this. You decide to get organised. You open Notion. You create a database for your tasks. But wait, tasks have projects, so you need a projects database. And projects have areas, so you need an areas database. And you should link them with relations. And you need different views. And maybe a dashboard that shows everything. And some templates so you can create things faster.\n\nThree hours later you have built an elaborate system. You have not done any actual work, but you feel accomplished because the system looks impressive. You share it on Twitter. People ask for the template. You are now a productivity influencer.\n\nThe tasks remain undone. But the system is beautiful.\n\n## Notion enables infinite customisation, which is the problem\n\nA tool that can be anything is a tool that invites endless tinkering. Notion lets you build whatever you want, which means you will spend forever building instead of using.\n\nA simple todo list does not have this problem. You write tasks. You check them off. There is nothing to customise because the tool has already made the decisions for you. You cannot procrastinate by reorganising because there is nothing to reorganise.\n\nNotion outsources every decision to you. How should tasks be organised? Your choice. What fields should they have? Your choice. How should they be displayed? Your choice. Every choice is an opportunity to stop working and start designing. Most people take that opportunity.\n\nThe tool is too flexible for its own good. The flexibility is the feature and the failure.\n\n## Second brain people are not getting things done\n\nThere is a whole community of people who use Notion to build second brain systems. They have databases for notes, projects, areas, resources, archives. They have complex tagging systems. They have daily templates and weekly reviews and quarterly planning rituals. They have turned note-taking into a lifestyle.\n\nI am not convinced these people are more productive than someone with a paper notebook. They spend enormous effort on capture and organisation. The output is often the system itself. Look at my dashboard. Look at my linked databases. Look at how everything connects.\n\nGreat. What have you shipped? What have you created? What exists in the world because of all this organisation?\n\nThe goal of a productivity system is to produce things. If the system is the thing you produce, you have missed the point.\n\n## The template economy\n\nNotion templates are a whole market now. People sell them. People buy them. Premium templates for writers, entrepreneurs, students, developers. Each one promises to transform your productivity.\n\nThey do not. What actually happens is you import the template, poke around, realise it does not quite fit your workflow, and either abandon it or spend hours customising it. Then you find another template that looks better. Repeat forever.\n\nThe template economy exists because Notion is too hard to set up from scratch. This should be a warning sign, not a business opportunity. If a productivity tool requires purchasing third-party templates to be useful, the tool has failed at being simple enough to use.\n\n## What I actually use\n\nI use a text file for tasks. Sometimes I use pen and paper. When I tried Notion, I spent a week building systems and accomplished nothing. When I switched to a text file, I started finishing things.\n\nThis is not a productivity hack. It is the opposite. It is admitting that the fancy tool was making things worse, not better. The features that seemed valuable were actually distractions. The customisation that felt empowering was actually paralysing.\n\nThe best productivity system is the one you actually use to produce things. For most people, that is the simplest system they can tolerate. Not the most powerful. Not the most flexible. The simplest.\n\n## Notion is great for some things\n\nI am not saying Notion is useless. It is good for wikis. It is good for documentation. It is good for shared knowledge bases where multiple people need to contribute and the structure genuinely matters.\n\nIt is bad for personal productivity. It is bad for todo lists. It is bad for anything where the goal is doing things rather than organising things. The same flexibility that makes it great for collaborative docs makes it terrible for getting work done.\n\nIf you are using Notion for tasks and feeling unproductive, it might not be you. It might be the tool. Try something simpler. See what happens.\n\nYour productivity system should be boring. It should be invisible. It should fade into the background while you do actual work. If your system is interesting, if you enjoy tinkering with it, if you ever think about sharing it on social media, you have built the wrong thing.\n\nNotion is interesting. That is why it fails.\n",
         "createdAt": "2026-07-07T03:39:46.922Z",
-        "updatedAt": "2026-07-28T19:05:05.795Z",
+        "updatedAt": "2026-09-11T04:12:48.122Z",
         "missingContent": false,
         "attachments": [],
         "location": {
           "type": "collection",
           "collectionId": "868ec016-34a0-447b-ae48-61c0af7f3655"
         },
-        "relativePath": "resources/clippings/Notion Is Where Productivity Goes to Die  I Like Kill Nerds.md",
+        "relativePath": "resources/clippings/Notion is not a productivity tool. Notion is a tool for feeling productive while accomplishing nothing. It is a creativi.md",
         "referencedAttachment": false
       },
       {
@@ -2742,106 +1826,6 @@
           "collectionId": "26dbe24f-36d3-4906-bd77-eb531f52993b"
         },
         "relativePath": "drafts/Video Game, Mimpi jadi Kaya dan Disfungsi Ereksi.md",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "6d83d869-6165-485d-82be-e53554f117a4",
-        "type": "file",
-        "title": "The Body Keeps the Score_ Brain - Bessel van der Kolk MD",
-        "createdAt": "2026-07-04T11:23:35.447Z",
-        "updatedAt": "2026-07-04T11:23:35.451Z",
-        "sourceFilename": "The Body Keeps the Score_ Brain - Bessel van der Kolk MD.original_epub",
-        "contentFilename": "The Body Keeps the Score_ Brain - Bessel van der Kolk MD.original_epub",
-        "mediaType": "application/octet-stream",
-        "size": 3704489,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "4f9187e7-4f7d-4a70-8630-8c704aa5aa8f"
-        },
-        "relativePath": "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/The Body Keeps the Score_ Brain - Bessel van der Kolk MD.original_epub",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "4ff6df1b-259e-44ea-9b55-a290ea157dc4",
-        "type": "file",
-        "title": "metadata",
-        "createdAt": "2026-07-04T11:03:59.171Z",
-        "updatedAt": "2026-07-11T02:05:40.447Z",
-        "sourceFilename": "metadata.opf",
-        "contentFilename": "metadata.opf",
-        "mediaType": "application/octet-stream",
-        "size": 12608,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "4f9187e7-4f7d-4a70-8630-8c704aa5aa8f"
-        },
-        "relativePath": "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/metadata.opf",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "911d89bb-317c-4de0-b07e-ab50a772282f",
-        "type": "image",
-        "title": "cover",
-        "createdAt": "2026-07-04T11:03:58.612Z",
-        "updatedAt": "2026-07-04T11:03:58.612Z",
-        "sourceUrl": null,
-        "sourceFilename": "cover.jpg",
-        "contentFilename": "cover.jpg",
-        "mediaType": "image/jpeg",
-        "width": 1059,
-        "height": 1600,
-        "note": "",
-        "originalCollectionId": null,
-        "relativePath": "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)/cover.jpg",
-        "referencedAttachment": false,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "4f9187e7-4f7d-4a70-8630-8c704aa5aa8f"
-        },
-        "attachmentOrigin": null
-      },
-      {
-        "schemaVersion": 2,
-        "id": "737e4849-fbe7-4ff9-b514-1493632421b1",
-        "type": "file",
-        "title": "metadata_db_prefs_backup",
-        "createdAt": "2026-07-04T11:03:48.196Z",
-        "updatedAt": "2026-07-28T15:35:12.920Z",
-        "sourceFilename": "metadata_db_prefs_backup.json",
-        "contentFilename": "metadata_db_prefs_backup.json",
-        "mediaType": "application/octet-stream",
-        "size": 14900,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "96c6f8d9-68f1-43b1-9bc8-41da88768afc"
-        },
-        "relativePath": "_calibre/metadata_db_prefs_backup.json",
-        "referencedAttachment": false
-      },
-      {
-        "schemaVersion": 2,
-        "id": "e24f6dcd-14fc-4df1-8340-379d464f3763",
-        "type": "file",
-        "title": "metadata",
-        "createdAt": "2026-07-04T11:02:42.642Z",
-        "updatedAt": "2026-07-28T15:35:11.835Z",
-        "sourceFilename": "metadata.db",
-        "contentFilename": "metadata.db",
-        "mediaType": "application/octet-stream",
-        "size": 475136,
-        "missingContent": false,
-        "location": {
-          "type": "collection",
-          "collectionId": "96c6f8d9-68f1-43b1-9bc8-41da88768afc"
-        },
-        "relativePath": "_calibre/metadata.db",
         "referencedAttachment": false
       },
       {
@@ -3173,29 +2157,11 @@
       },
       {
         "schemaVersion": 2,
-        "id": "96c6f8d9-68f1-43b1-9bc8-41da88768afc",
-        "name": "_calibre",
-        "icon": "bulb",
-        "createdAt": "2026-08-09T06:43:01.672Z",
-        "relativePath": "_calibre",
-        "parentId": null
-      },
-      {
-        "schemaVersion": 2,
         "id": "e5384d56-122b-4c47-8f7d-0b5f10e0f0ac",
         "name": "journal",
         "icon": "book",
         "createdAt": "2026-08-09T06:43:01.636Z",
         "relativePath": "journal",
-        "parentId": null
-      },
-      {
-        "schemaVersion": 2,
-        "id": "e9ad878c-65d4-4be2-819c-316f7a268f44",
-        "name": "_archive",
-        "icon": "folder",
-        "createdAt": "2026-08-09T06:43:01.663Z",
-        "relativePath": "_archive",
         "parentId": null
       },
       {
@@ -3215,15 +2181,6 @@
         "createdAt": "2026-08-19T11:51:39.888Z",
         "relativePath": "public/design references",
         "parentId": "f8bc858e-238f-45d1-a41f-119210d18abd"
-      },
-      {
-        "schemaVersion": 2,
-        "id": "45ba1099-d8ee-4681-9cc0-b60cb47b9114",
-        "name": "Warren Farrell",
-        "icon": "folder",
-        "createdAt": "2026-08-09T06:43:01.765Z",
-        "relativePath": "_calibre/Warren Farrell",
-        "parentId": "96c6f8d9-68f1-43b1-9bc8-41da88768afc"
       },
       {
         "schemaVersion": 2,
@@ -3254,39 +2211,12 @@
       },
       {
         "schemaVersion": 2,
-        "id": "74a2f703-9457-4156-9dc0-999411b715c5",
-        "name": "Bessel van der Kolk MD",
-        "icon": "folder",
-        "createdAt": "2026-08-09T06:43:01.719Z",
-        "relativePath": "_calibre/Bessel van der Kolk MD",
-        "parentId": "96c6f8d9-68f1-43b1-9bc8-41da88768afc"
-      },
-      {
-        "schemaVersion": 2,
         "id": "868ec016-34a0-447b-ae48-61c0af7f3655",
         "name": "clippings",
         "icon": "notes",
         "createdAt": "2026-08-09T06:43:01.701Z",
         "relativePath": "resources/clippings",
         "parentId": "2a8a015a-3645-40ff-8340-b96cdc3c4b55"
-      },
-      {
-        "schemaVersion": 2,
-        "id": "a2159c94-c9ca-45c2-9464-6497b2717e16",
-        "name": "Iceberg Slim",
-        "icon": "folder",
-        "createdAt": "2026-08-09T06:43:01.738Z",
-        "relativePath": "_calibre/Iceberg Slim",
-        "parentId": "96c6f8d9-68f1-43b1-9bc8-41da88768afc"
-      },
-      {
-        "schemaVersion": 2,
-        "id": "dd42db7d-0406-4095-bc82-07c409b4ea8e",
-        "name": "Dante Alighieri",
-        "icon": "folder",
-        "createdAt": "2026-08-09T06:43:01.728Z",
-        "relativePath": "_calibre/Dante Alighieri",
-        "parentId": "96c6f8d9-68f1-43b1-9bc8-41da88768afc"
       },
       {
         "schemaVersion": 2,
@@ -3299,120 +2229,12 @@
       },
       {
         "schemaVersion": 2,
-        "id": "e3ce3add-087d-4328-9fd6-144ea48aca8b",
-        "name": "Unknown",
-        "icon": "folder",
-        "createdAt": "2026-08-09T06:43:01.755Z",
-        "relativePath": "_calibre/Unknown",
-        "parentId": "96c6f8d9-68f1-43b1-9bc8-41da88768afc"
-      },
-      {
-        "schemaVersion": 2,
-        "id": "ed75f7ca-a2e4-4ba4-809d-026a37f20420",
-        "name": "Oxford University Press",
-        "icon": "folder",
-        "createdAt": "2026-08-09T06:43:01.747Z",
-        "relativePath": "_calibre/Oxford University Press",
-        "parentId": "96c6f8d9-68f1-43b1-9bc8-41da88768afc"
-      },
-      {
-        "schemaVersion": 2,
         "id": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36",
         "name": "mock",
         "icon": "flask",
         "createdAt": "2026-08-14T13:00:02.637Z",
         "relativePath": "dev/mock",
         "parentId": "214a8412-84c1-4aab-b8ec-4a5e417279c0"
-      },
-      {
-        "schemaVersion": 2,
-        "id": "005aa956-1137-40b0-853d-c0d296288f45",
-        "name": "Pimp_ The Story of My Life (3)",
-        "icon": "folder",
-        "createdAt": "2026-08-09T06:43:01.790Z",
-        "relativePath": "_calibre/Iceberg Slim/Pimp_ The Story of My Life (3)",
-        "parentId": "a2159c94-c9ca-45c2-9464-6497b2717e16"
-      },
-      {
-        "schemaVersion": 2,
-        "id": "048462cb-ba6b-47a8-b2a7-75da280acf4e",
-        "name": "The New Oxford American Dictionary (6)",
-        "icon": "folder",
-        "createdAt": "2026-08-09T06:43:01.841Z",
-        "relativePath": "_calibre/Unknown/The New Oxford American Dictionary (6)",
-        "parentId": "e3ce3add-087d-4328-9fd6-144ea48aca8b"
-      },
-      {
-        "schemaVersion": 2,
-        "id": "08a7c571-b06c-486d-9f32-01ce97d348b3",
-        "name": "The Boy Crisis_ Why Our Boys Are Str (8)",
-        "icon": "folder",
-        "createdAt": "2026-08-09T06:43:01.849Z",
-        "relativePath": "_calibre/Warren Farrell/The Boy Crisis_ Why Our Boys Are Str (8)",
-        "parentId": "45ba1099-d8ee-4681-9cc0-b60cb47b9114"
-      },
-      {
-        "schemaVersion": 2,
-        "id": "46113401-00b3-4944-bca9-31b8f49e9087",
-        "name": "Oxford Dictionary of English (5)",
-        "icon": "folder",
-        "createdAt": "2026-08-09T06:43:01.833Z",
-        "relativePath": "_calibre/Unknown/Oxford Dictionary of English (5)",
-        "parentId": "e3ce3add-087d-4328-9fd6-144ea48aca8b"
-      },
-      {
-        "schemaVersion": 2,
-        "id": "4f9187e7-4f7d-4a70-8630-8c704aa5aa8f",
-        "name": "The Body Keeps the Score_ Brain, Min (2)",
-        "icon": "folder",
-        "createdAt": "2026-08-09T06:43:01.773Z",
-        "relativePath": "_calibre/Bessel van der Kolk MD/The Body Keeps the Score_ Brain, Min (2)",
-        "parentId": "74a2f703-9457-4156-9dc0-999411b715c5"
-      },
-      {
-        "schemaVersion": 2,
-        "id": "76640d88-ba79-4171-81b7-0db9a197bc78",
-        "name": "Courage Is Calling Fortune Favors th (19)",
-        "icon": "folder",
-        "createdAt": "2026-08-09T06:43:01.807Z",
-        "relativePath": "_calibre/Unknown/Courage Is Calling Fortune Favors th (19)",
-        "parentId": "e3ce3add-087d-4328-9fd6-144ea48aca8b"
-      },
-      {
-        "schemaVersion": 2,
-        "id": "8fba7b02-200d-4f18-ac89-a4854c77c088",
-        "name": "The Inferno (17)",
-        "icon": "folder",
-        "createdAt": "2026-08-09T06:43:01.781Z",
-        "relativePath": "_calibre/Dante Alighieri/The Inferno (17)",
-        "parentId": "dd42db7d-0406-4095-bc82-07c409b4ea8e"
-      },
-      {
-        "schemaVersion": 2,
-        "id": "99bb7603-fcf2-4a9b-a07e-bb43150e4ca3",
-        "name": "Oxford Spanish - English Dictionary (7)",
-        "icon": "folder",
-        "createdAt": "2026-08-09T06:43:01.800Z",
-        "relativePath": "_calibre/Oxford University Press/Oxford Spanish - English Dictionary (7)",
-        "parentId": "ed75f7ca-a2e4-4ba4-809d-026a37f20420"
-      },
-      {
-        "schemaVersion": 2,
-        "id": "dadc882c-61e7-4ad1-91dc-515447e8ebda",
-        "name": "My Clippings (15)",
-        "icon": "folder",
-        "createdAt": "2026-08-09T06:43:01.814Z",
-        "relativePath": "_calibre/Unknown/My Clippings (15)",
-        "parentId": "e3ce3add-087d-4328-9fd6-144ea48aca8b"
-      },
-      {
-        "schemaVersion": 2,
-        "id": "e8f97548-97c4-462e-98e6-822ff63484d6",
-        "name": "Mydict (12)",
-        "icon": "folder",
-        "createdAt": "2026-08-09T06:43:01.824Z",
-        "relativePath": "_calibre/Unknown/Mydict (12)",
-        "parentId": "e3ce3add-087d-4328-9fd6-144ea48aca8b"
       }
     ],
     "cleanup": {

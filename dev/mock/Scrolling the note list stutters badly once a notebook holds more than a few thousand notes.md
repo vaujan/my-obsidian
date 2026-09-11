@@ -1,11 +1,3 @@
----
-{}
----
-Scrolling the note list stutters badly once a notebook holds more than a few thousand notes.
-Reproduced on my own database (3,040 notes) — the FPS meter drops to \~20 while dragging the scrollbar.
-
-***
-
 ## Profile first
 
 * [Analyze runtime performance | Chrome DevTools](https://developer.chrome.com/docs/devtools/performance/)

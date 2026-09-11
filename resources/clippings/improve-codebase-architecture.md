@@ -5,6 +5,7 @@ published:
 created: 2026-08-22
 description: "Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick."
 ---
+
 ## improve-codebase-architecture
 
 Installation

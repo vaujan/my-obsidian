@@ -1,6 +1,7 @@
 ---
 title: "Mermaid test for markdown rendering"
 ---
+
 ## Sankey graph 
 
 ```mermaid

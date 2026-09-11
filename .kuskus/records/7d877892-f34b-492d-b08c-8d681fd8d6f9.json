@@ -1,28 +1,29 @@
 {
   "schemaVersion": 2,
   "id": "7d877892-f34b-492d-b08c-8d681fd8d6f9",
-  "relativePath": "resources/clippings/Notion Is Where Productivity Goes to Die  I Like Kill Nerds.md",
-  "fingerprint": "13f1e14889587b218d704f2759aac8adde367ea8c45799ee5511f90dce32f1fb",
-  "fileIdentity": "3121943230:5348024558247128",
-  "fileSize": 5738,
-  "modifiedAtMs": 1785265505795.3752,
+  "relativePath": "resources/clippings/Notion is not a productivity tool. Notion is a tool for feeling productive while accomplishing nothing. It is a creativi.md",
+  "fingerprint": "f02e0ebc84d28b6f864bf6833004efc3a4a53e12879d21d12b9b21b1414c5dbb",
+  "fileIdentity": "3121943230:90634942500841740",
+  "fileSize": 5668,
+  "modifiedAtMs": 1789099968121.9377,
   "recovery": {
-    "lastSeenAt": "2026-08-09T06:43:04.234Z",
+    "lastSeenAt": "2026-09-11T04:12:48.523Z",
     "missingSince": null
   },
   "metadata": {
     "schemaVersion": 2,
     "id": "7d877892-f34b-492d-b08c-8d681fd8d6f9",
     "type": "note",
-    "title": "Notion Is Where Productivity Goes to Die  I Like Kill Nerds",
+    "title": "Notion is not a productivity tool. Notion is a tool for feeling productive while accomplishing nothing. It is a creativi",
     "createdAt": "2026-07-07T03:39:46.922Z",
-    "updatedAt": "2026-07-28T19:05:05.795Z",
+    "updatedAt": "2026-09-11T04:12:48.122Z",
     "sourceUrl": null,
     "sourceFilename": null,
-    "contentFilename": "note.md",
+    "contentFilename": "Notion is not a productivity tool. Notion is a tool for feeling productive while accomplishing nothing. It is a creativi.md",
     "note": "",
     "originalCollectionId": null,
-    "relativePath": "resources/clippings/Notion Is Where Productivity Goes to Die  I Like Kill Nerds.md",
-    "referencedAttachment": false
+    "relativePath": "resources/clippings/Notion is not a productivity tool. Notion is a tool for feeling productive while accomplishing nothing. It is a creativi.md",
+    "referencedAttachment": false,
+    "titleSource": "derived"
   }
 }

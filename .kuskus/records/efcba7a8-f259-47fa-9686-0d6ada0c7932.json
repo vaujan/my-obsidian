@@ -2,12 +2,12 @@
   "schemaVersion": 2,
   "id": "efcba7a8-f259-47fa-9686-0d6ada0c7932",
   "relativePath": "dev/mock/Mermaid Test.md",
-  "fingerprint": "e2aad1637473baae8b149b9ff9226f9c6e1de31914cf05bdac1c1a945232e369",
-  "fileIdentity": "3121943230:16044073673189446",
-  "fileSize": 1713,
-  "modifiedAtMs": 1787400303588.7898,
+  "fingerprint": "6ff0355f5ce80a2113c1c87996371b7a97171fef215d2d9acf0539eaea39442b",
+  "fileIdentity": "3121943230:26177172834093144",
+  "fileSize": 1714,
+  "modifiedAtMs": 1789090799914.159,
   "recovery": {
-    "lastSeenAt": "2026-08-22T17:05:08.653Z",
+    "lastSeenAt": "2026-09-11T01:40:00.250Z",
     "missingSince": null
   },
   "metadata": {
@@ -16,7 +16,7 @@
     "type": "note",
     "title": "Mermaid Test",
     "createdAt": "2026-08-15T14:48:33.029Z",
-    "updatedAt": "2026-08-22T12:05:03.589Z",
+    "updatedAt": "2026-09-11T01:39:59.914Z",
     "sourceUrl": null,
     "sourceFilename": null,
     "contentFilename": "Mermaid Test.md",

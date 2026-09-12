@@ -96,7 +96,7 @@ Touch 47.5–50 kg only when earlier reps are clean.
 
 **Split-Jerk Footwork — 3×5**
 
-**Split Jerk From Rack — 5×2 @ ~30–40 kg**
+**Split Jerk From Rack — 5×2 @ ~30–41 kg**
 
 **Clean Pull — 4×3 @ 60–65 kg**  
 Progress gradually toward 70–80+ kg.

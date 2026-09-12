@@ -2,12 +2,12 @@
   "schemaVersion": 2,
   "id": "63245429-3794-460e-917a-83f475671451",
   "relativePath": "dev/Usability Test.md",
-  "fingerprint": "e2100371be6cf945d43b112df11a891a5ba878a6ef2467dc4c7afdaf77fbadc0",
-  "fileIdentity": "3121943230:27021597764242136",
-  "fileSize": 4534,
-  "modifiedAtMs": 1789109010034.7441,
+  "fingerprint": "142e7fb233d44bfc8bbb2a3b7facdda4df8592dd075675520bfcca9f67d126b1",
+  "fileIdentity": "3121943230:2251799814049322",
+  "fileSize": 5396,
+  "modifiedAtMs": 1789192670009.3894,
   "recovery": {
-    "lastSeenAt": "2026-09-11T06:43:30.412Z",
+    "lastSeenAt": "2026-09-12T05:57:50.388Z",
     "missingSince": null
   },
   "metadata": {
@@ -17,13 +17,33 @@
     "title": "Usability Test",
     "titleSource": "custom",
     "createdAt": "2026-09-10T12:21:18.032Z",
-    "updatedAt": "2026-09-11T06:43:30.035Z",
+    "updatedAt": "2026-09-12T05:57:50.009Z",
     "sourceUrl": null,
     "sourceFilename": null,
     "contentFilename": "Usability Test.md",
     "note": "",
     "originalCollectionId": null,
     "relativePath": "dev/Usability Test.md",
-    "referencedAttachment": false
+    "referencedAttachment": false,
+    "attachments": [
+      {
+        "id": "2eec322e-7730-404b-8816-38afd8286d8b",
+        "filename": "image-2026-09-11-154506.png",
+        "relativePath": "./image-2026-09-11-154506.png",
+        "sourceFilename": "image-2026-09-11-154506.png",
+        "mediaType": "image/png",
+        "width": 393,
+        "height": 821
+      },
+      {
+        "id": "ad52f01f-f658-44b7-be99-5a4489ef9832",
+        "filename": "image-2026-09-11-155113.png",
+        "relativePath": "./image-2026-09-11-155113.png",
+        "sourceFilename": "image-2026-09-11-155113.png",
+        "mediaType": "image/png",
+        "width": 753,
+        "height": 400
+      }
+    ]
   }
 }

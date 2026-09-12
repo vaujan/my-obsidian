@@ -18,7 +18,7 @@ position (Y).
 - Findings: restarting the app while in split mode with vim mode activated, is mounted without the Vim activated. It should explicitly be re-toggled for the Vim to work again
 
 ## Features
-- [x] feature implementation: wrapped heading for better note organizations
+- [ ] feature implementation: wrapped heading for better note organizations
 
 # 19 August
 
@@ -38,7 +38,7 @@ position (Y).
 
 # 18 August
 
-- [ ] The current checkbox render in item rails is not looking good, the indentation problem and the component that it's using
+- [x] The current checkbox render in item rails is not looking good, the indentation problem and the component that it's using
 
 ## Vim Problems
 
@@ -69,13 +69,13 @@ position (Y).
 - [x] **Confirm:** Current the note in the rails are rendered item normal format (just regular text format, not markdown like previous implementation). Q: Why? How expensive it is to our performance if we bring back the markdown render? Also is it already 'optimized' by not rendering the full contents (and just render the earlier part of the document that is visible in the note card)?
 - [x] **Confirm:** Is it possible to test a mac build app in our current device (windows)?
 - [x] **Polish:** Text strikethrough and de-contrast for the completed tasks item
-- [ ] **Confirm:** If our current task element is way too scrolled to the bottom, in a long note for instance, toggling the task's checkbox result in shifted scrolled position. This interaction doesn't exist in live mode.
+- [x] **Confirm:** If our current task element is way too scrolled to the bottom, in a long note for instance, toggling the task's checkbox result in shifted scrolled position. This interaction doesn't exist in live mode.
 - [x] **Confirm:** When we're scrolled in the middle of a long note, toggling `ctrl +e` results in 'layout shift', like a shifted up-and-down as we toggle the note control back-and-forth from read to live (and to read again). The layout shift ONLY occur when we go from read to live, nothing is shifted from live to read. Please check this issue and integrate a fix
 
 # 15 August
 
 - [x] When the active cursor is at the bottom of the page when we continue write the document further than the height of the pane. It is very 'packed'  and is at the bottom of our screen need more space/room
-- [ ] What is the recommended settings for performance also for aesthetic? The user should also can picked which one suits their needs the best
+- [x] What is the recommended settings for performance also for aesthetic? The user should also can picked which one suits their needs the best
 - [x] Please integrate a feature for pin items? The goal of this feature is to provide user a way to put item on a 'watchlist', that they constantly looking up to or providing updates to
 - [x] Renaming title for the focused detailed pane document via `f2`. Currently there is no quick access to rename the title of the document we're writing in. It should renaming should be in inline in our detail pane title header. But we now allow renaming via focusing an instance in our item rails and this is a **very good UX**
 

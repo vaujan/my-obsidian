@@ -1,11 +1,8 @@
 {
   "schemaVersion": 2,
   "id": "e7cef2b3-09f1-44e9-a88c-13ae4b3f13fc",
-  "relativePath": "dev/mock/Note for Kuskus Development.md",
+  "relativePath": ".kuskus/trash/e7cef2b3-09f1-44e9-a88c-13ae4b3f13fc/Note for Kuskus Development.md",
   "fingerprint": "e275e12e30bfa71173264d3fcfc952c7e968cc00e2d73898da8b7f974c5eab0b",
-  "fileIdentity": "3121943230:49258120924406600",
-  "fileSize": 3302,
-  "modifiedAtMs": 1786667853921.13,
   "recovery": {
     "lastSeenAt": "2026-08-14T13:00:24.434Z",
     "missingSince": "2026-08-22T17:05:08.937Z"
@@ -21,8 +18,8 @@
     "sourceFilename": null,
     "contentFilename": "Note for Kuskus Development.md",
     "note": "",
-    "originalCollectionId": null,
-    "relativePath": "dev/mock/Note for Kuskus Development.md",
+    "originalCollectionId": "fe8a397b-bcdf-4625-8b5f-f4f5160d0b36",
+    "relativePath": ".kuskus/trash/e7cef2b3-09f1-44e9-a88c-13ae4b3f13fc/Note for Kuskus Development.md",
     "referencedAttachment": false,
     "attachments": [
       {
@@ -88,6 +85,8 @@
         "width": 337,
         "height": 897
       }
-    ]
+    ],
+    "trashedFrom": "collection",
+    "trashedFromRelativePath": "dev/mock/Note for Kuskus Development.md"
   }
 }

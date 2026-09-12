@@ -2,12 +2,12 @@
   "schemaVersion": 2,
   "id": "13ceb2de-434e-452b-ae5f-dbfdb5face24",
   "relativePath": "resources/workout/Fauzan Olympic Lifting Guide.md",
-  "fingerprint": "92105db671dfc921923bec35129f2c9b99ad50e8fe95ba4fe0efaa9ccd0c428b",
-  "fileIdentity": "3121943230:25051272927252260",
+  "fingerprint": "fc17aab05582d3f659d678953d221c682c1abb15b73d88a23eae8639239aaed1",
+  "fileIdentity": "3121943230:2533274790686162",
   "fileSize": 6005,
-  "modifiedAtMs": 1789108594428.387,
+  "modifiedAtMs": 1789109530506.6567,
   "recovery": {
-    "lastSeenAt": "2026-09-11T06:36:34.759Z",
+    "lastSeenAt": "2026-09-11T06:52:10.822Z",
     "missingSince": null
   },
   "metadata": {
@@ -17,7 +17,7 @@
     "title": "Fauzan Olympic Lifting Guide",
     "titleSource": "custom",
     "createdAt": "2026-09-11T06:33:31.689Z",
-    "updatedAt": "2026-09-11T06:36:34.428Z",
+    "updatedAt": "2026-09-11T06:52:10.507Z",
     "sourceUrl": null,
     "sourceFilename": null,
     "contentFilename": "Fauzan Olympic Lifting Guide.md",

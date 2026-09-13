@@ -11,12 +11,15 @@
             "id": "2f522052a1a3c51d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ui/searching-modal.png"
+                "file": "dev/Usability Test.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "searching-modal"
+              "icon": "lucide-file",
+              "title": "Usability Test"
             }
           }
         ]
@@ -205,20 +208,23 @@
   },
   "active": "2f522052a1a3c51d",
   "lastOpenFiles": [
+    "dev/Usability Test.md.58094d4f-15cc-4423-b404-f53e32c86bd0.previous",
+    "dev/Usability Test.md.5c4c2fdd-b64e-4eff-8d8d-787c8601a2d5.previous",
+    "dev/Usability Test.md.11c4e27a-056e-4949-939e-034efce3cec1.previous",
+    "dev/Usability Test.md.8b3e7938-ef42-44a1-94ab-350bacf80235.previous",
+    "dev/Usability Test.md.37494ce1-608f-4599-85a7-ea322237850f.previous",
+    "dev/Usability Test.md.774bd005-4e58-4476-b386-face166e2e69.previous",
+    "dev/Usability Test.md.7a1b8473-903c-4b87-ace7-97f72764eca5.previous",
+    "dev/Usability Test.md.99064ef3-7ef5-4e67-9fc2-7640c6cd7373.previous",
+    "dev/Usability Test.md.34528a80-3b3a-4c9c-aa2d-7d1d2627312a.previous",
+    "dev/Usability Test.md.4871678f-205d-4fd9-93ef-33f4f6906087.previous",
+    "dev/image-2026-09-11-155113.png",
+    "dev/image-2026-09-11-154506.png",
+    "Archive/Excalidraw Kuskus.excalidraw",
+    "Archive/Improvement for Current App.md",
     "ui/card-ui.png",
     "ui/searching-modal.png",
     "dev/mock/The -grill-me Skills.md",
-    "dev/Usability Test.md.f517229c-93a0-4c83-8498-1875e87ae632.previous",
-    "dev/Usability Test.md.1d7f16ca-0856-4d44-ac01-652c24fc00df.previous",
-    "dev/Usability Test.md.bc7156ff-a8f4-4d6f-b73f-6c85680b87cd.previous",
-    "dev/Usability Test.md.21e48e27-172b-44a7-98fe-ab66d32080d7.previous",
-    "dev/Usability Test.md.315bb7bb-4c7f-49ef-b1bc-26b93fe795a4.previous",
-    "dev/Usability Test.md.e0665aa9-5f9c-44ad-baa8-148b80752e66.previous",
-    "dev/Usability Test.md.321e8b7a-375d-4d49-9e98-7d259f24d1ff.previous",
-    "dev/Usability Test.md.97b8e22e-ca6d-41fd-afc7-070bb1a0ba6e.previous",
-    "dev/Usability Test.md.cad5aebd-35cf-4ecb-ac2c-a4ef83f04133.previous",
-    "dev/Usability Test.md.c2eb5def-6c68-47f3-a929-9588c862dc70.previous",
-    "dev/image-2026-09-11-154506.png",
     "resources/clippings/Eloquent JavaScript 4th edition (2024).md",
     "findings.md",
     "drafts/2026-07-03 15-05 (2).md",
@@ -246,10 +252,8 @@
     "dev/mock/Swapping Prettier → oxfmt and ESLint → oxlint, distilled from the @inkdropapp-github migration.md",
     "dev/mock/Scrolling the note list stutters badly once a notebook holds more than a few thousand notes.md",
     "dev/mock/Goal- semantic search over 3k notes, fully offline, no server. The index has to sit next to the.md",
-    "dev/mock/How a release goes out.md",
     "open-in-default-app.png",
     "image-2026-08-15-144635.png",
-    "image-2026-08-15-145253.png",
     "drafts/maps/Consistency.canvas",
     "drafts/maps/Build.canvas",
     "drafts/maps/Meditation.canvas",

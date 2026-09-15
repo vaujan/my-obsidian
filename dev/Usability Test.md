@@ -2,6 +2,9 @@
 
 > Anything issues that is considered priority should be implemented soon to get ready for early release
 
+### 14/09/2026
+ - The toast doesn't respect the chosen font, it uses system font
+
 ### 13/09/2026
 - Our current quick capturer, `ctrl + shift + space` needs to follow the current Window Material setting. Currently, it stays and always on
 
@@ -22,6 +25,8 @@
     5. Toggle Window Material
     6. Toggle Vim
     7. Toggle Zen
+    8. Insert images
+    9. Insert table etc. 
 
 ### 11/09/2026
 - The icon buttons (sort and filter button, new note button, and new item button) should be improved to show the 'lifted' state better
@@ -34,7 +39,7 @@
     - Mermaid renderer. Live mode only shows the code
         - For mermaid, can we integrate a theme-based color?   
     - Math block or Katex also shows the code
-- For the Vim's block caret should be in primary color instead of foreground 
+    - For the Vim's block caret should be in primary color instead of foreground 
 - How is our current app is eating our resources (RAM)? How it works when we're using it or when idle? 
     - Can we benchmark it? The desired goal is 
 - Opening a markdown file (.md) should upload the content immediately

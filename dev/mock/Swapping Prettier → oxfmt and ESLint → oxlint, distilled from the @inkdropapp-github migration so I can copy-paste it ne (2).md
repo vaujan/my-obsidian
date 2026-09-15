@@ -28,11 +28,11 @@ pnpm add -D oxlint oxfmt
 }
 ```
 
-| hello | Prettier default | oxfmt default | set to | Hello world |
-| --- | --- | --- | --- | --- |
-| `semi` | `true` | `true` | `false` | `testing` |
-| `singleQuote` | `false` | `false` | `true` | `hello world` |
-| `trailingComma` | `"all"` | `"all"` | `"none"` | `Helloooo` |
+| hello           | Prettier default | oxfmt default | set to   | Hello world   |     |
+| --------------- | ---------------- | ------------- | -------- | ------------- | --- |
+| `semi`          | `true`           | `true`        | `false`  | `testing`     |     |
+| `singleQuote`   | `false`          | `false`       | `true`   | `hello world` |     |
+| `trailingComma` | `"all"`          | `"all"`       | `"none"` | `Helloooo`    |     |
 
 `sortImports: true` replaces `@ianvs/prettier-plugin-sort-imports`. Don't set `printWidth`.
 `oxfmt --migrate=prettier` converts an existing config; `oxlint --init` scaffolds

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "bb6d2f9b-1c6d-4ee9-9241-ba86484235e8",
+  "relativePath": ".kuskus/trash/bb6d2f9b-1c6d-4ee9-9241-ba86484235e8/new note.md",
+  "fingerprint": "90a9e0a3b5a3ef4b52c49ca3f38e1c3b2edd41f0cd477418eb97619bc5932224",
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "bb6d2f9b-1c6d-4ee9-9241-ba86484235e8",
+    "type": "note",
+    "title": "new note",
+    "titleSource": "derived",
+    "createdAt": "2026-09-14T14:39:30.300Z",
+    "updatedAt": "2026-09-14T14:39:39.876Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "new note.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": ".kuskus/trash/bb6d2f9b-1c6d-4ee9-9241-ba86484235e8/new note.md",
+    "referencedAttachment": false,
+    "trashedFrom": "inbox",
+    "trashedFromRelativePath": "new note.md"
+  },
+  "recovery": {
+    "lastSeenAt": "2026-09-14T14:39:39.876Z",
+    "missingSince": "2026-09-15T02:52:08.753Z"
+  }
+}

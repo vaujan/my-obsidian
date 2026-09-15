@@ -12,14 +12,14 @@ The early-release path is clear after a short manual smoke test on Windows. The 
 
 ## Implemented in recommended order
 
-| Order | Priority | Finding | Resolution | Status |
-| ---: | :---: | --- | --- | :---: |
-| 1 | P0 | Quick Capture ignored **Window Material** | Quick Capture now reads the saved material preference, applies it through the native window API, reacts to preference changes from the main window, and falls back to opaque if activation fails. | Done |
-| 2 | P0 | “External changes merged” appeared during ordinary editing | Automatic non-overlapping merges remain silent. A notification now appears only when concurrent edits overlap, with wording that explains what requires review. | Done |
-| 3 | P0 | Toggling a checkbox in Read mode changed the scroll position | The current reading viewport is captured before the task update and restored after React commits the change. | Done |
-| 4 | P1 | Floating sidebar appeared above the smallest breakpoint | Floating behavior is now limited to widths of 767 px and below. Medium and wide layouts keep the sidebar docked. | Done |
-| 5 | P1 | Opening a Markdown file did not load its content immediately | Dropped or selected `.md` files now load directly into a note draft; other files continue through the existing staged-file flow. Empty Markdown files receive a clear error. | Done |
-| 6 | P1 | Remote images and Mermaid did not render in Live mode | Remote HTTP(S) images render lazily with a no-referrer policy. Inactive Mermaid fences render as theme-aware diagrams and return to editable source when active. Invalid diagrams preserve their source as fallback. | Done |
+|     1 |    P0    | Quick Capture ignored **Window Material**                    | Quick Capture now reads the saved material preference, applies it through the native window API, reacts to preference changes from the main window, and falls back to opaque if activation fails.                    |  Done  |
+| ----: | :------: | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: |
+|     2 |    P0    | “External changes merged” appeared during ordinary editing   | Automatic non-overlapping merges remain silent. A notification now appears only when concurrent edits overlap, with wording that explains what requires review.                                                      |  Done  |
+|     3 |    P0    | Toggling a checkbox in Read mode changed the scroll position | The current reading viewport is captured before the task update and restored after React commits the change.                                                                                                         |  Done  |
+|     4 |    P1    | Floating sidebar appeared above the smallest breakpoint      | Floating behavior is now limited to widths of 767 px and below. Medium and wide layouts keep the sidebar docked.                                                                                                     |  Done  |
+|     5 |    P1    | Opening a Markdown file did not load its content immediately | Dropped or selected `.md` files now load directly into a note draft; other files continue through the existing staged-file flow. Empty Markdown files receive a clear error.                                         |  Done  |
+| Order | Priority | Finding                                                      | Resolution                                                                                                                                                                                                           | Status |
+|     6 |    P1    | Remote images and Mermaid did not render in Live mode        | Remote HTTP(S) images render lazily with a no-referrer policy. Inactive Mermaid fences render as theme-aware diagrams and return to editable source when active. Invalid diagrams preserve their source as fallback. |  Done  |
 
 ## Existing findings verified by automated checks
 
@@ -54,10 +54,10 @@ introducing parallel implementations.
 
 The service benchmark passed on this development machine with zero no-op record writes:
 
-| Items | Cold rebuild | Search | Rename | Archive | RSS |
-| ---: | ---: | ---: | ---: | ---: | ---: |
-| 100 | 137 ms | 1 ms | 19 ms | 18 ms | 146 MB |
-| 1,000 | 989 ms | 3 ms | 29 ms | 28 ms | 197 MB |
+| Items | Cold rebuild | Search | Rename | Archive |    RSS |
+| ----: | -----------: | -----: | -----: | ------: | -----: |
+|   100 |       137 ms |   1 ms |  19 ms |   18 ms | 146 MB |
+| 1,000 |       989 ms |   3 ms |  29 ms |   28 ms | 197 MB |
 
 The production build and static performance budget also passed. CPU and full-app working-set values
 are emitted by the packaged runner; they still require the packaged Windows smoke run to produce

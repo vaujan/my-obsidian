@@ -1,28 +1,29 @@
 {
   "schemaVersion": 2,
   "id": "28ac2133-9ca4-4390-aa20-9e659f602c30",
-  "relativePath": "drafts/Konsistensi.md",
-  "fingerprint": "7d127b9155e93bce0b678099ad2de703d9fa0bc0529aa3f2632f3d0da132c679",
-  "fileIdentity": "3121943230:6473924465089675",
-  "fileSize": 275,
-  "modifiedAtMs": 1785265505620.0002,
+  "relativePath": "drafts/2026-07-01 10-33.md",
+  "fingerprint": "b62c800676ea4d20b948ff4687ac6199a0aa6e4fbc70f8dcc81d266f3d9cfb84",
+  "fileIdentity": "3121943230:41658296553328570",
+  "fileSize": 262,
+  "modifiedAtMs": 1789395813368.8284,
   "recovery": {
-    "lastSeenAt": "2026-08-09T06:43:04.198Z",
+    "lastSeenAt": "2026-09-14T14:23:33.724Z",
     "missingSince": null
   },
   "metadata": {
     "schemaVersion": 2,
     "id": "28ac2133-9ca4-4390-aa20-9e659f602c30",
     "type": "note",
-    "title": "Konsistensi",
+    "title": "2026-07-01 10-33",
     "createdAt": "2026-07-01T01:10:39.240Z",
-    "updatedAt": "2026-07-28T19:05:05.620Z",
+    "updatedAt": "2026-09-14T14:23:33.369Z",
     "sourceUrl": null,
     "sourceFilename": null,
-    "contentFilename": "note.md",
+    "contentFilename": "2026-07-01 10-33.md",
     "note": "",
     "originalCollectionId": null,
-    "relativePath": "drafts/Konsistensi.md",
-    "referencedAttachment": false
+    "relativePath": "drafts/2026-07-01 10-33.md",
+    "referencedAttachment": false,
+    "titleSource": "derived"
   }
 }

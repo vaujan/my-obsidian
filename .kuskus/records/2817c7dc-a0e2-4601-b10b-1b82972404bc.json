@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "id": "2817c7dc-a0e2-4601-b10b-1b82972404bc",
+  "relativePath": ".kuskus/trash/2817c7dc-a0e2-4601-b10b-1b82972404bc/hello world.md",
+  "fingerprint": "aaea5d607387f25b8c2bc614f729a9863bba41c14da6a1970ec1f76e0c1386c2",
+  "metadata": {
+    "schemaVersion": 2,
+    "id": "2817c7dc-a0e2-4601-b10b-1b82972404bc",
+    "type": "note",
+    "title": "hello world",
+    "titleSource": "derived",
+    "createdAt": "2026-09-14T14:39:04.985Z",
+    "updatedAt": "2026-09-14T14:39:11.638Z",
+    "sourceUrl": null,
+    "sourceFilename": null,
+    "contentFilename": "hello world.md",
+    "note": "",
+    "originalCollectionId": null,
+    "relativePath": ".kuskus/trash/2817c7dc-a0e2-4601-b10b-1b82972404bc/hello world.md",
+    "referencedAttachment": false,
+    "trashedFrom": "inbox",
+    "trashedFromRelativePath": "hello world.md"
+  },
+  "recovery": {
+    "lastSeenAt": "2026-09-14T14:39:11.638Z",
+    "missingSince": "2026-09-14T14:39:24.015Z"
+  }
+}
